@@ -1,0 +1,87 @@
+Metadata-Version: 2.1
+Name: cdk-lambda-alias-retention
+Version: 2.1.1
+Summary: cdk-lambda-alias-retention
+Home-page: https://github.com/kimisme9386/cdk-lambda-alias-retention.git
+Author: Chris Yang<kimisme9386@gmail.com>
+License: Apache-2.0
+Project-URL: Source, https://github.com/kimisme9386/cdk-lambda-alias-retention.git
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: JavaScript
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Typing :: Typed
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+[![NPM version](https://badge.fury.io/js/cdk-lambda-alias-retention.svg)](https://badge.fury.io/js/cdk-lambda-alias-retention)
+[![PyPI version](https://badge.fury.io/py/cdk-lambda-alias-retention.svg)](https://badge.fury.io/py/cdk-lambda-alias-retention)
+[![Release](https://github.com/kimisme9386/cdk-lambda-alias-retention/actions/workflows/release.yml/badge.svg)](https://github.com/kimisme9386/cdk-lambda-alias-retention/actions/workflows/release.yml)
+
+# cdk-lambda-alias-retention
+
+Create lambda alias and retain it forever.
+
+## What's the problem?
+
+When using AWS CDK to create lambda with version and alias, it will retain the latest alias only. See the sample code as blow:
+
+```python
+# Example automatically generated from non-compiling source. May contain errors.
+const fn = new lambda.DockerImageFunction(stackTest, 'TestLambda', {
+    code: lambda.DockerImageCode.fromImageAsset(
+    path.join(__dirname, '../lambda'),
+    ),
+    currentVersionOptions: {
+    removalPolicy: RemovalPolicy.RETAIN,
+    },
+});
+
+fn.currentVersion.addAlias('v1.0.0');
+```
+
+In general, the lambda code will be iterated continuously and the alias will be changed probably ever time, such as `v1.0.1`, `v1.0.2`, `v1.0.3` etc...
+
+AWS CDK don't support to retain old alias now and it support to retain old version only.
+
+## Support CDKv1 and CDKv2
+
+#### CDKv2
+
+```
+npm install cdk-lambda-alias-retention
+or
+npm install cdk-lambda-alias-retention@latest
+or
+npm install cdk-lambda-alias-retention@^2.0.0
+```
+
+#### CDKv1
+
+```
+npm install cdk-lambda-alias-retention@cdkv1
+or
+npm install cdk-lambda-alias-retention@^1.0.0
+
+## Usage
+
+```ts
+new LambdaAliasRetention(stackTest, 'TestLambdaAliasRetention', {
+    fn,
+    lambdaAlias: 'v1',
+});
+```
+
+Complete sample code is in [src/integ.default.ts](src/integ.default.ts)
+
+> It can use context or environemnt variable for lambdaAlias.
+
+
