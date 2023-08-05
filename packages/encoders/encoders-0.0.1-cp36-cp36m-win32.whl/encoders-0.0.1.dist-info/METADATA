@@ -1,0 +1,224 @@
+Metadata-Version: 2.1
+Name: encoders
+Version: 0.0.1
+Summary: Faster than scikit encoders
+Home-page: https://github.com/Dobatymo/encoders
+Author: Dobatymo
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: 
+
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier: I
+Classifier: n
+Classifier: t
+Classifier: e
+Classifier: n
+Classifier: d
+Classifier: e
+Classifier: d
+Classifier:  
+Classifier: A
+Classifier: u
+Classifier: d
+Classifier: i
+Classifier: e
+Classifier: n
+Classifier: c
+Classifier: e
+Classifier:  
+Classifier: :
+Classifier: :
+Classifier:  
+Classifier: D
+Classifier: e
+Classifier: v
+Classifier: e
+Classifier: l
+Classifier: o
+Classifier: p
+Classifier: e
+Classifier: r
+Classifier: s
+Classifier: 
+
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier: L
+Classifier: i
+Classifier: c
+Classifier: e
+Classifier: n
+Classifier: s
+Classifier: e
+Classifier:  
+Classifier: :
+Classifier: :
+Classifier:  
+Classifier: O
+Classifier: S
+Classifier: I
+Classifier:  
+Classifier: A
+Classifier: p
+Classifier: p
+Classifier: r
+Classifier: o
+Classifier: v
+Classifier: e
+Classifier: d
+Classifier:  
+Classifier: :
+Classifier: :
+Classifier:  
+Classifier: I
+Classifier: S
+Classifier: C
+Classifier:  
+Classifier: L
+Classifier: i
+Classifier: c
+Classifier: e
+Classifier: n
+Classifier: s
+Classifier: e
+Classifier:  
+Classifier: (
+Classifier: I
+Classifier: S
+Classifier: C
+Classifier: L
+Classifier: )
+Classifier: 
+
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier: O
+Classifier: p
+Classifier: e
+Classifier: r
+Classifier: a
+Classifier: t
+Classifier: i
+Classifier: n
+Classifier: g
+Classifier:  
+Classifier: S
+Classifier: y
+Classifier: s
+Classifier: t
+Classifier: e
+Classifier: m
+Classifier:  
+Classifier: :
+Classifier: :
+Classifier:  
+Classifier: O
+Classifier: S
+Classifier:  
+Classifier: I
+Classifier: n
+Classifier: d
+Classifier: e
+Classifier: p
+Classifier: e
+Classifier: n
+Classifier: d
+Classifier: e
+Classifier: n
+Classifier: t
+Classifier: 
+
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier: P
+Classifier: r
+Classifier: o
+Classifier: g
+Classifier: r
+Classifier: a
+Classifier: m
+Classifier: m
+Classifier: i
+Classifier: n
+Classifier: g
+Classifier:  
+Classifier: L
+Classifier: a
+Classifier: n
+Classifier: g
+Classifier: u
+Classifier: a
+Classifier: g
+Classifier: e
+Classifier:  
+Classifier: :
+Classifier: :
+Classifier:  
+Classifier: P
+Classifier: y
+Classifier: t
+Classifier: h
+Classifier: o
+Classifier: n
+Classifier:  
+Classifier: :
+Classifier: :
+Classifier:  
+Classifier: 3
+Classifier: 
+
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Classifier:  
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown; charset=UTF-8
+
+file: readme.md
+
