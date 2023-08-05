@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Dbias
+Version: 0.0.4
+Summary: Detect, Recognize and de-bias textual data.
+Home-page: https://github.com/dreji18/Fairness-in-AI
+Author: Deepak John Reji, Shaina Raza
+Author-email: deepakjohn1994@gmail.com
+License: MIT
+Description: # Fairness-in-AI
+        Detecting Bias and ensuring Fairness in AI solutions
+        
+        # Install spacy dependency to run this package
+        pip install https://huggingface.co/d4data/en_pipeline/resolve/main/en_pipeline-any-py3-none-any.whl
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
