@@ -1,0 +1,57 @@
+/*
+ * Copyright 2020-2021 Exactpro (Exactpro Systems Limited)
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+syntax = "proto3";
+
+import "th2_grpc_act_template/act_template.proto";
+import "th2_grpc_act_template/act_template_typed.proto";
+
+option java_multiple_files = true;
+option java_package = "com.exactpro.th2.act.grpc";
+
+service ActTypedMultipleResponses {
+  /* This action executes next steps:
+      1) Registers checkpoint in Verifier microservice
+      2) Sends passed message as is to Connectivity microservice
+      3) Waits Execution Report or Business Message Reject with the same ClOrdID as in passed message
+          from Connectivity microservice
+      4) Returns the message repose and the Checkpoint */
+  rpc placeOrderFIX (PlaceMessageRequestTyped) returns (PlaceMessageResponseTyped) {
+  }
+
+  /*Send fix message without response awaiting */
+  rpc sendMessage (PlaceMessageRequestTyped) returns (SendMessageResponse) {
+  }
+
+  rpc placeQuoteRequestFIX (PlaceMessageRequestTyped) returns (PlaceMessageResponseTyped) {
+  }
+
+  rpc placeQuoteFIX (PlaceMessageRequestTyped) returns (PlaceMessageResponseTyped) {
+  }
+
+  rpc placeOrderMassCancelRequestFIX (PlaceMessageRequestTyped) returns (PlaceMessageResponseTyped) {
+  }
+
+  rpc placeQuoteCancelFIX (PlaceMessageRequestTyped) returns (PlaceMessageResponseTyped) {
+  }
+
+  rpc placeQuoteResponseFIX (PlaceMessageRequestTyped) returns (PlaceMessageResponseTyped) {
+  }
+}
+
+message PlaceMessageResponsesTypedList {
+  repeated PlaceMessageResponse PlaceMessageResponse = 1;
+}
