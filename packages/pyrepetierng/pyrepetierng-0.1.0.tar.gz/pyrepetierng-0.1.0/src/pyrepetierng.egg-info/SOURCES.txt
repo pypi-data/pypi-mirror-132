@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pyrepetierng/__init__.py
+src/pyrepetierng/clsprinter.py
+src/pyrepetierng/clsserver.py
+src/pyrepetierng.egg-info/PKG-INFO
+src/pyrepetierng.egg-info/SOURCES.txt
+src/pyrepetierng.egg-info/dependency_links.txt
+src/pyrepetierng.egg-info/top_level.txt
