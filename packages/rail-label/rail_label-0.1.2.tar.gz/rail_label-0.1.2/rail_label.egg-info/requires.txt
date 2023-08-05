@@ -1,0 +1,7 @@
+opencv-python
+numpy
+tabulate
+splines
+iteration-utilities
+PySimpleGUI
+pyyaml
