@@ -1,0 +1,7 @@
+setup.py
+packagedeployer/__init__.py
+packagedeployer/version.py
+packagedeployer.egg-info/PKG-INFO
+packagedeployer.egg-info/SOURCES.txt
+packagedeployer.egg-info/dependency_links.txt
+packagedeployer.egg-info/top_level.txt
