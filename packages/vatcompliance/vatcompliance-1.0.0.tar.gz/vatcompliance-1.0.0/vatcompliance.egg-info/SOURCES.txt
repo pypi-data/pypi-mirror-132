@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+vatcompliance/__init__.py
+vatcompliance/client.py
+vatcompliance.egg-info/PKG-INFO
+vatcompliance.egg-info/SOURCES.txt
+vatcompliance.egg-info/dependency_links.txt
+vatcompliance.egg-info/requires.txt
+vatcompliance.egg-info/top_level.txt
