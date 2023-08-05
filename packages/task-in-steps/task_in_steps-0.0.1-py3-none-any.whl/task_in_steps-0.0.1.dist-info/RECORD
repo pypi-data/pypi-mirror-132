@@ -1,0 +1,9 @@
+step_by_step/__init__.py,sha256=M3Z-w9EVDmApA0iipcQwa8UIl7UmMCY3IJO4FQ6P5qE,55
+step_by_step/step_by_step.py,sha256=TgwzUQMX3O6FCkhDi9VdXf0ySlAmbIdyb3iYI3exRKc,1243
+task_in_steps/__init__.py,sha256=M3Z-w9EVDmApA0iipcQwa8UIl7UmMCY3IJO4FQ6P5qE,55
+task_in_steps/task_in_steps.py,sha256=TgwzUQMX3O6FCkhDi9VdXf0ySlAmbIdyb3iYI3exRKc,1243
+task_in_steps-0.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+task_in_steps-0.0.1.dist-info/METADATA,sha256=6YWh5izouaXlftPq5ciinhlTwvz_9uebuMdw9YIB-d8,8863
+task_in_steps-0.0.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+task_in_steps-0.0.1.dist-info/top_level.txt,sha256=olc8n3SRfBVBSflxQQKC8x5zNhUwqGG7ohfgkkJXfR0,14
+task_in_steps-0.0.1.dist-info/RECORD,,
