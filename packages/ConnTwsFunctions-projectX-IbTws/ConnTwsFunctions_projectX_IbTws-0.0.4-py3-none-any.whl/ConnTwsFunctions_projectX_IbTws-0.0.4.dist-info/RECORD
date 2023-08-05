@@ -1,0 +1,11 @@
+tws_integrated_functions/__init__.py,sha256=1veCxKpLTldgxO_B4VDaJ1HicJFcqj7UorjTKHbY6g8,214
+tws_integrated_functions/account_summary.py,sha256=fSKURKD5NBYIgKDp3nVBsoGtTttKBXVMiiYLA9NYWio,725
+tws_integrated_functions/appConnectionTws.py,sha256=mTadx01ybTrZoIItW4fEioig_Y_3iU430PG6n_5eZWE,578
+tws_integrated_functions/contract_charact.py,sha256=Mk4jU5j-GQZ12TORbjb_xxblx0Q-4lGsvbtQyT5BD28,1207
+tws_integrated_functions/market_reader.py,sha256=YBGTFDaPjfe32AopSNXsNH4tqvO5fHhWw-ioGzg7h50,1582
+tws_integrated_functions/submit_order.py,sha256=oApIK7FRnOzFYoPPZIQzhaQoTsvQehLd5qvZNbFdEsw,1583
+ConnTwsFunctions_projectX_IbTws-0.0.4.dist-info/LICENSE,sha256=Qv2ilebwoUtMJnRsZwRy729xS5JZQzLauJ0tQzkAkTA,1088
+ConnTwsFunctions_projectX_IbTws-0.0.4.dist-info/METADATA,sha256=RFSusvW_vbZChjquZGVPttJ-FNjNOxaAm-srKJTKpfQ,654
+ConnTwsFunctions_projectX_IbTws-0.0.4.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+ConnTwsFunctions_projectX_IbTws-0.0.4.dist-info/top_level.txt,sha256=TiaA3_IthebqGsgjT0-MJ3-K3fRCVx0k1G80CpfbSRw,25
+ConnTwsFunctions_projectX_IbTws-0.0.4.dist-info/RECORD,,
