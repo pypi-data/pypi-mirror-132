@@ -1,0 +1,14 @@
+.gitignore
+LICENSE
+Makefile
+README.md
+requirements.txt
+setup.py
+benchmarks/test_dump.py
+benchmarks/test_load.py
+ldmodel/__init__.py
+ldmodel/model.py
+ldmodel.egg-info/PKG-INFO
+ldmodel.egg-info/SOURCES.txt
+ldmodel.egg-info/dependency_links.txt
+ldmodel.egg-info/top_level.txt

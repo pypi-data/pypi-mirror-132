@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ldmodel
+Version: 0.1.0
+Summary: Python object load and dump model class.
+Home-page: https://github.com/zhangxianbing/ldmodel
+Author: zhangxianbing
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ldmodel
+
+Python object load and dump model class.
+
+
