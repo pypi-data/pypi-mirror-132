@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: pyiota
+Version: 1.0.0
+Summary: Simple Go lang iota pattern implementation
+Home-page: UNKNOWN
+Author: @jedi2light
+Author-email: stoyan.minaev@gmail.com
+Maintainer: @jedi2light
+Maintainer-email: stoyan.minaev@gmail.com
+License: WTFPL
+Project-URL: Documentation, https://gitea.jedi2light.moe/pyiota.git
+Project-URL: Bug Tracker, https://gitea.jedi2light.moe/jedi2light/pyiota/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# PyIota - Simple Go lang iota pattern implementation
+
+## Simple Usage
+
+```python3
+from pyiota import iota
+
+with iota.new():
+  A = iota()
+  B = iota()
+  C = iota()
+with iota.new():
+  D = iota()
+  E = iota()
+  F = iota()
+print(A, B, C, D, E, F) #=> '1 2 3 1 2 3'
+```
+
+## How it works?
+
+1. `A = iota()` - return incremented (by 1) internal counter integer value.
+2. Counter reset mechanism implemented in Python 3 `with ...` pattern maner.  
+   Each time you enter `iota.new()` context, internal counter resets to zero.
+
