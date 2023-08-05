@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: patchfly
+Version: 0.0.3
+Summary: Let image patch fly.
+Home-page: https://gitee.com/lijitao/patchfly.git
+Author: ljt
+Author-email: 1196680037@qq.com
+License: UNKNOWN
+Description: Divide the image into patches according to the specified size and restore it to the original image.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
