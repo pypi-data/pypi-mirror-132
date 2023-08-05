@@ -1,0 +1,17 @@
+optimal/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+optimal/coord.py,sha256=uf0fBF18K1owDjIi596kBGIaeCOLFllwjBe5-YUwOm8,12110
+optimal/cubie.py,sha256=VU2V8GSnmzZnSw8q5pEf9Hm-ALt1e_ZVWrIGDUaq7ro,16306
+optimal/defs.py,sha256=GrIKF1CUoHdhtaHB4jr3ysoYyaznK5OWjiP-6ahhbsI,2394
+optimal/enums.py,sha256=C1v_nl5JF-9fed-jcxRdeeQxsg8z-2oSVCxYSEHJFOA,3630
+optimal/face.py,sha256=n2rKHLTE_B6tj27im5bZOVrIsRszkILRp4ek-Xp1D_o,4624
+optimal/misc.py,sha256=xwrT9Arq6MWAJyw3GU648deWYxGUAy6lVPLCX-ruVbQ,772
+optimal/moves.py,sha256=xFEPJ_iSyv1fcIKwjJS-_9vOHe6cSXe7A_dlR23lRQo,5422
+optimal/performance.py,sha256=-Pe2hwqoJTmqXiGHlpNqqwyyTTQQzPI4OmCp_-CHWZc,844
+optimal/pruning.py,sha256=oHQCoGhFc0c4yN6Q6-HyPw53yDk54qDQakvEP_ug_6A,10557
+optimal/solver.py,sha256=vLqA_Cd6EIPrxBIg2PN8ZEXnx8vxvWe9q09P0HAx654,9195
+optimal/symmetries.py,sha256=Y9KwtyA-YsoLBwq_mcR9vfxUJd-KmF0s5ba7NgLz2Lw,11309
+RubikOptimal-1.0.3.dist-info/LICENSE,sha256=U5J70Lc504yHoKgiNv2bBwwt__EcDBGb5QNyAF1QR60,35815
+RubikOptimal-1.0.3.dist-info/METADATA,sha256=WEtkwQwHTvMqqyaaM61SiIGLxlQAq_Q-ixZvKSwHR7s,11956
+RubikOptimal-1.0.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+RubikOptimal-1.0.3.dist-info/top_level.txt,sha256=cdKwDCD2dEY6o1sqNYVprPT8KgE2SS8TPR1acLCAAmk,8
+RubikOptimal-1.0.3.dist-info/RECORD,,
