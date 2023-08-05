@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: pathlibext
+Version: 0.0.1
+Summary: Extends the functionalities of Pythion Pathlib
+Home-page: https://github.com/pypa/pathlibext
+Author: Giampaolo Cimino
+Author-email: gcimino@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/gpcimino/pathlibext
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Pathlib Extensions
+
+Extends the functionalities of Python [Pathlib](https://docs.python.org/3/library/pathlib.html)
+
+
