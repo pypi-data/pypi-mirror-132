@@ -1,0 +1,10 @@
+csvgen/__init__.py,sha256=qoIUy_0ORcTZemKw-nyAiX-VTPa2KpQ2szGbyXS9K-M,40
+csvgen/__main__.py,sha256=4wi4i5Fa3j0Bk2wGscjstF4sMbjVSwKYQSoHBvaCYV0,898
+csvgen/generator.py,sha256=VLW-doi7kMyssujDFBDJ8CNtRhaQEPrTewxQK4iXQXM,2921
+csvgen/random_utils.py,sha256=Rtuz7ccijwZUhMKEhXAcgoBaIqZHr9i3yuHClQH3NmU,3288
+ombrocsv-1.0.0.dist-info/LICENSE,sha256=rC-qtOxrXWkiiEQ6wjDnQt4fXI3sCsBHGyWcwJmQLVY,1092
+ombrocsv-1.0.0.dist-info/METADATA,sha256=LahRYyoeCtF28QbogrxNBerHnwvisbNrLfEJepx9GzM,4364
+ombrocsv-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ombrocsv-1.0.0.dist-info/entry_points.txt,sha256=6f2NRTrtdAi-QO1YWWjbpGHTJsnY2i3t6gSWMnQROfI,51
+ombrocsv-1.0.0.dist-info/top_level.txt,sha256=YfqkYAJn_7gx11RqlOQ6JDq_325l5G8QjtvvcK_cr_A,7
+ombrocsv-1.0.0.dist-info/RECORD,,
