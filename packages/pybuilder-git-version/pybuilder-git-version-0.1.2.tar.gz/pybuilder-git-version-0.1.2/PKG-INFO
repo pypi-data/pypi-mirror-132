@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pybuilder-git-version
+Version: 0.1.2
+Summary: A Git versioning plugin for PyBuilder
+Home-page: UNKNOWN
+Author: Jeffrey Sheehan
+Author-email: jeff.sheehan7@gmail.com
+Maintainer: 
+Maintainer-email: 
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python
+
+PyBuilder Git Version Plugin
+
+Git Version Plugin for PyBuilder will set the version for a PyBuilder project based on git tags.
+
+
