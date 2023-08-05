@@ -1,0 +1,15 @@
+[dependencies.pyo3]
+features = ["extension-module"]
+version = "0.15.1"
+
+[dependencies.vodozemac]
+path = "local_dependencies/vodozemac"
+
+[lib]
+crate-type = ["cdylib"]
+name = "vodozemac"
+
+[package]
+edition = "2021"
+name = "vodozemac-python"
+version = "0.1.0"
