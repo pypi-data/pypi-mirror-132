@@ -1,0 +1,6 @@
+lsapi
+setup.py
+lsapi.egg-info/PKG-INFO
+lsapi.egg-info/SOURCES.txt
+lsapi.egg-info/dependency_links.txt
+lsapi.egg-info/top_level.txt

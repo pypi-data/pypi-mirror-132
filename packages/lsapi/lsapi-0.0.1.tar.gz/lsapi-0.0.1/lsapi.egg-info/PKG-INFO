@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: lsapi
+Version: 0.0.1
+Summary: LSAsset Trading Platform client API
+Home-page: https://www.lsasset.com.cn
+Author: fwang
+Author-email: wangfeng@lsasset.com.cn
+License: UNKNOWN
+Description: LSAsset Trading Platform client API
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
