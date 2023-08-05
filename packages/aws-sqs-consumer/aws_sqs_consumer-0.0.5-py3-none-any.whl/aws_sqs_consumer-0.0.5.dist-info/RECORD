@@ -1,0 +1,7 @@
+aws_sqs_consumer/__init__.py,sha256=TfPJ8g_VrU4bzfqsPqXE4ZQG2TwJFPtCdA43PVaSEwk,62
+aws_sqs_consumer/aws_sqs_consumer.py,sha256=Ny_T13Fu7mbCF7ElrIcx57tCIT1FP-bn5pehFuV7Mkg,1625
+aws_sqs_consumer-0.0.5.dist-info/LICENSE,sha256=YulnMoDIQ7nIlb-0hbOLXeVSuTfw_fe-Wcir1mdgTZM,1071
+aws_sqs_consumer-0.0.5.dist-info/METADATA,sha256=S4GvkMJbGwhdYh2m8dg9B0AtyPON1Umr8T28rZu6r-A,381
+aws_sqs_consumer-0.0.5.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+aws_sqs_consumer-0.0.5.dist-info/top_level.txt,sha256=lpYM5Vh1MJry_VQfHlvSRIHNRM0MjcKhRYuyHyX3w6o,17
+aws_sqs_consumer-0.0.5.dist-info/RECORD,,
