@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: mcts-co
+Version: 0.0.0
+Summary: Monte-Carlo Tree Search-based Combinatorial Optimization
+Home-page: https://gitlab.com/tmaehara/mcts-co
+Author: tmaehara
+Author-email: tmaehara@acm.org
+License: MIT
+Keywords: mcts-co monte-carlo-tree-search mcts combinatorial-optimization
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 1 - Planning
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+
+# MCTS-CO
+
+MCTS-CO (**M**onte **C**arlo **T**ree-**S**earch-based **C**ombinatorial **O**ptimization) is an implementation of the MCTS algorithm for combinatorial optimization.
+
+## Licenses
+
+This project is licensed under the MIT License.
+
+
