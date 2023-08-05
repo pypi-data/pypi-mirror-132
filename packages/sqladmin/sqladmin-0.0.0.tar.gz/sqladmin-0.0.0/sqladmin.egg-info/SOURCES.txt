@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+sqladmin.egg-info/PKG-INFO
+sqladmin.egg-info/SOURCES.txt
+sqladmin.egg-info/dependency_links.txt
+sqladmin.egg-info/not-zip-safe
+sqladmin.egg-info/requires.txt
+sqladmin.egg-info/top_level.txt
+sqlalchemy_admin/__init__.py

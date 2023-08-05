@@ -1,0 +1,7 @@
+sqlalchemy<1.5,>=1.4
+jinja2<4,>=3
+wtforms<4,>=3
+
+[starlette]
+starlette
+uvicorn
