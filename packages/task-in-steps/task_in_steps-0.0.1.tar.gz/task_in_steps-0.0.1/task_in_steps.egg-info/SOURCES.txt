@@ -1,0 +1,16 @@
+.gitignore
+LICENSE
+README.md
+requirements.txt
+setup.py
+scripts/publish.sh
+scripts/test.sh
+task_in_steps/__init__.py
+task_in_steps/task_in_steps.py
+task_in_steps.egg-info/PKG-INFO
+task_in_steps.egg-info/SOURCES.txt
+task_in_steps.egg-info/dependency_links.txt
+task_in_steps.egg-info/top_level.txt
+test/__init__.py
+test/test_e2e.py
+test/test_step.py
