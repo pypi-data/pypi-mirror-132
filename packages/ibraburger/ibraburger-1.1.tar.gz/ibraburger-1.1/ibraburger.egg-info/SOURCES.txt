@@ -1,0 +1,7 @@
+README.rst
+license.txt
+setup.py
+ibraburger.egg-info/PKG-INFO
+ibraburger.egg-info/SOURCES.txt
+ibraburger.egg-info/dependency_links.txt
+ibraburger.egg-info/top_level.txt
