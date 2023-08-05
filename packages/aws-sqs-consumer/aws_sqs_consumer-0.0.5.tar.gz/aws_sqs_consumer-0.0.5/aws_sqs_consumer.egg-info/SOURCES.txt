@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+aws_sqs_consumer/__init__.py
+aws_sqs_consumer/aws_sqs_consumer.py
+aws_sqs_consumer.egg-info/PKG-INFO
+aws_sqs_consumer.egg-info/SOURCES.txt
+aws_sqs_consumer.egg-info/dependency_links.txt
+aws_sqs_consumer.egg-info/top_level.txt
