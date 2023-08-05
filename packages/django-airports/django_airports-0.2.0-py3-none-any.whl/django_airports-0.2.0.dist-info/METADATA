@@ -1,0 +1,124 @@
+Metadata-Version: 2.1
+Name: django-airports
+Version: 0.2.0
+Summary: "It's like django-cities, but django-airports"
+Home-page: https://github.com/bashu/django-airports
+Author: Basil Shubin
+Author-email: basil.shubin@gmail.com
+License: MIT License
+Download-URL: https://github.com/bashu/django-airports
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.0
+Classifier: Framework :: Django :: 2.1
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+License-File: AUTHORS.rst
+Requires-Dist: django-cities (>=0.5)
+Requires-Dist: requests
+Provides-Extra: develop
+Requires-Dist: tox ; extra == 'develop'
+Requires-Dist: django ; extra == 'develop'
+Requires-Dist: pytest-django ; extra == 'develop'
+Requires-Dist: pytest ; extra == 'develop'
+Provides-Extra: test
+Requires-Dist: pytest-django ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: pytest ; extra == 'test'
+
+=============================
+django-airports
+=============================
+
+.. image:: https://img.shields.io/pypi/v/django-airports.svg
+    :target: https://pypi.python.org/pypi/django-airports/
+
+.. image:: https://img.shields.io/pypi/dm/django-airports.svg
+    :target: https://pypi.python.org/pypi/django-airports/
+
+.. image:: https://img.shields.io/github/license/bashu/django-airports.svg
+    :target: https://pypi.python.org/pypi/django-airports/
+
+.. image:: https://app.travis-ci.com/bashu/django-airports.svg?branch=develop
+    :target: https://app.travis-ci.com/bashu/django-airports
+
+Provides airports' related models and data (from [OurAirports](http://ourairports.org/)) that can be used in  django projects, inspired by [django-cities](https://github.com/coderholic/django-cities)
+
+Documentation
+-------------
+
+The full documentation is at https://django-airports.readthedocs.io.
+
+Quickstart
+----------
+Requirements (Ubuntu 16.04)::
+
+    sudo apt-get install -y libsqlite3-mod-spatialite binutils libproj-dev gdal-bin
+
+Install django-airports::
+
+    pip install django-airports
+
+Add it to your `INSTALLED_APPS`:
+
+.. code-block:: python
+
+    INSTALLED_APPS = (
+        ...
+        'cities',
+        'airports',
+        'django.contrib.gis',
+        ...
+    )
+
+
+Features
+--------
+
+The ```airports``` manage command has options, see ```airports --help``` output.
+Second run will update the DB with the latest data from the source csv file.
+
+Running Tests
+-------------
+
+Does the code actually work?
+
+::
+
+    source <YOURVIRTUALENV>/bin/activate
+    (myenv) $ pip install tox
+    (myenv) $ tox
+
+Credits
+-------
+
+Tools used in rendering this package:
+
+*  Cookiecutter_
+*  `cookiecutter-djangopackage`_
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`cookiecutter-djangopackage`: https://github.com/pydanny/cookiecutter-djangopackage
+
+Changes
+-------
+
+0.1.5 (2018-03-08)
+~~~~~~~~~~~~~~~~~~
+
+* creation of the CHANGES.rst file;
+
+
