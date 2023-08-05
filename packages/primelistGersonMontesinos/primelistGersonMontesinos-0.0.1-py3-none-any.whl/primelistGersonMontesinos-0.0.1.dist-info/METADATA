@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: primelistGersonMontesinos
+Version: 0.0.1
+Summary: A tool to calculate prime numbers using Rpy2 and Python separately
+Home-page: UNKNOWN
+Author: Gerson Montesinos
+Author-email: gerson_montes97@hotmail.com
+License: GNU GPLv3
+Keywords: rpy2 and python prime numbers enlisted
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+
+This program is free software: You can redistribute it and/or modify it under the terms of license by the Free Software
+Foundation, either version 3 of the License (at your option) any other version.
+
+
