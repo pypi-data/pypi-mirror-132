@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools >= 40.8.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.tox]
+legacy_tox_ini = """
+[tox]
+# To use a PEP 517 build-backend
+isolated_build = True
+envlist = py37
+
+[testenv]
+deps = coverage 
+commands = 
+    coverage erase
+    coverage run --source={envsitepackagesdir}/camguard -m unittest -v {posargs}
+    coverage report -m
+    coverage html
+"""
