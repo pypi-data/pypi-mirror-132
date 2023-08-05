@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mongars
+Version: 0.1.3
+Summary: Show unread emails in INBOX using Gnome Online Accounts
+Author: Chmouel Boudjnah
+Author-email: chmouel@chmouel.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: PyGObject (>=3.42.0,<4.0.0)
