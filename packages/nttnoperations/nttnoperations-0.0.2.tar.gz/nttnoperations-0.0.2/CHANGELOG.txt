@@ -1,0 +1,10 @@
+Change Log
+==========
+
+0.0.1 (21/12/2021)
+-------------------
+- First Release
+
+0.0.2 (21/12/2021)
+-------------------
+- Fix bug of being unable to be imported.

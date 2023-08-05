@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+nttnoperations/__init__.py
+nttnoperations.egg-info/PKG-INFO
+nttnoperations.egg-info/SOURCES.txt
+nttnoperations.egg-info/dependency_links.txt
+nttnoperations.egg-info/top_level.txt
