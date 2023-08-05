@@ -1,0 +1,8 @@
+encoders/cyfuncs.cpython-38-i386-linux-gnu.so,sha256=5lr3l5OeEOcE6iEl-zlG-hMp5uRJuJVFwD1HjxZzQ8c,1281092
+encoders/encoder.py,sha256=6pPvQgqLa_REgQl9G0iAYBGK0ntaa-KfNeEdtW_-xkM,73
+encoders/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+encoders/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+encoders-0.0.1.dist-info/METADATA,sha256=9ZLxdMX-QUmiirLP9Zr9aZFHY8vk_XI0sZFE3DFOkoE,3169
+encoders-0.0.1.dist-info/WHEEL,sha256=Lcx1jWwCvQLifP9kUavNv1NacIN_PNQGsxEKL_PgjF8,144
+encoders-0.0.1.dist-info/RECORD,,
+encoders-0.0.1.dist-info/top_level.txt,sha256=OZKV_6dtOsrOUkm2TpGU5stm4ooVOHnvrynwgWRjx4s,9
