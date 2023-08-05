@@ -1,0 +1,17 @@
+clspy/__init__.py,sha256=J7VAI2ig5hPBzv6L63LRcG951Ns3pByNqCi3HK8r6vs,598
+clspy/_cli_all.py,sha256=xgFBGjOiYiVY7a_IZShGe7WF14Fq8SxJhDCIA32REF0,280
+clspy/cli.py,sha256=fqHjGLeGg1Afwt4n1IUwURqjH-7vgE4ko_NEnLqs41E,774
+clspy/config.py,sha256=N16PTVxBzmhNkejL1WJYaXZp-vUOb3yhnOSdbGE4oE4,5189
+clspy/crypto.py,sha256=9IFeTrRxFQjKGpPWMrDxRjs_KDAiDckAsSzJQ8FSApg,1252
+clspy/db.py,sha256=Ff5euBw2X3MzupJVTSTATeoLdsjSGkzEaN8d7rh7A98,4701
+clspy/log.py,sha256=sD33QZLd_-hF8_Sly7XSHeV1ZyqRGNPd9l4yeHkLBfw,3075
+clspy/singleton.py,sha256=IZ24rwTxJeMVUbb64OY6qgSDukLSLUj80Y5mwpxdHZE,1678
+clspy/utils.py,sha256=y8m4ripCRUxLSD_a5yY7qTHXd3gmNWllGrVQ5FDXtTY,3572
+clspy/version.py,sha256=JZYfBV84Wr7W8eJZDGmHVHxeiCnwAO3v9snNvk6J7oM,75
+clspy-0.0.3.dist-info/AUTHORS,sha256=U3flSTF_0adQZywH_eGUcB9JWJEDSPVOa2qYQ-yU_yA,37
+clspy-0.0.3.dist-info/License.py,sha256=MoEEg4AWaUsd81EoUoG5UdhyTyOvpzwTOaQFVH7z6GY,1124
+clspy-0.0.3.dist-info/METADATA,sha256=w_dzjMaWXTBHQiGOJxw9wuX7T7tUrCiYYkvFbBNyTW0,1218
+clspy-0.0.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+clspy-0.0.3.dist-info/entry_points.txt,sha256=xmcSNfD_zhEUsdswHjmnXFJ9elYoYgyeMpPyAiG-3eE,42
+clspy-0.0.3.dist-info/top_level.txt,sha256=96pWVGABtwrRdM4YKdymLyEwgySI1HDu6VSX9gh7r8M,6
+clspy-0.0.3.dist-info/RECORD,,
