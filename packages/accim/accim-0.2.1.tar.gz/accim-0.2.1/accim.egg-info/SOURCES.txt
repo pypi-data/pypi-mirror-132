@@ -1,0 +1,58 @@
+LICENSE.txt
+README.md
+README.rst
+setup.py
+accim/__init__.py
+accim.egg-info/PKG-INFO
+accim.egg-info/SOURCES.txt
+accim.egg-info/dependency_links.txt
+accim.egg-info/requires.txt
+accim.egg-info/top_level.txt
+accim/data/Main.py
+accim/data/Run.py
+accim/data/TestModel_MultipleZone_pymod[AS_EN16798[CA_1[CM_3[HM_2[VC_0[VO_0.0[MT_50.0[MW_50.0[AT_0.1[ESP_Bilbao.08250_SWEC_2015.csv
+accim/data/TestModel_MultipleZone_pymod[AS_EN16798[CA_1[CM_3[HM_2[VC_0[VO_0.0[MT_50.0[MW_50.0[AT_0.1[ESP_Bilbao.08250_SWEC_2018.csv
+accim/data/TestModel_MultipleZone_pymod[AS_EN16798[CA_2[CM_3[HM_2[VC_0[VO_0.0[MT_50.0[MW_50.0[AT_0.1[ESP_Bilbao.08250_SWEC_2015.csv
+accim/data/TestModel_MultipleZone_pymod[AS_EN16798[CA_2[CM_3[HM_2[VC_0[VO_0.0[MT_50.0[MW_50.0[AT_0.1[ESP_Bilbao.08250_SWEC_2018.csv
+accim/data/TestModel_MultipleZone_pymod[AS_EN16798[CA_3[CM_3[HM_2[VC_0[VO_0.0[MT_50.0[MW_50.0[AT_0.1[ESP_Bilbao.08250_SWEC_2015.csv
+accim/data/TestModel_MultipleZone_pymod[AS_EN16798[CA_3[CM_3[HM_2[VC_0[VO_0.0[MT_50.0[MW_50.0[AT_0.1[ESP_Bilbao.08250_SWEC_2018.csv
+accim/data/__init__.py
+accim/data/main.py
+accim/data/run.py
+accim/misc/__init__.py
+accim/misc/amend_idfs.py
+accim/misc/amend_idfs_v02.py
+accim/misc/parametric_v04.py
+accim/misc/parametric_v05.py
+accim/run/__init__.py
+accim/run/run.py
+accim/sample files/__init__.py
+accim/sample files/sample IDFs/TestModel_ExistingHVAC_CooledBeams_V950.idf
+accim/sample files/sample IDFs/TestModel_ExistingHVAC_ElectricRadiators_V950.idf
+accim/sample files/sample IDFs/TestModel_ExistingHVAC_PTAC_V950.idf
+accim/sample files/sample IDFs/TestModel_onlyGeometryForVRFsystem_V910.idf
+accim/sample files/sample IDFs/TestModel_onlyGeometryForVRFsystem_V920.idf
+accim/sample files/sample IDFs/TestModel_onlyGeometryForVRFsystem_V930.idf
+accim/sample files/sample IDFs/TestModel_onlyGeometryForVRFsystem_V940.idf
+accim/sample files/sample IDFs/TestModel_onlyGeometryForVRFsystem_V950.idf
+accim/sample files/sample IDFs/TestModel_onlyGeometryForVRFsystem_V960.idf
+accim/sample files/sample IDFs/__init__.py
+accim/sample files/script_usage/__init__.py
+accim/sample files/script_usage/script_usage.py
+accim/sim/__init__.py
+accim/sim/accim_Base.py
+accim/sim/accim_Base_EMS.py
+accim/sim/accim_ExistingHVAC.py
+accim/sim/accim_ExistingHVAC_EMS.py
+accim/sim/accim_IDFgeneration.py
+accim/sim/accim_Main.py
+accim/sim/accim_VRFsystem.py
+accim/sim/accim_VRFsystem_EMS.py
+accim/sim/accis.py
+bin/addAccis.py
+tests/test_accis_ex/TestModel_ExistingHVAC_PTAC.idf
+tests/test_accis_ex/__init__.py
+tests/test_accis_ex/test_accis.py
+tests/test_accis_vrf/TestModel_VRFsystem.idf
+tests/test_accis_vrf/__init__.py
+tests/test_accis_vrf/test_accis.py
