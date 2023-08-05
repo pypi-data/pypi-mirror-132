@@ -1,0 +1,8 @@
+setup.py
+patchfly/__init__.py
+patchfly/patchfly.py
+patchfly/test.py
+patchfly.egg-info/PKG-INFO
+patchfly.egg-info/SOURCES.txt
+patchfly.egg-info/dependency_links.txt
+patchfly.egg-info/top_level.txt
