@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    resetmigrations=resetmigrations:resetmigrations
+    
