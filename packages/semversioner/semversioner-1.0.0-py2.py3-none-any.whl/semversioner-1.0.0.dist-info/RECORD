@@ -1,0 +1,12 @@
+semversioner/__init__.py,sha256=vu-AIKFOb91JZQhc0qtxSGobELd2RVfXkaZZwglvInE,31
+semversioner/__version__.py,sha256=RsZjRjMprNcDm97wqRRSk6rTLgTX8N0GyicZyZ8OsBQ,22
+semversioner/cli.py,sha256=QfLtQ4qVUci-5mvfCnB31UX2VQ_9d4fpM4Kv0ev24b8,4379
+semversioner/core.py,sha256=MXK_onGfA1zuTSGYfqVoimaBH-6SH2keNZFCVsf8JeU,4832
+semversioner/storage.py,sha256=EsCi6u73UWX-Te-h-8CnEiFRDJW28MIY19hiDjX5yiE,5436
+tests/resources/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+semversioner-1.0.0.dist-info/LICENSE,sha256=Krn6cSIV1RLOo5Lrozo_IDfzs4SqvfFtvK8TDR0KlIY,1067
+semversioner-1.0.0.dist-info/METADATA,sha256=kgsmjCc3SEKdVWegrItYVuGdK32OtLsagNv88tl_wPw,6438
+semversioner-1.0.0.dist-info/WHEEL,sha256=WzZ8cwjh8l0jtULNjYq1Hpr-WCqCRgPr--TX4P5I1Wo,110
+semversioner-1.0.0.dist-info/entry_points.txt,sha256=aGQg86x4vMsorptpLuvz4GpzioA0LPMQhfIv1NVKboc,52
+semversioner-1.0.0.dist-info/top_level.txt,sha256=QgDCdKX4f-bspTkRPJ_M1jWZKq31AwmYsHKzkp8jF-0,19
+semversioner-1.0.0.dist-info/RECORD,,
