@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+thetafit/__init__.py
+thetafit/optimization.py
+thetafit/sampling.py
+thetafit/utils.py
+thetafit.egg-info/PKG-INFO
+thetafit.egg-info/SOURCES.txt
+thetafit.egg-info/dependency_links.txt
+thetafit.egg-info/requires.txt
+thetafit.egg-info/top_level.txt
