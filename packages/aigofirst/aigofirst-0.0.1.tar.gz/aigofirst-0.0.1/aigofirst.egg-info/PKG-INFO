@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: aigofirst
+Version: 0.0.1
+Summary: 初始化
+Home-page: https://git.geedos.com/algorithm/aigo
+Author: lycra
+Author-email: lycrali@careerintlinc.com
+License: UNKNOWN
+Description: 用于初始化baseUtil
+        需要依赖baseUtil
+Platform: UNKNOWN
+Requires-Python: >=3.6

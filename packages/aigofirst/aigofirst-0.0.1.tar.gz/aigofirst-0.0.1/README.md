@@ -1,0 +1,2 @@
+用于初始化baseUtil
+需要依赖baseUtil

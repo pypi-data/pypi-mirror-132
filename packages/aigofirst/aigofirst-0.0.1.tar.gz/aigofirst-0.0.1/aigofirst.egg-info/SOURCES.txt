@@ -1,0 +1,8 @@
+README.md
+setup.py
+aigo_pkg/__init__.py
+aigo_pkg/aigofirst.py
+aigofirst.egg-info/PKG-INFO
+aigofirst.egg-info/SOURCES.txt
+aigofirst.egg-info/dependency_links.txt
+aigofirst.egg-info/top_level.txt
