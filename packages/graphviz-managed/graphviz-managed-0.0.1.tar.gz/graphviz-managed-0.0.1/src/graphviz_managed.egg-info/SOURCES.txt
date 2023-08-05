@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/graphviz_managed/__init__.py
+src/graphviz_managed/custom.py
+src/graphviz_managed/members.py
+src/graphviz_managed.egg-info/PKG-INFO
+src/graphviz_managed.egg-info/SOURCES.txt
+src/graphviz_managed.egg-info/dependency_links.txt
+src/graphviz_managed.egg-info/requires.txt
+src/graphviz_managed.egg-info/top_level.txt
+src/graphviz_managed.egg-info/zip-safe

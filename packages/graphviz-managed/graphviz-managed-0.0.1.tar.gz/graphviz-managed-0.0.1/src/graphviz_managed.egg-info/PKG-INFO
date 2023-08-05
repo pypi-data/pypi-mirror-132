@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: graphviz-managed
+Version: 0.0.1
+Summary: Manage Graphviz graphs in Python prior to rendering
+Home-page: UNKNOWN
+License: Apache-2.0
+Keywords: graphs,graphviz
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Provides-Extra: diagrams
+License-File: LICENSE
+
+# Manage Graphviz graphs in Python prior to rendering
+
+Graphviz wrapper that allows to manage graph objects in Python prior to
+translating them into dot language.
+
+## Example use cases
+
+- Change node style based on number of incoming/outgoing edges
+- Break long labels into multiple lines
+
+
