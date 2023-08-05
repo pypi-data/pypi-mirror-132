@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+linkparse/__init__.py
+linkparse/aggregator_parser.py
+linkparse/character_parser.py
+linkparse/errors.py
+linkparse/link_parser.py
+linkparse/memegator_parser.py
+linkparse/regex_parser.py
+linkparse.egg-info/PKG-INFO
+linkparse.egg-info/SOURCES.txt
+linkparse.egg-info/dependency_links.txt
+linkparse.egg-info/top_level.txt
