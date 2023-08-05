@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: relativeNeighborhoodGraph
+Version: 0.0.1
+Summary: Compute the Relative Neighborhood Graph from a distance matrix
+Home-page: https://github.com/temcavanagh/relativeNeighborhoodGraph
+Author: T Cavanagh
+Author-email: cavanaghtd@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Relative Neighborhood Graph
+
+Compute the Relative Neighborhood Graph from a NumPy distance matrix. 
+
+## Instructions
+
+1. Install:
+
+```
+pip install relativeNeighborhoodGraph
+```
+
+2. Compute the Relative Neighborhood Graph from a NumPy distance matrix.
+
+```python
+from relativeNeighborhoodGraph import returnRNG
+
+RNG = returnRNG(distance_matrix)
+```
+
+3. The resulting Relative Neighborhood Graph is returned as a Pandas DataFrame.
+
