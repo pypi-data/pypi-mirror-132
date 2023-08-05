@@ -1,0 +1,15 @@
+starlette_fancy/__init__.py,sha256=kUR5RAFc7HCeiqdlX36dZOHkUI5wI6V_43RpEcD8b-0,22
+starlette_fancy/utils.py,sha256=0Z_arlAbK9hvZCRLmGICODeVzn7l3KrM1hxb3iTb8gU,1268
+starlette_fancy/endpoints/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+starlette_fancy/endpoints/crud.py,sha256=9Eg909qTK1mdZbDklJohobPOtI9iE02qfSuZiXayuVM,274
+starlette_fancy/mixins/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+starlette_fancy/mixins/crud.py,sha256=VHFBNrN3vFXZbv8IJd2dckg77kEJRPKdoB0LfZD1yqo,2230
+starlette_fancy/processors/__init__.py,sha256=8bCxQcfAwboYzeBZBC_OOEZSkD2g-DbOOnbpTDUspSA,407
+starlette_fancy/processors/databases.py,sha256=GWISh8FrwSDgXCtgiliK543TC7U9Q9NV1kcMcYiAlWw,1557
+starlette_fancy/validators/__init__.py,sha256=ZIG1Z3tOtZ87AUx9F1MToAzUoujeViHMXv7otNg8JuE,348
+starlette_fancy/validators/pydantic.py,sha256=BGzgN4k993OrAmLgS9vd4jjrjMfu0b3qILAUZrY52WQ,1909
+starlette_fancy-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+starlette_fancy-0.1.0.dist-info/METADATA,sha256=sTlu9-KCsW2kAWCm5Uxv05XwGXXVvY9FyHzVZWndSU4,6040
+starlette_fancy-0.1.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+starlette_fancy-0.1.0.dist-info/top_level.txt,sha256=li5w0w2sg8I4xXcUC1uYdg9H_tKrVXnYVsWOMSwrBLw,16
+starlette_fancy-0.1.0.dist-info/RECORD,,
