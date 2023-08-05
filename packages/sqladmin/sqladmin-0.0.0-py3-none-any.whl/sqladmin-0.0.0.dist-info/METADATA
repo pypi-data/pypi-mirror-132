@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: sqladmin
+Version: 0.0.0
+Summary: Admin interface for SQLAlchemy.
+Home-page: https://github.com/sqlalchemy-admin/sqlalchemy-admin
+Author: Amin Alaee
+Author-email: mohammadamin.alaee@gmail.com
+License: BSD
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: sqlalchemy (<1.5,>=1.4)
+Requires-Dist: jinja2 (<4,>=3)
+Requires-Dist: wtforms (<4,>=3)
+Provides-Extra: starlette
+Requires-Dist: starlette ; extra == 'starlette'
+Requires-Dist: uvicorn ; extra == 'starlette'
+
+# An admin dashboard for SQLAlchemy.
+
+
