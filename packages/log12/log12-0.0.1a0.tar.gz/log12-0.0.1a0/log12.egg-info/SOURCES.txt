@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+log12/__init__.py
+log12.egg-info/PKG-INFO
+log12.egg-info/SOURCES.txt
+log12.egg-info/dependency_links.txt
+log12.egg-info/top_level.txt
