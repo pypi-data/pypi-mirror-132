@@ -1,0 +1,12 @@
+LICENSE.txt
+setup.cfg
+setup.py
+AlexDistAlx/Binomialdistribution.py
+AlexDistAlx/Gaussiandistribution.py
+AlexDistAlx/Generaldistribution.py
+AlexDistAlx/__init__.py
+AlexDistAlx.egg-info/PKG-INFO
+AlexDistAlx.egg-info/SOURCES.txt
+AlexDistAlx.egg-info/dependency_links.txt
+AlexDistAlx.egg-info/not-zip-safe
+AlexDistAlx.egg-info/top_level.txt
