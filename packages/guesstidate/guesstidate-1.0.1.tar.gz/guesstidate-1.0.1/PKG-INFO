@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: guesstidate
+Version: 1.0.1
+Summary: Infers date format from examples
+Home-page: https://github.com/Fraunhofer-FIT-DSAI-PM/guesstidate
+Author: Fraunhofer FIT
+Author-email: sebastiaan.van.zelst@fit.fraunhofer.de, alessandro.berti@fit.fraunhofer.de
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
