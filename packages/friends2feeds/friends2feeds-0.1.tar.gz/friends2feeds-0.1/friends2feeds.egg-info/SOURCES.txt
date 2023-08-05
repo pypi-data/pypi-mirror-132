@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+friends2feeds.py
+pyproject.toml
+setup.cfg
+friends2feeds.egg-info/PKG-INFO
+friends2feeds.egg-info/SOURCES.txt
+friends2feeds.egg-info/dependency_links.txt
+friends2feeds.egg-info/requires.txt
+friends2feeds.egg-info/top_level.txt
