@@ -1,0 +1,9 @@
+README.md
+setup.py
+changeos/__init__.py
+changeos.egg-info/PKG-INFO
+changeos.egg-info/SOURCES.txt
+changeos.egg-info/dependency_links.txt
+changeos.egg-info/not-zip-safe
+changeos.egg-info/requires.txt
+changeos.egg-info/top_level.txt
