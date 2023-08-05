@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: changeos
+Version: 0.1
+Summary: ChangeOS SDK
+Home-page: https://github.com/Z-Zheng/ChangeOS
+Author: Zhuo Zheng
+Author-email: zhengzhuo@whu.edu.cn
+License: UNKNOWN
+Keywords: Remote Sensing,Earth Vision,Deep Learning,Building Damage Assessment,Change Detection
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Utilities
+Requires-Dist: numpy
+Requires-Dist: Pillow
+Requires-Dist: scikit-image
+Requires-Dist: torch
+Requires-Dist: torchvision
+
+UNKNOWN
+
+
