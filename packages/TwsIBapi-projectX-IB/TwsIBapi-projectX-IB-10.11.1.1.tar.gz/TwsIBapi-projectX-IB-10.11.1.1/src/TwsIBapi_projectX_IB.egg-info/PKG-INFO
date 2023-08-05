@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: TwsIBapi-projectX-IB
+Version: 10.11.1.1
+Summary: A package downloaded directly from the official IB site
+Home-page: https://github.com/ProjectIbX/TwsIBapi
+Author: IBG LLC
+Author-email: nikolay.gyuneliev@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/ProjectIbX/TwsIBapi/src
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# TwsIBapi
+The base IBapi downloaded directly from the official site of IB.
+
+
