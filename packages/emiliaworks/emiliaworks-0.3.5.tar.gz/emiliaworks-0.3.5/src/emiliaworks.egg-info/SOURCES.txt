@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/emiliaworks/__init__.py
+src/emiliaworks/emilia.py
+src/emiliaworks.egg-info/PKG-INFO
+src/emiliaworks.egg-info/SOURCES.txt
+src/emiliaworks.egg-info/dependency_links.txt
+src/emiliaworks.egg-info/requires.txt
+src/emiliaworks.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+emoji
+nltk
+matplotlib

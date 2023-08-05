@@ -1,0 +1,1 @@
+This project aims to use real-time data of people's sentiments from social networks to create a Legitimacy Index for International Institutions like the UN. The goal is to be able to use the index in various other studies.

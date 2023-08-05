@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: emiliaworks
+Version: 0.3.5
+Summary: Legitimacy Index
+Home-page: https://github.com/revanthbugatti/Exhaustive-Modelling-of-Institutional-Legitimacy-of-International-Agencies---EMILIA-Index
+Author: Revanth Uppalapati
+Author-email: driftkingrev@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/revanthbugatti/Exhaustive-Modelling-of-Institutional-Legitimacy-of-International-Agencies---EMILIA-Index/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This project aims to use real-time data of people's sentiments from social networks to create a Legitimacy Index for International Institutions like the UN. The goal is to be able to use the index in various other studies.
+
