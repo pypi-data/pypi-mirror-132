@@ -1,0 +1,3 @@
+[console_scripts]
+dlg_nifty_components = dlg_nifty_components.__main__:main
+
