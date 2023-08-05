@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+csvgen/__init__.py
+csvgen/__main__.py
+csvgen/generator.py
+csvgen/random_utils.py
+ombrocsv.egg-info/PKG-INFO
+ombrocsv.egg-info/SOURCES.txt
+ombrocsv.egg-info/dependency_links.txt
+ombrocsv.egg-info/entry_points.txt
+ombrocsv.egg-info/top_level.txt

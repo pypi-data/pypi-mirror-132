@@ -1,0 +1,3 @@
+[console_scripts]
+ombrocsv = csvgen.__main__:main
+
