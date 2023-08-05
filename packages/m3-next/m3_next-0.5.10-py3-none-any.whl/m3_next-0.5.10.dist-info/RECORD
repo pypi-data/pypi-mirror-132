@@ -1,0 +1,17 @@
+m3_next/__init__.py,sha256=Ffuk6dr0GzGXzuxXWwPD1cfHhUExShGmQmiKZG0KEsM,128
+m3_next/actions.py,sha256=y6fkhMlFWLifs3ZovEobMM3w_6EJ5IYQH84AxZanE4Y,2094
+m3_next/components.py,sha256=kEhcHyrMaalWAR0KxMzwT2g4lKsDmOBNXz6Mwf42Bgc,23109
+m3_next/mapper.py,sha256=STcFYZhJOuHZLC5TQjyUT_A4yvPjH8z_xZI1nQseo_4,5246
+m3_next/results.py,sha256=5nWiNTH0DNGFK5A9tm0IlDHmLwgrrc_zolpClrQYFrw,9692
+m3_next/static/js/fabric.js,sha256=nZ6-vftL4-i2Rln-txJ-SHvFlmBj05rzD_qtiwjfa00,14464
+m3_next/static/js/m3-button.js,sha256=kSHhXBQRvQnkElZYvsufH5ZvI8Y3-kKC5qJyoed9_VU,691
+m3_next/static/js/m3-def.js,sha256=FZtSnxdBEcC9xYsiyXDaYZiIbIEA75yJ-h-bi8liUvo,26199
+m3_next/static/js/m3-desktop.js,sha256=4j39aInxcyWgbfXEPVV4xj9-KQK9jpoWOgjYGsBY7OE,5296
+m3_next/static/js/m3-grid.js,sha256=-sHZpY_EvR8VYE1o061KHVD-DZ1A8bU_RxCBL8y6PK0,7122
+m3_next/static/js/m3-menuitem.js,sha256=nLALkrgAMvbJEoZyWVzzxnylHM08x0DZq4xpiVabE5k,698
+m3_next/static/js/q.js,sha256=22F9NeBfVJlE54V5BFaYkAO8lt6diDAMpLcB7rotnSE,58120
+m3_next/static/js/require.js,sha256=EuPRQ9SXbnh904TTvzMmTLui7NAWIvM4iKhL5BzREVo,82718
+m3_next-0.5.10.dist-info/METADATA,sha256=LaWshi-24yNWGQZWE0OV3NE1tTIi_R6b4X-m-o66qu0,813
+m3_next-0.5.10.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+m3_next-0.5.10.dist-info/top_level.txt,sha256=xAr8w2CogGh9M8_qjthLqlLC9Jv4fgMtsaR9iB9To3c,8
+m3_next-0.5.10.dist-info/RECORD,,
