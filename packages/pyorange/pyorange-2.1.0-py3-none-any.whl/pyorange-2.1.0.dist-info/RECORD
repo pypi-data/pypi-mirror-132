@@ -1,0 +1,14 @@
+pyorange/__init__.py,sha256=RQKkYm2uz30tX8Vg1vioN74kIgUdKtEnkX7bnxLdp3k,60
+pyorange/anomaly.py,sha256=tmfrz6OyX1lmsM_qcmWuC_v-u4JWDkgTZMyNAclw4Pk,167
+pyorange/arules.py,sha256=G90CgmNiBw8G2oDA2xZLGvvenn5CC5z049qCL6-8VM8,165
+pyorange/classification.py,sha256=EndLvNQlP40adMtpHJmwqpzCzZ38nWcgt1DuvwLxqgE,183
+pyorange/clustering.py,sha256=UrMoK9D3sKp-vcvngSjvvLUdW8c7Iu4wtqJyT-SNSfM,173
+pyorange/datasets.py,sha256=OEtZE0h1ZhTNpM0KcreM6WOfKTZpd9oIIdKtICdx6y4,157
+pyorange/nlp.py,sha256=z7zEUY-ozROh5FklxMouyKux2t0PVlKFS52OraO5b8Q,20359
+pyorange/regression.py,sha256=ShjPIAShpV550w4byb0KMA40oFWWnMwCFBSca_xLB3A,176
+pyorange/utils.py,sha256=2qTv3mmTyjo9Vlz6nvZZIvR2wtphFOXvN2ePr8B5wK0,3090
+pyorange-2.1.0.dist-info/LICENCE.txt,sha256=otOJhJJB-acBO1gyiuSjEDO4j4ODpBUrFpdriyW0SjQ,1116
+pyorange-2.1.0.dist-info/METADATA,sha256=KI32vSg2JVO7yOTkfE4m7CRKtrqm7PUYuf2IkgAwPhg,5571
+pyorange-2.1.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+pyorange-2.1.0.dist-info/top_level.txt,sha256=drje-d9Snb2I685Su8EiXZECnSUoCzbX15jXvj1TVOI,9
+pyorange-2.1.0.dist-info/RECORD,,
