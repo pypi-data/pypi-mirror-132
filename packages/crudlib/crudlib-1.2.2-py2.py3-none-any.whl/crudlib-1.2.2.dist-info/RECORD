@@ -1,0 +1,15 @@
+crudlib/__init__.py,sha256=LruQLerdwxvi6mCiep60md698YlutWW04wDsxukCJQc,81
+crudlib/base.py,sha256=ZQSAZ4jEp0PeVNa_CSfF99JtAZsEoPzb8rdQjE3RoOE,314
+crudlib/config.py,sha256=PO4K0gBGxT3wtVtm4R8-C9e4owlRPPo84mwwX2Kr0dk,86
+crudlib/mariadb.py,sha256=A5m_AatFmFWmS4P3sVlAa1OQaVlRL6tvQ4GDsEHwCJc,279
+crudlib/mysql.py,sha256=rxOGrLIltOQx_TbT98k3WEYC0LQH9SbTeytxTLZdRbk,6804
+crudlib/sqlite.py,sha256=tcKXpRYRNNrJxMw60zwj04zFz84jVKm5q5SPAj4OptU,749
+crudlib/uri.py,sha256=MdJ-yMvUWMkV44w6g_jQ4NGGCyM1_cwFx2Nu5bXKpkM,1278
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_mysql.py,sha256=QLI-AjcS19aKK9PqBJUdTi3MJ-H9DtoZRTM6t3ExueI,1119
+tests/test_uri.py,sha256=yjP7O1VDvSioHEuwnuazocZO5ybs5VkNbRiHCm1LvFE,424
+crudlib-1.2.2.dist-info/LICENSE,sha256=h9F-V8kA6EtLMjtNCo9okZecHvU_VWmPg5NztHzFquM,1068
+crudlib-1.2.2.dist-info/METADATA,sha256=EuKnrqRC_fNGpUDy1UbQ4Elny917CGssJ9tqlU6Avsw,2168
+crudlib-1.2.2.dist-info/WHEEL,sha256=WzZ8cwjh8l0jtULNjYq1Hpr-WCqCRgPr--TX4P5I1Wo,110
+crudlib-1.2.2.dist-info/top_level.txt,sha256=9eXR8rOqVMmhTgp347AjEuIUXDytHgX8mVYq_qhQ1zM,14
+crudlib-1.2.2.dist-info/RECORD,,
