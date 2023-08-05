@@ -1,0 +1,9 @@
+df2d/dataset.py,sha256=slXM-NgcEM7-PnNGbOdqT4m-fQ4zKmAPa7bSMZhtY9s,1087
+df2d/inference.py,sha256=hkjr4DZnEYc-d5KHGnmppBe0JLKje--q3ylmewMK4us,3943
+df2d/model.py,sha256=ce2k6XMcLsOO7GZttDJw-AAGI_jRRJewudSi99n8vR4,8113
+df2d/parser.py,sha256=KlRLe_ZdoeL0Wmh72ZGGd3yFZElyleryxds9ZuOLrVc,2443
+df2d/util.py,sha256=db1xq8vSDxVZCCtC8PYFv4lKj50MwVgtZh2qAnq_1wc,76
+df2d-0.12.dist-info/METADATA,sha256=icN3m5Io0Hhk5QzKvmtnsNwRXXlB0xdJNJD9ls1qlB8,1038
+df2d-0.12.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+df2d-0.12.dist-info/top_level.txt,sha256=ZY6SEzJLjymvj6l3AeZaPXRZ6Zi77bH_HF3Lx2o8A4Q,5
+df2d-0.12.dist-info/RECORD,,
