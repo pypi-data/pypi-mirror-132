@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+asyncmg/asyncmg.egg-info/PKG-INFO
+asyncmg/asyncmg.egg-info/SOURCES.txt
+asyncmg/asyncmg.egg-info/dependency_links.txt
+asyncmg/asyncmg.egg-info/top_level.txt
