@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: fast_bfmatcher
+Version: 1.0.0
+Summary: Faster implementation of opencv bruteforce cross check matcher
+Home-page: https://github.com/kmkolasinski/fast-bfmatcher
+Author: Krzysztof Kolasinski
+Author-email: kmkolasinski@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
