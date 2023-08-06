@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include requirements.txt
+prune tests
+prune docs
+prune notebooks
+prune DataBases
+exclude .gitignore
