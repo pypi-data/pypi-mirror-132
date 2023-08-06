@@ -1,0 +1,15 @@
+dh_client/__init__.py,sha256=cAa3EiMxvVXSZx8dV4UHWzinLvEUoqXU0h1SH2wOuC0,132
+dh_client/client.py,sha256=O2L6zY_9mpFLVq-BTh1iCXis1N_lIq0QtELye2illk4,2033
+dh_client/entities/__init__.py,sha256=MBBvuqyLktw6Kb10QF-zTWb9Ox9o-yMAtsTaXJgyQ5g,4957
+dh_client/entities/custom_properties.py,sha256=-xzNBJF_eetxECenWXOZnTH_o-zJysyvi70StBm0r6E,800
+dh_client/entities/dashboards.py,sha256=Sa0KZKMfbxMi87o4Z7UJQcbbofK8y1jM1Q3wKWQzyyU,4434
+dh_client/entities/datasets.py,sha256=ZCyX__X3WWf3hKVqUn_eOj3KFErewL8SU3q01VEM3mg,6015
+dh_client/entities/glossary_terms.py,sha256=S1TIQZkKuhA6CPbrs1sRubNhRWdmzzADXrqVzZpF3K4,1998
+dh_client/entities/links.py,sha256=rVV6oXmHxQIA4VCX39t3jDwhwwY8ORZ0QVrpXnGJNcw,1035
+dh_client/entities/owners.py,sha256=hZ2TfCEfIlut3MpmnpkbPuVnZvCkPE5OSLrQBNT2Hl4,1547
+dh_client/entities/tags.py,sha256=zveXbwVSpPRfafBP7LEZCMEwhSe_PouKQv-cAzC7IW4,1847
+dh_client/entities/users.py,sha256=EBNBmUUy0gWlbqOZHmZm0x3iBKaMpu3LwSiSuA9wrP4,1425
+dh_client/exceptions.py,sha256=KLEqlH9LFYMmNWe4WHpz6HIdS9pUF3joDiCPtYRCKmw,43
+dh_client-0.1.4.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+dh_client-0.1.4.dist-info/METADATA,sha256=ndziLCLmQnxvbbDTUp1kWFl7AxhVGmxiWoTOFfHljh8,532
+dh_client-0.1.4.dist-info/RECORD,,
