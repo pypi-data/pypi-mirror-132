@@ -1,0 +1,6 @@
+fpstimer
+playsound
+cursor
+pydub
+opencv-python
+Pillow
