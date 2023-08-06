@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: simple-google-spreadsheet
+Version: 0.0.2
+Summary: A module class to simplify the integration of your data with a sheet in Google SpreadSheet
+Home-page: https://github.com/mbiemann/simple-google-spreadsheet
+Author: Marcell Biemann
+Author-email: mbiemann@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/mbiemann/simple-google-spreadsheet/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# simple-google-spreadsheet
+
+A module class to simplify the integration of your data with a sheet in Google SpreadSheet
+
+## Installation
+
+```bash
+pip install simple-google-spreadsheet
+```
+
+## Usage
+
+```python
+from simple_google_spreadsheet import Sheet
+
+
+```
+
+___
+Check on GitHub: 
+https://github.com/mbiemann/simple-google-spreadsheet
+

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+simple_google_spreadsheet/__init__.py
+simple_google_spreadsheet/spreadsheet.py
+simple_google_spreadsheet.egg-info/PKG-INFO
+simple_google_spreadsheet.egg-info/SOURCES.txt
+simple_google_spreadsheet.egg-info/dependency_links.txt
+simple_google_spreadsheet.egg-info/requires.txt
+simple_google_spreadsheet.egg-info/top_level.txt
