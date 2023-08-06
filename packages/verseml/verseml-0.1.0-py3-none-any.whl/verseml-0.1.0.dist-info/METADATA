@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: verseml
+Version: 0.1.0
+Summary: 
+Home-page: https://github.com/verseml/verseml
+License: MIT
+Keywords: ML,training,deployment
+Author: camjw
+Author-email: camjw119@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/verseml/verseml
+Description-Content-Type: text/markdown
+
+# Verse ML
+
+A framework for producing production quality ML tools
+
+## Immediate Roadmap
+
+- Build initial API for running training jobs on remote GPUs transparently from the command line.
+- Build initial API for introspecting these jobs while they're running.
+- Build initial API for deploying those models to lambdas/other serverless execution environments.
+
