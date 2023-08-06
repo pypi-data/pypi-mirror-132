@@ -1,0 +1,3 @@
+[console_scripts]
+collector = gnss_collector.scripts.run_collector:run_collector
+
