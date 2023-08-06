@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+fourierwavelet/__init__.py
+fourierwavelet/fourierwavelet.py
+fourierwavelet.egg-info/PKG-INFO
+fourierwavelet.egg-info/SOURCES.txt
+fourierwavelet.egg-info/dependency_links.txt
+fourierwavelet.egg-info/not-zip-safe
+fourierwavelet.egg-info/requires.txt
+fourierwavelet.egg-info/top_level.txt

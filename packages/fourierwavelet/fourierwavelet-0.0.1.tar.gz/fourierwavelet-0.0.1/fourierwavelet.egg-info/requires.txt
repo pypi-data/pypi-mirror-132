@@ -1,0 +1,5 @@
+matplotlib.pyplot
+scipy.fft
+csv
+pywt
+numpy
