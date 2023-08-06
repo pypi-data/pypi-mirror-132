@@ -1,0 +1,14 @@
+fu_scrapper/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fu_scrapper/nba/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fu_scrapper/nba/games.py,sha256=v3NbRhmMfhvGBIUsHSOZqNnKQ2-LfkemQxfsKV6x2qE,8475
+fu_scrapper/nba/players.py,sha256=ximjB_xdNPU-7slELcQ9pWm_7z4d9soAv3x3l7VV1kQ,3943
+fu_scrapper/nba/teams.py,sha256=DtevB4GzLM2fm8UgOgA0mDuwT9lT0xhjmxrWv8w6eEM,6136
+fu_scrapper/tools/Scrapper.py,sha256=-BhKPZRV-Smw5nRsW2IaQSuQYMzwilFgDniHmJVAH1U,1839
+fu_scrapper/tools/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fu_scrapper/tools/preformator.py,sha256=rTTzU2J_t09t-GN172fy7-2iPz8PqFVMFW8KvZk6kGc,2372
+fu_scrapper/tools/tools.py,sha256=qsxhU5FeuinNQcn-RNVQC1If-qs0QygVHrpre71IGhc,2134
+fu_scrapper-1.0.3.dist-info/LICENSE,sha256=b97naewu9WVSg19fjo3iUxIUIyuFLaIY8uPa-QNPaVA,1062
+fu_scrapper-1.0.3.dist-info/METADATA,sha256=6Bmj5ASgYioIceoB1tSa0XZ2RCER6sXW-7KCCgXx3Bo,3855
+fu_scrapper-1.0.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+fu_scrapper-1.0.3.dist-info/top_level.txt,sha256=gIJgrdgxgoeK7zGRAEt9_IfYnFHSfqu8ICwL0jE4wDA,12
+fu_scrapper-1.0.3.dist-info/RECORD,,
