@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+matrixg/__init__.py
+matrixg/matrixgg.py
+matrixgg.egg-info/PKG-INFO
+matrixgg.egg-info/SOURCES.txt
+matrixgg.egg-info/dependency_links.txt
+matrixgg.egg-info/not-zip-safe
+matrixgg.egg-info/top_level.txt
