@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/bnn_bbb.egg-info/PKG-INFO
+src/bnn_bbb.egg-info/SOURCES.txt
+src/bnn_bbb.egg-info/dependency_links.txt
+src/bnn_bbb.egg-info/top_level.txt
+src/nn/__init__.py
+src/nn/distributions.py
+src/nn/layers.py
+src/nn/utils.py
+src/security/__init__.py
+src/security/security.py
