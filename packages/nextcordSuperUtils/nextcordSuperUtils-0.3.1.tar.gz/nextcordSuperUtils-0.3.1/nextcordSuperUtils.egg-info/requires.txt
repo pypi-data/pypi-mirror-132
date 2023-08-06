@@ -1,0 +1,12 @@
+nextcord.py
+Pillow
+requests
+spotipy
+aiosqlite
+motor
+aiopg
+aiomysql
+nextcord_components
+pytz
+wavelink
+youtube_dl
