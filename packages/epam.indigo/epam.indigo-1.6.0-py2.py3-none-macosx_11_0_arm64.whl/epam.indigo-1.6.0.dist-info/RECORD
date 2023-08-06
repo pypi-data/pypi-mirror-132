@@ -1,0 +1,13 @@
+indigo/__init__.py,sha256=e14YRC3qvdNgH2E3IRMJduL2uPGaXD_xpTQHemzOanc,210999
+indigo/bingo.py,sha256=UdNeW3DfRW0udf_v1WrTMc4ZFfVIzhnThLCSDnbP9TE,17095
+indigo/inchi.py,sha256=uBV4jvv_a0YlP7awiDKINvgpO7YqWpKyKi07A0Kd9sk,5246
+indigo/renderer.py,sha256=VCN0Vlia7UnaoSh7IohZDfHuuFJq7twfGURqm7jirNo,5844
+indigo/salts.py,sha256=44Ea4Qv1tFBETn2NoTwFGgql0vpacBN90ld4TgmxmEA,3580
+indigo/lib/darwin-aarch64/libbingo-nosql.dylib,sha256=zYnRXMS508UGtwKf8x6JNA-cVQR254CVyCLethJLIJ0,370369
+indigo/lib/darwin-aarch64/libindigo-inchi.dylib,sha256=ziFgTSdanlcQ2CfQG8FnmxG0h61IMtDShSvH4aXSASA,79250
+indigo/lib/darwin-aarch64/libindigo-renderer.dylib,sha256=ZOg1X-r6jIpqyyz4ODtthim4I0rhrR0mGZhk8Q-6_n0,1751733
+indigo/lib/darwin-aarch64/libindigo.dylib,sha256=xpDPJUKNwXOxs3uaMd0WgV2FPzlLByJeyn_4E5m2A0A,5874236
+epam.indigo-1.6.0.dist-info/METADATA,sha256=dgdPAEmw6kQviVYkoLXfi6ULezNNLUdVCA99w65Qm2k,2022
+epam.indigo-1.6.0.dist-info/WHEEL,sha256=7RhkCCeuuRftyaOCsMa3HNyRrwr1C1Jo_zotjzwvrZY,138
+epam.indigo-1.6.0.dist-info/top_level.txt,sha256=UgW0PXeSu4w7YR-JkL4f9Yt_fQfJreKO9DsH1S16M0g,7
+epam.indigo-1.6.0.dist-info/RECORD,,
