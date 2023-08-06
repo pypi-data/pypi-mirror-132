@@ -1,0 +1,15 @@
+zscaler_python_sdk/__init__.py,sha256=XnjcdNRvj_XjlnG8qf_kiuWm2_4GK-lEqQzH-GLkCQM,64
+zscaler_python_sdk/lib/README.md,sha256=1522EIWqbvKYSkZOtGyjQfffnnmJpUcRy3EUHfR5wtg,977
+zscaler_python_sdk/lib/__init__.py,sha256=0RtD49tVtR5aBTRbqCrOqivvVXzuS_jqjZcgUPu5XJU,85
+zscaler_python_sdk/lib/admin.py,sha256=B9Q9KCHSG_7loV_HWzKfJ5i23EiBWwj6Ce0dTp5kIIY,1622
+zscaler_python_sdk/lib/api.py,sha256=VoIlhT4V_5EPTdWpIUutwp7FHPhMJLOkhxSAmsZmhCM,978
+zscaler_python_sdk/lib/auth.py,sha256=FygpK8cLmRr8IZkRIGRKOTpBF8XXNtVi7G_ccCJSXks,1852
+zscaler_python_sdk/lib/firewall_rules.py,sha256=0aFvA30MqjPqHRqKDwJgbcgHZL-cOJjuttPfZam6Pac,2619
+zscaler_python_sdk/lib/url_categories.py,sha256=Z8XP_Ch7XzmP1kucZQiuQ5tdmUjUCZU0bIHcSYYXs3k,2650
+zscaler_python_sdk/lib/url_filtering_rules.py,sha256=-d4q_3GckyTTo5G-d2DJ1kjGZdurhal0PCvw_f9zULg,2795
+zscaler_python_sdk/lib/users.py,sha256=YsepOFRzU_ISokRDGz8dn6j3WpsnsptGqKveFXBl4yk,1655
+zscaler_python_sdk/utils.py,sha256=MAW_yzSRhCUyhi7PHL0wfe_Gph3EyBvCUvC6ottHfzw,628
+zscaler_python_sdk/zia.py,sha256=x7y5kNYv8JZFVtiiRmdO_6bpFTnxbl8XMTZR2DUtuRI,7490
+zscaler_python_sdk-0.2.1.dist-info/WHEEL,sha256=N0LZrBtofpkS5mJXgVHTCEy52Sam4D6PHQWC8HnMeTs,83
+zscaler_python_sdk-0.2.1.dist-info/METADATA,sha256=SQK_wFNb_Hy-csBzppFfyfpWwF1W64Xs57QR1JtVy4k,2229
+zscaler_python_sdk-0.2.1.dist-info/RECORD,,
