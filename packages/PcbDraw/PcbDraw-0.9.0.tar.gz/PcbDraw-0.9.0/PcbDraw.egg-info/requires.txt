@@ -1,0 +1,9 @@
+click
+lxml
+mistune
+numpy
+pcbnewTransition>=0.2
+pybars3
+pyyaml
+svgpathtools
+wand
