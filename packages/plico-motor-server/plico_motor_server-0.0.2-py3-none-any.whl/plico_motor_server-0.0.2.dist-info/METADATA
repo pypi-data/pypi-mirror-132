@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: plico-motor-server
+Version: 0.0.2
+Summary: motor controller with PLICO
+Home-page: https://github.com/ArcetriAdaptiveOptics/plico_motor
+Author: Lorenzo Busoni, Alfio Puglisi
+Author-email: lorenzo.busoni@inaf.it
+License: MIT
+Keywords: plico,motor,laboratory,instrumentation control
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Requires-Dist: plico (>=0.20)
+Requires-Dist: plico-motor
+Requires-Dist: numpy
+Requires-Dist: psutil
+
+# plico_motor_server
+server for motor control under the plico environment 
+
+
+ ![Python package](https://github.com/ArcetriAdaptiveOptics/plico_motor_server/workflows/Python%20package/badge.svg)
+ [![codecov](https://codecov.io/gh/ArcetriAdaptiveOptics/plico_motor_server/branch/main/graph/badge.svg?token=ApWOrs49uw)](https://codecov.io/gh/ArcetriAdaptiveOptics/plico_motor_server)
+ [![Documentation Status](https://readthedocs.org/projects/plico_motor_server/badge/?version=latest)](https://plico_motor_server.readthedocs.io/en/latest/?badge=latest)
+ [![PyPI version](https://badge.fury.io/py/plico-motor-server.svg)](https://badge.fury.io/py/plico-motor-server)
+
+
+plico_motor is an application to control motors under the [plico][plico] environment.
+
+[plico]: https://github.com/ArcetriAdaptiveOptics/plico
+
+
