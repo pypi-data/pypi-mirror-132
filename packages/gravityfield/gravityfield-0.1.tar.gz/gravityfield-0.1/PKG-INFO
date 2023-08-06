@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: gravityfield
+Version: 0.1
+Summary: Calculate the relative acceleration field for celestial bodies in a rotating reference frame
+Home-page: https://github.com/user/gravityfield
+Author: Nestor Fabian Villar
+Author-email: nesfvillar@gmail.com
+License: MIT
+Download-URL: https://github.com/nesfvillar/gravityfield/archive/refs/tags/v_01.tar.gz
+Description: UNKNOWN
+Keywords: science, orbit, celestial, mechanics, rocket
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
