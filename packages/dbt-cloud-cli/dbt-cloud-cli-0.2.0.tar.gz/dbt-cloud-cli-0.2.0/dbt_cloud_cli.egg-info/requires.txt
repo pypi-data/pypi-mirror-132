@@ -1,0 +1,12 @@
+requests
+click
+pydantic
+
+[lint]
+black
+
+[test]
+pytest
+pytest-cov
+pytest-datadir
+requests-mock
