@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: qwhois
+Version: 1.0.0
+Summary: UNKNOWN
+Home-page: https://github.com/cqqgsafe/qwhois
+Author: adolph
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+### whois
+whois查询服务包
+### 安装
+```shell
+pip install qwhois
+```
+### 使用
+```python
+from qwhois import whois
+
+print(whois('baidu.com'))
+```
+

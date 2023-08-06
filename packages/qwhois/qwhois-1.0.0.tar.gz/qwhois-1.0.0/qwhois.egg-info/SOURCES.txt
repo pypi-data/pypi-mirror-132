@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+qwhois/__init__.py
+qwhois/whois.py
+qwhois.egg-info/PKG-INFO
+qwhois.egg-info/SOURCES.txt
+qwhois.egg-info/dependency_links.txt
+qwhois.egg-info/requires.txt
+qwhois.egg-info/top_level.txt
+qwhois/data/public_suffix_list.dat
+qwhois/data/whois_server.map
