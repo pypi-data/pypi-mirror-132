@@ -1,0 +1,17 @@
+setup.cfg
+setup.py
+src/uglier/__init__.py
+src/uglier/cli.py
+src/uglier/colored_logger.py
+src/uglier/patcher.py
+src/uglier.egg-info/PKG-INFO
+src/uglier.egg-info/SOURCES.txt
+src/uglier.egg-info/dependency_links.txt
+src/uglier.egg-info/entry_points.txt
+src/uglier.egg-info/top_level.txt
+src/uglier/tools/__init__.py
+src/uglier/tools/generate_characters.py
+test/test_basic.py
+test/test_classes.py
+test/test_fib.py
+test/test_mandel.py
