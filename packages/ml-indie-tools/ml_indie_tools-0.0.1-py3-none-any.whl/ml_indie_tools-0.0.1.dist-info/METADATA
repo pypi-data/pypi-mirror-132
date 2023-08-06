@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ml-indie-tools
+Version: 0.0.1
+Summary: A collection of tools for low-resource indie machine learning development
+Home-page: https://github.com/domschl/ml-indie-tools
+Author: Dominik Schlösser
+Author-email: dsc@dosc.net
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/domschl/ml-indie-tools/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# TBD
+
+[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+[![Docs](https://img.shields.io/badge/docs-stable-blue.svg)](https://domschl.github.io/ml-indie-tools/index.html)
+
+
