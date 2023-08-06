@@ -1,0 +1,3 @@
+[console_scripts]
+carbon-cli = carboncli:main
+
