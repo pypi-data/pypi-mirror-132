@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: azaka
+Version: 0.1.0a2
+Summary: A work in progress API Wrapper around The Visual Novel Database (VNDB) written in Python.
+License: MIT
+Keywords: vndb,apiwrapper,async,visualnovel,python
+Author: mooncell07
+Author-email: mooncell07@users.noreply.github.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/x-rst
+
+
