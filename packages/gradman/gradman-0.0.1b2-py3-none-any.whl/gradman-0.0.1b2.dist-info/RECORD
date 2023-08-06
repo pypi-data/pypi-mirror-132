@@ -1,0 +1,9 @@
+gradman/__init__.py,sha256=F0m2CqiXgA9vHYOgknQRo9quoXRLHDxLQ6QHiCEiJLA,97
+gradman/module.py,sha256=35uQvByghw_06JqQmybzx8KTfgzl1Dg3vYZGa604uhw,553
+gradman/nn.py,sha256=MauTxawCiF4yQ2McGbR8Qk-8dG5NAZwJ4NXvj9-wh4k,369
+gradman/optim.py,sha256=uJVjteV0dLS8ReDdoZOmuuoh0FonW1O8a6SUwn9ucq0,65
+gradman/tensor.py,sha256=h35G3bFDEif2HU8cnDVU1QxWfeMOQsZKghzwEdACUus,3068
+gradman-0.0.1b2.dist-info/LICENSE,sha256=EqNMriDF2WXA4TAjQ_kxEzc69BzpAljDH6mOORG4QwI,1084
+gradman-0.0.1b2.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+gradman-0.0.1b2.dist-info/METADATA,sha256=cTKFw7hHf2ixNOmNUbGcbLunzHTzu95qDt3zVJxoHXE,569
+gradman-0.0.1b2.dist-info/RECORD,,
