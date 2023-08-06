@@ -1,0 +1,15 @@
+click>=5.0
+mutf8>=1.0.5
+
+[dev]
+pytest
+sphinx
+sphinx_rtd_theme
+sphinx-click
+ghp-import
+pyyaml
+ipython
+twine
+wheel
+bump2version
+flake8
