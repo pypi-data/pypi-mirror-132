@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: ini_config_parser
+Version: 0.2
+Summary: Provides convenient interface for easily managing multiple enviroments (ex: test, prod) just from one config.ini
+Home-page: https://github.com/depozzyx/ini_config_parser
+Author: depozzyx
+Author-email: 2015hhh333@gmail.com
+License: MIT
+Download-URL: https://github.com/depozzyx/ini_config_parser/archive/refs/tags/release-0.2.tar.gz
+Description: UNKNOWN
+Keywords: Ini,Parser,Config
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
