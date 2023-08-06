@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: djbookshelf
+Version: 0.1.4
+Summary: 
+Home-page: https://djbookshelf.readthedocs.io/en/latest/
+License: MIT
+Keywords: django,book
+Author: Fundor333
+Author-email: fundor333@fundor333.com
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: django (>=3.2,<5)
+Requires-Dist: django-bootstrap-v5 (>=1.0.7,<2.0.0)
+Requires-Dist: isbnlib (>=3.10.9,<4.0.0)
+Requires-Dist: requests (>=2,<3)
+Project-URL: Repository, https://github.com/fundor333/djbookshelf
+Description-Content-Type: text/markdown
+
+# DjBookShelf
+
+This is a Django module for manage books
+
+You can find the [documentation here](https://djbookshelf.readthedocs.io/en/latest/)
+
