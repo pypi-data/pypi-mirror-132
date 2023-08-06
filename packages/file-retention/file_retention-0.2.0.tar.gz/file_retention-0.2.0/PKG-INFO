@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: file-retention
+Version: 0.2.0
+Summary: Delete files based on predefined dates
+Author: Gabriel de Mello Barbosa
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Requires-Dist: click (>=8.0.3,<9.0.0)
