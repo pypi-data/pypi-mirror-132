@@ -1,0 +1,5 @@
+setup.py
+numcalc.egg-info/PKG-INFO
+numcalc.egg-info/SOURCES.txt
+numcalc.egg-info/dependency_links.txt
+numcalc.egg-info/top_level.txt
