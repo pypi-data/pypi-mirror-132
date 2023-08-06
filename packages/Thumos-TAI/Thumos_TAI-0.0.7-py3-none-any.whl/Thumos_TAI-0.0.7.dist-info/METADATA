@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: Thumos-TAI
+Version: 0.0.7
+Summary: A small package
+Home-page: https://github.com/jonmest/Thumos-TAI
+Author: Jon Cavallie Mester
+Author-email: jwcavalliemester@protonmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/jonmest/Thumos-TAI/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+Requires-Dist: tsai
+Requires-Dist: gdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: fastai
+Requires-Dist: IPython
+
+UNKNOWN
+
