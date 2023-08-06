@@ -1,0 +1,9 @@
+anshitsu/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+anshitsu/cli.py,sha256=yY16URQm-ndXBW0QpcivkeLr7J3kNOJIXy4QKY9_PcM,162
+anshitsu/process.py,sha256=bDR8CrPnpEtunRSy7vTUFM3h8-Oq04-fqoubFKH8Qks,3583
+anshitsu/retouch.py,sha256=xd1jVVD3-36TcCRGS9hQ7MPsa53D_W249BhzCnWQfUM,5259
+anshitsu-1.2.0.dist-info/entry_points.txt,sha256=vMtbdj3zt7D9SEzY-icd22vCq9WGIm3wIYBbrB5RuSs,46
+anshitsu-1.2.0.dist-info/LICENSE,sha256=Hfj88p2Eh9As-ZvaGoE02XkqFlmKks71SnjV-dUpE1k,1071
+anshitsu-1.2.0.dist-info/WHEEL,sha256=FMw6u7Kp3jrdDDtJRZ3hkPV-9adLQT8pbM4iifKUGfw,85
+anshitsu-1.2.0.dist-info/METADATA,sha256=CJQ7HoR-FQnWJaDcXOaBpLxD_syxwf5Kq7tVr4vy-KA,6224
+anshitsu-1.2.0.dist-info/RECORD,,
