@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: sqlzip
+Version: 0.0.0
+Summary: Placeholder for the SQLZIP project
+Home-page: UNKNOWN
+Author: Steve Roggenkamp
+Author-email: roggenkamps@acm.org
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SQLZIP Package
+
+This is a placeholder for SQLZIP, a project combining SQLite and comppression to create a better archive file.
+
+Stay tuned....
+
