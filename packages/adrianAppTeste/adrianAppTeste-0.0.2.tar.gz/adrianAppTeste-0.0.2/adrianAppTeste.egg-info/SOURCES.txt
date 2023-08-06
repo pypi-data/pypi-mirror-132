@@ -1,0 +1,8 @@
+setup.py
+adrianApp/__init__.py
+adrianApp/class1.py
+adrianApp/class2.py
+adrianAppTeste.egg-info/PKG-INFO
+adrianAppTeste.egg-info/SOURCES.txt
+adrianAppTeste.egg-info/dependency_links.txt
+adrianAppTeste.egg-info/top_level.txt
