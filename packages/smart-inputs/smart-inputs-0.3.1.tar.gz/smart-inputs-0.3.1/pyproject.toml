@@ -1,0 +1,40 @@
+[project]
+name = "smart_inputs"
+version = "0.3.1"
+description = "Smarter Inputs for easier to read python"
+readme = "README.md"
+dependencies = [ "sphinx-rtd-theme>=1.0.0",]
+requires-python = ">=3.8"
+[[project.authors]]
+name = "fanoway"
+email = "86997883+fanoway@users.noreply.github.com"
+
+[build-system]
+requires = [ "pdm-pep517",]
+build-backend = "pdm.pep517.api"
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+homepage = "https://github.com/fanoway/smart_inputs"
+
+[project.optional-dependencies]
+
+[tool.black]
+line-length = 88
+
+[tool.tox]
+legacy_tox_ini = "[tox]\nisolated_build = True\nisolated_build_env = testenv\nenvlist = py38\n\n[testenv]\ncommands =\n    black smart_inputs/\n    flake8 smart_inputs/ --ignore E501\n    mypy smart_inputs/\n    pylint smart_inputs/ --exit-zero\n    pylint smart_inputs/ -E\n    pytest --cov-report term-missing  --cov=smart_inputs tests/\n"
+
+[tool.pdm.dev-dependencies]
+dev = [ "black>=21.12b0", "tox>=3.24.4", "mypy>=0.930", "pylint>=2.12.2", "flake8>=4.0.1", "pytest-cov>=3.0.0", "tox-pdm>=0.3.1", "sphinx>=4.3.2",]
+
+[tool.pdm.scripts.tox_test]
+cmd = "python -m tox"
+
+[tool.pdm.scripts.docs]
+cmd = "docs\\\\make.bat html"
+
+[tool.pdm.scripts.publish]
+cmd = "twine upload dist/*"
