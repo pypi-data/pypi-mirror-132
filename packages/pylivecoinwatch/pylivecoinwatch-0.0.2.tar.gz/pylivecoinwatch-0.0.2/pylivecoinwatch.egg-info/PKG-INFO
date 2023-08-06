@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: pylivecoinwatch
+Version: 0.0.2
+Summary: Python wrapper around Live Coin Watch API
+Home-page: https://github.com/PlayErphil/LCW-API-Wrapper
+Author: Rene Gonzalez
+License: MIT
+Keywords: crypto,crypto bot,livecoinwatch
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# LCW-API-Wrapper
+
+# VERSION 0.0.2
+- CHANGELOG added to description
+
+# VERSION 0.0.1
+- Methods added
+
