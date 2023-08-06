@@ -1,0 +1,14 @@
+skippa/__init__.py,sha256=Ei95P3NJNUi3wfDlxjzQDCbMvkZdvIl88TY-Wcd-gnc,302
+skippa/app.py,sha256=Gj0XNvx5rafEt2wQagQpRrqqarlSmSv7ZKVKvPRnF-M,3081
+skippa/pipeline.py,sha256=JYeBsPpavkIoraGGlDFkaT1WTldX1ucSOwAIjLs-rog,14999
+skippa/profile.py,sha256=M8Idx3MXWf8kvf6bNIZHJewA8I2M7edS6beXZr8xK1s,1632
+skippa/utils.py,sha256=NLffNlcx1X2nEBODou60UFVaAOP_R4583DJhVuHOxkQ,2357
+skippa/transformers/__init__.py,sha256=ERmmOxz_9mUkIuccNbzUa5Y6gVLLVDdyc4cCxbCCUbY,20
+skippa/transformers/base.py,sha256=eeL3FiFlBW1PhzxXGI1z6DI_rlgxsAKS_iXpqbERx_0,8030
+skippa/transformers/custom.py,sha256=z2RFYBvW-ZJaUJ7vNG0XhHCp7QvooA3KPlvGHoww74E,7698
+skippa/transformers/sklearn.py,sha256=2wvg0vuTgSmkGDif7AxMwQJ_4ER9wQumABh6Od5Pkoo,6005
+skippa-0.1.9.dist-info/LICENSE,sha256=aX_bk6QyguvX2gOe3Yb3Tg4NdvPs15WVQvBOetDXaoE,1511
+skippa-0.1.9.dist-info/METADATA,sha256=s70seFzIwI1P3ZN0ntSnhF4IFrJkfxBkQaoTl5V5Q34,6335
+skippa-0.1.9.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+skippa-0.1.9.dist-info/top_level.txt,sha256=zZ8RD3r2mCnIw7Z0OmorKhum5LTPa1a_MMi3_6xjKik,7
+skippa-0.1.9.dist-info/RECORD,,
