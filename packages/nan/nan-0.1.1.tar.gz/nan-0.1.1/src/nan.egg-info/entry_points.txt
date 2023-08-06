@@ -1,0 +1,3 @@
+[console_scripts]
+nan = nan.__entry__:main
+
