@@ -1,0 +1,3 @@
+[console_scripts]
+teramesh-hardware-test = tester:run_tester
+
