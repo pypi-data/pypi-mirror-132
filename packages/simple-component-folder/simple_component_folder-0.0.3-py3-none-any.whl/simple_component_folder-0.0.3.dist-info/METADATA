@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: simple-component-folder
+Version: 0.0.3
+Summary: A useful slider module
+Home-page: UNKNOWN
+Author: Siamese
+Author-email: null@null.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENCE.txt
+Requires-Dist: ipython (==7.30.1)
+Requires-Dist: streamlit (==1.2.0)
+
+UNKNOWN
+
