@@ -1,0 +1,10 @@
+vsgan/__init__.py,sha256=Dz0f4-DrUE2pJogVOnYDeCDPk0j6ATq8nVpJTMo1BGM,12093
+vsgan/constants.py,sha256=1bE-Sxg8FaDj4PKtDbTn2_V0t0OYhzt1Liz4wg56Yq4,380
+vsgan/models/ESRGAN/Blocks.py,sha256=1SMLZDqFT4ICHWxYjP8WCznv4j2iU97cg0SeueBPfp8,9862
+vsgan/models/ESRGAN/Network.py,sha256=YsdqUqf9jZ5Lw8K1aHLBcfouTJ12_mJxnQSUOPm9xiY,2790
+vsgan/models/ESRGAN/__init__.py,sha256=-1BvyLDCPPJk2uHUBLy4h3f6pVIErDJx1Swu9k-T1LE,117
+vsgan/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vsgan-1.4.1.dist-info/LICENSE,sha256=RHlk3F8fBvH0IN4E5aEBbbe-xEeealc0Gew15SKQUsM,1069
+vsgan-1.4.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+vsgan-1.4.1.dist-info/METADATA,sha256=DBrjvs8qaNAE3EPnIcysJ93nVXIKSw01QZxguSmz6WI,2607
+vsgan-1.4.1.dist-info/RECORD,,
