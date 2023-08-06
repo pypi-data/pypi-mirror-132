@@ -1,0 +1,11 @@
+README.md
+setup.py
+kiddeemata/__init__.py
+kiddeemata/kiddeemata.py
+kiddeemata/pin_data.py
+kiddeemata/private_constants.py
+kiddeemata.egg-info/PKG-INFO
+kiddeemata.egg-info/SOURCES.txt
+kiddeemata.egg-info/dependency_links.txt
+kiddeemata.egg-info/requires.txt
+kiddeemata.egg-info/top_level.txt
