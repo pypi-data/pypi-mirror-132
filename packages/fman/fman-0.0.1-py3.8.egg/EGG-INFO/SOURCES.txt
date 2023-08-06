@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+fman/__init__.py
+fman/classx.py
+fman/dataset.py
+fman.egg-info/PKG-INFO
+fman.egg-info/SOURCES.txt
+fman.egg-info/dependency_links.txt
+fman.egg-info/top_level.txt
