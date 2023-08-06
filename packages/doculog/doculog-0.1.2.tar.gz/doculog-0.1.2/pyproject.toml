@@ -1,0 +1,6 @@
+[tool.isort]
+profile = "black"
+
+[tool.doculog]
+changelog = "CHANGELOG"
+local = true
