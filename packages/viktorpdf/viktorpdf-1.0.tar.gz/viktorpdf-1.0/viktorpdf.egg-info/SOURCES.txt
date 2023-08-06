@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+viktorpdf/__init__.py
+viktorpdf/pdf2image.py
+viktorpdf/pdf2text.py
+viktorpdf.egg-info/PKG-INFO
+viktorpdf.egg-info/SOURCES.txt
+viktorpdf.egg-info/dependency_links.txt
+viktorpdf.egg-info/top_level.txt
