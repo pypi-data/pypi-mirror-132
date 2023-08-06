@@ -1,0 +1,14 @@
+ftsim/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ftsim/ft.db,sha256=zynX4fQy8shGB2O3tn3qCoMxcLLtW6E_cNhvIT3lq9s,73728
+ftsim/ftdb2.py,sha256=wHmms6WfTdM78-ztdxBGhWAwvS9ENLLJ7VqpAT6X5pQ,16212
+ftsim/ftlib4.py,sha256=8_qzlE4M5kS-DuPi9J0v1qr9VlPjvScv9Q8cRUPEpT8,16328
+ftsim/ftmain9.py,sha256=3IXmaO9PUPROjb7JtCdmroWOeQbYzbCQkQP2b9t-M18,21133
+ftsim/ftmain9.save.py,sha256=OUkG5iXRyeemF9v2bxOTOIkDCWP9_tqG6H2jCcoy2C0,24215
+ftsim/ftsim105.sql,sha256=32SKXY_HgbQsMehfv25Ikdo_kJPlgxCSol26fbOIQS8,5266
+ftsim/ftsim106.sql,sha256=HWiGBS8xPSc43u0U9hw08qTX4j5K1-vXPMBZ06xOB48,7739
+ftsim-0.9.3.dist-info/LICENSE,sha256=BXMoD2b96a1KydZMWdWHgAgqyvApbETv6c3tSBpn2EQ,1064
+ftsim-0.9.3.dist-info/METADATA,sha256=vl3YYyAIHJ4bCz4OqQJ7lSdzas-PhPIA8H0ciowI4QQ,2253
+ftsim-0.9.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+ftsim-0.9.3.dist-info/entry_points.txt,sha256=AQHaLZ4n1CRmiC-W4_XnJVAR_XyO8ZD6NYEUykvD-QU,48
+ftsim-0.9.3.dist-info/top_level.txt,sha256=BG0ZxawV9CcjpvKcYzAd4umaNf8zNqUaR-j8OyO_Ti4,6
+ftsim-0.9.3.dist-info/RECORD,,
