@@ -1,0 +1,16 @@
+.gitignore
+.pre-commit-config.yaml
+.toml
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+timefrequency/__init__.py
+timefrequency.egg-info/PKG-INFO
+timefrequency.egg-info/SOURCES.txt
+timefrequency.egg-info/dependency_links.txt
+timefrequency.egg-info/entry_points.txt
+timefrequency.egg-info/not-zip-safe
+timefrequency.egg-info/requires.txt
+timefrequency.egg-info/top_level.txt
