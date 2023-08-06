@@ -1,0 +1,3 @@
+[console_scripts]
+tefas-ui = tefas_ui:main
+
