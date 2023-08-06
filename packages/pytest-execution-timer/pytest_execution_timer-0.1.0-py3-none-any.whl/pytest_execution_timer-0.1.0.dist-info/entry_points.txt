@@ -1,0 +1,3 @@
+[pytest11]
+execution_timer=pytest_execution_timer.plugin
+
