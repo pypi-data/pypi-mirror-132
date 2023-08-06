@@ -1,0 +1,17 @@
+easypred/__init__.py,sha256=NXsW9a4p5J5ADcPpPWvyLt28oPud50U5efJV1W_3SHo,165
+easypred/base_prediction.py,sha256=dlSTSq_1EZw_U2Sv8NzSZ9vk0YybzzZX-MoSgKewOOg,4337
+easypred/binary_prediction.py,sha256=k7tK6nV0LPb0d9PAEqG6EtYiqrFcehBwx91rL10tPEg,10016
+easypred/metrics.py,sha256=km5ayqvzKfIcZk3lJA4cN5Ge7lLAVt_9OydUK5EY42Q,9543
+easypred/numeric_prediction.py,sha256=CJ42sRfApKERgw2x0lsQs2Cmi_Gfe5iULjvZVPFxU1A,10618
+easypred/type_aliases.py,sha256=THB-X-LKtuqaruZw6xQUEwDlT199WphM8oNROevacJQ,114
+easypred/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+easypred/tests/test_binary.py,sha256=zojWxcy8jjhd0522eCF_nFjWNZUuy7AnhB3KrPiRZ_4,2910
+easypred/tests/test_metrics.py,sha256=106_PDPyfa7lJh50ED7HrYFNhs_B2V63vPHSztK3cDk,1594
+easypred/tests/test_numeric.py,sha256=Vy_h_-T0X3ve4CLOrnWDggwXMtnB2VJgSXvABNpbhwo,3839
+easypred/tests/test_prediction.py,sha256=4CDNQOv1TpOBiFBoPye47PF6BbeR77NbPY-wN-INUxU,3980
+easypred/tests/test_data/binary.xlsx,sha256=yTXPDlF_EieXcXQv7fJwvo3bsB7RSzM0kFSjOUh3QEI,9010
+easypred-0.0.7.dist-info/LICENSE,sha256=jyBRdrELilc9lsEbYuV6wA9s3t1MFiXwBK3lgDjeock,1093
+easypred-0.0.7.dist-info/METADATA,sha256=zDAlaIjdYHKN52mC30Xsvnihw2PDZ5jqM9Qj6DVqziA,6372
+easypred-0.0.7.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+easypred-0.0.7.dist-info/top_level.txt,sha256=LUQ9SS5nwvCM0stwVyvZ02Jcy5w_e0F3DR3Z15_s2k4,9
+easypred-0.0.7.dist-info/RECORD,,
