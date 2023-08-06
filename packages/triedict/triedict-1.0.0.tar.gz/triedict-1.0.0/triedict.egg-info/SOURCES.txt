@@ -1,0 +1,8 @@
+setup.py
+triedict/__init__.py
+triedict/demo_test.py
+triedict/triedict.py
+triedict.egg-info/PKG-INFO
+triedict.egg-info/SOURCES.txt
+triedict.egg-info/dependency_links.txt
+triedict.egg-info/top_level.txt

@@ -1,0 +1,21 @@
+Metadata-Version: 1.2
+Name: triedict
+Version: 1.0.0
+Summary: 基于字典树的匹配 请移步github官网查看demo https://github.com/vegaviazhang/triedict
+Home-page: https://github.com/vegaviazhang/triedict
+Author: vegaviazhang
+Author-email: vegaviazhang@gmail.com
+Maintainer: vega
+Maintainer-email: vegaviazhang@gmail.com
+License: BSD License
+Description: UNKNOWN
+Platform: all
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries
