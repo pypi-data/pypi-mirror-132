@@ -1,0 +1,14 @@
+abstract_http_client/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+abstract_http_client/exceptions.py,sha256=T--L-NrARytI-j_h4du44fTqXZjUaswHsL__hK2BU8E,118
+abstract_http_client/http_clients/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+abstract_http_client/http_clients/http_client_base.py,sha256=1ref8iTPU2_WZtE2rlQMi-sSo_dipaeGQ3Fn5lNTd1w,793
+abstract_http_client/http_clients/requests_client.py,sha256=nyAixU4Pms9UHqEvIsKFCh9WqfZI3JGDC2GiaBhfSnE,952
+abstract_http_client/http_services/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+abstract_http_client/http_services/constants.py,sha256=CbED8LHneKs-0I331zW9a4iO-ZRT2UK-a0uoRBlU80I,89
+abstract_http_client/http_services/http_service_base.py,sha256=vXxG3iFM6ykUJ9qKrMRhAzWCOdvMqK02B9tP_OVHR1I,2133
+abstract_http_client/http_services/requests_service.py,sha256=z89MjicTgcYfdiA-uU7eWiebOYm16__2VAVPoRuM8Vo,6159
+abstract_http_client-1.0.3.dist-info/LICENSE,sha256=zqGteqjzvoWnFrk3yh2zKIfBbzxgsQZZV268jczr_Ag,1057
+abstract_http_client-1.0.3.dist-info/METADATA,sha256=XgOC-4guDeYSojhURWq44Z-kpVMGF5xSoNkg3Rkkbvo,4117
+abstract_http_client-1.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+abstract_http_client-1.0.3.dist-info/top_level.txt,sha256=X6gMREYV4Ute0LZas0G234t7mXET_0b2OlrAnzArN2M,21
+abstract_http_client-1.0.3.dist-info/RECORD,,
