@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+MultiProcessMStepRegression/Reg_Step_Wise_MP.py
+MultiProcessMStepRegression/Reg_Sup_Step_Wise_MP.py
+MultiProcessMStepRegression/Tool.py
+MultiProcessMStepRegression/__init__.py
+MultiProcessMStepRegression.egg-info/PKG-INFO
+MultiProcessMStepRegression.egg-info/SOURCES.txt
+MultiProcessMStepRegression.egg-info/dependency_links.txt
+MultiProcessMStepRegression.egg-info/requires.txt
+MultiProcessMStepRegression.egg-info/top_level.txt
