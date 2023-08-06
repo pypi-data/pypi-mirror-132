@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: text-help
+Version: 1.0.2
+Summary: Text('Some text').translit(lang), .upper(), .lower(), .rus_to_eng(), eng_to_rus(); Cipher('Text for cipher').transposing(), .to_A1Z26(lang), from_A1Z26(lang); Support langs: Eng, Rus.
+Author: Dima
+Author-email: ludina.work1@gmail.com
+Requires-Python: >=3.5,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
