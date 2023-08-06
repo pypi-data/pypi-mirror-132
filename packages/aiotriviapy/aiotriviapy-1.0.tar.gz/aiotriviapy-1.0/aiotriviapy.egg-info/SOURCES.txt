@@ -1,0 +1,13 @@
+README.md
+setup.py
+aiotriviapy.egg-info/PKG-INFO
+aiotriviapy.egg-info/SOURCES.txt
+aiotriviapy.egg-info/dependency_links.txt
+aiotriviapy.egg-info/requires.txt
+aiotriviapy.egg-info/top_level.txt
+triviapy/__init__.py
+triviapy/errors.py
+triviapy/game.py
+triviapy/question.py
+triviapy/urls.py
+triviapy/utils.py
