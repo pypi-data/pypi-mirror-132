@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: ranranru
+Version: 0.0.2
+Summary: Trace Golang with bcc like gdb
+Home-page: https://github.com/jschwinger23/ranranru
+Author-email: greyschwinger@gmail.com
+License: GPL-3.0
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Utilities
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ranranru
+
+Trace Golang with BCC like GDB.
+
+## About ranranru
+
+- [Installation](docs/install.md)
+- [Tutorial](docs/tutorial.md)
+- [Reference](docs/reference.md)
+
+
