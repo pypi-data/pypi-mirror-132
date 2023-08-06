@@ -1,0 +1,1 @@
+Keyauth_api_wrapper is a wrapper for the keyauth api. Keyauth is an authentication service used by many developers. There website can be found at https://keyauth.com or https://keyauth.uk.

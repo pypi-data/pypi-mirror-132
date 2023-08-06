@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+keyauth/__init__.py
+keyauth_api.egg-info/PKG-INFO
+keyauth_api.egg-info/SOURCES.txt
+keyauth_api.egg-info/dependency_links.txt
+keyauth_api.egg-info/requires.txt
+keyauth_api.egg-info/top_level.txt
