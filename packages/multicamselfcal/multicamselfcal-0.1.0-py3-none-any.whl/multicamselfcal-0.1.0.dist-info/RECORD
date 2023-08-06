@@ -1,0 +1,9 @@
+multicamselfcal/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+multicamselfcal/align.py,sha256=iVEZXJJqbI0qQIa727ynzwWvDbgWttoiEjuoUVYDKZA,1955
+multicamselfcal/execute.py,sha256=H9bi6M1c77mOZmaFeTwwKfeZ0_428F9o98tmdRB7uzo,15182
+multicamselfcal/formats.py,sha256=CrZ9CRJafveEXaW5cGm9swE5OuQ4PzjnswCWZrxEFVk,6087
+multicamselfcal/visualization.py,sha256=2Sb-j5kArAihYIOItkqbLu4yOKZTA3ogmDNd9xZMMrY,684
+multicamselfcal-0.1.0.dist-info/METADATA,sha256=NUvNVLzyHRy9KkkAtzqHA8u7XgLgdWRxv2KzmwxVXQM,233
+multicamselfcal-0.1.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+multicamselfcal-0.1.0.dist-info/top_level.txt,sha256=RYH1TkOQ4L-BhBA1S5F2-pHRaCNDX_1Tw6W7uoZx1KY,16
+multicamselfcal-0.1.0.dist-info/RECORD,,
