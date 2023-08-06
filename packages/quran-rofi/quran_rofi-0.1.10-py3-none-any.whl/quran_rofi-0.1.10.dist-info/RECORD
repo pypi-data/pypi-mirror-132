@@ -1,0 +1,19 @@
+quran_rofi/__init__.py,sha256=Txvk49kpGCKheOtDN0yfEIPpIw8Y8yviaTCJKWeyc6c,23
+quran_rofi/config.py,sha256=yWl5ReqUJlMcrkgW4qkNxt6cJt3vUKV_kUmdKxDyq1U,2152
+quran_rofi/quran.py,sha256=CoyCteH-X93bCs8lGgCXjcypvVmasaCN0eYco950j5g,7606
+quran_rofi/assets/Al Qalam Quran Majeed.ttf,sha256=JZHEGXQFsS-PRcLgu23M5lo7XWzteRVk87XMvtbATSc,178624
+quran_rofi/assets/contoh_confgi_quran-rofi.ini,sha256=skDvmO9l8uu8mr7wX7tVADTtQq84445nxzQ8wIz6GdQ,86
+quran_rofi/assets/quran.desktop,sha256=rW-KR_Xk6UJItqHzMsKD5qsbXR7BiBAd-DpYg0_Xy7c,113
+quran_rofi/assets/quran.png,sha256=d2b79g0M9GhQ28GntXcboz5hQsHEEUwr91DA2wvvH7Q,13759
+quran_rofi/assets/murotal/README.md,sha256=Xv3Ho-TJkYlwzcrcp7NNU2L6KTUwefP6RYoHTM9WKx8,280
+quran_rofi-0.1.10.data/data/share/Quran/contoh_confgi_quran-rofi.ini,sha256=skDvmO9l8uu8mr7wX7tVADTtQq84445nxzQ8wIz6GdQ,86
+quran_rofi-0.1.10.data/data/share/Quran/murotal/README.md,sha256=Xv3Ho-TJkYlwzcrcp7NNU2L6KTUwefP6RYoHTM9WKx8,280
+quran_rofi-0.1.10.data/data/share/applications/quran.desktop,sha256=rW-KR_Xk6UJItqHzMsKD5qsbXR7BiBAd-DpYg0_Xy7c,113
+quran_rofi-0.1.10.data/data/share/fonts/Al Qalam Quran Majeed.ttf,sha256=JZHEGXQFsS-PRcLgu23M5lo7XWzteRVk87XMvtbATSc,178624
+quran_rofi-0.1.10.data/data/share/icons/quran.png,sha256=d2b79g0M9GhQ28GntXcboz5hQsHEEUwr91DA2wvvH7Q,13759
+quran_rofi-0.1.10.dist-info/LICENSE,sha256=BUj6Dx-N_F2ZtKOAOcU0d7d8WSJ9qhzhRxPXQhFFvNE,1064
+quran_rofi-0.1.10.dist-info/METADATA,sha256=0AR38y7sARopDKneFEYZwuJoXAYcxEzPdFabjwvcFYM,1429
+quran_rofi-0.1.10.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+quran_rofi-0.1.10.dist-info/entry_points.txt,sha256=mI0QrIOfCm7SdjW_-GRln3QztOsTW0Qm5usiH8mUD3s,60
+quran_rofi-0.1.10.dist-info/top_level.txt,sha256=TZgs7CtNnVEEfQnciseQIgu0CFqAu3_GKlpeMfI3QkU,11
+quran_rofi-0.1.10.dist-info/RECORD,,

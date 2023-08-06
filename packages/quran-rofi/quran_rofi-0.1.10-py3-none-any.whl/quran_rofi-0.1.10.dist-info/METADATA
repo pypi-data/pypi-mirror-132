@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: quran-rofi
+Version: 0.1.10
+Summary: Al-Quran dengan Terjemahan / Tafsir Jalalayn
+Home-page: https://gitlab.com/nesstero/Al-Quran-Rofi
+Author: nestero
+Author-email: nestero@mail.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyrof
+Requires-Dist: alquran-id
+Requires-Dist: appdirs
+Requires-Dist: pydub
+
+# Al-Quran Rofi
+Al-Quran dengan Terjemahan / Tafsir Jalalayn
+
+## Install
+#### Requirements
+- [Rofi](https://github.com/davatorium/rofi)
+- [xclip](https://github.com/astrand/xclip)
+#### Installasi
+- `pip install quran-rofi`
+
+## Configure
+- Pengaturan font Quran dan Murotal ada di file `~/.config/quran-rofi.ini`, untuk contoh confignya ada **[disini](https://gitlab.com/nesstero/Al-Quran-Rofi/-/blob/master/quran_rofi/assets/contoh_confgi_quran-rofi.ini)**
+
+- File Murotal ada di folder `~/.local/share/Quran/murotal/`, untuk contoh formatnya  ada **[disini](https://gitlab.com/nesstero/Al-Quran-Rofi/-/tree/master/quran_rofi/assets/murotal)**
+
+## Font
+Update cache font dengan :
+```
+$ fc-cache -fv
+```
+
+## Preview Al-Quran Rofi
+![Al-Quran Rofi](https://github.com/nesstero/Al-Quran-Rofi/raw/master/ss.png)
+
+## Perubahan 
+### [0.1.8](https://pypi.org/project/quran-rofi/0.1.8/)
+- Menggunakan **[alquran-id](https://pypi.org/project/alquran-id/)**
+### [0.1.10](https://pypi.org/project/quran-rofi/0.1.10/)
+- Menambahkan fitur murotal
+
+
