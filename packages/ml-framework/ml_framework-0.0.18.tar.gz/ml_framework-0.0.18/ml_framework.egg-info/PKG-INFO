@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: ml-framework
+Version: 0.0.18
+Summary: Machine Learning Framework
+Home-page: https://github.com/antsticky/AILib/
+Author: feketedavid1012&ansticky
+Author-email: antsticky@gmail.com
+License: MIT
+Download-URL: https://github.com/antsticky/AILib/archive/refs/tags/0.0.3.tar.gz
+Project-URL: Bug Tracker, https://github.com/antsticky/AILib//issues
+Keywords: framework,ML,AI
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Documentation
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# AILib
+
+
+## Commit hooks
+https://medium.com/@pratu16x7/using-pre-commit-to-manage-git-hooks-532e055e4771
+
+
+## Packaging
+https://towardsdatascience.com/how-to-convert-your-python-project-into-a-package-installable-through-pip-a2b36e8ace10
+
+
+python3 -m build
+python3 -m pip install --user --upgrade twine
+python3 -m twine upload --repository testpypi dist/*
+python3 -m twine upload dist/*
+
