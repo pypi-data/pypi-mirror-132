@@ -1,0 +1,8 @@
+README.md
+setup.py
+value_lookup/__init__.py
+value_lookup/value_lookup.py
+value_lookup.egg-info/PKG-INFO
+value_lookup.egg-info/SOURCES.txt
+value_lookup.egg-info/dependency_links.txt
+value_lookup.egg-info/top_level.txt
