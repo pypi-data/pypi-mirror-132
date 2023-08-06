@@ -1,0 +1,9 @@
+newsme/__init__.py,sha256=0B95W097AKyB_6RY1GCh5O4SLZKIhWPATD0UNbf0-BQ,82
+newsme/html_creator.py,sha256=xfe2FD6WW492gUvGXRfMJoW1394fxxSFf0s8FtLDUF8,1823
+newsme/mail.py,sha256=w6p6K6GpnHh4Y2p1rJRm0-1088eoHQDtNtKwxfk5HQ4,2146
+newsme/news.py,sha256=DaqrEqj35kpxKojWNt_glZngsRa1JtmwtWsStI19q2M,3420
+newsme-0.0.3.dist-info/LICENSE,sha256=rrvZfkyEp3PmzV3u-4GNTCBCuwFdFh_pomSwWn-GbQw,1064
+newsme-0.0.3.dist-info/METADATA,sha256=7M62LwcOzIosdb6f5fsFDSAbHJ3ureEftfWZUFAjdV0,7973
+newsme-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+newsme-0.0.3.dist-info/top_level.txt,sha256=YY_nfjs7gMzxmJuEs6bqpRSi7nbvpXOpbjboZiZvpQs,7
+newsme-0.0.3.dist-info/RECORD,,
