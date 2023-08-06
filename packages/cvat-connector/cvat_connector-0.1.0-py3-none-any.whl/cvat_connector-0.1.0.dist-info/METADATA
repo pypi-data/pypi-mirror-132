@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: cvat-connector
+Version: 0.1.0
+Summary: CVAT API Client
+Home-page: https://gitlab.com/ouvaco/cvat-connector
+Author: Cagdas Bas <cagdas@ouva.co>
+Author-email: cagdas@ouva.co
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: requests-toolbelt
+Requires-Dist: dataclass
+
+## CVAT API Client Library
+
+[![license](https://img.shields.io/badge/license-Apache%202-blue)](LICENSE)
+
+This is a client library to interact with CVAT Server.
+
+Not everything is implemented at the moment.
+
+### Usage
+
+Create a new client instance with CVAT Server URL
+
+```python
+from cvat_connector import CVATConnector
+
+cvat_client = CVATConnector("https://cvat.mydomain.com")
+```
+
+Login to with your credentials
+
+```python
+cvat_client.login("myuser", "passw0rd")
+```
+
+Fetch users etc.
+
+```python
+users = cvat_client.get_all_users()
+for username, user_details in users.items():
+	print(f"{username} id is {user_details['id']}")
+```
+
+Logout when you are done.
+
+```python
+cvat_client.logut()
+```
+

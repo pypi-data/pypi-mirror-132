@@ -1,0 +1,9 @@
+cvat_connector/__init__.py,sha256=qoNh8gW0R6SJB7gLRDj_q_uAU5KOREmYO63h4yzZHSA,648
+cvat_connector/cvat_connector.py,sha256=db50-acjztPeTPXkdM-NQZ_v4XLwlI5CrEL80fPwMIk,8709
+cvat_connector/cvat_urls.py,sha256=XjFm6j24XZbc1htpwqV_IPmx6dWv9_kJ0WCW7B5oW4k,998
+cvat_connector/release.py,sha256=mCuq_d8c_C9on5II_VZPaSgi_KImnzXWSgQ3Z49Er40,642
+cvat_connector-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+cvat_connector-0.1.0.dist-info/METADATA,sha256=hYAt0_vM_gBJpComyqNq1y57XAiLN4ERCQ3LE7TPoJg,1592
+cvat_connector-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cvat_connector-0.1.0.dist-info/top_level.txt,sha256=ayDZHQlwy6OUFn7BOiD-w6ofBCT5OZ88rx8PJl2gAn8,15
+cvat_connector-0.1.0.dist-info/RECORD,,
