@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pip_sunshine_demo
+Version: 0.0.2
+Summary: A python package for demonstrating how to make pip
+Home-page: https://github.com/sunshinexcode/pip_demo
+Author: Sunshine
+Author-email: 24xinhui@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+
+# pip_demo
+test pip
+
+
