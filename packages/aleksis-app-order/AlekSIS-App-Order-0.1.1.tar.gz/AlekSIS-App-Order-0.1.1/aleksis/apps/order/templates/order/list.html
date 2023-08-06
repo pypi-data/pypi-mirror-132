@@ -1,0 +1,93 @@
+{% extends 'core/base.html' %}
+{% load i18n material_form %}
+{% load render_table from django_tables2 %}
+{% block page_title %}
+  {% trans "Order list" %}
+{% endblock %}
+{% block browser_title %}
+  {% trans "Order list" %}
+{% endblock %}
+
+{% block content %}
+  <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab">
+          <a href="#list">{% trans "List" %}</a>
+        </li>
+        <li class="tab">
+          <a href="#overview">{% trans "Overview" %}</a>
+        </li>
+      </ul>
+    </div>
+    <div id="overview">
+      <table>
+        <tr>
+          <th>{% trans "Order form" %}</th>
+          <th>{% trans "Item" %}</th>
+          <th>{% trans "Count" %}</th>
+          <th>{% trans "Sum" %}</th>
+        </tr>
+        {% for form in forms %}
+          <tr>
+            <th rowspan="{{ form.available_items.count|add:"2" }}">{{ form }}</th>
+            <td>{% trans "Sum" %}</td>
+            <td>{{ form.items_count }}</td>
+            <td>{{ form.total|floatformat:"2" }} €</td>
+          </tr>
+          {% for item in form.annotated_items %}
+            <tr>
+              <td>{{ item }}</td>
+              <td>{{ item.items_count }}</td>
+              <td>{{ item.items_total|floatformat:"2" }} €</td>
+            </tr>
+          {% endfor %}
+        {% endfor %}
+      </table>
+
+    </div>
+    <div id="list">
+      {% if filter %}
+        <form action="" method="get">
+          {% form form=filter.form %}{% endform %}
+          <button type="submit" class="btn waves-effect waves-light">
+            {% trans "Refresh filters" %}
+          </button>
+        </form>
+      {% endif %}
+      <form action="" method="post">
+        {% csrf_token %}
+        <input type="hidden" name="all-action" value="yes">
+        <p>
+          <button type="submit" class="btn waves-effect waves-green" value="yes" name="mark-as-paid">
+            <i class="material-icons left">attach_money</i> {% trans "Mark all as paid" %}
+          </button>
+          <button type="submit" class="btn waves-effect waves-green" name="mark-as-paid-email" value="yes">
+            <i class="material-icons left">attach_money</i>
+            {% trans "Mark all as paid and send pay confirmation" %}
+          </button>
+          <button type="submit" class="btn waves-effect waves-green" value="yes" name="mark-as-sent">
+            <i class="material-icons left">mail</i> {% trans "Mark all as sent" %}
+          </button>
+          <button type="submit" class="btn waves-effect waves-green" name="print" value="yes">
+            <i class="material-icons left">print</i>
+            {% trans "Print" %}
+          </button>
+          <button type="submit" class="btn waves-effect waves-green" name="labels" value="yes">
+            <i class="material-icons left">qr_code</i>
+            {% trans "Print labels" %}
+          </button>
+          <button type="submit" class="btn waves-effect waves-green" name="address-labels" value="yes">
+            <i class="material-icons left">label</i>
+            {% trans "Print address labels" %}
+          </button>
+          <button type="submit" class="btn waves-effect waves-green" name="packing-lists" value="yes">
+            <i class="material-icons left">print</i>
+            {% trans "Print packing lists" %}
+          </button>
+        </p>
+      </form>
+      {% render_table table %}
+    </div>
+  </div>
+{% endblock %}

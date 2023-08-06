@@ -1,0 +1,75 @@
+{# -*- engine:django -*- #}
+
+{% extends 'core/base_print.html' %}
+
+{% load i18n static %}
+
+{% block browser_title %}{% blocktrans %}Print: Order list{% endblocktrans %}{% endblock %}
+{% block page_title %}{% blocktrans %}Order list{% endblocktrans %}{% endblock %}
+
+{% block content %}
+  {% regroup object_list by form as form_list %}
+
+  {% for form in form_list %}
+    <h5>{{ form.grouper }}</h5>
+    <table>
+      <thead>
+      <tr>
+        <th>{% trans "Full name" %}</th>
+        <th>{% trans "Created at" %}</th>
+        <th rowspan="2"><i class="material-icons center">check</i></th>
+        <th rowspan="2"><i class="material-icons center">attach_money</i></th>
+        <th rowspan="2"><i class="material-icons center">mail</i></th>
+        <th>{% trans "Processing option" %}</th>
+        <th>{% trans "Items count" %}</th>
+      </tr>
+      <tr>
+        <th>{% trans "Email" %}</th>
+        <th>
+
+        </th>
+        <th>{% trans "Processing price" %}</th>
+        <th>{% trans "Total" %}</th>
+      </tr>
+      </thead>
+      <tbody>
+      {% for order in form.list %}
+        <tr>
+          <td>
+            <strong>{{ order.full_name }}</strong>
+          </td>
+          <td>
+            {{ order.created }}
+          </td>
+          <td rowspan="2"><i class="material-icons center">
+            {{ order.confirmed|yesno:"check,check_box_outline_blank" }}</i></td>
+          <td rowspan="2"><i class="material-icons center">{{ order.paid|yesno:"check,check_box_outline_blank" }}</i>
+          </td>
+          <td rowspan="2"><i class="material-icons center">{{ order.sent|yesno:"check,check_box_outline_blank" }}</i>
+          </td>
+          <td>{{ order.processing_option }}</td>
+          <td>{{ order.items_count }}</td>
+        </tr>
+        <tr>
+          <td class="small-print">{{ order.email }}</td>
+          <td class="small-print">{{ order.notes }}</td>
+          <td class="right-align">{{ order.processing_price|floatformat:"2" }} €</td>
+          <td class="right-align">{{ order.total|floatformat:"2" }} €</td>
+        </tr>
+        {% for item in order.items.all %}
+          <tr>
+            <td></td>
+            <td colspan="4" class="small-print">{{ item.count }} &times; {{ item.item.name }}</td>
+            <td class="right-align small-print">{{ item.item.price|floatformat:"2" }} €</td>
+            <td class="right-align small-print">{{ item.total|floatformat:"2" }} €</td>
+          </tr>
+        {% endfor %}
+        <tr>
+          <td colspan="7"></td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  {% endfor %}
+
+{% endblock %}

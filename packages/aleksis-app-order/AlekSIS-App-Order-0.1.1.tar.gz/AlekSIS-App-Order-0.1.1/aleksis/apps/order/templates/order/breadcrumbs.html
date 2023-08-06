@@ -1,0 +1,60 @@
+{% load i18n %}
+
+<style>
+    .breadcrumb, .breadcrumb:last-child, .breadcrumb .material-icons {
+        color: grey;
+    }
+
+    .breadcrumb div {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .breadcrumb .material-icons {
+        margin-right: 0;
+    }
+
+
+    .breadcrumb::before {
+        display: none;
+    }
+
+    .bread-icon {
+        font-size: 25px;
+        color: grey;
+        line-height: 1.5;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+</style>
+<div class="nav-wrapper" style="height: 65px;">
+  <div class="col s12 center" style=" display: flex; justify-content: center;">
+    <div class="breadcrumb {% if step == 1 %}primary-color-text{% else %}green-text{% endif %}">
+      <div>
+        <i class="material-icons {% if step == 1 %}primary-color-text{% else %}green-text{% endif %}">{% if step > 1 %}
+          check_circle{% else %}radio_button_unchecked{% endif %}</i>
+        {% trans "Select items" %}
+      </div>
+    </div>
+    <i class="material-icons bread-icon">chevron_right</i>
+    <div class="breadcrumb {% if step == 2 %}primary-color-text{% elif step > 2 %}green-text{% endif %}">
+      <div>
+        <i class="material-icons {% if step == 2 %}primary-color-text{% elif step > 2 %}green-text{% endif %}">
+          {% if step > 2 %}
+            check_circle{% else %}radio_button_unchecked{% endif %}</i>
+        {% trans "Select processing option" %}
+      </div>
+    </div>
+    <i class="material-icons bread-icon">chevron_right</i>
+    <div class="breadcrumb {% if step == 3 %}primary-color-text{% elif step > 3 %}green-text{% endif %}">
+      <div>
+        <i class="material-icons {% if step == 3 %}primary-color-text{% elif step > 3 %}green-text{% endif %}">
+          {% if step > 3 %}
+            check_circle{% else %}radio_button_unchecked{% endif %}</i>
+        {% trans "Confirm" %}
+      </div>
+    </div>
+  </div>
+</div>
