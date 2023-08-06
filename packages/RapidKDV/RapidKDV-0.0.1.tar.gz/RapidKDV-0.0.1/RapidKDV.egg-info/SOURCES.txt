@@ -1,0 +1,7 @@
+README.md
+setup.py
+RapidKDV.egg-info/PKG-INFO
+RapidKDV.egg-info/SOURCES.txt
+RapidKDV.egg-info/dependency_links.txt
+RapidKDV.egg-info/requires.txt
+RapidKDV.egg-info/top_level.txt

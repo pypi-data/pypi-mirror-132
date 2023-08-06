@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: RapidKDV
+Version: 0.0.1
+Summary: KDV
+Home-page: https://github.com/libkdv
+Author: Kerple GL Plugin
+Author-email: 123456@qq.com
+License: MIT Licence
+Description: An feature heatmap algorithm
+Keywords: pip,KDV,heatmap
+Platform: any
