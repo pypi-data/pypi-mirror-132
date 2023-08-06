@@ -1,0 +1,4 @@
+stdcom
+stdcomqt5
+stdcomqt5tree
+stdcomqt5treewidget
