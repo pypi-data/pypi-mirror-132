@@ -1,0 +1,5 @@
+setup.py
+tensorific.egg-info/PKG-INFO
+tensorific.egg-info/SOURCES.txt
+tensorific.egg-info/dependency_links.txt
+tensorific.egg-info/top_level.txt
