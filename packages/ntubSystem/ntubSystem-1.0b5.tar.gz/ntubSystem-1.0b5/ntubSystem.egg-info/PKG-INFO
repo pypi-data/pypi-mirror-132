@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: ntubSystem
+Version: 1.0b5
+Summary: NTUB 選課系統
+Home-page: https://github.com/321qwedsa000/ntubSystem
+Author: TecHaonical
+License: MIT
+Keywords: ntub
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
+
