@@ -1,0 +1,7 @@
+pandas>=1.0.0
+numpy
+jinja2
+
+[dev]
+pytest
+check-manifest
