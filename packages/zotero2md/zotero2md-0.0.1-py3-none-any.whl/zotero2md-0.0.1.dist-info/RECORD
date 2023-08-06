@@ -1,0 +1,10 @@
+zotero2md/__init__.py,sha256=9CSEf3VKHJrvATC58GtJAUteod7uBhVb15fdRhCNAOU,341
+zotero2md/generate.py,sha256=Lnd5aBPG3TSCt9nlOW3WwTk1q6XuRVCtLJYP7MGI470,568
+zotero2md/output_config.json,sha256=Zeq83ff-OE5bqjFA34sS9rsXzXUxUXGx2v-RaDJmgCg,170
+zotero2md/test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zotero2md/test/test_utils.py,sha256=pCEt8JxM86HJUNsqrqVGz2UTdv9z1yt4OghFepH64_s,200
+zotero2md/utils.py,sha256=1wnxHYqh_AWcftyTJS-dS7rxavJJq6WQ-46ql24N9Qc,690
+zotero2md/zotero.py,sha256=tZzvl29uqw6EFC4eVUO0tbKU6AgBnZwat2JNMNMn6h8,5839
+zotero2md-0.0.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+zotero2md-0.0.1.dist-info/METADATA,sha256=SL9r-DsbW1PislDTNwoynUNbJ2rbMBXKpTSH8BKuAC8,1787
+zotero2md-0.0.1.dist-info/RECORD,,
