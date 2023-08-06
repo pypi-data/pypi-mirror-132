@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: melange-logger
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/UC-Davis-Machine-Learning/tpc_logger
+Author: Nicholas Carrara
+Author-email: nmcarrara@ucdavis.edu
+License: UNKNOWN
+Download-URL: https://github.com/UC-Davis-Machine-Learning/tpc_logger/archive/refs/tags/0.0.1.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Provides-Extra: test

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+melange_logger.egg-info/PKG-INFO
+melange_logger.egg-info/SOURCES.txt
+melange_logger.egg-info/dependency_links.txt
+melange_logger.egg-info/not-zip-safe
+melange_logger.egg-info/requires.txt
+melange_logger.egg-info/top_level.txt
