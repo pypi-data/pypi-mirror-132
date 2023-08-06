@@ -1,0 +1,3 @@
+[console_scripts]
+mseed2mat=miniseed2mat.main:convertmseed2mat
+
