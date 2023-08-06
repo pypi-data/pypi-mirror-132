@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<scene xmlns="http://www.w3school.com.cn"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.w3school.com.cn ../file/xsd/scene.xsd">
+    <case id="01" name="案例调用示例">
+        <flow name="FlowDemo" param="1">
+            <set name="task_id"/>
+        </flow>
+        <interface name="InterfaceDemo" desc="接口调用示例">
+            <pre_processor>
+                <body name="taskId">${task_id}</body>
+            </pre_processor>
+            <post_processor>
+                <expect desc="断言返回值code等于00" type="res_data" act="equal" key="code">
+                    00
+                </expect>
+            </post_processor>
+        </interface>
+    </case>
+</scene>
