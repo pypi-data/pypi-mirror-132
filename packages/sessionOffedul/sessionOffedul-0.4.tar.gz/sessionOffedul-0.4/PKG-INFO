@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: sessionOffedul
+Version: 0.4
+Summary: This package supports flask and it is easy to use, it has the main scope to make Flask Session Managment more easy and customizable!
+Home-page: https://github.com/OffedulDev/session
+Author: OffedulDev
+Author-email: aloneforever.commercial@gmail.com
+License: MIT
+Download-URL: https://github.com/OffedulDev/session/archive/refs/tags/v_03.tar.gz
+Description: UNKNOWN
+Keywords: HELPFUL,EASY,CUSTOMIZABLE,FLASK
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
