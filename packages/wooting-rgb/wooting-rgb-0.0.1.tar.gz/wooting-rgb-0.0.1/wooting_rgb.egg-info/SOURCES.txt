@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+bin/wooting_rgb_reset.py
+wooting_rgb/__init__.py
+wooting_rgb/wooting_rgb.py
+wooting_rgb/wooting_rgb_wrapper.py
+wooting_rgb.egg-info/PKG-INFO
+wooting_rgb.egg-info/SOURCES.txt
+wooting_rgb.egg-info/dependency_links.txt
+wooting_rgb.egg-info/top_level.txt
