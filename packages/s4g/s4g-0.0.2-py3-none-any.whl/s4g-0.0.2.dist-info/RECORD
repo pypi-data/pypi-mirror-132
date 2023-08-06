@@ -1,0 +1,10 @@
+s4g/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+s4g/__main__.py,sha256=kgdaJIGacat4ZRL6mGYF4awTDGvoham1nO1ZjvlS5NA,258
+s4g/macrosub.py,sha256=axRB3BQcoImNV9NVULe4ObOzTkrrW5qGNMyenBAmzEs,495
+s4g/render.py,sha256=YkzWvkWfiMe18i0dR6GvSqWAmlddknR0XNQYLsx4UYU,3736
+s4g-0.0.2.dist-info/LICENSE,sha256=8jV9GFrGwTo-0Wspy3HeBMzyGXw9MbluiARdtyQFNUw,1055
+s4g-0.0.2.dist-info/METADATA,sha256=N7wpR3VDLyNDeEAdlU3rbcXd2Hn9ZrDZ790mkKTNdNQ,684
+s4g-0.0.2.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+s4g-0.0.2.dist-info/entry_points.txt,sha256=8Z3Hq_KaqB7FkYo0K3kR5Q_pULxLiPaipIUvFCs_hKI,61
+s4g-0.0.2.dist-info/top_level.txt,sha256=ITYSHKVqUq53PIx2K7QdvO-YZqO7asxMrb7rYoHrNVA,4
+s4g-0.0.2.dist-info/RECORD,,
