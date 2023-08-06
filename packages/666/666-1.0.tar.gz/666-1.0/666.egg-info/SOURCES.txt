@@ -1,0 +1,7 @@
+module_A.py
+module_A2.py
+setup.py
+666.egg-info/PKG-INFO
+666.egg-info/SOURCES.txt
+666.egg-info/dependency_links.txt
+666.egg-info/top_level.txt
