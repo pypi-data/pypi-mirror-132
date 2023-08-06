@@ -1,0 +1,7 @@
+tmux_schmooze/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tmux_schmooze/__main__.py,sha256=OJVm8XCF4W0KnYL_46aMsZIi4me4pnIDn1UTadpFozw,519
+tmux_schmooze/tmux.py,sha256=2PugL6vMJ78JR3fv-3zeXewRlwB1U46ma706d2hYU04,3086
+tmux_schmooze/ui.py,sha256=7-UBJTIoxEEX_k2VAdg5Imd1CnSiNeD8ijxrnHh5okY,8211
+tmux_schmooze-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+tmux_schmooze-0.1.0.dist-info/METADATA,sha256=3zlKWj86ZG-nLEXw51hLZ40a88M5WSC6TScnZAtTUGo,586
+tmux_schmooze-0.1.0.dist-info/RECORD,,
