@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: bubble_model
+Version: 0.1
+Summary: Simulation of taylor's bubble
+Home-page: https://github.com/user/reponame
+Author: Borja Garcia
+Author-email: borjagarmarpy@gmail.com
+License: MIT
+Download-URL: https://github.com/Borjapy/Taylor_Bubble/archive/refs/tags/v_01.tar.gz
+Description: UNKNOWN
+Keywords: Bubble,Taylor,Gas diffusion
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
