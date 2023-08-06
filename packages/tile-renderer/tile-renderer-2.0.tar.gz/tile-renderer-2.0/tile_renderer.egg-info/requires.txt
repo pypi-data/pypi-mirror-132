@@ -1,0 +1,7 @@
+pillow
+blessed
+pyautogui
+schema
+numpy
+click
+psutil
