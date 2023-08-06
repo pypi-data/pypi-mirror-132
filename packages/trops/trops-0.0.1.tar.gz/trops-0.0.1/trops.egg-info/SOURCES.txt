@@ -1,0 +1,8 @@
+README.md
+setup.py
+trops/trops.py
+trops.egg-info/PKG-INFO
+trops.egg-info/SOURCES.txt
+trops.egg-info/dependency_links.txt
+trops.egg-info/entry_points.txt
+trops.egg-info/top_level.txt
