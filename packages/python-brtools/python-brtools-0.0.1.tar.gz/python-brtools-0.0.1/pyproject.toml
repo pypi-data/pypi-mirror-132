@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "python-brtools"
+version = "0.0.1"
+description = "Validate CPF and CNPJ"
+authors = ["Drummerzzz <devdrummerzzz@gmail.com>"]
+keywords = ['cpf', 'cnpj', 'validador', 'validação', 'validation', 'validator', 'poetry']
+
+repository = "https://github.com/drummerzzz/pypi_brtools"
+homepage = "https://github.com/drummerzzz/pypi_brtools/README.md"
+
+readme = 'README.md'
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+validate-cpf="^0.1.2"
+validate-cnpj="^0.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
