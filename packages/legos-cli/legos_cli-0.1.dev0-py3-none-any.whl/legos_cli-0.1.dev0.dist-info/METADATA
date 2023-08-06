@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: legos-cli
+Version: 0.1.dev0
+Summary: Package providing cli tools for legos.
+Home-page: UNKNOWN
+Author: Bhavesh Pandey
+Author-email: bxpandey@pm.me
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: click
+Provides-Extra: dev
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-bdd ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+
+# legos-cli
+
+`legos-cli` provides cli tools for interacting with `legos` asset management system.
+
+
