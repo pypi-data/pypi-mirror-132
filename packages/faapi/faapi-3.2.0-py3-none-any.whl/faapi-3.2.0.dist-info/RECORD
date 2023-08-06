@@ -1,0 +1,13 @@
+faapi/__init__.py,sha256=dRJw0vN7mu6m-YltP7_dQVfhkM3FemvJndl9BbLrBXg,404
+faapi/__version__.py,sha256=OUX37Yd6ZO82d0GJL2dmK0gZTtc_xvlTvGQIl2I-D8k,22
+faapi/base.py,sha256=3owsKCnKXI1Zkg9LN6L5BSwan2iVGrYb-wmONRu5fOM,9724
+faapi/connection.py,sha256=iprzn5937JC5pRPAHMU-nc_ynzugD5Y86fMh1-o6FL0,2172
+faapi/exceptions.py,sha256=qMwyuS4tQ36pBhL-DpRj8c8isaRbaVvfKBAVJgRn5qM,390
+faapi/journal.py,sha256=QNvQH9nTKcdV53UbS_RWnVlMx0dOzsjspVdFTz_0iD8,2332
+faapi/parse.py,sha256=ahwffQFLj0hHl2Y9nfhFDJIxza9iHuPRyU6vi4f0cj0,13682
+faapi/submission.py,sha256=UYCJveBfY_o__1H1rPMYd2kZpsE6271lRGAjKtCuO8Q,4675
+faapi/user.py,sha256=su731ZMQrXIYyQQm1yjcZjEpDkC6-uGqiRB1A5fCFpg,3662
+faapi-3.2.0.dist-info/LICENSE,sha256=c2ntVF08uHnnUPiC857fMgIXYIsHHsm_OkGwqmYNV0o,13866
+faapi-3.2.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+faapi-3.2.0.dist-info/METADATA,sha256=1X0AXtl3a-4OJuLb2JbJ29zOBjmP-4eX0z2s3idOt0M,19782
+faapi-3.2.0.dist-info/RECORD,,
