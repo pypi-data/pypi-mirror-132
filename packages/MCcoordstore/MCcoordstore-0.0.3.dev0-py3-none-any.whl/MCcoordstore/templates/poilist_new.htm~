@@ -1,0 +1,29 @@
+{% extends "base.htm" %}
+
+
+{% block content %}
+
+
+<h2> List of POIs </h2>
+
+<div id="ajaxresult"> </div>
+
+<table class="poi_list" id="list_of_pois">
+
+</table>
+
+<script>
+  var glob;
+  
+  fetch("/api/poi",
+	{method: "GET",
+	 headers : {"Accept" : "application/vnd.api+json"},
+	 credentials : "same-origin"
+	}).then( response => response.json())
+    .then( x => glob = x);
+  
+</script>
+
+
+
+{% endblock %}
