@@ -1,0 +1,9 @@
+multiset_multicover/__init__.py,sha256=yvOyU2iDOU6agYldZKx5VyVI4ZUwiqfvMi-sxsJmYtw,1795
+multiset_multicover/_c_multiset_multicover.cp38-win_amd64.pyd,sha256=I3sW4mgCCJz8hGL4eqG54zkhN9LlV2wcwFvn6skuiP0,40448
+multiset_multicover/_c_multiset_multicover.pypy38-pp73-win_amd64.pyd,sha256=ngNTEfjWE3d0L3CN6v79yLygB_NfxHE1RQmHEVOBK2I,40448
+multiset_multicover/python_source.py,sha256=H5liJnRusHmkHLtK91b0YJHAVLmCOFDNW17FWiachF8,6348
+multiset_multicover-0.4.dist-info/LICENSE,sha256=XAlCcXfeKe1Q487aka9h0Z1CehceaT5EZ43PLyDz5xc,1067
+multiset_multicover-0.4.dist-info/METADATA,sha256=wg9mjO51h0JI-5Q0NMFDbqq3U5Qr8bnXy9XBX8HvEog,435
+multiset_multicover-0.4.dist-info/WHEEL,sha256=06TODGy9zsn9QCb4Oo1wjtnM2jOjgiTR78nw1cWltRU,107
+multiset_multicover-0.4.dist-info/top_level.txt,sha256=GhY5mcuT5OpvUDeGGkAEOF7_CsAhDStQOAaBVDghWdo,20
+multiset_multicover-0.4.dist-info/RECORD,,
