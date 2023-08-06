@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: droppy-bv
+Version: 1.0.1
+Summary: DR open library, related to waves and sea-keeping
+Home-page: https://github.com/BV-DR/droppy
+Author: DR
+Author-email: 
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+Requires-Dist: pandas (>=0.20)
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib (>=1.5)
+
+UNKNOWN
+
