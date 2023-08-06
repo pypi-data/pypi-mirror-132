@@ -1,0 +1,10 @@
+LICENSE.txt
+setup.cfg
+setup.py
+DifferentialEquations/DiffEq.py
+DifferentialEquations/__init__.py
+DifferentialEquations.egg-info/PKG-INFO
+DifferentialEquations.egg-info/SOURCES.txt
+DifferentialEquations.egg-info/dependency_links.txt
+DifferentialEquations.egg-info/not-zip-safe
+DifferentialEquations.egg-info/top_level.txt
