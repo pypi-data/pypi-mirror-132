@@ -1,0 +1,16 @@
+slip39/__init__.py,sha256=N23YM2Bvgy8yUH3TOI8FF8knyr-FTRR5N9vkb36NWFs,137
+slip39/__main__.py,sha256=ACpPOZ_nMQtk_dge2QUcBypDlYIuiR82isGChYNODlI,55
+slip39/api_test.py,sha256=NuUHKTa75vRPv3I4YIO-9hMN0KICXz51nmKIn3PCHG0,1691
+slip39/generate.py,sha256=NfOA80nPmokf9g9NDLm-i_00szZ_5WCoK8hCDOe-Gd0,3135
+slip39/generate_test.py,sha256=RopDLuYRC2V-zQXhjhqdJ0ASzBTfk2kHFyqosydHQ_E,2696
+slip39/main.py,sha256=tuBDJUgz2J5RKCBfr-x-JaOgP7Nnz7Vrcpyyyf6mORo,12304
+slip39/output_test.py,sha256=PJyhLsYT0OaKgd0V3A2Ssw0rnqP8Kj1l1_5uaCs2wRY,2022
+slip39/version.py,sha256=NhVe9G1fbeaSPF7AJAdchI2zp3MdhR01GT8D-CVRryY,88
+slip39-1.1.0.dist-info/COPYING,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+slip39-1.1.0.dist-info/LICENSE,sha256=_bRkPXlLg88OAntrnQ_O6v2dQRZDKixZslUxVZ7PFyo,1154
+slip39-1.1.0.dist-info/METADATA,sha256=AJ12RMx3p3494R9aA1dprVc_S7_WsrmfrjJrO_R0ID8,2293
+slip39-1.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+slip39-1.1.0.dist-info/entry_points.txt,sha256=_Q8YOSXQHnTyq57ud4DX2uS4cJ0r5-IYpknTeuXm1W0,45
+slip39-1.1.0.dist-info/top_level.txt,sha256=8zYEKG-Jb5yhLBK6oBu5Q-kUiNepGz19iK0WvYpKJV8,7
+slip39-1.1.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+slip39-1.1.0.dist-info/RECORD,,
