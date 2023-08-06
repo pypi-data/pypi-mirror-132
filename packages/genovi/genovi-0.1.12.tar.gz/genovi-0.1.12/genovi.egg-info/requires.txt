@@ -1,0 +1,17 @@
+BioPython>=1.79
+argparse
+cairosvg>=2.5.2
+deepnog>=1.2.3
+numpy>=1.20.2
+pandas>=1.2.4
+scikit-learn
+torch>=1.2.0
+tqdm>=4.35.0
+
+[dev]
+pytest-cov>=2
+pytest>=4
+
+[test]
+pytest-cov>=2
+pytest>=4
