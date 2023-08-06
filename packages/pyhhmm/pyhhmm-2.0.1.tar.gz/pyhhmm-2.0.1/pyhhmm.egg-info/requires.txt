@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+prettytable
+seaborn
+
+[test]
+pytest
