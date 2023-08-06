@@ -1,0 +1,10 @@
+pytest
+pytest-benchmark
+pre-commit
+pylint
+black
+psycopg2
+sqlalchemy
+pre-commit
+flupy
+isort
