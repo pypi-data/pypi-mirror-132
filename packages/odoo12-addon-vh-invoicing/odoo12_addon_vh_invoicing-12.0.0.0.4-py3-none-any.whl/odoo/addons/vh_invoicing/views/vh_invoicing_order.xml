@@ -1,0 +1,49 @@
+<odoo>
+  <data>
+
+    <record id="view_vh_invoicing_order_window" model="ir.actions.act_window">
+      <field name="name">Invoicing orders</field>
+      <field name="res_model">vh.invoicing.order</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <record id="view_vh_invoicing_order_tree" model="ir.ui.view">
+      <field name="name">vh.invoicing.order.tree</field>
+      <field name="model">vh.invoicing.order</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+        </tree>
+      </field>
+    </record>
+
+    <record id="view_vh_invoicing_order_form" model="ir.ui.view">
+      <field name="name">vh.invoicing.order.form</field>
+      <field name="model">vh.invoicing.order</field>
+      <field name="type">form</field>
+      <field name="arch" type="xml">
+        <form>
+          <sheet>
+            <notebook>
+              <page string="General">
+                <group>
+                  <field name="name" required="True"/>
+                  <field name="contact_group_id" required="True"/>
+                  <field name="account_journal_mids" required="True" domain="[('is_vh_journal','=',True)]"/>
+                </group>
+              </page>
+              <page string="Order items">
+                <group>
+                  <field name="order_item_ids" required="True" create="0"/>
+                </group>
+              </page>
+            </notebook>
+          </sheet>
+        </form>
+      </field>
+    </record>
+
+    <menuitem name="Invoicing orders" id="vh.invoicing_order_menu" 
+      parent="vh.menu_root" action="view_vh_invoicing_order_window" sequence="3"/>
+  </data>
+</odoo>

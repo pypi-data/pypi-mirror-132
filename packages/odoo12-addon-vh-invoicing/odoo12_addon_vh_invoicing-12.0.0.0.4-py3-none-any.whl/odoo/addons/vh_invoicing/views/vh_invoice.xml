@@ -1,0 +1,13 @@
+<odoo>
+  <data>
+
+    <record id="view_vh_invoice_window" model="ir.actions.act_window">
+      <field name="name">Invoices</field>
+      <field name="res_model">account.invoice</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <menuitem name="Invoices" id="vh.invoice_menu" 
+      parent="vh.menu_root" action="view_vh_invoice_window" sequence="5"/>
+  </data>
+</odoo>
