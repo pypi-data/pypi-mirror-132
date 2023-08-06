@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/transcli.egg-info/PKG-INFO
+src/transcli.egg-info/SOURCES.txt
+src/transcli.egg-info/dependency_links.txt
+src/transcli.egg-info/entry_points.txt
+src/transcli.egg-info/top_level.txt
