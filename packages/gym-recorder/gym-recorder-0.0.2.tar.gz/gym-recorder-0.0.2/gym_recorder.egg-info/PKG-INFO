@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: gym-recorder
+Version: 0.0.2
+Summary: A simple and ubiquitous transition recorder Gym wrapper for offline reinforcement learning.
+Home-page: https://github.com/bryanoliveira/gym-recorder
+Author: Bryan L M Oliveira
+Author-email: bryanlmoliveira@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/bryanoliveira/gym-recorder/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# gym-recorder
+A simple and ubiquitous transition recorder Gym wrapper for offline reinforcement learning.
+
+

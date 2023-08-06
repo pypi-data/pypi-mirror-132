@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+gym_recorder.egg-info/PKG-INFO
+gym_recorder.egg-info/SOURCES.txt
+gym_recorder.egg-info/dependency_links.txt
+gym_recorder.egg-info/requires.txt
+gym_recorder.egg-info/top_level.txt
