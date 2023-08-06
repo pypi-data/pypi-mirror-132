@@ -1,0 +1,2 @@
+global-include *.ini
+include *.md
