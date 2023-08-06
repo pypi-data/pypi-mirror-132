@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: operationprimos
+Version: 1.0
+Summary: Listado de primos entre 1 y N Valor
+Home-page: UNKNOWN
+Author: Fabio Velazquez
+Author-email: velazquezgsi@gmail.com
+License: GNU GPLv3
+Keywords: operational mathematical numbers
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+
+file: README.md
+
+
