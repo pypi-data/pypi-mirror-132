@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+komlib/__init__.py
+komlib/test.py
+komlib.egg-info/PKG-INFO
+komlib.egg-info/SOURCES.txt
+komlib.egg-info/dependency_links.txt
+komlib.egg-info/top_level.txt
+komlib/aws/__init__.py
+komlib/aws/dynamo.py
+komlib/aws/s3.py
+komlib/aws/sqs.py
