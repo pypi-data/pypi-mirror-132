@@ -1,0 +1,10 @@
+hatch_containers/__about__.py,sha256=5K28xN02AyqGaC2IfCCeW9LSEhJQvUq3OPnl4W4DHRQ,116
+hatch_containers/__init__.py,sha256=SnqyexerOAwtyoBgJiHYrEEn5N-QRT1miZRN1pkADP0,96
+hatch_containers/dockerfile.py,sha256=Rq8hUvwj4SGKQ6eyDqPDbSpHEU2k6tXYQnjexV5royg,947
+hatch_containers/hooks.py,sha256=xlsnx-fcKK7VIyyYpFWgaxmMWpznO-QuheJSG999ruI,254
+hatch_containers/plugin.py,sha256=Iw7bW1uSS-vpnG_YQ7ho9HO3r3F0YgvW_J6PcxVfaVo,9975
+hatch_containers-0.1.dist-info/license_files/LICENSE.txt,sha256=fxQ6gSetSHOGLXCFS1vSq9AIWqc-ZP0rCHBKO59cB_w,1088
+hatch_containers-0.1.dist-info/METADATA,sha256=guon_hXzE-4LAZ5Gy69K6iSW3RI0zjDzfCnb_TD9aDE,5194
+hatch_containers-0.1.dist-info/WHEEL,sha256=fK7NJgMwyM7guSrqhk196nqdcuwayb3xx7MzuNDcbW8,80
+hatch_containers-0.1.dist-info/entry_points.txt,sha256=0JYJKUU0Degfl4DLsyOJXhFVMtVjDr9RRlHREfw5-14,44
+hatch_containers-0.1.dist-info/RECORD,,
