@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+keyringpy.egg-info/PKG-INFO
+keyringpy.egg-info/SOURCES.txt
+keyringpy.egg-info/dependency_links.txt
+keyringpy.egg-info/requires.txt
+keyringpy.egg-info/top_level.txt
