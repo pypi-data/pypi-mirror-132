@@ -1,0 +1,26 @@
+aenum
+backoff
+cachetools
+certifi
+deprecation
+funcsigs
+inflection
+lmfit<=1.0.2
+more_itertools
+msgpack
+nest-asyncio
+pandas<=1.2.4
+pydash
+python-dateutil>=2.7.0
+requests
+statsmodels<0.13.0,>=0.11.1
+tqdm
+websockets
+
+[:python_version < "3.7"]
+dataclasses
+scipy<=1.6.0,>=1.2.0
+typing
+
+[:python_version > "3.6"]
+scipy>=1.2.0

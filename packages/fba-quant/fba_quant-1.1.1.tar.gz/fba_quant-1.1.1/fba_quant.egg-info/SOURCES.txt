@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+fba_quant.egg-info/PKG-INFO
+fba_quant.egg-info/SOURCES.txt
+fba_quant.egg-info/dependency_links.txt
+fba_quant.egg-info/requires.txt
+fba_quant.egg-info/top_level.txt

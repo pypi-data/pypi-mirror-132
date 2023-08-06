@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: fba_quant
+Version: 1.1.1
+Summary: FBA Quant
+Home-page: https://github.com/fbaquant/fba-quant
+Author: FBA Quant
+Author-email: fbaquant@gmail.com
+License: http://www.apache.org/licenses/LICENSE-2.0
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# FBA Quant
+
+**FBA-Quant** is a Python toolkit for quantitative finance, which is created by quantitative developers at FBA Quant to provide access to derivatives pricing and risk management. FBA-Quant can also be used to accelerate the development of quantitative trading strategies, analyze derivative products, and backtest portfolio management solutions as a set of statistical packages for data analytics applications.
+
+## Requirements
+
+* Python 3.6 or greater
+* Access to PIP package manager
+
+## Installation
+
+```
+pip install fba-quant
+```
+
+## Help
+
+Please reach out to `fbaquant@gmail.com` with any questions, comments or feedback.
+
+
