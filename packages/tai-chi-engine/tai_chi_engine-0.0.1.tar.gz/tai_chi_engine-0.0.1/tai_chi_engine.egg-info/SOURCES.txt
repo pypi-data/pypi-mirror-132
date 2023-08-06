@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+tai_chi/__init__.py
+tai_chi/enrich/__init__.py
+tai_chi/enrich/basic.py
+tai_chi/enrich/file.py
+tai_chi/quantify/__init__.py
+tai_chi_engine.egg-info/PKG-INFO
+tai_chi_engine.egg-info/SOURCES.txt
+tai_chi_engine.egg-info/dependency_links.txt
+tai_chi_engine.egg-info/requires.txt
+tai_chi_engine.egg-info/top_level.txt
