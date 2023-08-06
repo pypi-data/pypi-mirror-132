@@ -1,0 +1,12 @@
+local_judge/__init__.py,sha256=9b7LXQpVu2i9ejqCFT5Dj5_nx9SmOZkHzKjFD5aH8jY,1136
+local_judge/error_handler.py,sha256=0mVX1Bw_J0WV4wSISgrYWPibo3FMtLeQu6sPqGNEe24,2482
+local_judge/judge.py,sha256=YnWEIpZurZ47ouBprqBYOq8AA8KNEObjgB-IAa_htSA,16740
+local_judge/ta_judge.py,sha256=YkSSyxd2lsjK0GLknadAUDnI6g_tbAYN15kTXPpC49A,15082
+local_judge/utils.py,sha256=eMhEkKkQAuHuI4uQYwPjKIhBLHJq2s2XxcfjRDLenwU,2077
+local_judge/version.py,sha256=OvrODeLmSM5W1lhKDNy7tKhXOPcthvlV06aA37IGels,1125
+local_judge-2.6.0.dist-info/LICENSE,sha256=B8iBnS7xD8_mlrkXTKrkxSnLLZ9ZEq-NOFf1Ybfpky0,1071
+local_judge-2.6.0.dist-info/METADATA,sha256=ovz4JPtVPylW-pYEQamfbFBM8LRu_tByeT00PHkEXIQ,6143
+local_judge-2.6.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+local_judge-2.6.0.dist-info/entry_points.txt,sha256=SIRH16GdQF98rqLFG7SQXwe9HkNugwuryCFXetLUF2E,87
+local_judge-2.6.0.dist-info/top_level.txt,sha256=VVTkjx9VklArG2-vxUfv_6dzs31024DK_eyNilRtg9Q,12
+local_judge-2.6.0.dist-info/RECORD,,
