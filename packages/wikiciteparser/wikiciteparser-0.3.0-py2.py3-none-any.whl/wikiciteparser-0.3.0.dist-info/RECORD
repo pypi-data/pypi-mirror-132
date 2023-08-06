@@ -1,0 +1,11 @@
+wikiciteparser/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wikiciteparser/bulk.py,sha256=HsW-fVfEYKxMrQuQ5JAk359kKDf3u7k_XjhsTG_zMXU,2557
+wikiciteparser/cs1.lua,sha256=dibhY9RagIyD_cylUE_9hzE288vML0jZa_or-9K5BFU,307847
+wikiciteparser/parser.py,sha256=kTzmg0cCE7KL55i4rzyRHXXotSNMyqfFbnBmDLm2WQE,4719
+wikiciteparser/tests.py,sha256=rXm8_2z0IBTZ9HyDsv_Dqh8gnzFPRTdQeh2UhBfYXGg,10526
+wikiciteparser/en/__init__.py,sha256=Sdfb4D4CSVSYBAX_CktLM1Ia-ReamTj9jVyBeBCnBPg,1511
+wikiciteparser/it/__init__.py,sha256=gdre7etlE5zBwcPkUh0oGzLZ7w6QJK_lKTnp4vb4Wac,171
+wikiciteparser-0.3.0.dist-info/METADATA,sha256=VC7RlTS2YD-6Dfpn6cCxd9toKc7wcSFP1LXa4voL4Mo,5851
+wikiciteparser-0.3.0.dist-info/WHEEL,sha256=_wJFdOYk7i3xxT8ElOkUJvOdOvfNGbR9g-bf6UQT6sU,110
+wikiciteparser-0.3.0.dist-info/top_level.txt,sha256=6x3VL1j-t9GUpsHT6-8Ey0xob47u0NYJnM03ZPrkRog,15
+wikiciteparser-0.3.0.dist-info/RECORD,,
