@@ -1,0 +1,12 @@
+local_judge/__init__.py,sha256=Jzb_RfgvXCrm_SQ4AfeGVi1N36YybxnM5mpyxrnihgI,33
+local_judge/error_handler.py,sha256=iHk7OrwlIiwi7stqwOuYVxeO8l9pTJGbIGL6euR8DMI,1379
+local_judge/judge.py,sha256=PpIz312MVcisXTXzbS5vc1kyg8fbVgoG5Qsif3hiprk,16500
+local_judge/ta_judge.py,sha256=0rZtsJzq27TSv1zpoLa37d7up0DNArCGysV35LVNVNc,15050
+local_judge/utils.py,sha256=wbGykUNlIGAjcaL4lASdqtRZypxs_YYeO6FyJVi8xQk,974
+local_judge/version.py,sha256=fMbNgIJqxiZEaSBLadLBt4rZpCHqarzb4Okt-aWsp2E,22
+local_judge-2.5.0.dist-info/LICENSE,sha256=B8iBnS7xD8_mlrkXTKrkxSnLLZ9ZEq-NOFf1Ybfpky0,1071
+local_judge-2.5.0.dist-info/METADATA,sha256=eaSqIhEWqjCn7lECSoojMavew1-et8PQVxxr8lneZHs,5998
+local_judge-2.5.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+local_judge-2.5.0.dist-info/entry_points.txt,sha256=SIRH16GdQF98rqLFG7SQXwe9HkNugwuryCFXetLUF2E,87
+local_judge-2.5.0.dist-info/top_level.txt,sha256=VVTkjx9VklArG2-vxUfv_6dzs31024DK_eyNilRtg9Q,12
+local_judge-2.5.0.dist-info/RECORD,,
