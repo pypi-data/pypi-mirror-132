@@ -1,0 +1,5 @@
+nltk
+psutil
+psycopg2-binary
+matplotlib
+prettytable
