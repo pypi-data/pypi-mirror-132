@@ -1,0 +1,8 @@
+
+[docs]
+Sphinx>=4
+
+[test]
+covdefaults>=2
+pytest>=6
+pytest-cov>=3
