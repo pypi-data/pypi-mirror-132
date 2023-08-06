@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+NovokhatniyV_numerical_methods/Mylibrary.py
+NovokhatniyV_numerical_methods/__init__.py
+NovokhatniyV_numerical_methods.egg-info/PKG-INFO
+NovokhatniyV_numerical_methods.egg-info/SOURCES.txt
+NovokhatniyV_numerical_methods.egg-info/dependency_links.txt
+NovokhatniyV_numerical_methods.egg-info/not-zip-safe
+NovokhatniyV_numerical_methods.egg-info/top_level.txt
