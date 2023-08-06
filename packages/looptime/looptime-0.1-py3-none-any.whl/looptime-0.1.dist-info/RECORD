@@ -1,0 +1,15 @@
+looptime/__init__.py,sha256=xDfdZVz49skblf5TGh9PfPG1EDS8VZnHOLKDft_hiWM,465
+looptime/chronometers.py,sha256=AgLYweIq-bjfxhR0Qqt0QOXrKR48fornjEIhNMrycOo,1803
+looptime/loops.py,sha256=dREp8usEU3Bdt8VhGGmjji9lZ0ud0djTQ8VCr66eabg,14706
+looptime/math.py,sha256=fgtKLHWry7ivZNHHqakUcK_A-YP2nTVpZ1yZfMm0Y-M,3598
+looptime/patchers.py,sha256=T8eDCyf7bPGAKm1cMbi6V3xTtH7VbJpYgB_kDIr6tOw,1252
+looptime/plugin.py,sha256=Cspm-sTZ3q6K9gX0K0Jinr8CxOBBrHmdo52kyMz2ZCI,1818
+looptime/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+looptime/timeproxies.py,sha256=9E5pFcwMv4Rr2K7bqOa0ucfdXbUib7C9122WKIf6pNk,1024
+looptime-0.1.dist-info/LICENSE,sha256=QBTPjghK-H2Ctv9yejhXyT3zrf6HTKCETMQaOGotl28,1091
+looptime-0.1.dist-info/METADATA,sha256=KbbgHMn3IfOHqG0qLGKeFFlNriGJwABxWkHEnF9PkEw,23800
+looptime-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+looptime-0.1.dist-info/entry_points.txt,sha256=KiodpY8Q7SvZrrbmSWbck3HTB65NYJQkIA0wij4bjQ4,136
+looptime-0.1.dist-info/top_level.txt,sha256=S4Ty0YHUCB1cf-PE5YiskuOSiMctlsLrUp3c2Yywzz4,9
+looptime-0.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+looptime-0.1.dist-info/RECORD,,
