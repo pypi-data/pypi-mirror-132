@@ -1,0 +1,10 @@
+mopidy_listenbrainz/__init__.py,sha256=s9jPOofxjraYsrXHibG8HudzOt_M_bZCvyj5oCaoXeA,702
+mopidy_listenbrainz/ext.conf,sha256=nxDupboxhh_4Wkkl_yPIcQd8OZv2Bq4KyC3667Nc_XM,66
+mopidy_listenbrainz/frontend.py,sha256=0UpcztnV513Bi5xqR2i5c4Y56G721JoglNlC7OdQl2A,2060
+mopidy_listenbrainz/listenbrainz.py,sha256=wbRRZiPb-JnxAIA-UmRCrC27OMSE3IuVbdT6ajhmK0k,2048
+Mopidy_Listenbrainz-0.1.0.dist-info/LICENSE,sha256=WNHhf_5RCaeuKWyq_K39vmp9F28LxKsB4SpomwSZ2L0,11357
+Mopidy_Listenbrainz-0.1.0.dist-info/METADATA,sha256=GXEBlrRAsP1J-VNDlXCdAt8S1hOeedhBnUEd56ZMZSs,4024
+Mopidy_Listenbrainz-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+Mopidy_Listenbrainz-0.1.0.dist-info/entry_points.txt,sha256=YQ7GeNbVYPCEXVvHArcZ2JhaW1hhIYJj2HT3mLZbEYA,59
+Mopidy_Listenbrainz-0.1.0.dist-info/top_level.txt,sha256=NzTb7H7gq0ic9pDA1QunHUhjxkeFoAuPtVJoYTtH7Fs,20
+Mopidy_Listenbrainz-0.1.0.dist-info/RECORD,,
