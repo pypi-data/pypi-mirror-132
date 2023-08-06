@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: datetime-helpers
+Version: 0.0.2
+Summary: Util for working with date and datetime objects
+Home-page: https://github.com/DeveloperRSquared/datetime-helpers/
+License: MIT LICENSE
+Project-URL: Documentation, https://github.com/DeveloperRSquared/datetime-helpers#datetime-helpers
+Project-URL: Funding, https://www.paypal.com/paypalme/rikhilrai
+Project-URL: Repository, https://github.com/DeveloperRSquared/datetime-helpers/
+Project-URL: Source, https://github.com/DeveloperRSquared/datetime-helpers/
+Project-URL: Tracker, https://github.com/DeveloperRSquared/datetime-helpers/issues
+Keywords: date,datetime,api,web,rest,python
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Typing :: Typed
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# datetime-helpers
+
+
