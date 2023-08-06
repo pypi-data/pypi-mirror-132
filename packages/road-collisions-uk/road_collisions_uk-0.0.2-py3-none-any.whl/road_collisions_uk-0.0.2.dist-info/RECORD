@@ -1,0 +1,14 @@
+road_collisions_uk/__init__.py,sha256=wtTD_I5Id_HIXwRYwOeMRIpmK4mvjLfi46fWL03PuCI,89
+road_collisions_uk/download.py,sha256=_eAVmQvr-VUCCajSiP7KMt5ZoCi_u50KwWkPhX0PbmA,1126
+road_collisions_uk/utils.py,sha256=bBgtkDxUoxoWroR4Qh4n4McY41bTEt5xi0tF24Nr4DY,162
+road_collisions_uk/bin/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+road_collisions_uk/bin/load.py,sha256=VOiMJi5JDh6FkMpZ_D_TZRXJ9ELlQmJadTN0-ZeaF7E,472
+road_collisions_uk/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+road_collisions_uk/models/casualty.py,sha256=8theIzsVgpik_1RTcAtUy2J9UMyO7gZ6Vwc70pgGDV0,3593
+road_collisions_uk/models/collision.py,sha256=jzeWXtNbC0kIN6Ra-agY4Zd2YTk49N3Qey49p790jsk,11303
+road_collisions_uk/models/vehicle.py,sha256=eIgDxeRsHLj6VYWiV3kxxoCW4qfTfcrpWwkB_vQi0F8,5137
+road_collisions_uk-0.0.2.dist-info/METADATA,sha256=NaHjQEG4ySkHIlgXvdqJ9nv6LevDRC8h_-TVB8bG3TM,309
+road_collisions_uk-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+road_collisions_uk-0.0.2.dist-info/entry_points.txt,sha256=D2YS_UC8vX0nXIjcgIUjsRlH8hv6_WuF7UFh3Y6nhOA,78
+road_collisions_uk-0.0.2.dist-info/top_level.txt,sha256=db0djMLymalUdbVfKPs7gBZs--Knup0hx_FgT2iuqmE,19
+road_collisions_uk-0.0.2.dist-info/RECORD,,
