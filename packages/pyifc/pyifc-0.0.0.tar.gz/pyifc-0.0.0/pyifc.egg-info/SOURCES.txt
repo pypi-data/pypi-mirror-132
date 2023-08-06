@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+pyifc/__init__.py
+pyifc.egg-info/PKG-INFO
+pyifc.egg-info/SOURCES.txt
+pyifc.egg-info/dependency_links.txt
+pyifc.egg-info/requires.txt
+pyifc.egg-info/top_level.txt
+pyifc/compare/__init__.py
+pyifc/compress/__init__.py
+pyifc/count/__init__.py
+pyifc/modify/__init__.py
