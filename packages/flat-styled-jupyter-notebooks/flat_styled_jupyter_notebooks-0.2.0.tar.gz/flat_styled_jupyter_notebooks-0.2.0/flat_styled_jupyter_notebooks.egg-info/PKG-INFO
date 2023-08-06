@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: flat-styled-jupyter-notebooks
+Version: 0.2.0
+Summary: Removes shadows from jupyter notebook to create a flat styled experience.
+Home-page: https://github.com/Rutger0000/flat_styled_jupyter_notebooks
+Author: Rutger Berns
+Author-email: rutgerb0000@gmail.com
+License: MIT license
+Description: ## Flat styled Jupyter Notebooks
+        
+        Removes shadows from Jupyter Notebook to create a flat styled experience.
+        
+        
+        Usage:
+        
+        ```python
+        import flat_styled_jupyter_notebooks
+        
+        # This will change the Jupyter Notebook into a flat styled notebook.
+        flat_styled_jupyter_notebooks.set_style()
+        ```
+        
+        More information on:
+        
+        [GitHub](https://github.com/Rutger0000/flat_styled_jupyter_notebooks)
+        
+        [PyPi](https://pypi.org/project/flat-styled-jupyter-notebooks)
+        
+        ### Features
+        
+        * Free software: MIT license
+        
+        ### Credits
+        
+        This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+        
+        * [Cookiecutter](https://github.com/audreyr/cookiecutter)
+        * [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage)
+        
+Keywords: flat_styled_jupyter_notebooks
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
