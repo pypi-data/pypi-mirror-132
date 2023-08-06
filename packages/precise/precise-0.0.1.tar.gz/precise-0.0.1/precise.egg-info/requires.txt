@@ -1,0 +1,3 @@
+vectorbt
+yfinance
+quantstats
