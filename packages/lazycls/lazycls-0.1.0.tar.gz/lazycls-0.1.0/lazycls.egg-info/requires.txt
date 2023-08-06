@@ -1,0 +1,6 @@
+pydantic
+orjson
+pyyaml
+pysimdjson
+dill
+aiofiles
