@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "verseml"
+version = "0.1.0"
+description = ""
+authors = ["camjw <camjw119@gmail.com>"]
+
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/verseml/verseml"
+repository = "https://github.com/verseml/verseml"
+keywords = ["ML", "training", "deployment"]
+classifiers = [
+]
+include = [
+    "LICENSE",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[tool.poetry.scripts]
+verse = 'verseml:main'
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
