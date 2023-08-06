@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: runsheetGen
+Version: 0.1.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Clay Wood
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: pandas (>=1.1.1)
+Requires-Dist: numpy (>=1.10.0)
+
+UNKNOWN
+
