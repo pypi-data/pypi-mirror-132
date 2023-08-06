@@ -1,0 +1,6 @@
+[console_scripts]
+atus = main:main
+
+[gui_scripts]
+atus = main:main
+
