@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: coreml_pytorch_utils
+Version: 0.1.0
+Summary: Coreml utils that helps export pytorch based models
+License: EUPL-1.2
+Author-email: machineko <machineko@protonmail.com>
+Requires-Python: >=3.9
+Requires-Dist: coremltools>=5.0
+Requires-Dist: future
+Project-URL: homepage, https://github.com/machineko/coreml_torch_utils
