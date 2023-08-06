@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: MorEpiSim
+Version: 0.0.1
+Summary: a Reinforcement Learning based Epidemic control simulation environment
+Home-page: UNKNOWN
+Author: M.A.CHADI
+Author-email: m.aminechadi@gmail.com
+License: MIT
+Keywords: RL_based_Epidemic_control
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+
+PyEpiTool Tutorial 
+------------------
+
+-  link: https://amine179.github.io// 
+
+
+
+

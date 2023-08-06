@@ -1,0 +1,13 @@
+README.rst
+setup.py
+MorEpiSim/IRD.py
+MorEpiSim/graph.py
+MorEpiSim/scores.py
+MorEpiSim/the_env.py
+MorEpiSim/the_env_old.py
+MorEpiSim/the_env_test.py
+MorEpiSim.egg-info/PKG-INFO
+MorEpiSim.egg-info/SOURCES.txt
+MorEpiSim.egg-info/dependency_links.txt
+MorEpiSim.egg-info/requires.txt
+MorEpiSim.egg-info/top_level.txt
