@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rasptube
+Version: 1.0.2
+Summary: a module that creates Youtube links that are capable of running on the raspberry pi
+Home-page: UNKNOWN
+Author: Walter James Hare
+License: UNKNOWN
+Keywords: youtube raspberrypi raspberry pi link url compatable
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+License-File: LICENSE.txt
+
+UNKNOWN
+
