@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pymeli/__init__.py
+pymeli/pymeli.py
+pymeli.egg-info/PKG-INFO
+pymeli.egg-info/SOURCES.txt
+pymeli.egg-info/dependency_links.txt
+pymeli.egg-info/top_level.txt
