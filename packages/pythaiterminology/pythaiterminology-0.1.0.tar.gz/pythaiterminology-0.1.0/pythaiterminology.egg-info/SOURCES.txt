@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+pythaiterminology.egg-info/PKG-INFO
+pythaiterminology.egg-info/SOURCES.txt
+pythaiterminology.egg-info/dependency_links.txt
+pythaiterminology.egg-info/top_level.txt
