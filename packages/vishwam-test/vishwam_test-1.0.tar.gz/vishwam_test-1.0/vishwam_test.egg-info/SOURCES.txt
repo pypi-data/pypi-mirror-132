@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+square/__init__.py
+square/main.py
+vishwam_test.egg-info/PKG-INFO
+vishwam_test.egg-info/SOURCES.txt
+vishwam_test.egg-info/dependency_links.txt
+vishwam_test.egg-info/entry_points.txt
+vishwam_test.egg-info/top_level.txt
