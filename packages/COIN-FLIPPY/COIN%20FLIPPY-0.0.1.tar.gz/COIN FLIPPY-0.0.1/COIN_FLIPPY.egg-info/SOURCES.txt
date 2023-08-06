@@ -1,0 +1,9 @@
+README.md
+setup.py
+COIN_FLIPPY.egg-info/PKG-INFO
+COIN_FLIPPY.egg-info/SOURCES.txt
+COIN_FLIPPY.egg-info/dependency_links.txt
+COIN_FLIPPY.egg-info/requires.txt
+COIN_FLIPPY.egg-info/top_level.txt
+libname/COINFLIPPY.py
+libname/__init__.py
