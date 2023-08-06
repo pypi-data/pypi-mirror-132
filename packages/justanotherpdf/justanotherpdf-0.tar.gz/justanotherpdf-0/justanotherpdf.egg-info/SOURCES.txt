@@ -1,0 +1,9 @@
+README.md
+setup.py
+firstpdfproject/__init__.py
+firstpdfproject/pdf2image.py
+firstpdfproject/pdf2text.py
+justanotherpdf.egg-info/PKG-INFO
+justanotherpdf.egg-info/SOURCES.txt
+justanotherpdf.egg-info/dependency_links.txt
+justanotherpdf.egg-info/top_level.txt
