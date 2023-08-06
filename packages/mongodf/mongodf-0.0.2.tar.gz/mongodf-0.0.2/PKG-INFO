@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: mongodf
+Version: 0.0.2
+Summary: UNKNOWN
+Home-page: https://github.com/VK/mongodf
+License: MIT
+Keywords: mongoDB pandas dataframe filter
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# MongoDf
+
+[![Python Package](https://github.com/VK/mongodf/actions/workflows/python-publish.yml/badge.svg)](https://github.com/VK/mongodf/actions/workflows/python-publish.yml)
+[![PyPI](https://img.shields.io/pypi/v/mongodf?logo=pypi)](https://pypi.org/project/mongodf)
+
+A mongoDB to pandas DataFrame converter with a pandas filter style.
+
