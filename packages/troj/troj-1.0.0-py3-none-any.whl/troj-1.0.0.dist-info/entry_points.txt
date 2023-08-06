@@ -1,0 +1,3 @@
+[console_scripts]
+troj = trojai.cmd.troj:main
+
