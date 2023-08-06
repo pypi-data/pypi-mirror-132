@@ -1,0 +1,14 @@
+table_step/__init__.py,sha256=_Z63AqFMXm4UDCzjsmcxHDx001UUR0tK_UYDVukA4J4,659
+table_step/_version.py,sha256=3bFVKH6R4ejkNec_LxV_qPaW8nqRBLFDZ-gSxm5iY1A,502
+table_step/table.py,sha256=oJKn7S453_BwVKjuc6-PpvDtU-qwGvDBFI-XxpI--KM,22951
+table_step/table_parameters.py,sha256=WyIVw_pTDKtxAJC0dZCf8xxJ3b5XTchMa_z5J0eonk4,4029
+table_step/table_step.py,sha256=uNtRYFDTBuJNNMys2GUxHebuuqBSFIZBeHkeMLssQk8,1632
+table_step/tk_table.py,sha256=Vv0Fj6afbLurhdzRYSctgOr2lUriXe4g6UbeUaAT19g,13277
+table_step-2021.12.22.dist-info/AUTHORS.rst,sha256=HKy1QAUcENUPZZIAeLClJTLLQ0m438MWROo7bvLs41Q,126
+table_step-2021.12.22.dist-info/LICENSE,sha256=jYV8lYIj_Lo0StOE2Hgkv9HNXhv--ARGPxQELEj4Ilc,1540
+table_step-2021.12.22.dist-info/METADATA,sha256=v3F3uMYMVi-cAk6U6_26kFLwdq0DXVDGt1G6QCXhmco,4290
+table_step-2021.12.22.dist-info/WHEEL,sha256=WzZ8cwjh8l0jtULNjYq1Hpr-WCqCRgPr--TX4P5I1Wo,110
+table_step-2021.12.22.dist-info/entry_points.txt,sha256=ZGowredMhL4KfxPKZS31MKzT0Ok12Ehk_2OleWmJfy0,101
+table_step-2021.12.22.dist-info/top_level.txt,sha256=CVg2iJYSbmKKHGk2HeybSa-Zpruei2br8YROIlQIvT4,11
+table_step-2021.12.22.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+table_step-2021.12.22.dist-info/RECORD,,
