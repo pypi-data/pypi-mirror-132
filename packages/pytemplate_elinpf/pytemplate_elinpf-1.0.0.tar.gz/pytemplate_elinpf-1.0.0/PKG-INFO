@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pytemplate_elinpf
+Version: 1.0.0
+Summary: 用于将模板生成器模块化
+Home-page: https://github.com/Elinpf/pytemplate
+Author: elin
+Author-email: elin365433079@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6

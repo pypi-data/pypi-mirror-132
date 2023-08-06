@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/pytemplate/__init__.py
+src/pytemplate/main.py
+src/pytemplate_elinpf.egg-info/PKG-INFO
+src/pytemplate_elinpf.egg-info/SOURCES.txt
+src/pytemplate_elinpf.egg-info/dependency_links.txt
+src/pytemplate_elinpf.egg-info/requires.txt
+src/pytemplate_elinpf.egg-info/top_level.txt
+test/test_main.py
