@@ -1,0 +1,7 @@
+#!python
+# pragma: no cover
+
+import polidoro_install
+
+print(polidoro_install.__path__)
+polidoro_install.main()
