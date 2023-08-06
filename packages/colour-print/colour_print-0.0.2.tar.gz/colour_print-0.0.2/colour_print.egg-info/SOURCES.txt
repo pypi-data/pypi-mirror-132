@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+colour_print/__init__.py
+colour_print/cp.py
+colour_print.egg-info/PKG-INFO
+colour_print.egg-info/SOURCES.txt
+colour_print.egg-info/dependency_links.txt
+colour_print.egg-info/top_level.txt
