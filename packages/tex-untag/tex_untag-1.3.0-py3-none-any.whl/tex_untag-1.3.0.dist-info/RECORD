@@ -1,0 +1,10 @@
+tex_untag/__init__.py,sha256=vSVKMY-EQlwtqqb7vcl5oytog_2V85gSRLr22m9QwOE,604
+tex_untag/__main__.py,sha256=L2ubunx1R46BgbO4sAFyFeMT1Hzeo0lxv2T3BBsFS6Q,62
+tex_untag/_version.py,sha256=CT6au3gbYCOwROT_Aknn8ZW607mcgc9pJF7FBhEhgoQ,118
+tex_untag/tex_untag.py,sha256=CGMDvyiafA3oiGmKTx8_J1fBOWuH4Mqw_p6RfVeUgm4,10533
+tex_untag-1.3.0.dist-info/LICENSE,sha256=zJL8veTB6h7IGdGvk1L6iNRpIOtr4UMguHsvqfY7GOk,1088
+tex_untag-1.3.0.dist-info/METADATA,sha256=uP7Rwn-6ylTLqcZPNDMKsCAg_wOTFvsevEaIaIMfPwk,5381
+tex_untag-1.3.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tex_untag-1.3.0.dist-info/entry_points.txt,sha256=3LPSqzOTtEsc0f8jY8i-5JGxW4gAjwgCNvBf_22qhbM,46
+tex_untag-1.3.0.dist-info/top_level.txt,sha256=_plfP0XdeO2pC3OYO-E_m6oZNf2Mb4y5ugxNmj6rzx0,10
+tex_untag-1.3.0.dist-info/RECORD,,
