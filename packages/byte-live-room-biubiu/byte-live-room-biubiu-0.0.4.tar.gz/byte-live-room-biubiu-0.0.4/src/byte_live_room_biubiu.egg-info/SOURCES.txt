@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/byte_live_room_biubiu/Widget.py
+src/byte_live_room_biubiu/__init__.py
+src/byte_live_room_biubiu/__main__.py
+src/byte_live_room_biubiu/byteClickLiveRoomFunction.py
+src/byte_live_room_biubiu/formUi.py
+src/byte_live_room_biubiu/starp.py
+src/byte_live_room_biubiu.egg-info/PKG-INFO
+src/byte_live_room_biubiu.egg-info/SOURCES.txt
+src/byte_live_room_biubiu.egg-info/dependency_links.txt
+src/byte_live_room_biubiu.egg-info/top_level.txt

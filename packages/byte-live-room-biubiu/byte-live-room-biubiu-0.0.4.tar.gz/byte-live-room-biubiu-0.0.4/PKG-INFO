@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: byte-live-room-biubiu
+Version: 0.0.4
+Summary: byte live room biubiu functions
+Home-page: https://github.com/hahadu/byte-live-room-click
+Author: hahadu
+Author-email: mhyzhu@163.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/hahadu/byte-live-room-click/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# byte-live-room-click
+
+### 抖音直播点赞评论
+
+
