@@ -1,0 +1,12 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+Feight_Detection_From_Surveillance_Cameras.egg-info/PKG-INFO
+Feight_Detection_From_Surveillance_Cameras.egg-info/SOURCES.txt
+Feight_Detection_From_Surveillance_Cameras.egg-info/dependency_links.txt
+Feight_Detection_From_Surveillance_Cameras.egg-info/top_level.txt
+fight_detection/Fight_utils.py
+fight_detection/__init__.py
+fight_detection/model_16_m3_0.8888.pth
