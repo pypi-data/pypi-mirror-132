@@ -1,0 +1,11 @@
+uglier/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+uglier/cli.py,sha256=pWUIuh1_vORB7F3J9uZ7u0zRpG-qauyTklkXR_pYPIg,2019
+uglier/colored_logger.py,sha256=5N85D7Te1cmLrue0IaSayfSp5neUUWvPE2Jd8ApWEas,818
+uglier/patcher.py,sha256=Rf52Tqq8bOT78QT5r4Utv0hEvm3TsYaLQTRRRgVl79g,7256
+uglier/tools/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+uglier/tools/generate_characters.py,sha256=Yg5T8nUiI2VPEP994joCzvs8WLJjZTXsTcjGM5SEIyg,583
+uglier-0.0.1.dist-info/METADATA,sha256=UQBNUqNbOEXM3rQS8SxLK7yMkqAGJGRjcSsEBD7oDfk,476
+uglier-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+uglier-0.0.1.dist-info/entry_points.txt,sha256=SucCiBIE5bZreYwm2ASARwRC7INc3HZGqmlCbnagneI,43
+uglier-0.0.1.dist-info/top_level.txt,sha256=RRbe2_TGD61-Gc40ZHXwo-0bu2C2O3rPTVWXH7Voejg,7
+uglier-0.0.1.dist-info/RECORD,,
