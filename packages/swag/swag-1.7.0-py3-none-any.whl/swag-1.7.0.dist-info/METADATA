@@ -1,0 +1,81 @@
+Metadata-Version: 2.1
+Name: swag
+Version: 1.7.0
+Summary: Swag up your shell output with escape code magic!
+License: GPL-3
+Author: 4thel00z
+Author-email: 4thel00z@gmail.com
+Requires-Python: >=3.6,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: typer (>=0.3.2,<0.4.0)
+Description-Content-Type: text/markdown
+
+# Swag
+
+Color your shell output with escape code magic.
+
+![Demo](https://media.giphy.com/media/l0O5ASEoXnoaMd3S8/source.gif)
+
+## Installation
+
+`pip install swag`
+
+## Usage
+
+
+```
+usage: swag [-h] {print,install} ...
+
+positional arguments:
+  {print,install}  [command] help
+    install        install the colors to the folder of choice
+    print          prints the text with the specified color and type to the
+                   console
+
+optional arguments:
+  -h, --help       show this help message and exit
+```
+
+## Raw Usage
+
+
+
+### Use from code
+
+```
+from swag import colors
+print colors.COLORS["red"], "This will be red"
+
+# Or use the swagprinter helpers:
+
+
+from swag import swagprinter
+from swag.swagprinter import INTENSE
+
+swagprinter.print_green("Blah", INTENSE) # Prints an intense green
+
+# Prints an intense green, to the end of the output:
+swagprinter.print_green("Blah", INTENSE, true)
+
+```
+
+### Installation to a folder
+
+From the commandline do
+
+```
+swag install -d <path/to/folder> # default is ~/.colors
+```
+
+This will install all the escape codes to the ~/.colors or <path/to/folder> folder.
+
+Now you can use the colors directly from the console via:
+
+`echo $(cat ~/.colors/blue) This will be blue`
+
