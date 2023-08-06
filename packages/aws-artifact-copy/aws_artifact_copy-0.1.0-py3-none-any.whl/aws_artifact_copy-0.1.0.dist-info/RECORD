@@ -1,0 +1,15 @@
+aws_artifact_copy/__init__.py,sha256=HdIi8iIBIUX3voV97BZ_gzmSIN8Xxkp0Tj5KaQJWNyU,107
+aws_artifact_copy/__main__.py,sha256=5jJg_JaIEERcyB_qxTSjD7cMlR4iBwlkLHBaWJbBd6U,65
+aws_artifact_copy/cli.py,sha256=A61mvZn8Ox2orrMbe1fckT_M8Y8phVSCRQ-cP7Ys3Cw,440
+aws_artifact_copy/common/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aws_artifact_copy/common/botocore.py,sha256=R0Mxarmm13YZco3k87W2MnG1-HedgXkHE3G7X3Q7gHs,1153
+aws_artifact_copy/common/serialization.py,sha256=Y3zjAkLOpwifUnptOKzEFvg3R8oG7vD7auUgPIOAcI8,136
+aws_artifact_copy/services/__init__.py,sha256=8cuY76aeL6WoUaI-NMsAGQrCMViKLLNs1kGjS1mNKNw,30
+aws_artifact_copy/services/ebs.py,sha256=V8DSsv5g4RM5B2sfmkRAXfnhKTCY1H0oC_jMm8o7ymE,7563
+aws_artifact_copy/services/ecr.py,sha256=wRXDZDscM-xdRSzY3mGMOVrRLPcaweuaRSJipAzfVz8,5110
+aws_artifact_copy/services/s3.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aws_artifact_copy-0.1.0.dist-info/entry_points.txt,sha256=dUChOIPVxtQ8wGp184lGdfSo6gbZb41QfwtjDSIL8wM,64
+aws_artifact_copy-0.1.0.dist-info/LICENSE,sha256=OGYr7BLuL8un5ypjkezCSplL374bdAafVFcQiVt1J6s,1079
+aws_artifact_copy-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+aws_artifact_copy-0.1.0.dist-info/METADATA,sha256=TOCUBeEnZEn2_Vuzugp1QXmz0OiddjSLFA9DWp2fM4Q,432
+aws_artifact_copy-0.1.0.dist-info/RECORD,,

@@ -1,0 +1,3 @@
+[console_scripts]
+aws-artifact-copy=aws_artifact_copy.cli:main
+
