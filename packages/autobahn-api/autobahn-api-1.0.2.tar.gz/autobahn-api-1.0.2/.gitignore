@@ -1,0 +1,12 @@
+.DS_Store
+/.vscode
+/autobahn-api/__pycache__
+autobahn-api.egg-info/
+/.idea
+dist/
+build/
+.venv/
+.coverage
+
+*.pyc
+*.egg-info

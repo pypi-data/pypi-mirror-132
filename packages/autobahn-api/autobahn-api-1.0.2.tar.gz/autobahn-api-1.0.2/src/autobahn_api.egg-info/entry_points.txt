@@ -1,0 +1,3 @@
+[console_scripts]
+executable-name = autobahn_api.main:main
+
