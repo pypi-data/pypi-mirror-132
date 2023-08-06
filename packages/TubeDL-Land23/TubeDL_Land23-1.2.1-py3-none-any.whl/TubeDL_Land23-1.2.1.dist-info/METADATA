@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: TubeDL-Land23
+Version: 1.2.1
+Summary: Command-line tool to download youtube videos
+Home-page: https://github.com/LandStander27/TubeDL
+Author: Land23
+Author-email: landstander23@duck.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: better-ffmpeg-progress (==2.0.2)
+Requires-Dist: colorama (==0.4.4)
+Requires-Dist: decorator (==5.1.0)
+Requires-Dist: ffmpeg-python (==0.2.0)
+Requires-Dist: future (==0.18.2)
+Requires-Dist: pytube (==11.0.2)
+Requires-Dist: six (==1.16.0)
+Requires-Dist: tqdm (==4.62.3)
+Requires-Dist: validators (==0.18.2)
+Requires-Dist: setuptools (==59.2.0)
+
+# TubeDL
+A command line tool that downloads youtube videos
+
+YOU NEED FFMPEG FOR THIS TO WORK
+
+Input: [Program name] [Option] [Link] [Search term] [Video type] [-o]
+
+Options: -d, -i, -s, -help
+    -d: Download
+    -i: Show info
+    -s: Search youtube and download most relevant video
+    -help: Show this menu
+
+Search term:
+    If using "-s" then enter your search term here, if not using "-s" then ignore this
+
+Video type: 144p, 240p, etc or -a for audio
+-o: Adding -o opens the file when done
+
+Examples:
+    If you wanted to download a video at 720p: tube -d <link> 720p
+    If you wanted to download a video and open it after downloaded: tube -d <link> <resolution> -o
+    If you wanted to download audio of a video: tube -d <link> -a
+    If you wanted to show info about a video: tube -i <link>
+    If you wanted to download a video that has something to do with apples: tube -s apples
+
