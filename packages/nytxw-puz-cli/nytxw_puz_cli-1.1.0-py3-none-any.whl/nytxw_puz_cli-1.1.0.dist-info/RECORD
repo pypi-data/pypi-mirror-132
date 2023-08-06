@@ -1,0 +1,9 @@
+nytxw_puz/decompress.py,sha256=kC5mMbklnfmSZvK-ukfsKRZ-lyxcdpzA_udY0yltYLQ,4549
+nytxw_puz/main.py,sha256=RZy1W1EGndtvn47H8zIM5Vo3qV7iUlljnRannaE1Q34,37016
+nytxw_puz/puz.py,sha256=oKLHR0vZqs7M5lJZaZ58iCXwJeQMhdh_JlFyW8tCg58,24720
+utils/nytxw_gen.py,sha256=y4ngRW-eTxyXnSRGEq4maZHMtX1WGIkXrwjkxtTWekg,2562
+nytxw_puz_cli-1.1.0.dist-info/entry_points.txt,sha256=hD6hvlJaECJkqRXNWGzBWmuwIZPCATOOXjksxdTlFGE,80
+nytxw_puz_cli-1.1.0.dist-info/LICENSE,sha256=9JJt9OEX-IaXYl_kdgcFOp6GaMy4-NxyCiPPmACYMQQ,1326
+nytxw_puz_cli-1.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+nytxw_puz_cli-1.1.0.dist-info/METADATA,sha256=aIh2435LrU_g1jObU591gXu-tyLI9zi9kD6tSswPNlg,2778
+nytxw_puz_cli-1.1.0.dist-info/RECORD,,
