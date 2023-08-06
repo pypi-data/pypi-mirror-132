@@ -1,0 +1,10 @@
+README.md
+setup.py
+samssimplescraper/__init__.py
+samssimplescraper/scraper.py
+samssimplescraper/sitemapscraper.py
+samssimplescraper.egg-info/PKG-INFO
+samssimplescraper.egg-info/SOURCES.txt
+samssimplescraper.egg-info/dependency_links.txt
+samssimplescraper.egg-info/requires.txt
+samssimplescraper.egg-info/top_level.txt
