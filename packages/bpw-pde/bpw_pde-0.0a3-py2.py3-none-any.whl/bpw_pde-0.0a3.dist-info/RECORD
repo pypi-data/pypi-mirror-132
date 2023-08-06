@@ -1,0 +1,10 @@
+bpw_pde/__init__.py,sha256=8dSkZYeujB8uODG4WqVPjeBjzo8x9hZN0y1ObwHaQ-8,427
+bpw_pde/common.py,sha256=AmzkIn5cLPemcpvucEwBc87tzVt8bOUmO1iOywwgPvg,1256
+bpw_pde/dataframe.py,sha256=4fMUIAUIvYrscXBaLis7wmLYvTcNN7bRF_juTFGqvoE,3409
+bpw_pde/index.py,sha256=XqjqOqerNT8OmmgF7VslQavS0aS7Mi0vuBmx_fmFDgM,441
+bpw_pde/series.py,sha256=uXdunZnSPlDlPqKa2xFCoMkPSdgCm2aSgaq7SxUKKp4,1716
+bpw_pde-0.0a3.dist-info/LICENSE.txt,sha256=pBGbx6yhwG1bXxwyyKJP9q4EHC_RpETVQ37E6HHxiJQ,1094
+bpw_pde-0.0a3.dist-info/METADATA,sha256=-4Rx5tV3JNB0z-IOjTaO-srCKhAC4vLNTnjD7tp5zaY,1393
+bpw_pde-0.0a3.dist-info/WHEEL,sha256=WzZ8cwjh8l0jtULNjYq1Hpr-WCqCRgPr--TX4P5I1Wo,110
+bpw_pde-0.0a3.dist-info/top_level.txt,sha256=JGaQ2PilTnsVEPbhWe7jU__SaqIm6YkVWerwn4dczms,8
+bpw_pde-0.0a3.dist-info/RECORD,,
