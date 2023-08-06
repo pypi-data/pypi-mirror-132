@@ -1,0 +1,9 @@
+infery.cp38-win_amd64.pyd,sha256=p69Wlhb-aHKB5lnqc69btXfGpR55fnuMrYOFnnzGaUM,1041408
+infery.pyi,sha256=p1y4DlAwk9ErZ2VIb0L8hFLmQX8rRDWEHVddccxZ8JU,2400
+tests.cp38-win_amd64.pyd,sha256=BjVW3gxuvZOYCzpfCePnQ2pg8jwJTYF7LYOYsmD42mw,732160
+tests.pyi,sha256=Q5hgj0KHXgiJ0zEcsRA0cjHJk5FuOVo8bOQYQrTaRaY,2515
+infery_openvino-2.2.3.dist-info/LICENSE,sha256=xbk3exNmWGQ0V59U9TUVZts5p2BI-mzMEdSMc_GldQ4,11342
+infery_openvino-2.2.3.dist-info/METADATA,sha256=g_pDzLCAr9tD11NDd2xroROsiB1APpMjZ55ZPIfd8AM,623
+infery_openvino-2.2.3.dist-info/WHEEL,sha256=zGk3WDi3_rc6YB1EFKiZ9cNK9ARln0DqNH1_SAYj1Mo,97
+infery_openvino-2.2.3.dist-info/top_level.txt,sha256=W4SjdZWE39rdkEfVRcpvypJPYLe0ug4Ln3kP9OUZYu8,13
+infery_openvino-2.2.3.dist-info/RECORD,,
