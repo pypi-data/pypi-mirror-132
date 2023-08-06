@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<interface
+        xmlns="http://www.w3school.com.cn"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.w3school.com.cn ../file/xsd/interface.xsd"
+
+        protocol="https" method="post" desc="接口示例">
+    <server>服务器</server>
+    <port>端口号</port>
+    <path>路径</path>
+    <header>
+        {
+            "请求头":"请求头值"
+        }
+    </header>
+    <body type="json">
+        {
+            "参数":"参数值"
+        }
+    </body>
+</interface>
