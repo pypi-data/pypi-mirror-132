@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: upbge-stubs
+Version: 0.3.0.25.dev1639423014
+Summary: API stubs for Blender and UPBGE generated with bpystubgen.
+Home-page: https://github.com/mysticfall/bpystubgen
+Author: Xavier Cho
+Author-email: mysticfallband@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Multimedia :: Graphics :: 3D Modeling
+Classifier: Topic :: Multimedia :: Graphics :: 3D Rendering
+Classifier: Topic :: Text Editors :: Integrated Development Environments (IDE)
+Description-Content-Type: text/markdown
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 first byte timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 first byte timeout</h1>
+    <p>first byte timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-sea4443-SEA 1640920024 2562814879</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+
+
