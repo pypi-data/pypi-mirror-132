@@ -1,0 +1,10 @@
+fastq_filter/__init__.py,sha256=rUvsq_yu2QoA7LMXRHtMcXWYLrr1SoUQnruPe8whp-o,8113
+fastq_filter/optimized_algorithms.cp38-win_amd64.pyd,sha256=0kCR3r3JWtpaap5gUjR73Rlh52B9uU0MlGLRM-yHTEk,53248
+fastq_filter/optimized_algorithms.pyi,sha256=7Md6SxuF2pyL05XKq9LOzrgiaPH0VsLirfduCKci7yE,1599
+fastq_filter/optimized_algorithms.pyx,sha256=F7B4F5iOXKK5-8jY_OdnIQds2n_V1KmEiae4-NtG4OQ,8092
+fastq_filter-0.1.0.dist-info/LICENSE,sha256=UxWd3jvf5fgYkkovgKpfZOMB-g3SWXkr50dVqZMjrZ8,1110
+fastq_filter-0.1.0.dist-info/METADATA,sha256=TxmQA1OkNKS1QoJm1ZWK4gijQdUiXXpBPME2cdz0plY,4726
+fastq_filter-0.1.0.dist-info/WHEEL,sha256=M2GQ3lde8oJhlQPj2wbRvnqE3cuovPJasri5X5aCmck,100
+fastq_filter-0.1.0.dist-info/entry_points.txt,sha256=831aX5AIRx1z0UstRYCHM8d0D2N3f1wi_YZi9LMB3Lg,52
+fastq_filter-0.1.0.dist-info/top_level.txt,sha256=fLKv-CwgazwXZn8lxsQgeRH0isMgQmyAgKXlqRHo1Hg,13
+fastq_filter-0.1.0.dist-info/RECORD,,
