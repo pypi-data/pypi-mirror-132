@@ -1,0 +1,12 @@
+safepi/World.py,sha256=ajuTVmQgBSkKKIC51kXw2mWSz_ZDODbWggjhoeNYdbI,147
+safepi/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+safepi/libs_root.py,sha256=N0LC8PMBSmSKUdm6Vj1XCN_pWx9GrSEM91Kuimq7ZiM,133
+safepi/__pycache__/World.cpython-36.pyc,sha256=W7UDjQ7gq4qbl-x1jSPHnjYQSLg2smoo7KQ5fga_0BU,382
+safepi/__pycache__/__init__.cpython-36.pyc,sha256=yNsi0B_MkouMtT9yTxJDoETgKcx00fT9SAs_epJAyNY,158
+safepi/__pycache__/libs_root.cpython-36.pyc,sha256=lrkbk8QQFdaRIdmmrmDdv8J2mf4xuP04wJz8VC71a-w,303
+safepi/libs/Person.cp36-win_amd64.pyd,sha256=u1KFXbVFckTYN7HriG3BFN3OYHeN75rThln4JpB1g78,54272
+SafePI-0.0.1a1.dist-info/LICENSE.txt,sha256=ceC9ZJOV9H6CtQDcYmHOS46NA3dHJ_WD4J9blH513pc,1081
+SafePI-0.0.1a1.dist-info/METADATA,sha256=E68I7uYz2AYyujeWR_NJd8q1X4vedN8JyTnEse5Cswk,2588
+SafePI-0.0.1a1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+SafePI-0.0.1a1.dist-info/top_level.txt,sha256=cZ3LEGaZk5HBrRu4fWyr1qlP_j-mtL2mPORa4noSerc,7
+SafePI-0.0.1a1.dist-info/RECORD,,
