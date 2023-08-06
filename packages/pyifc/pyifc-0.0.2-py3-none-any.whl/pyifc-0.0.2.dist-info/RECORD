@@ -1,0 +1,13 @@
+pyifc/__init__.py,sha256=lhwXRfHRKOBclaeD7WW6JEkFukI0m-C5ZqVjkGkHE2w,258
+pyifc/_utils.py,sha256=J0TvqECK85TkTZHtZoV0CzWdU1wPtBJX9oDEyL06Tbw,608
+pyifc/compress/__init__.py,sha256=PAKaSbu3B_xL7axtGPsb7kVqjFvn-8E0C0tDzP5cYbs,247
+pyifc/compress/_compress.py,sha256=7vDhC5kBPYKFlrbZBuJuxhTyS_a7uluAfsPLK77FlF8,4169
+pyifc/compress/_exceptions.py,sha256=kIspf4QYPtM6tiodN2SU301kJQOT5ZMMfjitD890yZ8,218
+pyifc/compress/_pack.py,sha256=0E2AKCoNgrqRxiyaa-nN0wZnT501OlMtugitflq7aZk,3706
+pyifc/compress/_validators.py,sha256=1ez6UormOpM_qeDcRhqdjsLMk1UYTdVPDJ2whKXnT1Y,1163
+typings/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyifc-0.0.2.dist-info/LICENSE,sha256=H3Rde8zTRpDUt2VXjAIF87DjijvPQ8BFu7JNRgNcOzc,1061
+pyifc-0.0.2.dist-info/METADATA,sha256=yFSmUxhrQOvmmFEi55mDrCgx6eDxepGFqg65bsIKuOw,5178
+pyifc-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyifc-0.0.2.dist-info/top_level.txt,sha256=JXhFPiQMz1faJF2X_lWb0uRsjRS4xmf8dRYBbCq6wic,14
+pyifc-0.0.2.dist-info/RECORD,,
