@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: DeepSaki
+Version: 0.1.0
+Summary: Reusable machine learning code
+Home-page: https://github.com/SaKi1309/DeepSaki
+Author: Sascha Kirch
+Author-email: susch130993@googlemail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Provides-Extra: extras
+
+UNKNOWN
+

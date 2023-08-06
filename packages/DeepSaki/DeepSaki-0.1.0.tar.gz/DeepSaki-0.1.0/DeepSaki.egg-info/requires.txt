@@ -1,0 +1,7 @@
+tensorflow
+numpy
+tensorflow_addons
+pandas
+
+[extras]
+matplotlib
