@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+fape.egg-info/PKG-INFO
+fape.egg-info/SOURCES.txt
+fape.egg-info/dependency_links.txt
+fape.egg-info/not-zip-safe
+fape.egg-info/top_level.txt
+src/fape.cpp
