@@ -1,0 +1,13 @@
+wseg/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wseg/dict_based.py,sha256=JGA2ch38Qf4KHX1fLzjbR7r8bVQ7GBlrSUj80C8Sblc,591
+wseg/hmm.py,sha256=nqqmQOcuBfTq04wQVrGXSmjnQvCvNDTnKw9pLdaP2Ug,494
+wseg/__pycache__/__init__.cpython-36.pyc,sha256=VdfnS1YVrmRiooz7jaNvf6WcVR_YpnX2Eoo92ySQffI,154
+wseg/__pycache__/dict_based.cpython-36.pyc,sha256=wjtHxGz_0sGb2xHUQ-9AYudGumls8Z476Mtm9BMAdNI,996
+wseg/__pycache__/hmm.cpython-36.pyc,sha256=8c9dMPwKTTDjT2-UaCmaJTi_WftYJoE7-D21aLPLUHA,647
+wseg/libs/BIMM.cp36-win_amd64.pyd,sha256=429v0GHVTYq_2Dfihp0sGe-N8pHX9EqBOWX-9A9xdTc,79360
+wseg/libs/HMM.cp36-win_amd64.pyd,sha256=pTrhs5qAuRdiwAwcbfejTFM_I50-4W8_M37rF__Z0BY,119296
+wseg-0.0.1a3.dist-info/LICENSE.txt,sha256=ceC9ZJOV9H6CtQDcYmHOS46NA3dHJ_WD4J9blH513pc,1081
+wseg-0.0.1a3.dist-info/METADATA,sha256=oRw_ZQ9_9igy8s5SwSNmwT5v2otZOsjwOtj56ziERew,1411
+wseg-0.0.1a3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+wseg-0.0.1a3.dist-info/top_level.txt,sha256=Aky3BVpoXSDkEcMFIjb5XPcy5yT-5UPoRkm-ogMLYUM,5
+wseg-0.0.1a3.dist-info/RECORD,,
