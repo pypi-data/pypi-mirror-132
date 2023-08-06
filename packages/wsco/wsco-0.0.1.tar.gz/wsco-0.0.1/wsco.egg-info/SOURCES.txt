@@ -1,0 +1,17 @@
+README.md
+setup.py
+wsco/__init__.py
+wsco/__version__.py
+wsco/client.py
+wsco/constants.py
+wsco/exceptions.py
+wsco/loggers.py
+wsco/message_handler.py
+wsco/models.py
+wsco/server.py
+wsco.egg-info/PKG-INFO
+wsco.egg-info/SOURCES.txt
+wsco.egg-info/dependency_links.txt
+wsco.egg-info/entry_points.txt
+wsco.egg-info/requires.txt
+wsco.egg-info/top_level.txt
