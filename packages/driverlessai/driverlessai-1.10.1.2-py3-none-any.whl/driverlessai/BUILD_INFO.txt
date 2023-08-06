@@ -1,0 +1,8 @@
+git_commit="746ae9d40d984ade3d4c3426b0035ac3804a9950"
+git_commit_timestamp=""
+git_describe="746ae9d.dirty"
+build_os="Linux 6130d4ef1bc3 4.15.0-132-generic #136-Ubuntu SMP Tue Jan 12 14:58:42 UTC 2021 x86_64 GNU/Linux"
+build_machine="6130d4ef1bc3"
+build_date="Thu Dec 23 18:14:32 UTC 2021"
+build_user="jenkins"
+version="1.10.1.2"
