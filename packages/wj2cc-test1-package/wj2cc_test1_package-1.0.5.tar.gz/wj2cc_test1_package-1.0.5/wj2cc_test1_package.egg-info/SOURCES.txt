@@ -1,0 +1,9 @@
+LICENSE
+README.rst
+setup.py
+wj2cc_test1_package/__init__.py
+wj2cc_test1_package/main.py
+wj2cc_test1_package.egg-info/PKG-INFO
+wj2cc_test1_package.egg-info/SOURCES.txt
+wj2cc_test1_package.egg-info/dependency_links.txt
+wj2cc_test1_package.egg-info/top_level.txt
