@@ -1,0 +1,11 @@
+ccore/__init__.py,sha256=eI3A5DaSmJIiyBAynLP5HsKtFUCZoKW6DZ6tVrISybY,1088
+ccore/_ccore.cpython-38-x86_64-linux-gnu.so,sha256=SqwSYFiNjimlyKjajF7cHxVuL6M-dywfMA9w3njA7z8,817144
+ccore-0.2.6.data/data/bin/nkf,sha256=DkvDJOseuDEBIJvxOYZOTXAPLABataeK3h4Cp1rjly4,390808
+ccore-0.2.6.data/data/include/libnkf.h,sha256=t4yAIbq32I7Zy5Gk_5-xAjz57tq-i4dp1UZN8oebbg8,1594
+ccore-0.2.6.data/data/lib/liblibnkf.so,sha256=_EAgAoJKs8mqFt02sWjl-THQUcOUBOLhMMD21APeNzA,392384
+ccore-0.2.6.data/data/lib/liblibnkf_static.a,sha256=3AvdvCgRE2ahFteywnQg0xJSYJt_5VI7FTLOpqM_mjI,434976
+ccore-0.2.6.dist-info/LICENSE,sha256=YPJtJdBGDQu3WKwH7mspZbCz3raUqKQY3J9N_GgjEwg,1070
+ccore-0.2.6.dist-info/METADATA,sha256=UMXDKEaKgI3aQvi5QFPfcRjxllONmfd0mryJarYYrzM,1748
+ccore-0.2.6.dist-info/WHEEL,sha256=zxNl4_j1IAtWHmsTIfFhaE9ypIcJyLwkbAxwmTZgECE,105
+ccore-0.2.6.dist-info/top_level.txt,sha256=A-sTbnCU1SJBNagn4AdDpm8TvUXNld63CTbbqWPgZb0,6
+ccore-0.2.6.dist-info/RECORD,,
