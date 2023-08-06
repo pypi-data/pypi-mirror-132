@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: SafePI
+Version: 0.0.1a0
+Summary: A demo PyPi package to demonstrate Python code distribution in a safe and automated way
+Home-page: https://github.com/dhchenx/SafePI
+Author: Donghua Chen
+Author-email: douglaschan@126.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/dhchenx/SafePI/issues
+Keywords: protect code,rapid software distribution,pyd,cypthon
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Provides-Extra: dev
+Requires-Dist: check-manifest ; extra == 'dev'
+Provides-Extra: test
+Requires-Dist: coverage ; extra == 'test'
+
+#  SafePI
+
+A PyPi package to demonstrate Python code distribution in a safe and automated way
+
+## Steps
+1. Make a package with file structure like this demo package
+2. The src folder contains source code of the normal Python package project
+3. The src/libs contains necessary *.pyd(*.so) files
+4. The `libs_root.py` must be included at the head of py files where some pyd module is called.
+5. The `src_cython` folder is the Cython files needed to protect and compile as pyd files.
+6. The `build_pakcage.py` in the root and `build_cython_libs.py` in the src_cython are automated scripts respectively. 
+7. Please see examples folder to see how to test a function from the PyPI package where the code is compiled and protected.
+
+## Functions
+
+You cannot find the source code of *Person.py* in this package, which prevents code theft.
+
+```python
+from safepi.World import greet_times
+# This function's algorithm is within a .pyd (.so in Linux) file compiled by Cython. 
+# The source code cannot be found in the package and is therefore protected.
+greet_times(n=5)
+```
+
+`build_package.py`: rapidly build Cython files, PyPI package and upload the package to PyPI website quickly. (your upload token is required!)
+
+`src_cython/build_cython_libs.py`: Rapidly build Cython files and deploy all `*.pyd` files to to `src/libs' folder
+
+## License
+The `SafePI` project is provided by [Donghua Chen](https://github.com/dhchenx/umls-graph). 
+
+
