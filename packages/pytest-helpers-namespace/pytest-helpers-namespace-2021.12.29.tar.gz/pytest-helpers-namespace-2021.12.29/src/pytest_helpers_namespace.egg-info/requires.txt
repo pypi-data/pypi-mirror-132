@@ -1,0 +1,23 @@
+pytest>=6.0.0
+
+[changelog]
+towncrier==21.9.0rc1
+
+[docs]
+furo
+sphinx
+sphinx-copybutton
+sphinx-prompt
+sphinxcontrib-spelling
+towncrier==21.3.0
+sphinxcontrib-towncrier>=0.2.0a0
+
+[lint]
+pylint==2.12.2
+pyenchant
+
+[lint:python_version >= "3.7"]
+black
+reorder-python-imports
+
+[tests]
