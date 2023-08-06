@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: gp-approx
+Version: 1.0
+Summary: Gaussian Process regression with analytical approximation of uncertainty propagation.
+Home-page: https://github.com/mile888/gp-approx
+Author: Mile Mitrovic
+Author-email: mitrovich888@gmail.com
+License: UNKNOWN
+Keywords: machine learning,gaussian process,python,taylor approximation,moment matching
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved 
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+License-File: LICENSE
+
+
+# gp-approx
+ Gaussian Process regression with analytical approximation of uncertainty propagation
+
+
