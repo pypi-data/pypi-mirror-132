@@ -1,0 +1,4 @@
+[console_scripts]
+say_hello = wmc_test_pypi:hello
+say_hello_world = wmc_test_pypi:hello_world
+
