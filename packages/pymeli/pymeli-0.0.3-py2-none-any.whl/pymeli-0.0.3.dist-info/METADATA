@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: pymeli
+Version: 0.0.3
+Summary: A nice SDK for Mercado Libre
+Home-page: https://github.com/labrixdigital/pymeli
+Author: Ernesto Monroy
+License: UNKNOWN
+Project-URL: Source, https://github.com/labrixdigital/pymeli
+Project-URL: Bug Reports, https://github.com/labrixdigital/pymeli/issues
+Keywords: meli
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+
+# MELI
+
+A small module to try to help Mercado Libre (MeLi) developers and the MeLi community! More docs to come soon, but first we need to have a good working library! 
+
