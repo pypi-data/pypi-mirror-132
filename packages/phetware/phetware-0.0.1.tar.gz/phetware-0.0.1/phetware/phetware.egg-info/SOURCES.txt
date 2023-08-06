@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+phetware/phetware.egg-info/PKG-INFO
+phetware/phetware.egg-info/SOURCES.txt
+phetware/phetware.egg-info/dependency_links.txt
+phetware/phetware.egg-info/top_level.txt
