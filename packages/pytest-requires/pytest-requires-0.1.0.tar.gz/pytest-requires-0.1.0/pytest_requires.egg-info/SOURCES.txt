@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+pytest_requires.py
+setup.cfg
+setup.py
+pytest_requires.egg-info/PKG-INFO
+pytest_requires.egg-info/SOURCES.txt
+pytest_requires.egg-info/dependency_links.txt
+pytest_requires.egg-info/entry_points.txt
+pytest_requires.egg-info/requires.txt
+pytest_requires.egg-info/top_level.txt
+tests/conftest.py
+tests/test_requires.py
