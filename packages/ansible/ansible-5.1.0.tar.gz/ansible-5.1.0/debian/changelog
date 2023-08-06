@@ -1,0 +1,5 @@
+ansible (5.1.0-1) unstable; urgency=medium
+
+  * Ansible 5.1.0 release
+
+ -- Red Hat, Inc. <info@ansible.com>  Tue, 21 Dec 2021 18:00:17 +0000
