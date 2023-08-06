@@ -1,0 +1,8 @@
+k8s_uwsgi/__init__.py,sha256=M4to3drF262xcjrNGNcN_GhoLbFQC1AuLZzVswZZNbY,1699
+k8s_uwsgi/pod_utils.py,sha256=5XmM5VcouOBWwgeM90LQY9hGx72jmq0IKoAJDe1IEQ4,4280
+uwsgi_readiness_check-0.0.3.dist-info/LICENSE,sha256=9HErpgJvqiW6VdFVDBJCzjktUqcv3bO1OaKmK_ZpUzk,1079
+uwsgi_readiness_check-0.0.3.dist-info/METADATA,sha256=D-Dg485Ryr4AHuAW9qdzPZunWBORODSplKdpLWFEUFg,391
+uwsgi_readiness_check-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+uwsgi_readiness_check-0.0.3.dist-info/entry_points.txt,sha256=-F-HfUDAS76a5yT2kzadIgf-vodB2HCjHVTQVxklZ1Q,91
+uwsgi_readiness_check-0.0.3.dist-info/top_level.txt,sha256=urVBgj-HtCjmKB7883KJbgMYm2z3b-kPKKBrNsAQ4LU,10
+uwsgi_readiness_check-0.0.3.dist-info/RECORD,,

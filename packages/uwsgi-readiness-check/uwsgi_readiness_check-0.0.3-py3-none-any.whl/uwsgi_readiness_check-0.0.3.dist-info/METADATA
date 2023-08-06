@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: uwsgi-readiness-check
+Version: 0.0.3
+Summary: Readiness Check for uWSGI
+Home-page: https://github.com/filipenf/uwsgi-readiness-check
+Author: Filipe Niero Felisbino
+Author-email: filipenf@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: argparse
+Requires-Dist: importlib ; python_version == "2.6"
+
+UNKNOWN
+
