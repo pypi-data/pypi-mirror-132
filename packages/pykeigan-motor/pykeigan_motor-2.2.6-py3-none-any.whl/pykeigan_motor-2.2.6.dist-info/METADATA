@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pykeigan-motor
+Version: 2.2.6
+Summary: Python Library for Keigan Motors (v2)
+Home-page: https://github.com/keigan-motor/pykeigan_motor
+Author: Tomohiro Takata, Hiroshi Harada, Takashi Tokuda
+Author-email: takata@innovotion.co.jp, harada@keigan.co.jp, tokuda@keigan.co.jp
+License: MIT-LICENSE
+Requires-Dist: pyserial
+Provides-Extra: ble
+Requires-Dist: bluepy ; extra == 'ble'
+
+Python Library for Keigan Motor (v2)
+
+
