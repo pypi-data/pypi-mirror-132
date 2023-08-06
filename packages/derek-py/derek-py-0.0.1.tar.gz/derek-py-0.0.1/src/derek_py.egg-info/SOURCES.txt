@@ -1,0 +1,12 @@
+LICENSE
+README.rst
+pyproject.toml
+setup.cfg
+src/derek/__init__.py
+src/derek/_derek.py
+src/derek/_parse.py
+src/derek/_typing.py
+src/derek_py.egg-info/PKG-INFO
+src/derek_py.egg-info/SOURCES.txt
+src/derek_py.egg-info/dependency_links.txt
+src/derek_py.egg-info/top_level.txt
