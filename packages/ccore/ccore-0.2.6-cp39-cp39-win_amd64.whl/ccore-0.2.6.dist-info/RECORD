@@ -1,0 +1,11 @@
+ccore/__init__.py,sha256=vWKTiJqgXTrMpLGxKUDsUr2mZl9OHT0__nmMZRKWHVI,1113
+ccore/_ccore.cp39-win_amd64.pyd,sha256=2VIQV0Sa6caFx3osPb5meCD22W1TRB5vLSHAWbpaevI,571904
+ccore-0.2.6.data/data/bin/nkf.exe,sha256=M8dFaB2NQQDngYcoxUNF0BN2FGC-2YtCOv6EdD16A4A,277504
+ccore-0.2.6.data/data/include/libnkf.h,sha256=r0mSIdgnhLiDArbw87qywOXjq_YJt96PgxPu-ih_3q0,1635
+ccore-0.2.6.data/data/lib/libnkf.dll,sha256=REuFNXhMK4wtyIISu3aYBrHEqoQpt_-wZiwdCtqa3e8,234496
+ccore-0.2.6.data/data/lib/libnkf_static.lib,sha256=9e-WvLt3A_G3sY15ON6f93tSDCe2KpnbmcZSHJzqVQo,525994
+ccore-0.2.6.dist-info/LICENSE,sha256=g1vUuT3_aIoCw6Xu5LeuD50LH1g-tzaTVazqzYhbyLg,1091
+ccore-0.2.6.dist-info/METADATA,sha256=2xDSel5iShfXWY4lVOq7KiLoW52uqdZpdOiR2MPcv2A,1770
+ccore-0.2.6.dist-info/WHEEL,sha256=YeCcUN9U7qYyLIv_Bv3_AQqjzji7aj2GjeyxNCjgb-8,94
+ccore-0.2.6.dist-info/top_level.txt,sha256=A-sTbnCU1SJBNagn4AdDpm8TvUXNld63CTbbqWPgZb0,6
+ccore-0.2.6.dist-info/RECORD,,
