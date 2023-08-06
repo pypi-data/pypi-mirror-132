@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: py-code-meli
+Version: 0.0.1
+Summary: This python package gives you a simple method that you can validate code meli (Iranian National Code) with it.
+Author: ali
+Author-email: lmntrix.afr@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pydantic (>=1.8.2,<2.0.0)
+Requires-Dist: pytest (>=6.2.5,<7.0.0)
