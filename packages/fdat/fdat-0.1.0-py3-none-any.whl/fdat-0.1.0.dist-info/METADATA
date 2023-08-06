@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: fdat
+Version: 0.1.0
+Summary: Fast Diffraction Analysis Tool
+Home-page: https://github.com/amundmr/fdat
+Author: Amund Raniseth
+Author-email: amund.raniseth@gmail.com
+License: GNU General Public License v3.0
+Download-URL: https://github.com/amundmr/fdat/archive/refs/tags/v0.1.0.tar.gz
+Keywords: diffraction,plotter,reader,analysis,x-rays,x-ray pattern
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: toml
+Requires-Dist: scipy
+Requires-Dist: PyCifRW
+Requires-Dist: ecdh
+
+# fdat
+
+**Fast Diffraction Analysis Tool**
+
+fdat is a small software toolkit for easy visualization and lightweight analysis of diffractograms. It has been made for X-Ray diffractograms, but can ofcourse also be used for diffractograms from other radiation types like neutrons.
+
+# Getting started
+Install fastdiff by cloning the repository and running the setup.py
+
+
+Current features:
+
+- Plotting of multiple diffractograms with possibility to zoom in on peaks
+- Specific-Peak detection for lattice constant determination (so far only Platina data added)
+
+# Dependencies
+- Dans_Diffraction
+- numpy, matplotlib, scipy, pandas
+
+
