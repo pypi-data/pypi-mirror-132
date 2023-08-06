@@ -1,0 +1,14 @@
+hogpylib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hogpylib/__main__.py,sha256=M_anW15CsVBfN0TENQQQ0ACx3SkdBuyK-6PRM8Dd14Y,1654
+hogpylib/hog.py,sha256=Kx8ov2ZpNrukso6a3BVZy2txujqyNFZEIWkLlGtzojs,8141
+hogpylib-1.0.2.data/data/data/car.jpg,sha256=iybt_rOEqk_bvJTOw4U53_M0cEcTnGbmsgrFPj7P8Rc,169921
+hogpylib-1.0.2.data/data/data/people.jpg,sha256=rBRlsjnd0_OSAjIv38BEa0GOpQdOKttoq5kGAdsmMlE,55486
+hogpylib-1.0.2.data/data/examples/HOG_implementation.png,sha256=wvcIJS0EcL8dj6D4u1wky8ucTQvhOAaCGisL7DS6LfU,478069
+hogpylib-1.0.2.data/data/examples/HOG_people.png,sha256=8YTsJB1PHcrhlhTYjrfTDU-6I0xWEKa7tETdFoEQHmI,335833
+hogpylib-1.0.2.data/data/examples/Hog_car.png,sha256=pW1HIhDkUxAHFXfPpL9letEpgmd_6MUZny9Gmw9bGGs,424396
+hogpylib-1.0.2.dist-info/LICENSE.txt,sha256=ZEI4ZUg6r-pHJkGZkRalCCY3p1Z5inVCpuM_y--skoE,1069
+hogpylib-1.0.2.dist-info/METADATA,sha256=vVaVzTAYliPZBihUKgusRyhdu_3G7BEhTKKRbI-XkAM,4548
+hogpylib-1.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+hogpylib-1.0.2.dist-info/entry_points.txt,sha256=ow9Xx8coWDsGAWbo6j0CtXzkTMQufzHMfJ4B7EkATAI,53
+hogpylib-1.0.2.dist-info/top_level.txt,sha256=uuA__Vr5s_8EEIVNG7scjh5Ij3E1LeD3RCA6r_6N7zI,9
+hogpylib-1.0.2.dist-info/RECORD,,
