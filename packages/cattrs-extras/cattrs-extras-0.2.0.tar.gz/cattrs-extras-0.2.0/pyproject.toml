@@ -1,0 +1,54 @@
+[tool.poetry]
+name = "cattrs-extras"
+version = "0.2.0"
+description = "Advanced converters for cattrs"
+authors = ["Lev Gorodetskiy <github@droserasprout.space>"]
+readme = "README.md"
+homepage = "https://github.com/droserasprout/cattrs-extras"
+repository = "https://github.com/droserasprout/cattrs-extras"
+keywords = ["tortoise", "cattrs", "attrs", "serialization", "dataclass"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Software Development",
+    "Typing :: Typed"
+]
+packages = [
+    { include = "cattrs_extras", from = "src" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+cattrs = "^1.9.0"
+dateutils = "^0.6.12"
+pytimeparse = "^1.1.8"
+tortoise-orm = {version = "^0.18.0", optional = true}
+typing-extensions = "^4.0.1"
+typing-inspect = "^0.7.1"
+
+[tool.poetry.dev-dependencies]
+bump2version = "^1.0"
+coverage = "^5.1"
+isort = {version = "^4.3", extras = ["pyproject"]}
+mypy = "0.*"
+pytest = "^6.2.5"
+pytest-cov = "^3.0.0"
+pylint = "^2.6.0"
+pylint-exit = "^1.2.0"
+black = "^20.8b1"
+types-python-dateutil = "^2.8.4"
+
+[tool.poetry.extras]
+tortoise = ["tortoise-orm"]
+
+[tool.nosetests]
+verbosity = 2
+
+[tool.isort]
+force_single_line = true
+line_length = 140
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
