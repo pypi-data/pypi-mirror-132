@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "tbcp-gitpy"
+description = "Workiing with Git in Python"
+version = "1.0.0"
+license = "MIT"
+readme = "README.md"
+authors = ["Bootcamp contributors <contributors@bootcamp-project.com>"]
+maintainers = [
+    "Bootcamp contributors <contributors@bootcamp-project.com>",
+    "John Ollhorn <john@ollhorn.de> (https://ollhorn.de)"
+]
+homepage = "https://gitlab.com/the-bootcamp-project/packages/gitpy"
+repository = "https://gitlab.com/the-bootcamp-project/packages/gitpy.git"
+documentation = "https://gitlab.com/the-bootcamp-project/packages/gitpy"
+keywords = ["Git", "Python"]
+classifiers = [
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+]
+exclude = ["tests",".vscode",".gitlab-ci.yml","makefile"]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://gitlab.com/the-bootcamp-project/packages/gitpy/-/issues"
+"Repository" = "https://gitlab.com/the-bootcamp-project/packages/gitpy.git"
+"Homepage" = "https://gitlab.com/the-bootcamp-project/packages/gitpy"
+"Bootcamp" = "https://bootcamp-project.com"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+GitPython = "^3.1.24"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+bandit = "^1.7.1"
+mypy = "^0.930"
+twine = "^3.7.1"
+black = "^21.12b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
