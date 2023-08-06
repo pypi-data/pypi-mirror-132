@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: notion-hugo
+Version: 0.1.11
+Summary: convert notion page content to markdown
+Home-page: https://github.com/gclm/notion-hugo
+Author: gclm
+Author-email: gclmit@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# notion-hugo
+
+> Convert notion page content to markdown
+
+<!-- markdownlint-disable -->
+<a href="https://pypi.org/project/notion-hugo"><img src="https://img.shields.io/pypi/v/notion-hugo.svg" alt="PyPI"></a>
+<a href="tox.ini"><img src="https://img.shields.io/pypi/gclm/notion-hugo" alt="Supported Python Versions"></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/gclm/notion-hugo" alt="License"></a>
+<a href="https://github.com/gclm/notion-hugo/actions/workflows/publish-to-pypi.yml"><img src="https://github.com/gclm/notion-hugo/actions/workflows/publish-to-pypi.yml/badge.svg" alt="Publish to PyPI"></a>
+<!-- markdownlint-enable -->
+
+## Usage
+
+### Quickstart
+
+`pip install notion-hugo`
+
+```python
+from notion import NotionToMarkdown
+
+token = os.environ['token']
+page_id = os.environ['page_id']
+
+print(Notion2Markdown(token, page_id).parse())
+```
+
+
