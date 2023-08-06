@@ -1,0 +1,6 @@
+include README.rst
+include LICENSE
+include requirements.txt
+include bolbcord/bin/*.dll
+include bolbcord/py.typed
+include discord/py.typed
