@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: filedataclasses
+Version: 0.1.0
+Summary: "Automatically load and dump your dataclasses 📂🙋"
+Home-page: https://github.com/RealA10N/filedataclasses
+Author: Alon Krymgand Osovsky
+Author-email: downtown2u@gmail.com
+License: UNKNOWN
+Description: # file dataclasses
+        
+        ## Installation
+        
+        By default, *filedataclasses* comes with support for JSON files only.
+        To support other formats like *YAML* and *TOML*, *filedataclasses* requires
+        additional dependencies to be installed.
+        
+        To install *filedataclasses* with JSON support only, use:
+        ```bash
+        pip install filedataclasses # only json supported
+        ```
+        
+        To install *fileclasses* with *YAML* or *TOML* support, use:
+        ```bash
+        pip install filedataclasses[yaml]  # for toml use: [toml]
+        ```
+        
+        To install *fileclasses* with support for all available file formats, use:
+        ```bash
+        pip install filedataclasses[all]  # [toml, yaml] works too!
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Description-Content-Type: text/markdown
+Provides-Extra: all
+Provides-Extra: toml
+Provides-Extra: yaml

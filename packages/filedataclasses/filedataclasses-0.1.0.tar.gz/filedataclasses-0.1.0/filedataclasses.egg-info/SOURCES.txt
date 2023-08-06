@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+filedataclasses/__init__.py
+filedataclasses/file.py
+filedataclasses/json.py
+filedataclasses/toml.py
+filedataclasses/yaml.py
+filedataclasses.egg-info/PKG-INFO
+filedataclasses.egg-info/SOURCES.txt
+filedataclasses.egg-info/dependency_links.txt
+filedataclasses.egg-info/requires.txt
+filedataclasses.egg-info/top_level.txt

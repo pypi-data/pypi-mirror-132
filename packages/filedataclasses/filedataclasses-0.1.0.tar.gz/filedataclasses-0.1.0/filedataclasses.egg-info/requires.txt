@@ -1,0 +1,10 @@
+
+[all]
+pyyaml<7,>=6.0
+toml<1,>=0.10
+
+[toml]
+toml<1,>=0.10
+
+[yaml]
+pyyaml<7,>=6.0
