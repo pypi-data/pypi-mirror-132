@@ -1,0 +1,10 @@
+biblyser/__init__.py,sha256=YTDsQMlSxCan2Zf4JjJ-6JDIYGAL-ehoPx0eJUpB_vM,389
+biblyser/bib.py,sha256=toPXR1o9ycKgHKuRWNMmM9X_zi0ZjrrpJHPRaoJQ9KA,15563
+biblyser/bibcollection.py,sha256=YS7eaXf4vS67c37xNqYEzNmcJci1YjvrSCWRycLH0o8,24459
+biblyser/name.py,sha256=To3-3bycZ2mooGYoTc36Lhg4TeI7FLog0DBs-nhXx_w,14199
+biblyser/organisation.py,sha256=ovuLEd5bfBMAWzrW459WR8DzoShqgMPNaFfcOsd4jnU,11879
+biblyser-0.0.1.dist-info/LICENSE,sha256=Z0Smj-nwdoqKoWEF7xdtql71XCpVx9sDztJsYQbmQZw,1084
+biblyser-0.0.1.dist-info/METADATA,sha256=ixFrJ0aFfVq6EAeG7Be1HCE85ObYgAfTucfiQb-uY1E,10598
+biblyser-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+biblyser-0.0.1.dist-info/top_level.txt,sha256=mKiiy1fNwaOkxuLH-nbiWJcIlBBTt8WUiy4WMS7vJog,9
+biblyser-0.0.1.dist-info/RECORD,,
