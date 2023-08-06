@@ -1,0 +1,9 @@
+organization/__init__.py,sha256=ssh4h_BKAZj8sq_Cyepk9jnZ5q0Lk_rwSoZB3vZOj-8,18934
+organization/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+organization/_jsii/__init__.py,sha256=2Y5KfTua49VasfgG8hqSIRPUP5IgoE5l96LMSFjibG8,419
+organization/_jsii/cdk-library-aws-organization@0.2.0.jsii.tgz,sha256=xww1AEtfXw7DyAE5J4-Zw96d315Y7SvBu5tWoPAjDW8,25546
+renovosolutions.aws_cdk_aws_organization-0.2.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+renovosolutions.aws_cdk_aws_organization-0.2.0.dist-info/METADATA,sha256=xxX0Bk6oR0shvXnzGRr_odoqLvKxdSg9q-OrfUc6U3s,2729
+renovosolutions.aws_cdk_aws_organization-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+renovosolutions.aws_cdk_aws_organization-0.2.0.dist-info/top_level.txt,sha256=uQIvwAvAur5ZmN3Y-ZTEA0PPCnhoJ3YWIQ9W2S-sJyU,13
+renovosolutions.aws_cdk_aws_organization-0.2.0.dist-info/RECORD,,
