@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+git_relevant_history.egg-info/PKG-INFO
+git_relevant_history.egg-info/SOURCES.txt
+git_relevant_history.egg-info/dependency_links.txt
+git_relevant_history.egg-info/entry_points.txt
+git_relevant_history.egg-info/top_level.txt
+gitrelevanthistory/__init__.py
+gitrelevanthistory/gitrelevanthistory.py
