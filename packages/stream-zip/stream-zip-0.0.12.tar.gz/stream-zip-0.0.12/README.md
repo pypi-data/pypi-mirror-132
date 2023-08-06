@@ -1,0 +1,50 @@
+# stream-zip [![CircleCI](https://circleci.com/gh/uktrade/stream-zip.svg?style=shield)](https://circleci.com/gh/uktrade/stream-zip) [![Test Coverage](https://api.codeclimate.com/v1/badges/80442ee55a1276e83b44/test_coverage)](https://codeclimate.com/github/uktrade/stream-zip/test_coverage)
+
+Python function to construct a ZIP archive on the fly - without having to store the entire ZIP in memory or disk. This is useful in memory-constrained environments, or when you would like to start returning compressed data before you've even retrieved all the uncompressed data. Generating ZIPs on-demand in a web server is a typical use case for stream-zip.
+
+Offers similar functionality to [zipfly](https://github.com/BuzonIO/zipfly), but with a different API, and does not use Python's zipfile module under the hood.
+
+To unZIP files on the fly try [stream-unzip](https://github.com/uktrade/stream-unzip).
+
+
+## Installation
+
+```bash
+pip install stream-zip
+```
+
+
+## Usage
+
+```python
+from datetime import datetime
+from stream_zip import ZIP64, NO_COMPRESSION, stream_zip
+
+def unzipped_files():
+    modified_at = datetime.now()
+    perms = 0o600
+
+    def file_1_data():
+        yield b'Some bytes'
+
+    def file_2_data():
+        yield b'Some bytes'
+
+    # ZIP64 mode
+    yield 'my-file-1.txt', modified_at, perms, ZIP64, file_1_data()
+
+    # No compression
+    yield 'my-file-2.txt', modified_at, perms, NO_COMPRESSION, file_2_data()
+
+for zipped_chunk in stream_zip(unzipped_files()):
+    print(zipped_chunk)
+```
+
+
+## Limitations
+
+It's not possible to _completely_ stream-write ZIP files. Small bits of metadata for each member file, such as its name, must be placed at the _end_ of the ZIP. In order to do this, stream-unzip buffers this metadata in memory until it can be output.
+
+stream-unzip creates ZIP64 files to support sizes bigger than 4GB. Older software may not be able to open these.
+
+No compression is supported via the `NO_COMPRESSION` constant as in the above examples. However in this case the entire contents of these are buffered in memory, and so this should not be used for large files.
