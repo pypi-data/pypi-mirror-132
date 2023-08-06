@@ -1,0 +1,8 @@
+games_box/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+games_box/animals.py,sha256=dWJDrJaJeVP8C2FrTfQwPPULvxypPm_FztJRK6y-Trg,184
+games_box/colours.py,sha256=EbTRrVITW4zlvF00p_InJy9DzpnWdfeafw1ds8_BnmM,182
+games_box/dice.py,sha256=w4TyFU7NKo-NTLeZ1MbOQe-mPf7AxxtWx5wjjsASgqQ,2079
+games_box-0.0.1rc5.dist-info/METADATA,sha256=RhX3njJCtGfM_XruWoCQm3t4riyt1LOEsVHB4G1Wdu8,1493
+games_box-0.0.1rc5.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+games_box-0.0.1rc5.dist-info/top_level.txt,sha256=Ggw6Ek-g142aHe89DzG7HsP-rIOBKGU6yixy5cVjUMY,10
+games_box-0.0.1rc5.dist-info/RECORD,,
