@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pyg_mongo_async/__init__.py
+src/pyg_mongo_async/_async_cursor.py
+src/pyg_mongo_async/_async_reader.py
+src/pyg_mongo_async/_db_acell.py
+src/pyg_mongo_async.egg-info/PKG-INFO
+src/pyg_mongo_async.egg-info/SOURCES.txt
+src/pyg_mongo_async.egg-info/dependency_links.txt
+src/pyg_mongo_async.egg-info/requires.txt
+src/pyg_mongo_async.egg-info/top_level.txt
