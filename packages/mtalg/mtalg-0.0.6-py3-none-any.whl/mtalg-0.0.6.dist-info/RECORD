@@ -1,0 +1,15 @@
+mtalg/__about__.py,sha256=Tr7eqGRvcYW7IauBDos2k-K9uHs-OU4eavHCnMYRfNU,279
+mtalg/__init__.py,sha256=sgk_L11jpwkAweK-bRW8ypnqluCg0dXewsh7qPi5crs,186
+mtalg/__res/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mtalg/__res/update_badge.py,sha256=rRJKnj6J51B-kpwLWmI-Tic5Xe_rO0tWSaLns6k8jgs,860
+mtalg/alg/__init__.py,sha256=LztfbtQrPScIOjf0W3vQDTOD56MHMjlXMcR1oE-Icyc,62
+mtalg/alg/elementwise_algebra.py,sha256=NqJ5THKV6xYt3ZlVAEsWMweMPurVvEjZRgm8exDHCcs,3490
+mtalg/random/__init__.py,sha256=ERCHwZ9AP_ltxxFB8NIDkmtQgrCl_Uy8J2WFtR7ydXI,55
+mtalg/random/random_number_generators.py,sha256=AY4bHegN50HBL_QaxRKcomzK5SznnQsY6e8Q6F6o1xs,7592
+mtalg/tools/__get_num_threads.py,sha256=SUzgXTe2J-sfjdpLmP4G78k2G8u87dcMU2GOaN3HFB0,425
+mtalg/tools/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mtalg-0.0.6.dist-info/LICENSE.txt,sha256=Cv9LjSUj5L42l0uj_eWeRlG2wRgmXzJgnRjXP4k5ueM,1088
+mtalg-0.0.6.dist-info/METADATA,sha256=gSk1kcFjjNWbIOMRqW81zea17g2xFJHXoevc7FYZCX0,4076
+mtalg-0.0.6.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+mtalg-0.0.6.dist-info/top_level.txt,sha256=4Y1rgMPq78OiVHavzwBo3xnhL9i--R7rBGM0vbPuFFw,6
+mtalg-0.0.6.dist-info/RECORD,,
