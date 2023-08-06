@@ -1,0 +1,9 @@
+loguru==0.5.3
+aiohttp==3.8.1
+uvicorn==0.13.4
+requests==2.25.1
+aiofiles==0.7.0
+fastapi==0.65.2
+cos-python-sdk-v5==1.9.7
+orjson==3.6.1
+contextvars==2.4
