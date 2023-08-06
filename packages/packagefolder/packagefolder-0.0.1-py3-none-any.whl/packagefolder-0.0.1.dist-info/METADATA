@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: packagefolder
+Version: 0.0.1
+Summary: A useful slider module
+Home-page: UNKNOWN
+Author: Siamese
+Author-email: null@null.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+Requires-Dist: ipython (==7.30.1)
+Requires-Dist: streamlit (==1.2.0)
+
+UNKNOWN
+
