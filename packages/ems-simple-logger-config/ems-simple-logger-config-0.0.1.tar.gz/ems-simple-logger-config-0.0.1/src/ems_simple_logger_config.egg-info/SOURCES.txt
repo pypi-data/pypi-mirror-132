@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/ems_simple_logger_config.egg-info/PKG-INFO
+src/ems_simple_logger_config.egg-info/SOURCES.txt
+src/ems_simple_logger_config.egg-info/dependency_links.txt
+src/ems_simple_logger_config.egg-info/top_level.txt
+src/logger_config/__init__.py
+src/logger_config/logger.py
