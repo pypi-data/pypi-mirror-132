@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mongodf
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/VK/mlflow-pyfunc-server
+License: MIT
+Keywords: mongoDB pandas dataframe filter
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: pymongo
+Requires-Dist: pandas
+
+UNKNOWN
+
