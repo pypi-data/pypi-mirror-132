@@ -1,0 +1,9 @@
+jsonschema
+numpy
+pandas
+plotly
+python-dateutil
+requests
+scipy
+statsmodels
+testfixtures
