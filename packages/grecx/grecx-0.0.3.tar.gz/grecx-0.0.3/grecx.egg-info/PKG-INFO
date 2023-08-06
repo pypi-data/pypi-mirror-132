@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: grecx
+Version: 0.0.3
+Summary: An Efficient and Unified Benchmark for GNN-based Recommendation.
+Home-page: https://github.com/maenzhier/GRecX
+Author: Desheng Cai
+Author-email: caidsml@gmail.com
+License: GNU General Public License v3.0 (See LICENSE)
+Platform: UNKNOWN
+Requires-Python: >3.5.0
+License-File: LICENSE
+
+An Efficient and Unified Benchmark for GNN-based Recommendation.
+
