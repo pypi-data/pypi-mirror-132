@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: jitb
+Version: 0.1.0
+Summary: A small library containing some utilities to jump-scare you
+Author: Binyamin Y Cohen
+Author-email: binyamincohen555@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
