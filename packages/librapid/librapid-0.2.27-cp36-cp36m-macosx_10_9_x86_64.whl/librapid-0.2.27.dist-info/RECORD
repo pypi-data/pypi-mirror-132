@@ -1,0 +1,10 @@
+librapid/__init__.py,sha256=m78juJZf1b11vKloIaMJcjP-WUeM9azNw5wqsKlK6Qs,2034
+librapid/_librapid.cpython-36m-darwin.so,sha256=SHfQo-Heto1iQs8vxRInMmv5Jus65dlaEsT_ChWXVV0,2539584
+librapid/.dylibs/libstdc++.6.dylib,sha256=IDNm6zq_xxi71JezePgOyiPeFLM1oHPCQoSMkYY1laQ,3655760
+librapid/.dylibs/libgcc_s.1.dylib,sha256=EVxuuI6AtziT6u-TYjWr2ysjnj-DImnDzF5xna5FsvU,188816
+librapid/.dylibs/libgomp.1.dylib,sha256=83fsvZE9BQmYrf1xw4Br1mbtW4iyYPR9ZD2FOup0RB0,415024
+librapid-0.2.27.dist-info/RECORD,,
+librapid-0.2.27.dist-info/LICENSE,sha256=kTjI5Nc_1G-9SJdGPPgdgV3zq77vCvaDEQ3goPe0qpw,1066
+librapid-0.2.27.dist-info/WHEEL,sha256=UfGt3bS_Tqfhcc0GWGSLQhDu1h8CPmnYnTwPENM9xpc,104
+librapid-0.2.27.dist-info/top_level.txt,sha256=Zy1k91fqAOGCubeF3wqdeufpRPHuQFK3ZuchWqSrUTs,9
+librapid-0.2.27.dist-info/METADATA,sha256=uXaP301I4Np0BrvOB3dZn_kxTltLlQQxdWKy8FS7oWM,10369
