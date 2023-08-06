@@ -1,0 +1,11 @@
+click
+commentjson
+markdown2
+numpy
+pcbnewTransition==0.2.0
+pybars3
+shapely
+solidpython
+
+[dev]
+pytest
