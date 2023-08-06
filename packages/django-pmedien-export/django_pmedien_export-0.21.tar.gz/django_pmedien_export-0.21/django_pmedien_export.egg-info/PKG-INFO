@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: django-pmedien-export
+Version: 0.21
+Summary: General export for a complete model with languages
+Home-page: http://www.pmedien.com
+Author: pmedien GmbH
+Author-email: nomail@pmedien.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+
+General export for a complete model with languages
+
+Usage:
+
+project/urls.py:
+```
+from django_pmedien_export import pmedien_export as export
+
+...
+
+urlpatterns = [
+...    
+url(r'^export/((?P<appname>[\w-]+)/)?$', export.export),
+...
+]    
+```
+
+also set LANGUAGES in settings.py like:
+```
+...
+LANGUAGES = (
+    ('de', 'deutsch'),
+)
+...
+```
+
+The appname should be an existing app. Otherwise nothing is returned.
+
