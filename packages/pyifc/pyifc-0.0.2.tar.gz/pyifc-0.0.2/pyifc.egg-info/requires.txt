@@ -1,0 +1,5 @@
+toposort>=1.7
+
+[test]
+pytest>=6.0
+coverage>=6.0
