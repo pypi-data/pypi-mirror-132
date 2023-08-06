@@ -1,0 +1,8 @@
+README.md
+asyncio_subprocess_run.py
+setup.cfg
+setup.py
+asyncio_subprocess_run.egg-info/PKG-INFO
+asyncio_subprocess_run.egg-info/SOURCES.txt
+asyncio_subprocess_run.egg-info/dependency_links.txt
+asyncio_subprocess_run.egg-info/top_level.txt
