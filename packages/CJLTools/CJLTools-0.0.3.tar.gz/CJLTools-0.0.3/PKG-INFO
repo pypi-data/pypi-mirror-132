@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: CJLTools
+Version: 0.0.3
+Summary: Some small tools
+Home-page: https://github.com/cenjinglun/CJLTools
+Author: Jinglun Cen
+Author-email: cenjinglun@qq.com
+License: MIT Licence
+Description: Some small tools
+Keywords: pip,CJLTools,Small Tools
+Platform: any
