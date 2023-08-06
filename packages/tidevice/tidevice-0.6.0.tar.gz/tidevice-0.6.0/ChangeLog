@@ -1,0 +1,16 @@
+CHANGES
+=======
+
+0.6.0
+-----
+
+* add debug, add set\_assistive\_touch support
+* change sha1 to sha256, maybe can fix CA\_MD\_TOO\_WEAK error
+* hotfix for py37
+* support iOS 15.2
+* format code
+* add windows install step
+* Update README.md
+* add DataType.GPU
+* update README: fix xctest command env variable error
+* fix for windows
