@@ -1,0 +1,9 @@
+LICENCE.txt
+README.txt
+setup.py
+sotl/__init__.py
+sotl/sotl.py
+sotl.egg-info/PKG-INFO
+sotl.egg-info/SOURCES.txt
+sotl.egg-info/dependency_links.txt
+sotl.egg-info/top_level.txt
