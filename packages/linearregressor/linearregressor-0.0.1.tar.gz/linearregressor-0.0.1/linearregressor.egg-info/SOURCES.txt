@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+linearregressor/__init__.py
+linearregressor.egg-info/PKG-INFO
+linearregressor.egg-info/SOURCES.txt
+linearregressor.egg-info/dependency_links.txt
+linearregressor.egg-info/top_level.txt
