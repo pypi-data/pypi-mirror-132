@@ -1,0 +1,2 @@
+PyYAML>=3
+smart-open[s3]<6.0,>=5.2.1
