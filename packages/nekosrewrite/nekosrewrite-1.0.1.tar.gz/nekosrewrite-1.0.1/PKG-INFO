@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: nekosrewrite
+Version: 1.0.1
+Summary: Python module that uses Nekos API via aiohttp
+Home-page: https://github.com/Ykpauneu/nekos.py-aiohttp
+Author: Ykpauneu
+Author-email: mestodan230@gmail.com
+License: GNU v3
+Download-URL: https://github.com/Ykpauneu/nekos.py-aiohttp/archive/refs/tags/1.0.1.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
