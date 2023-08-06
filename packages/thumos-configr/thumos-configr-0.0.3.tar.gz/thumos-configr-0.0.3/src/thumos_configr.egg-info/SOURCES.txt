@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/configr/__init__.py
+src/configr/configr.py
+src/thumos_configr.egg-info/PKG-INFO
+src/thumos_configr.egg-info/SOURCES.txt
+src/thumos_configr.egg-info/dependency_links.txt
+src/thumos_configr.egg-info/top_level.txt
