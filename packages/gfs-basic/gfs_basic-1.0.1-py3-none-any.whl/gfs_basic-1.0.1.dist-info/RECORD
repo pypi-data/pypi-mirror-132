@@ -1,0 +1,15 @@
+gfs_basic/__init__.py,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+gfs_basic/Fuzzy_Logic_Toolbox/FuzzyToolbox.py,sha256=aDSoPgxa4pkfsdZqKCG5WnqyVPqFJLBmVgcKNNU3Fbk,4786
+gfs_basic/Fuzzy_Logic_Toolbox/Initialize_Trees.py,sha256=R3rAE4_FreSxdV3DQo2n7b2RC-4yFGBxnelmLShVAcM,3946
+gfs_basic/Fuzzy_Logic_Toolbox/Simple_FISs.py,sha256=VcZfPDC11qUeT1D_rKoMQPKzd0-0fVIQHPj6lSP7ZmQ,13819
+gfs_basic/Fuzzy_Logic_Toolbox/ViewingTools.py,sha256=Jy2QomGcDcMhgGLext5JIuTfbuQ9JmdkYaU5Ol6N6k4,6116
+gfs_basic/Fuzzy_Logic_Toolbox/__init__.py,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+gfs_basic/Genetic_Algorithm_Toolbox/GeneticAlgorithm.py,sha256=byVFSFBMFb9MnQC0oHJiDIHfLEOgqf5X8gGd5YrCkp0,6994
+gfs_basic/Genetic_Algorithm_Toolbox/RunGA.py,sha256=TY1POum5HMbMhMmxmcLFEdADA91eln0aAe_E7VCngZ0,750
+gfs_basic/Genetic_Algorithm_Toolbox/__init__.py,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+gfs_basic-1.0.1.dist-info/LICENSE,sha256=41ZnlE1982lSuIct-SGYtdY-ZTEPuB5USx24inDC_TM,1086
+gfs_basic-1.0.1.dist-info/METADATA,sha256=swv3e4NKj-ZS4nV3yDVvtWi-gzLhavdIb915-7AqQ04,640
+gfs_basic-1.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+gfs_basic-1.0.1.dist-info/top_level.txt,sha256=Jy9gIzIv_xcKvQaSaslao4L9GI-0Ey7jdxTX93YEdSU,10
+gfs_basic-1.0.1.dist-info/zip-safe,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+gfs_basic-1.0.1.dist-info/RECORD,,
