@@ -1,0 +1,9 @@
+README.md
+setup.py
+conan/__init__.py
+conan/conan.py
+conan_tool.egg-info/PKG-INFO
+conan_tool.egg-info/SOURCES.txt
+conan_tool.egg-info/dependency_links.txt
+conan_tool.egg-info/requires.txt
+conan_tool.egg-info/top_level.txt
