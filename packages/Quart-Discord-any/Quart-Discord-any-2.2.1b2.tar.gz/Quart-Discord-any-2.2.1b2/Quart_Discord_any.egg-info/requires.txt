@@ -1,0 +1,5 @@
+Quart
+pyjwt
+oauthlib
+Async-OAuthlib
+cachetools
