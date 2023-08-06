@@ -1,0 +1,8 @@
+README.md
+setup.py
+igruha/__init__.py
+igruha.egg-info/PKG-INFO
+igruha.egg-info/SOURCES.txt
+igruha.egg-info/dependency_links.txt
+igruha.egg-info/requires.txt
+igruha.egg-info/top_level.txt
