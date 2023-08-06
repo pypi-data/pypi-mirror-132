@@ -1,0 +1,9 @@
+README.md
+setup.py
+dickey_fuller_test/__init__.py
+dickey_fuller_test/dickey_fuller_test.py
+dickey_fuller_test.egg-info/PKG-INFO
+dickey_fuller_test.egg-info/SOURCES.txt
+dickey_fuller_test.egg-info/dependency_links.txt
+dickey_fuller_test.egg-info/requires.txt
+dickey_fuller_test.egg-info/top_level.txt
