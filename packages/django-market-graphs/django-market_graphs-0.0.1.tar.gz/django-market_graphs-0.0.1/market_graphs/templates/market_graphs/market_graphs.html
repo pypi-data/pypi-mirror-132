@@ -1,0 +1,170 @@
+<div class="container-fluid">
+  <h5>Market Index <small>({{ date | date:"m월 d일"}})</small></h5>
+  <div class="row row-cols-auto mb-5">
+    <div class="col">
+      <div class="card">
+        {{ kospi_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/sise/sise_index.nhn?code=KOSPI"
+             class="btn btn btn-primary btn-sm" target="_blank">KOSPI</a>
+          <strong>{{ recent_mi.kospi }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ kosdaq_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/sise/sise_index.nhn?code=KOSDAQ"
+             class="btn btn btn-primary btn-sm" target="_blank">KOSDAQ</a>
+          <strong>{{ recent_mi.kosdaq }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ sp500_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/world/sise.nhn?symbol=SPI@SPX"
+             class="btn btn btn-primary btn-sm" target="_blank">S&P 500</a>
+          <strong>{{ recent_mi.sp500 }}</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row row-cols-auto mb-5">
+    <div class="col">
+      <div class="card">
+        {{ gold_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/marketindex/worldGoldDetail.nhn?marketindexCd=CMDT_GC&fdtc=2"
+             class="btn btn btn-primary btn-sm" target="_blank">Gold</a>
+          <strong>{{ recent_mi.gold }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ silver_div | safe }}
+        <div class="card-body">
+          <a href="https://kr.investing.com/commodities/silver"
+             class="btn btn btn-primary btn-sm" target="_blank">Silver</a>
+          <strong>{{ recent_mi.silver }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ gsratio_div | safe }}
+        <div class="card-body">
+          <a href="https://goldprice.org/charts/history/gold_60_day_silver_x.png"
+             class="btn btn btn-primary btn-sm" target="_blank">Gold/Silver ratio</a>
+          <strong>{{ recent_mi.gsratio }}</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row row-cols-auto mb-5">
+    <div class="col">
+      <div class="card">
+        {{ gbond3y_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/marketindex/interestDetail.nhn?marketindexCd=IRR_GOVT03Y"
+             class="btn btn btn-primary btn-sm" target="_blank">Gbond3Y</a>
+          <strong>{{ recent_mi.gbond3y }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ yieldgap_div | safe }}
+        <div class="card-body">
+          <a href="#" class="btn btn btn-primary btn-sm disabled" target="_blank">Yield Gap</a>
+          <strong>{{ recent_mi.yieldgap }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ avgper_div | safe }}
+        <div class="card-body">
+          <a href="#" class="btn btn btn-primary btn-sm disabled" target="_blank">Avg PER</a>
+          <strong>{{ recent_mi.avgper }}</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row row-cols-auto mb-5">
+    <div class="col">
+      <div class="card">
+        {{ usdkrw_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/marketindex/exchangeDetail.nhn?marketindexCd=FX_USDKRW"
+             class="btn btn btn-primary btn-sm" target="_blank">USD/KRW</a>
+          <strong>{{ recent_mi.usdkrw }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ wti_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/marketindex/worldOilDetail.nhn?marketindexCd=OIL_CL&fdtc=2"
+             class="btn btn btn-primary btn-sm" target="_blank">WTI</a>
+          <strong>{{ recent_mi.wti }}</strong>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        {{ audchf_div | safe }}
+        <div class="card-body">
+          <a href="https://kr.investing.com/currencies/aud-chf"
+             class="btn btn btn-primary btn-sm " target="_blank">AUD/CHF</a>
+          <strong>{{ recent_mi.audchf }}</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row row-cols-auto mb-5">
+    <div class="col">
+      <div class="card">
+        {{ usdidx_div | safe }}
+        <div class="card-body">
+          <a href="https://finance.naver.com/marketindex/worldExchangeDetail.nhn?marketindexCd=FX_USDX"
+             class="btn btn btn-primary btn-sm" target="_blank">Dollar INDEX</a>
+          <strong>{{ recent_mi.usdidx }}</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- for execute bokeh graph -->
+<!-- user guide https://docs.bokeh.org/en/latest/docs/user_guide/embed.html#userguide-embed -->
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.0.min.js"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.0.min.js"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.0.min.js"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-gl-2.4.0.min.js"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-mathjax-2.4.0.min.js"
+        crossorigin="anonymous"></script>
+{{ kospi_script | safe}}
+{{ kosdaq_script | safe}}
+{{ sp500_script | safe}}
+{{ gold_script | safe}}
+{{ silver_script | safe}}
+{{ gsratio_script | safe}}
+{{ gbond3y_script | safe}}
+{{ yieldgap_script | safe}}
+{{ avgper_script | safe}}
+{{ usdkrw_script | safe}}
+{{ wti_script | safe}}
+{{ audchf_script | safe}}
+{{ usdidx_script | safe}}
