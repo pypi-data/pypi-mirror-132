@@ -1,0 +1,11 @@
+headpose/__init__.py,sha256=3Zlvr6C1x7rmziMzPvny3aWxXnA5k6THlBuizDBL-UQ,161
+headpose/dataset.py,sha256=BmE6XV_WHuvjpt2lvh5HKIXlwOPEQvtuZviRFdpeoeM,5527
+headpose/detect.py,sha256=ugzQg1T_wADJIgoXNSioTx0bmYeVRREugmebQGsWdyc,6614
+headpose/haarcascade_frontalface_default.xml,sha256=D31FJ4ROtRTUpJSOgi2pD7sWo0oLu7xq3GSYdHpar7A,930127
+headpose/train_network.py,sha256=DTq5HkJKfo8mxBKTM5_Bb9bJcFFgkcJyJ2s5g-TFh60,6058
+headpose/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+headpose/tests/test_headpose.py,sha256=oWdiwNKhfyFjSUf-3EP_rKf6nN7c2DPLAkwQ8NH6S0o,1058
+headpose-1.1.6.dist-info/METADATA,sha256=-ssY8_NexByHrdrzHyIqN9mvDWyoVW3rI-58Zzvre4c,1770
+headpose-1.1.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+headpose-1.1.6.dist-info/top_level.txt,sha256=KmAwLDiGvAMDAZrpZdgJnNRA76w9t9y52AFxm_sl5es,9
+headpose-1.1.6.dist-info/RECORD,,
