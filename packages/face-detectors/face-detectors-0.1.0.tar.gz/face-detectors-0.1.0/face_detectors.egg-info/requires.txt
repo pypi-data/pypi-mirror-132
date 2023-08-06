@@ -1,0 +1,7 @@
+dlib==19.22.0
+onnxoptimizer==0.2.6
+onnxruntime==1.8.1
+opencv-python==4.5.3.56
+opencv-contrib-python==4.5.3.56
+tqdm==4.62.1
+requests==2.26.0
