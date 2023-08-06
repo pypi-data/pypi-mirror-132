@@ -1,0 +1,8 @@
+setup.py
+django_pmedien_defaults/__init__.py
+django_pmedien_defaults/pmedien_defaults.py
+django_pmedien_defaults.egg-info/PKG-INFO
+django_pmedien_defaults.egg-info/SOURCES.txt
+django_pmedien_defaults.egg-info/dependency_links.txt
+django_pmedien_defaults.egg-info/requires.txt
+django_pmedien_defaults.egg-info/top_level.txt

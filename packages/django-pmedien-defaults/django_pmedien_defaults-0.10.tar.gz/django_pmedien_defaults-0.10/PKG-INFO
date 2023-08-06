@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: django_pmedien_defaults
+Version: 0.10
+Summary: Skip list view to make a simple confguration entry in a table
+Home-page: http://www.pmedien.com
+Author: pmedien GmbH
+Author-email: nomail@pmedien.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=2.7
+
+Skip list view to make a simple confguration entry in a table
+
