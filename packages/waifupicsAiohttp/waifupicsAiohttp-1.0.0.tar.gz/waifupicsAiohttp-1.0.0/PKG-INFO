@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: waifupicsAiohttp
+Version: 1.0.0
+Summary: Python module that uses Waifu.pics API via aiohttp
+Home-page: https://github.com/Ykpauneu/waifupicsAiohttp
+Author: Ykpauneu
+Author-email: mestodan230@gmail.com
+License: GNU v3
+Download-URL: https://github.com/Ykpauneu/waifupicsAiohttp/archive/refs/tags/1.0.0.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
