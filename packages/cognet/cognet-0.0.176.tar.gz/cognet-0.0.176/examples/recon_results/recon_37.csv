@@ -1,0 +1,321 @@
+feature_names,sample,qsampled,random_sample
+wrkstat,working fulltime,,retired
+HRS1,c,e,d
+HRS2,e,,a
+wrkslf,someone else,,someone else
+wrkgovt,private,private,government
+INDUS10,c,c,d
+SPHRS1,e,,b
+SPHRS2,e,,c
+SPPRES10,e,,c
+pawrkslf,someone else,,someone else
+PAPRES10,c,,a
+PAIND10,c,,e
+MAPRES10,c,,d
+childs,c,b,c
+agekdbrn,b,c,c
+maeduc,b,c,d
+race,white,white,black
+RES16,big-city suburb,"country,nonfarm",big-city suburb
+REG16,middle atlantic,e. nor. central,foreign
+MOBILE16,"same st,dif city",,same city
+mawrkgrw,yes,,no
+granborn,d,,c
+hompop,4,2,6
+preteen,e,,d
+teens,c,c,e
+adults,2,,4
+income,$25000 or more,,$8000 to 9999
+INCOME16,$25000 to 29999,,$75000 to $89999
+region,middle atlantic,,w. sou. central
+size,14,,2099
+partyid,not str democrat,,not str democrat
+VOTE16,voted,voted,ineligible
+polviews,moderate,,conservative
+natspac,about right,too much,too little
+natenvir,too little,,too little
+natheal,too little,too little,too much
+natdrug,too little,,too much
+natarms,about right,,too little
+natpark,too little,,too much
+natchld,too little,about right,too little
+natenrgy,too little,too little,too little
+tax,too high,too high,about right
+colath,allowed,,allowed
+spkcom,not allowed,not allowed,allowed
+spkmil,not allowed,,allowed
+colhomo,allowed,,allowed
+spkmslm,not allowed,,not allowed
+libmslm,remove,remove,not remove
+courts,about right,,about right
+relig,protestant,christian,orthodox-christian
+other,"evangelical, evangelist",7th day adventist,christian scientist
+fund,fundamentalist,liberal,liberal
+attend,sevrl times a yr,,more thn once wk
+postlife,yes,,no
+pray,once a day,,lt once a week
+OTH16,"evangelical, evangelist",free will baptist,united church of canada
+FUND16,fundamentalist,,fundamentalist
+racopen,cant discriminate,cant discriminate,neither
+happy,not too happy,not too happy,not too happy
+health,good,good,fair
+socbar,once a month,,sev times a week
+weekswrk,c,c,b
+satjob,mod. satisfied,,very satisfied
+richwork,continue working,continue working,continue working
+class,working class,working class,lower class
+rank,c,,b
+finalter,stayed same,,stayed same
+finrela,far below average,,below average
+wksubs,yes,,no
+wksup,yes,yes,no
+getahead,hard work,,hard work
+fepol,disagree,,disagree
+abrape,yes,yes,yes
+chldidel,c,c,b
+divlaw,stay same,easier,more difficult
+premarsx,not wrong at all,,not wrong at all
+teensex,always wrong,always wrong,almst always wrg
+xmarsex,always wrong,always wrong,sometimes wrong
+LETDIE1,yes,,yes
+SUICIDE3,no,,yes
+owngun,no,,refused
+pistol,no,,no
+hunt,neither,neither,neither
+news,never,,everyday
+comprend,good,good,good
+RACDIF1,yes,,yes
+RACDIF3,yes,,yes
+RACDIF4,no,,yes
+helpnot,e,,e
+helpblk,e,e,c
+god,know god exists,,believe but doubts
+workhsps,c,,e
+intlblks,c,,e
+marblk,neither favor nor oppose,,strongly favor
+marwht,neither favor nor oppose,,strongly favor
+discaff,not very likely,not very likely,very likely
+discaffm,somewhat likely,somewhat likely,somewhat likely
+CLOSETO3,e,,c
+CLOSETO4,e,,c
+CLOSETO5,e,,e
+SEETALK2,e,e,c
+SEVERE1,e,e,e
+SEVERE2,e,e,d
+SEVERE3,e,,c
+SEVERE5,e,,c
+DANGOTH1,e,e,c
+DANGOTH3,e,,c
+DANGSLF2,e,,e
+DANGSLF3,e,,e
+relpersn,modrte religious,not religious,modrte religious
+sprtprsn,modeate spirtual,,slight spiritual
+spklang,not well,,very well
+compuse,yes,,no
+emailhr,d,c,c
+wwwhr,c,c,e
+wwwmin,c,c,d
+huclean,very clean,,interviewer never saw the interior of the respondent's hu
+waypaid,c,,e
+wrksched,rotating shifts,,afternoon shift
+moredays,c,c,e
+mustwork,no,,yes
+famwkoff,not at all hard,,not at all hard
+famvswk,rarely,often,often
+hrsrelax,c,,d
+secondwk,no,no,no
+learnnew,agree,disagree,disagree
+workfast,agree,disagree,strongly agree
+overwork,disagree,,disagree
+trustman,agree,,agree
+teamsafe,agree,disagree,strongly disagree
+safehlth,agree,,agree
+proudemp,agree,,agree
+trdunion,disagree,,strongly agree
+wkdecide,often,,sometimes
+toofewwk,sometimes,,sometimes
+wkfreedm,somewhat true,,somewhat true
+supcares,somewhat true,,not at all true
+condemnd,somewhat true,,somewhat true
+promtefr,somewhat true,,not at all true
+cowrkint,somewhat true,,not at all true
+jobsecok,somewhat true,,not too true
+suphelp,somewhat true,,very true
+cowrkhlp,somewhat true,somewhat true,not too true
+hvylift,yes,,yes
+handmove,yes,,no
+wkpraise,maybe,,maybe
+fairearn,somewhat less than you deserve,,about as much as you deserve
+rincblls,yes,no,yes
+wkageism,no,no,no
+wkracism,no,,no
+wkharoth,no,no,yes
+HEALTH1,good,good,excellent
+physhlth,c,,e
+hlthdays,c,,d
+usedup,sometimes,,rarely
+painarms,no,,no
+hurtatwk,c,,e
+knowschd,one week or less,between 1 and 2 weeks,between 1 and 2 weeks
+usetech,c,,d
+hyperten,no,no,yes
+arthrtis,no,,yes
+diabetes,no,,yes
+depress,no,,yes
+weight,c,,a
+height,b,,c
+misswork,c,,d
+lifenow,c,,a
+poorserv,less than once a year,,almost every day
+afraidof,a few times a year,,less than once a year
+hlthphys,very good,,fair
+hlthmntl,good,,excellent
+actssoc,very good,good,good
+fatigue,severe,,mild
+abfelegl,it depends,,should not
+abmoral,it depends,,it depends
+ABHELP4,yes,,yes
+WORKFOR1,non-profit or not-for-profit organization,for-profit company,government or government agency
+extrapay,no,,no
+yearval,e,,d
+numemps,e,,d
+newsfrom,tv,,books other printed material
+scifrom,the internet,,friends colleagues
+seeksci,the internet,,newspapers
+nextgen,strongly agree,,agree
+toofast,agree,,disagree
+advfront,strongly agree,agree,disagree
+scibnfts,about equal if volunteered,benefits greater,benefits greater
+exptext,correct vague reason,,correct vague reason
+ODDS1,no,,no
+hotcore,True,True,False
+boyorgrl,True,,True
+viruses,False,,False
+evolved,False,False,False
+solarrev,one year,,other time period if volunteered
+colsci,no,no,no
+colscinm,e,,d
+hsmath,"general math, business, or vocational math",,one year of algebra
+hschem,no,,yes
+hsphys,no,,no
+intintl,moderately interested,,very interested
+intecon,moderately interested,,not at all interested
+inttech,moderately interested,,very interested
+intmed,moderately interested,,moderately interested
+intmil,moderately interested,not at all interested,not at all interested
+viszoo,c,e,e
+vissci,c,,e
+scientgo,strongly agree,agree,disagree
+scientbe,strongly agree,,disagree
+buyvalue,e,e,e
+empinput,no,,no
+slfmangd,no,,no
+wealth,"$5,000 to $20,000",,"$500,000 to $1 million"
+defpensn,no,no,yes
+buyesop,i would be neither more nor less likely to buy from an employee-owned company,i would be neither more nor less likely to buy from an employee-owned company,i would be less likely to buy from an employee-owned company
+esopnot,i would definitely take the job without the esop (employee stock ownership plan) or cash profit sharing,,i would definitely take the job without the esop (employee stock ownership plan) or cash profit sharing
+ratetone,c,,c
+trcourts,e,,c
+intcntct,e,b,e
+healthissp,good,,very good
+hubbywrk,strongly disagree,,disagree
+marhomo,strongly agree,strongly agree,agree
+SATFAM7,completely satisfied,,very satisfied
+stress,sometimes,,often
+supervis,supervises,,doesnt supervise
+hapunhap,fairly happy,,fairly happy
+concong,very little confidence,,complete confidence
+conbiz,very little confidence,,some confidence
+conchurh,some confidence,,complete confidence
+concourt,some confidence,,some confidence
+conschls,very little confidence,,some confidence
+clergvte,strongly agree,,strongly agree
+godchnge,"believe now, always have",,"believe now, didn't used to"
+afterlif,"yes, definitely","no, probably not","yes, probably"
+heaven,"yes, definitely",,"no, probably not"
+godmeans,disagree,,strongly disagree
+attendma,several times a yr,,about once a month
+ATTEND12,several times a yr,,several times a week
+prayfreq,every week,several times a week,never
+trustsci,not agree/dsagre,,disagree
+religcon,not agree/dsagre,agree,strong disagree
+religint,not agree/dsagre,,strong disagree
+relmarry,definitely accept,probably accept,definitely accept
+relgeneq,treats men better than women,,treats men and women equally
+relgenbar,neither agree nor disagree,,strongly disagree
+govvsrel,agree,,strongly disagree
+difrel,neither agree nor disagree,disagree,disagree
+relrlvnt,disagree,disagree,agree
+christns,somewhat positive,somewhat positive,very positive
+hindus,somewhat positive,,somewhat negative
+jews,somewhat positive,,neither positive nor negative
+atheists,somewhat positive,,somewhat negative
+indusgen,extremely dangerous,,somewhat dangerous
+numwomen,e,c,c
+nummen,e,e,e
+HIVTEST1,e,e,b
+GENESELF2,yes,,no
+realinc,c,,d
+conrinc,c,,e
+ethnic,other spanish,,american indian
+ethnum,names 1,chooses 1 of 2+,cannot name any
+hispanic,salvadorian,,south american
+uscitzn,a u.s. citizen,,"a u.s. citizen born in puerto rico, the u.s. virgin islands, or the northern marianas islands"
+yearsusa,c,,d
+vetyears,none,,2 to 4  years
+dwelown,own or is buying,pays rent,other
+wordc,incorrect,incorrect,incorrect
+worde,incorrect,,incorrect
+wordf,correct,incorrect,incorrect
+wordg,correct,,incorrect
+wordh,correct,,incorrect
+wordj,incorrect,incorrect,incorrect
+wordsum,c,,c
+GENDER1,female,male,male
+GENDER2,female,,female
+GENDER3,male,female,female
+OLD3,c,,b
+RELATE4,grand or great-grandchild,,other relative
+GENDER4,female,male,male
+OLD5,e,c,d
+OLD6,e,,c
+OLD7,e,,d
+OLD12,e,e,c
+RELHHD3,"grandchild,great-granchild",parent-in-law,"partner,fiance-e-,boyfriend,girlfriend,etc"
+hhrace,white,,white
+HHTYPE1,other family w children,,married couple w children
+rplace,child,,son or daughter-in-law
+rvisitor,r. is household member,,r. is visitor
+RELHH2,"child, unsp",,sibling-in-law
+PAISCO88,d,d,e
+MAISCO88,d,,c
+SPISCO88,e,,b
+SEI10INC,d,,e
+PASEI10INC,b,,d
+MASEI10,c,,d
+MASEI10INC,c,c,c
+SPSEI10,e,,d
+SPSEI10INC,e,,d
+COSEI10EDUC,e,,c
+COSEI10INC,e,e,b
+COPRES105PLUS,e,,d
+cohort,c,,c
+INTRACE1,white,,some other race
+WHOELSE1,yes,,yes
+WHOELSE2,no,,no
+WHOELSE3,no,,yes
+WHOELSE6,no,yes,yes
+feelevel,b,,e
+intethn,hispanic,white,hispanic
+mode,in-person,over the phone,in-person
+version,1,,3
+issp,did issp,,did issp
+sampcode,601,,639
+spanint,would have been excluded as language problem,would have been excluded as language problem,would have been excluded as language problem
+spaneng,spanish,,spanish
+kidsinhh,yes,no,no
+rlooks,about average,,very attractive
+rgroomed,well groomed,about average,well groomed
+rweight,about the right weight,slightly overweight,slightly overweight
+wtssnr,c,,c
+vpsu,2,,1

@@ -1,0 +1,231 @@
+feature_names,sample,qsampled,random_sample
+HRS1,e,c,d
+PRESTG105PLUS,e,,c
+INDUS10,e,,d
+SPHRS2,e,,d
+PAOCC10,e,b,e
+PAPRES10,e,d,d
+PAPRES105PLUS,e,d,e
+PAIND10,e,,b
+MAOCC10,e,,c
+MAPRES105PLUS,e,b,d
+sibs,e,d,c
+educ,c,,a
+maeduc,e,c,a
+speduc,e,,b
+dipged,high school diploma,,high school diploma
+race,black,,black
+RES16,city gt 250000,,big-city suburb
+INCOM16,average,above average,below average
+preteen,c,c,e
+teens,c,,e
+adults,1,,3
+earnrs,c,,c
+region,middle atlantic,e. nor. central,south atlantic
+srcbelt,"suburb, 12 lrgst",,"suburb, 13-100"
+size,14,,2696
+polviews,moderate,,liberal
+natmass,too little,,too little
+nathealy,too little,,too little
+natcrimy,about right,,too much
+natdrugy,too little,,too little
+natarmsy,too much,,too much
+tax,too high,,too high
+libath,not remove,not remove,not remove
+librac,remove,not remove,remove
+libcom,remove,,not remove
+libmil,remove,,remove
+courts,too harsh,,not harsh enough
+fund,liberal,liberal,fundamentalist
+prayer,disapprove,approve,disapprove
+bible,inspired word,,inspired word
+raclive,yes,,yes
+affrmact,support pref,,strongly oppose pref
+wrkwayup,disagree somewhat,neither agree nor disagree,disagree strongly
+happy,pretty happy,very happy,very happy
+socrel,sev times a mnth,,almost daily
+socommun,sev times a year,never,almost daily
+socfrend,sev times a year,sev times a year,once a month
+weekswrk,e,c,c
+rank,c,d,b
+finalter,stayed same,,better
+getahead,both equally,,hard work
+fepol,disagree,disagree,agree
+abpoor,yes,no,no
+abrape,yes,,yes
+absingle,yes,yes,yes
+abany,yes,,no
+sexeduc,favor,favor,favor
+divlaw,stay same,more difficult,easier
+premarsx,not wrong at all,not wrong at all,almst always wrg
+xmarsex,always wrong,always wrong,not wrong at all
+LETDIE1,yes,yes,no
+SUICIDE4,no,no,yes
+pistol,refused,,refused
+shotgun,refused,,refused
+rowngun,refused,,no
+hunt,neither,neither,resp
+news,few times a week,,never
+phone,cellphone,refused,phone elsewhere
+RACDIF3,yes,,yes
+RACDIF4,no,,yes
+helppoor,e,b,d
+helpnot,e,,b
+helpsick,e,,b
+helpblk,e,,b
+reborn,no,no,yes
+numcong,e,,e
+wlthwhts,e,,e
+intlwhts,c,,e
+intlhsps,c,c,c
+liveblks,strongly favor,favor,strongly favor
+MARAsian,neither favor nor oppose,strongly favor,neither favor nor oppose
+marhisp,neither favor nor oppose,neither favor nor oppose,oppose
+marwht,neither favor nor oppose,,favor
+yousup,e,,d
+discaffw,very likely,,somewhat likely
+CLOSETO3,e,,c
+CLOSETO5,e,,d
+SEETALK2,e,,e
+MYPROBS1,e,e,d
+MYPROBS2,e,,e
+MYPROBS5,e,,d
+SEVERE3,e,e,e
+SEVERE5,e,,c
+DANGOTH1,e,,e
+DANGOTH3,e,e,c
+DANGOTH5,e,,c
+DANGSLF1,e,b,d
+DANGSLF5,e,e,c
+relpersn,modrte religious,modrte religious,very religious
+othlang,no,yes,yes
+emailmin,e,,e
+wwwmin,e,,c
+yearsjob,e,c,c
+waypaid,e,c,c
+moredays,e,c,c
+hrsrelax,e,c,c
+physhlth,e,c,d
+hlthdays,e,c,c
+hurtatwk,e,c,e
+usetech,e,,c
+height,e,,b
+misswork,e,,e
+lifenow,e,,d
+LIFEIN5,e,a,b
+afraidof,never,,a few times a year
+quallife,good,,fair
+hlthphys,good,fair,good
+actssoc,very good,,excellent
+physacts,completely,,completely
+abfelegl,should,,it depends
+ABSTATE2,stay the same as now,make it harder,stay the same as now
+ABHELP2,no,yes,no
+ABHELP3,yes,,yes
+abinspay,people should be able,,people should be able
+stockval,e,,d
+yearval,e,e,c
+numemps,c,e,e
+newsfrom,friends colleagues,,books other printed material
+advfront,agree,agree,agree
+astrosci,not at all scientific,,very scientific
+scibnfts,benefits greater,,about equal if volunteered
+ODDS1,no,no,yes
+hotcore,True,,False
+boyorgrl,True,,False
+viruses,False,True,True
+EVOLVED2,True,True,False
+hsbio,no,,no
+hschem,no,,no
+nanowill,about equal:if volunteered,,benefits greater
+inteduc,very interested,moderately interested,not at all interested
+intsci,not at all interested,very interested,not at all interested
+inttech,moderately interested,,not at all interested
+intenvir,very interested,,moderately interested
+intmil,moderately interested,moderately interested,moderately interested
+viszoo,c,c,e
+vissci,c,e,d
+scientgo,agree,,strongly disagree
+scientod,disagree,,disagree
+scientbe,agree,,agree
+compwage,e,e,c
+numorg,e,,e
+ratetone,e,c,e
+marcohab,na,,"not married, cohabitating partner"
+trcourts,e,,c
+trbigbus,e,,e
+hubbywrk,strongly disagree,,strongly disagree
+marhomo,agree,,agree
+XMARSEX1,always wrong,,almost always wrong
+concong,some confidence,some confidence,very little confidence
+concourt,some confidence,complete confidence,a great deal of confidence
+nihilism,strongly disagree,,strongly disagree
+relscrpt,no,no,yes
+religcon,not agree/dsagre,not agree/dsagre,not agree/dsagre
+religint,agree,disagree,strongly agree
+RELEXT1,probably not,,definitely
+RELEXT3,probably not,,definitely not
+vistholy,never,about once or twice a year,less than once a year
+relgenbar,neither agree nor disagree,,agree
+difrel,disagree,,disagree
+relpast,neither agree nor disagree,disagree,disagree
+relrlvnt,agree,agree,neither agree nor disagree
+muslims,neither positive nor negative,neither positive nor negative,neither positive nor negative
+hindus,neither positive nor negative,,neither positive nor negative
+jews,neither positive nor negative,,very negative
+nukegen,somewhat dangerous,,very dangerous
+watergen,extremely dangerous,extremely dangerous,not dangerous
+genegen,somewhat dangerous,,not very dangerous
+GENEGOO2,e,,c
+realinc,e,,c
+hispanic,not hispanic,,dominican
+RACECEN1,black or african american,,american indian or alaska native
+mnthsusa,e,,b
+vetyears,none,none,2 to 4  years
+wordb,correct,,incorrect
+worde,correct,correct,correct
+wordf,correct,,correct
+wordj,correct,incorrect,incorrect
+GENDER1,female,female,male
+OLD1,c,b,b
+OLD3,e,,d
+OLD8,e,e,b
+OLD9,e,,c
+hefinfo,1st person,,5th person
+HHTYPE1,single adult,,unsure w children
+famgen,1 gen,,1 gen
+rplace,head of household,,parent or parent-in-law
+rvisitor,r. is household member,r. is household member,r. is household member
+PAISCO88,e,b,d
+MAISCO88,e,e,c
+SEI10,e,c,e
+SEI10EDUC,e,c,d
+SEI10INC,e,c,e
+PASEI10EDUC,e,,c
+MASEI10,e,c,d
+MASEI10EDUC,e,c,e
+SPSEI10,e,,e
+SPSEI10EDUC,e,,c
+SPSEI10INC,e,,c
+COSEI10EDUC,e,e,e
+COPRES105PLUS,e,e,b
+cohort,c,,d
+zodiac,leo,,taurus
+inthisp,not hispanic,not hispanic,puerto rican
+INTRACE1,white,,asian indian
+WHOELSE3,no,,no
+WHOELSE4,no,,yes
+feeused,"yes, money",,"yes, money"
+feelevel,d,,a
+intethn,white,,black
+consent,r consents to recording interview,r consents to recording interview,r consents to partcipate in the survey but does not want to be recorded
+ballot,ballot a,,ballot c
+sampcode,601,659,620
+hlthstrt,good,,good
+huadd,yes,,no
+kidsinhh,no,no,no
+respond,low,,high
+incuspop,average,higher than average,average
+wtss,c,c,c
+wtssall,c,c,e
+vpsu,2,,2
