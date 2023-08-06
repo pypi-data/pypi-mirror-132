@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "coco_utils"
+version = "0.0.1"
+description = "utility functions for data explorations and metrics calculation on coco data format"
+authors = ["Prakash Jay <prakashjyy@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pycocotools = "^2.0.3"
+fastcore = "^1.3.27"
+
+[tool.poetry.dev-dependencies]
+black = "^21.12b0"
+isort = "^5.10.1"
+ipython = "^7.30.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

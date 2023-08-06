@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: coco-utils
+Version: 0.0.1
+Summary: utility functions for data explorations and metrics calculation on coco data format
+Author: Prakash Jay
+Author-email: prakashjyy@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: fastcore (>=1.3.27,<2.0.0)
+Requires-Dist: pycocotools (>=2.0.3,<3.0.0)
