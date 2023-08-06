@@ -1,0 +1,9 @@
+vsgan/__init__.py,sha256=248GTFnb5N-pAM6xY-DxSydMjl4__NeslS2qLnFt9Y4,8838
+vsgan/archs/ESRGAN.py,sha256=zx9FW12__53Z668cnJmunNRHo5XOdjfNGA_sni5V72E,11271
+vsgan/archs/__init__.py,sha256=3fyQ-AP2qGbRb1ublRpTKlbnf3xo1_eD1ntcMDQ60rQ,85
+vsgan/archs/blocks.py,sha256=aUaNIBWtpANDVP_vBDRD4WP78zYnQ7cxLCn8cX3iJBc,5990
+vsgan/constants.py,sha256=hAeLrjaJwc42vMLKLcZabFiYhA_F0Ci-G5SabTXm0xI,472
+vsgan-1.5.0.dist-info/LICENSE,sha256=RHlk3F8fBvH0IN4E5aEBbbe-xEeealc0Gew15SKQUsM,1069
+vsgan-1.5.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+vsgan-1.5.0.dist-info/METADATA,sha256=kqEE4NIqk1EpYBnhXRB-vH5o3kb87lDWurcrA2jVf0k,2607
+vsgan-1.5.0.dist-info/RECORD,,
