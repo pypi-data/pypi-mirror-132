@@ -1,0 +1,6 @@
+include LICENSE
+include README.md
+recursive-include infscroll/ *
+recursive-include infscroll/templates *
+recursive-include infscroll/templatestags *
+recursive-include infscroll/static *
