@@ -1,0 +1,12 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+pyTooling.CLIAbstraction.egg-info/PKG-INFO
+pyTooling.CLIAbstraction.egg-info/SOURCES.txt
+pyTooling.CLIAbstraction.egg-info/dependency_links.txt
+pyTooling.CLIAbstraction.egg-info/requires.txt
+pyTooling.CLIAbstraction.egg-info/top_level.txt
+pyTooling/CLIAbstraction/Argument.py
+pyTooling/CLIAbstraction/Executable.py
+pyTooling/CLIAbstraction/__init__.py
