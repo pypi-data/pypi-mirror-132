@@ -1,0 +1,115 @@
+<div class="card my-3">
+  <!-- blue_s : (유동비율, 이자보상배율, 순부채비율, 순운전자본회전율, 재고자산회전율 평가 포인트) -->
+  <div class="card-header">
+    Blue book {{blue.date}}
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="유동비율 평가 - 100 이하는 문제 있음">
+      <div class="row">
+        <div class="col-2">
+          유동비율 ({{blue_s.0}})
+        </div>
+        <div class="col">
+          {{ blue.유동비율 }}%
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="이자보상배율 평가 - 1이면 자금사정 빡빡 5이상이면 양호">
+      <div class="row">
+        <div class="col-2">
+          이자보상배율 ({{blue_s.1}})
+        </div>
+        <div class="col">
+          <div class="row">
+            <div class="col-2">
+              {{ blue.이자보상배율.0 }}
+            </div>
+            <div class="col">
+              <div class="row">
+                {% for k, v in blue.이자보상배율.1.items reversed %}
+                <div class="col">
+                  {{ k }} {{ v }}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="순운전자본회전율은 매출액/순운전자본으로 일정비율이 유지되는것이 좋으며 너무 작아지면 순운전자본이 많아졌다는 의미로 재고나 외상이 쌓인다">
+      <div class="row">
+        <div class="col-2">
+          순운전자본회전율 ({{blue_s.2}})
+        </div>
+        <div class="col">
+          <div class="row">
+            <div class="col-2">
+              {{ blue.순운전자본회전율.0 }}
+            </div>
+            <div class="col">
+              <div class="row">
+                {% for k, v in blue.순운전자본회전율.1.items reversed %}
+                <div class="col">
+                  {{ k }} {{ v }}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="재고자산회전율은 매출액/재고자산으로 회전율이 낮을수록 재고가 많다는 이야기이므로 불리 전년도등과 비교해서 큰차이 발생하면 알람. 재고자산회전율이 작아지면 재고가 쌓인다는뜻">
+      <div class="row">
+        <div class="col-2">
+          재고자산회전율 ({{blue_s.3}})
+        </div>
+        <div class="col">
+          <div class="row">
+            <div class="col-2">
+              {{ blue.재고자산회전율.0 }}
+            </div>
+            <div class="col">
+              <div class="row">
+                {% for k, v in blue.재고자산회전율.1.items reversed %}
+                <div class="col">
+                  {{ k }} {{ v }}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="부채비율은 업종마다 달라 일괄비교 어려우나 순부채 비율이 20%이하인것이 좋고 꾸준히 늘어나지 않는것이 좋다. 순부채 비율이 30%이상이면 좋치 않다.">
+      <div class="row">
+        <div class="col-2">
+          순부채비율 ({{blue_s.4}})
+        </div>
+        <div class="col">
+          <div class="row">
+            <div class="col-2">
+              {{ blue.순부채비율.0 }}
+            </div>
+            <div class="col">
+              <div class="row">
+                {% for k, v in blue.순부채비율.1.items reversed %}
+                <div class="col">
+                  {{ k }} {{ v }}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
