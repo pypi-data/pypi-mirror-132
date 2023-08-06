@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: obs2mk
+Version: 0.1.1
+Summary: A script to share your obsidian vault (in partial way) using mkdocs
+Home-page: https://github.com/Mara-Li/mkdocs_obsidian_publish
+Author: Mara-Li
+Author-email: mara-li@icloud.com
+License: AGPL
+Keywords: obsidian,obsidian.md,free publish,publish,mkdocs,material
+Platform: UNKNOWN
+Classifier: Natural Language :: English
+Classifier: Natural Language :: French
+Classifier: Topic :: Text Processing :: Markup :: Markdown
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# mkdocs_obsidian_publish
+Publish your obsidian vault through a python script
+
+
