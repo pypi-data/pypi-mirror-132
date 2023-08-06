@@ -1,0 +1,4 @@
+[console_scripts]
+anyim=anyim.main:main
+anyimage=anyim.main:main
+
