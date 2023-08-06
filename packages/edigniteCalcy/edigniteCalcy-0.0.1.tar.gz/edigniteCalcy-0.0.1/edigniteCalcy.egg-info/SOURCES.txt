@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+edigniteCalcy/__init__.py
+edigniteCalcy.egg-info/PKG-INFO
+edigniteCalcy.egg-info/SOURCES.txt
+edigniteCalcy.egg-info/dependency_links.txt
+edigniteCalcy.egg-info/top_level.txt

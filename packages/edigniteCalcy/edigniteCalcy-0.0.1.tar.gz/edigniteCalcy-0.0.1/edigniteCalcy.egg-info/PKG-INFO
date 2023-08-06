@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: edigniteCalcy
+Version: 0.0.1
+Summary: A good python library by Prince Verma for an Edignite Ngo to perform math operation like Additon, Subtraction and Multiplication or  Divison etc.
+Home-page: UNKNOWN
+Author: Prince Verma
+Author-email: princevermasrcc@gmail.com
+License: MIT
+Keywords: calculator,edigniteNgo,princeverma,calcy
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+This is a very simple calculator that takes two numbers and either add, subtract, multiply and divide them.
+along with that you can also check out the factorial of a given number and the final thing is you can also 
+check the given input is palindrome or not with the help of this python library
+
+Change Log
+==========
+
+0.0.1 (12/29/2021)
+-------------------
+- First Release
+
+
