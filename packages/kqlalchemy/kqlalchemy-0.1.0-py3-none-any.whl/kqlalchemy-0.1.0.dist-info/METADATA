@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: kqlalchemy
+Version: 0.1.0
+Summary: A SQLAlchemy dialect for Azure Data Explorer (Kusto)
+License: MIT
+Author-email: Alex Kyllo <alex.kyllo@gmail.com>
+Requires-Python: >=3.7.1
+Requires-Dist: azure-identity
+Requires-Dist: azure-kusto-data>=2.3.2
+Requires-Dist: pyodbc
+Requires-Dist: sqlalchemy~=1.4
+Project-URL: homepage, https://github.com/alexkyllo/kqlalchemy

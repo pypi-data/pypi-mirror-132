@@ -1,0 +1,7 @@
+kqlalchemy/__init__.py,sha256=pHs5zvLKuJdVHwHaWyqM7a2DBfu-U5NBdCdDVJpc0mI,276
+kqlalchemy/kql_dialect.py,sha256=8BTqMcLYii__COaxK0R8U1kaG-0ldhEs64WFuGgQJ4I,8428
+kqlalchemy/pyodbc.py,sha256=MhTLS8BHjy02tWZr_2X_sjQoShjIabHglqPd0H6r6bo,4840
+kqlalchemy-0.1.0.dist-info/WHEEL,sha256=o3Jw1utMtG5Pldx6lEBo-y0Mg5DW9GsDzxTogu6yy2A,88
+kqlalchemy-0.1.0.dist-info/METADATA,sha256=6mff_kOvjAi6NpVv5dOwjIV40Xl0GySnmouVTzoLmjs,387
+kqlalchemy-0.1.0.dist-info/LICENSE,sha256=fHP081r4Xb8pyb3zNKlKUAfrvbLGXiepCtgzfM5nIWU,1067
+kqlalchemy-0.1.0.dist-info/RECORD,,
