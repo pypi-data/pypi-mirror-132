@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+'''
+a cool toolkit
+
+usage:
+  lordkelvin save    [options]
+  lordkelvin balance [options]
+  lordkelvin deploy  [options]
+  lordkelvin execute [options]
+
+options:
+  -a --as <name>   save contact under <name>
+  -s --send <eth>  save contact under <name>
+  -v --verbose     verbose mode
+  -q --quiet       quiet mode
+  -J               json mode on [default: true]
+  -j               json mode on [default: true]
+  -f --force       force it
+'''
+import docopt, re
+
+__version__="1.0.0"
+
+A = docopt.docopt(__doc__, version=__version__)
+
+print(dict(A))
+
