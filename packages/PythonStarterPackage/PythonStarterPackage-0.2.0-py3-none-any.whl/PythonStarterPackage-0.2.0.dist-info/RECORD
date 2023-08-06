@@ -1,0 +1,15 @@
+PythonStarterPackage-0.2.0.data/data/PythonStarterPackage/config/config.json,sha256=9C1DJQcN-8MyliIPJsjHxBRhj7EQx9eDpd-WxgTC208,921
+pythonstarterpackage/__init__.py,sha256=5sDf2kwgRdB_hE2a4swP3M5Wrvjz5uAnAeRDeEsIOZU,119
+pythonstarterpackage/__main__.py,sha256=1XSXfuJfWsCy9M9hW1raKO1es7dNXiJgAfch0zls-9s,247
+pythonstarterpackage/main.py,sha256=LOL7fKfiOCRI-WqKs231Ob___08vKlShVqxEW0QepC8,176
+pythonstarterpackage/starterpkg.py,sha256=Xaf8DFAES9yIBfymGYhkDuULYsqksGM8NdIYvgms_ho,2306
+pythonstarterpackage/data/default.json,sha256=NUB3tNTXsHv1_g_dmBdLvhMEm4hdsaASy8-wFUR7zNk,34
+pythonstarterpackage/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pythonstarterpackage/utils/commoncmd.py,sha256=A6mZuPehKZyGXlLZhbkHFEtZWfgbpFILS9VjOByH5s0,117
+pythonstarterpackage/utils/configparser.py,sha256=sALgDoH4ATerCk5AkhVurbjSsUcsd6BX5HPrcv-LchI,893
+PythonStarterPackage-0.2.0.dist-info/LICENSE,sha256=WQ-gf7APL7eP5-VqGWGUXcjYqRsEdnKFBMm5FVG8ObE,1093
+PythonStarterPackage-0.2.0.dist-info/METADATA,sha256=omGQpHa-ExNVep13rGz3tDE3N51RHhNh6Qyg05y-vb8,6622
+PythonStarterPackage-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+PythonStarterPackage-0.2.0.dist-info/entry_points.txt,sha256=lFi2HgbRwBc3tyNE9l-LoCEMCWmTSKjgESrxGg-dTc4,73
+PythonStarterPackage-0.2.0.dist-info/top_level.txt,sha256=Y7tcIkJ8djg2JPV8Q3jrsb8BhYhwxELLYk0NwB7Wlqs,21
+PythonStarterPackage-0.2.0.dist-info/RECORD,,
