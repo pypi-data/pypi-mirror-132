@@ -1,0 +1,14 @@
+cairosvg
+numpy
+pandas
+BioPython
+argparse
+deepnog==1.2.3
+
+[dev]
+pytest>=4
+pytest-cov>=2
+
+[test]
+pytest>=4
+pytest-cov>=2
