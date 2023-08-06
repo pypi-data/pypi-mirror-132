@@ -1,0 +1,11 @@
+tap_bexio/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tap_bexio/client.py,sha256=nmoV840rWRTfBWxfLB6SfSQbXjLrRaIEeGw1PHhKou8,3338
+tap_bexio/schemas/projects.json,sha256=YlabiLLxa7qD4OrlMb6VLr6ei9LgPMzDaHDYvnIaaA4,283
+tap_bexio/streams.py,sha256=qbF8NE2qajSOUMUsz03RTAqPMYhKtJ20kNlNVb_5FZ8,807
+tap_bexio/tap.py,sha256=jwWfyd2H33Z-BmUHPQMsbw6uPq8PFmcSymhfyY51UGU,1139
+tap_bexio/tests/__init__.py,sha256=4qa2KwXsC0ra_M1OB-Jae97jZq7q8jqLyl1ieAvqbrI,32
+tap_bexio/tests/test_core.py,sha256=Ve_0MqjqrKywlKnkZcEokc94yfd1629AkrK1wW4Pcvo,645
+tap_bexio-0.0.1.dist-info/entry_points.txt,sha256=-qnk3bmvtTGd4S8EOZKtW045imtoypuNQrgs-tsDxUE,56
+tap_bexio-0.0.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+tap_bexio-0.0.1.dist-info/METADATA,sha256=FbyY5JFpAZv3MM49qkmukgQrnmLZWaBcJXrciFaPFBs,621
+tap_bexio-0.0.1.dist-info/RECORD,,
