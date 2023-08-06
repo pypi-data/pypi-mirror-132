@@ -1,0 +1,10 @@
+minirpa/__init__.py,sha256=wtRL88NKQBRz1ca5nwmXEmSXXM8f57CiV03bmQZugKM,105
+minirpa/debug.py,sha256=gwxP62s17gU2LMYp2hziJiLPogA5ypD6FQNSchW0vsI,176
+minirpa/main.py,sha256=DNpF_7TJ42Ngq78hQbrnzOz-5nQocWZhdZ0JrFwKSv0,155
+minirpa/__pycache__/__init__.cpython-37.pyc,sha256=zqMIqyNFU6tR2JDhs00E0-Jv2PJAwRvWnU8lBAhzpQY,383
+minirpa-2021.12.23.dist-info/LICENSE,sha256=XGY_545Bg9WYX5QtAIyyxvPvejbQzRedFwVfuSUIel8,1069
+minirpa-2021.12.23.dist-info/METADATA,sha256=5u1JAmHV3vNsbL8MvOZK87Jw1T7QIL6cUdt9xz5eLls,1723
+minirpa-2021.12.23.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+minirpa-2021.12.23.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+minirpa-2021.12.23.dist-info/top_level.txt,sha256=l03tdobJPIi7av-tF7jyGJ1-a6rIwPDh4nnOl86J0UQ,8
+minirpa-2021.12.23.dist-info/RECORD,,
