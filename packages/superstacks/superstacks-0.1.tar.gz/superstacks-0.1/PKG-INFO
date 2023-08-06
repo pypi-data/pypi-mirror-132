@@ -1,0 +1,25 @@
+Metadata-Version: 1.2
+Name: superstacks
+Version: 0.1
+Summary: stacks in python
+Home-page: https://github.com/kellantech/superstacks
+Author: Kellan B
+Author-email: kellanbutler52@gmail.com
+License: MIT
+Download-URL: https://github.com/kellantech/superstacks/archive/refs/tags/v0.1.1.tar.gz
+Description: UNKNOWN
+Keywords: stacks,python,:)
+Platform: unix
+Platform: linux
+Platform: osx
+Platform: cygwin
+Platform: win32
+Classifier: Development Status :: 4 - Beta 
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6

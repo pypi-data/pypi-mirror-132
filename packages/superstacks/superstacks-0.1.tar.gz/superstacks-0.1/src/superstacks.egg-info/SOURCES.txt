@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+src/superstacks/__init__.py
+src/superstacks.egg-info/PKG-INFO
+src/superstacks.egg-info/SOURCES.txt
+src/superstacks.egg-info/dependency_links.txt
+src/superstacks.egg-info/not-zip-safe
+src/superstacks.egg-info/top_level.txt
