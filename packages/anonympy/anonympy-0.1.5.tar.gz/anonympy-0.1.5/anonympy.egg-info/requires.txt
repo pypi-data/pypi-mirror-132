@@ -1,0 +1,6 @@
+faker
+scikit-learn
+texttable
+setuptools
+numpy
+pandas
