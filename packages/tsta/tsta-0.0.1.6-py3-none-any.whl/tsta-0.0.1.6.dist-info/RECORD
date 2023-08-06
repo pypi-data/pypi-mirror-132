@@ -1,0 +1,12 @@
+src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/__main__.py,sha256=BIgZIv-UsFhoTpv-3lmg8DPmGXnwLkJ61eUyOCJpKdk,2656
+src/custom_pathlib.py,sha256=72iGXbE27xthJhiv5Lwqchgq8zbUyTAT2n8nEO3kUAg,48924
+src/modules.py,sha256=giu2cLh4BmUXh5jMHAXraLwVqJcj-K9rmuxWhpkQj9o,2152
+src/testa.py,sha256=n8-zmojMd_I8KjqUnxdT1K5nKgFg_tZeO2pr2wFLX24,29817
+src/utils.py,sha256=gW_17ROvk7-mHhBmL-9iInqtcfikACcBms8S2I_thIY,1397
+tsta-0.0.1.6.data/scripts/tsta,sha256=JP9D_-eOD84-EqFOIMyoJreFbq7QUKRia227P8xqqwY,94
+tsta-0.0.1.6.dist-info/LICENSE,sha256=U1j3bW4UQF7q_j35WLG6S7m7fow5Mjls3Ay3Iqx7fSM,1065
+tsta-0.0.1.6.dist-info/METADATA,sha256=0OdBwk5OkJb5Fr4Wf-Odwd1XCbpVxm1Rg_xENx-SUTY,7396
+tsta-0.0.1.6.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+tsta-0.0.1.6.dist-info/top_level.txt,sha256=74rtVfumQlgAPzR5_2CgYN24MB0XARCg0t-gzk6gTrM,4
+tsta-0.0.1.6.dist-info/RECORD,,
