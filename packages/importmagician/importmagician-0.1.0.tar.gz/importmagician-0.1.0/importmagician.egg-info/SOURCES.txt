@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+importmagician/__init__.py
+importmagician/import_from.py
+importmagician.egg-info/PKG-INFO
+importmagician.egg-info/SOURCES.txt
+importmagician.egg-info/dependency_links.txt
+importmagician.egg-info/top_level.txt
