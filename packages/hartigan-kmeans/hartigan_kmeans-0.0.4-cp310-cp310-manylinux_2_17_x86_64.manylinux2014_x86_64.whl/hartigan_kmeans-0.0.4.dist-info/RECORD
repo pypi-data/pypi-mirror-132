@@ -1,0 +1,13 @@
+hartigan_kmeans-0.0.4.dist-info/METADATA,sha256=JBF-bHe-a-Emta380kbCzFtIA6o7so09unUGSQ4NSUk,5735
+hartigan_kmeans-0.0.4.dist-info/WHEEL,sha256=AENPUwuTc6qB95Mrn5JB5boXegWw6oDhuwuuX0q_ONg,152
+hartigan_kmeans-0.0.4.dist-info/RECORD,,
+hartigan_kmeans-0.0.4.dist-info/LICENSE,sha256=xllut76FgcGL5zbIRvuRc7aezPbvlMUTWJPsVr2Sugg,11358
+hartigan_kmeans-0.0.4.dist-info/top_level.txt,sha256=oAV0reEu7Bh95wNgMLsfwG7N52ab2IaW5c8HnjtNC5U,8
+hkmeans/hkmeans_optimizer_p.py,sha256=HA7HfJIverrh3Lu1qbIiVG3W16J4iWDzlibN2hv5ht0,6378
+hkmeans/hkmeans_main.py,sha256=t0hp5zgGqwFIge2eUME8gJo9CDG1kObLF3cEWJM3Sm0,17359
+hkmeans/__init__.py,sha256=uELgptIEmHi8vi0XVnehCfbnWgqAV3xhnbq8cOuLOno,335
+hkmeans/hkmeans_optimizer_c.py,sha256=fhu32WD1IhH0PTHRFGcys83MfsImpq6taVWo6GvfO9I,2273
+hkmeans/_version.py,sha256=c7YF4gju29TBRwrk67v-k1OLfFyzQ0W3zq1cb9LzukU,497
+hkmeans/c_package/__init__.py,sha256=E4uDjtVm3-A50wDIPhsTZEUz7jxtsF6EokXM0SvpIp8,87
+hkmeans/c_package/c_hkmeans_optimizer.cpp,sha256=ICEoPTNmjx5-P0HguGrx2gn6eP84Y8l-5cdn4_4WCJc,851306
+hkmeans/c_package/c_hkmeans_optimizer.cpython-310-x86_64-linux-gnu.so,sha256=k68eGq7lcIu7b4RUbTiyxgy9hrbCmbZ2CWwj3UPy_fs,1357936
