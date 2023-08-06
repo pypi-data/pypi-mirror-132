@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pcapml_fe
+Version: 0.0.3
+Summary: Python interface for pcapML feature exploration library
+Home-page: https://nprint.github.io/pcapml_fe
+Author: The nPrint team
+Author-email: nprint.pr@gmail.com
+License: Apache 2.0 license
+Platform: Linux
+Platform: MacOS
+License-File: LICENSE
+
+pcapML_FE (Feature Explorer) exposes a simple iterator over pcapML encoded traffic captures that enables researchers to focus on analysis methods as opposed data wrangling
+
+
