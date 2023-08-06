@@ -1,0 +1,3 @@
+[console_scripts]
+LEGENDARY_CREATURE_CITY_BUILDER = LEGENDARY_CREATURE_CITY_BUILDER.legendary_creature_city_builder:main
+
