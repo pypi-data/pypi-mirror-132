@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+jspec/__init__.py
+jspec/entity.py
+jspec/matcher.py
+jspec/scanner.py
+jspec.egg-info/PKG-INFO
+jspec.egg-info/SOURCES.txt
+jspec.egg-info/dependency_links.txt
+jspec.egg-info/top_level.txt
+test/test.py
