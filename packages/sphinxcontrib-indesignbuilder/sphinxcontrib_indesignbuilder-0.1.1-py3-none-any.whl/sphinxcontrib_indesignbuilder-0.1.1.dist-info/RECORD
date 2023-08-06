@@ -1,0 +1,17 @@
+sphinxcontrib_indesignbuilder-0.1.1-nspkg.pth,sha256=bvCbvTDhKUCTNtrCbu6HVe8TsYC4G4-hRkXeHdEJ6t4,574
+sphinxcontrib/directives.py,sha256=C1aSVNUv1IhBXexPaMWE27wEqkkZwMAVzLH3cld15lo,1037
+sphinxcontrib/indesignbuilder.py,sha256=LelqPMzETKDqJw1u4TkTtJ26ahDxTXGJ3yo7ie5krQQ,8237
+sphinxcontrib/webdbbuilder.py,sha256=nCnnh-aBCS6pWUrFQwHaYTFCmkCrvUWyFsgd6Yftblc,32
+sphinxcontrib/webdbwriter.py,sha256=qZs6Asy5xFxWHdgb0oUMaTIIleS8ELhEwIf2RL3fC4A,14216
+sphinxcontrib/writer.py,sha256=Iq7tRbbbroCzVLxBz4kDqq0n3YQ2EYMQa5Ehi-tGyaw,10886
+sphinxcontrib/indesignbuilder/__init__.py,sha256=wxxEimHm6-AhQFEic1m2uDD8EO7u94OqL2PuJv1-cIc,900
+sphinxcontrib/indesignbuilder/directives.py,sha256=VixyNLczGpXTQB8_EB-chL7Tct-tcdnjQe3YR5wepwA,754
+sphinxcontrib/indesignbuilder/indesignbuilder.py,sha256=iuWf-S_ZriuLul66qo_7XsSJFJjGP8_BxLMJPsFs3l4,9721
+sphinxcontrib/indesignbuilder/transforms.py,sha256=4lwOBfLicDhfGjQrdWTQgoYE2zHG_W9qLS-pEcYeVjA,1722
+sphinxcontrib/indesignbuilder/webdbwriter.py,sha256=bVTFMWMrpah7GlNcPGTuuBgXQ08gSaSiIY-qBynCRwE,13887
+sphinxcontrib/indesignbuilder/writer.py,sha256=bkZcIId-wcepeiQTJoVe6oXRwZ3LWqn6Lff92OQ0-SY,18667
+sphinxcontrib_indesignbuilder-0.1.1.dist-info/METADATA,sha256=NrsqmcOOhiV9c1YSMnmxKflyMU3ctCVy6TZspiJUIP8,743
+sphinxcontrib_indesignbuilder-0.1.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+sphinxcontrib_indesignbuilder-0.1.1.dist-info/namespace_packages.txt,sha256=VJrV3_vaiKQVgVpR0I1iecxoO0drzGu-M0j40PVP2QQ,14
+sphinxcontrib_indesignbuilder-0.1.1.dist-info/top_level.txt,sha256=VJrV3_vaiKQVgVpR0I1iecxoO0drzGu-M0j40PVP2QQ,14
+sphinxcontrib_indesignbuilder-0.1.1.dist-info/RECORD,,
