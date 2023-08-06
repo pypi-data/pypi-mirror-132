@@ -1,0 +1,10 @@
+GPyOpt==1.2.6
+attrs==21.2
+geomeTRIC==0.9.7.2
+h5py==3.1.0
+matplotlib==3.4.2
+numpy==1.21.2
+pyDOE==0.3.8
+pyberny==0.6.3
+pyscf==1.7.6.post1
+scipy==1.7.1
