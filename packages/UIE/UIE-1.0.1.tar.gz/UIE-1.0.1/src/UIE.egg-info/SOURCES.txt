@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/UIE/UCErrors.py
+src/UIE/__init__.py
+src/UIE/modes.py
+src/UIE/uiecoder.py
+src/UIE.egg-info/PKG-INFO
+src/UIE.egg-info/SOURCES.txt
+src/UIE.egg-info/dependency_links.txt
+src/UIE.egg-info/top_level.txt
