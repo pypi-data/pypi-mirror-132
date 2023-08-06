@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: m-pytest-core
+Version: 1.0.1
+Summary: The framework core from pytest.
+Home-page: https://github.com/AlekseiMiasnikov/pytest_core
+Author: myasnikov_am
+Author-email: lexalightning@gmail.com
+License: Free
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
