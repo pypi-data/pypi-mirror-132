@@ -1,0 +1,13 @@
+hitac/__init__.py,sha256=5tU6wDIHyHz3eSxHYlPmo0Ic3gyfjsvKJUspBt-HpGY,288
+hitac/_hierarchical_taxonomic_classifier.py,sha256=g74WqtcIzDz0E7fmnz7B8m027iZ-764k1IKds1MkCDY,6605
+hitac/_utils.py,sha256=e9Mmzrz9D86IhTnjEeMxpqcnYYwseuscu1EUCNMIyAY,7581
+hitac/_version.py,sha256=FSTSweUR3FUMf80wUCAzmsBl_54w93oB_Z5tFyycdkw,497
+hitac/citations.bib,sha256=p95QgeaCDFxWClLN2JTB1n0HjKvSozOmLty9pdB3iTc,302
+hitac/classifier.py,sha256=JR9seUGR1pRkLUMyWPIIIWmU93WQ4Ce3w_5_nSNZ7BE,9378
+hitac/plugin_setup.py,sha256=awREdCPsEdkYEVXHONjlA-cG2dP9VFpXy6Uu9XzDRf0,518
+hitac-2.0.5.dist-info/LICENSE,sha256=mNhg37boJr2_bM6katawJzVMCoipMURk1eiRjO4I3pQ,35058
+hitac-2.0.5.dist-info/METADATA,sha256=Z2LP0WKGeQDvHUg-aDBjLN66-bKC1e2oB7okOBIg8bc,6224
+hitac-2.0.5.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+hitac-2.0.5.dist-info/entry_points.txt,sha256=4peKlDquKL44molrLkFB430sbaBReqAzSeGA_NWhGrM,52
+hitac-2.0.5.dist-info/top_level.txt,sha256=87D0RKIv8feW_e0rAoqhAWPZjAa5r4DLswqbrpUq0Kk,6
+hitac-2.0.5.dist-info/RECORD,,
