@@ -1,0 +1,13 @@
+vurf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vurf/cli.py,sha256=kyqcI_x_HO-OFVg6v9ghUDtYl9nrUXyZAeo0alhw_Yg,5149
+vurf/config.toml,sha256=DOrqQd9NFJ0y3mJdgh1X4KhyOhe84EzlsYxhuVfznvU,143
+vurf/default.vurf,sha256=wlRYt2-BFH_MHG8-XsQNAsOv0bf1hC8M0d4jw8S-jEw,460
+vurf/grammar.lark,sha256=AeN7NHmjjWp3Wlvf53u51GmC0RiVXgTa2VLHHU0hDtg,710
+vurf/nodes.py,sha256=lAvIoJ2nGWOEy8eyKqv7dNbkOkMS6U3_Wso8U2LuxOA,8032
+vurf/parser.py,sha256=wp0kd0erXWq0vODfMIcoemwUdJrB9ZFAnmwGfKQ2GWM,818
+vurf/transformer.py,sha256=x24hLCNWxJ9ToN3lluDGikXwBjEhgsar9vBgyrUJizk,670
+vurf-0.8.0.dist-info/entry_points.txt,sha256=-td2cTOOOmPvNmJvdo_udfGSo_TTfjKVPIWWoq4WvrE,38
+vurf-0.8.0.dist-info/LICENSE,sha256=8SaFv9QDkpO54UPQJsh4RNIkdph5WUAwKvblIzMxQnU,1071
+vurf-0.8.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+vurf-0.8.0.dist-info/METADATA,sha256=SwyHVdPJqLzBTzlzWnr2hdvoLjDsBrRZ2Cn_ZFtYdss,455
+vurf-0.8.0.dist-info/RECORD,,
