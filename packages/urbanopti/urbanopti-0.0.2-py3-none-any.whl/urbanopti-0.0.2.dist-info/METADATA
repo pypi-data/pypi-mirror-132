@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: urbanopti
+Version: 0.0.2
+Summary: engine for the planning of sustainable mobility
+Home-page: https://github.com/merraksh/urbanopti
+Author: Pietro Belotti
+Author-email: pietro.belotti@polimi.it
+License: Eclipse Public License v2.0 / Eclipse Distribution License v2.0
+Project-URL: Bug Reports, https://github.com/merraksh/urbanopti/issues
+Project-URL: Source, https://github.com/merraksh/urbanopti/
+Keywords: planning,mobility,green transport
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+Requires-Dist: mip
+Requires-Dist: numpy
+Requires-Dist: scipy
+
+# Urban Optimizer
+
+This module finds the optimal configuration of a sustainable mobility system that integrates bicycle trails, canals and railways. It was created at the Department of Electronics, Information, and Bioengineering (DEIB) of the Politecnico di Milano. It provides decision-makers with a tool for urban planning that takes into account all aspects of multi-modal mobility and guarantees optimality of the solution w.r.t. a user-defined criterion: minimum cost, maximum routed traffic, maximum routed origin/destination pairs, among others.
+
+The module is implemented as a Python package that can be imported with `import urbanopti`. It can be used in conjunction with the _Urban Optimizer Plugin_, which can be accessed through QGIS. Usage of the Python module `urbanopti` requires installation of modules `mip`, `numpy`, and `scipy`.
+
+(C) Politecnico di Milano, 2021-2022.
+
+
