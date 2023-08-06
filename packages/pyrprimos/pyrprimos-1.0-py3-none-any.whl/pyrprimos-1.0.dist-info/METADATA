@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: pyrprimos
+Version: 1.0
+Summary: A tool to calculate prime numbers.
+Home-page: UNKNOWN
+Author: Jose Antonio Torres Espinosa
+Author-email: ja.torrespinosa@gmail.com
+License: Free
+Keywords: pyrprimos prime numbers
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: Free for non-commercial use
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+
+PyR PRIMOS
+###############
+
+Ejemplo sencillo de paquete Python. Este paquete contiene una funciÃ³n para calcular los nÃºmeros primos entre 1 y un nÃºmero dado n.
+This program is free software: You can redistribute it and/or modify it under the terms of license by the Free Software Foundation, either version 3 of the License(at your option) any other version.
+
+
