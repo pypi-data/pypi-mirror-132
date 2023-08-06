@@ -1,0 +1,3 @@
+include README.rst CHANGES.rst LICENSE Pipfile Pipfile.lock flask_liquid/py.typed
+graft tests
+global-exclude *.py[cod]
