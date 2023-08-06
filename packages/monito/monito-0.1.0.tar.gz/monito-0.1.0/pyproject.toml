@@ -1,0 +1,53 @@
+[tool.poetry]
+name = "monito"
+version = "0.1.0"
+license = "MIT"
+description = "Tool to monitor and filter news websites and alike."
+authors = ["Steffen Brinkmann <s-b@mailbox.org>"]
+readme = "README.rst"
+repository = "https://gitlab.com/szs/monito/"
+documentation = "https://monito.readthedocs.io/en/latest/"
+keywords = ["rss", "rss feed", "news feed", "newsfeed"]
+classifiers = ["Development Status :: 4 - Beta",
+            "License :: OSI Approved :: MIT License",
+            "Programming Language :: Python :: 3",
+            "Programming Language :: Python :: 3.6",
+            "Programming Language :: Python :: 3.7",
+            "Programming Language :: Python :: 3.8",
+            "Programming Language :: Python :: 3.9",
+	    "Intended Audience :: Information Technology",
+	    "Topic :: Communications",
+	    "Topic :: Education",
+	    "Topic :: Internet :: WWW/HTTP :: Dynamic Content :: News/Diary",
+	    "Topic :: Utilities",
+	    ]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+bs4 = "^0.0.1"
+feedparser = "^6.0.8"
+requests = "^2.26.0"
+alive-progress = "^2.1.0"
+toml = "^0.10.2"
+lxml = "^4.7.1"
+spacy = "^3.2.1"
+selenium = "^4.1.0"
+spacy-syllables = "^3.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^21.10b0"
+isort = "^5.10.0"
+flake8 = "^4.0.1"
+coverage = "^6.1.1"
+pytest-cov = "^3.0.0"
+pytest-flake8 = "^1.0.7"
+pylint = "^2.12.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+lic = 'monito.monito_main:run'
+

@@ -1,0 +1,90 @@
+AGS
+Aguascalientes
+Baja California
+Baja California Sur
+BCN
+BCS
+CAM
+Campeche
+Chetumal
+CHI
+Chiapas
+Chihuahua
+Chilpancingo de los Bravo
+CHP
+Ciudad de México
+Ciudad Victoria
+COA
+Coahuila
+COL
+Colima
+Cuernavaca
+Culiacán Rosales
+DIF
+DUR
+Durango
+Estado de México
+GRO
+GTO
+Guadalajara
+Guanajuato
+Guerrero
+Hermosillo
+HGO
+Hidalgo
+JAL
+Jalisco
+La Paz
+Mérida
+MEX
+Mexicali
+México
+MIC
+Michoacán
+Monterrey
+MOR
+Morelia
+Morelos
+NAY
+Nayarit
+NLE
+Nuevo León
+OAX
+Oaxaca
+Oaxaca de Juárez
+Pachuca de Soto
+PUE
+Puebla
+Puebla de Zaragoza
+QRO
+Querétaro
+Quintana Roo
+ROO
+Saltillo
+San Francisco de Campeche
+San Luis Potosí
+Santiago de Querétaro
+SIN
+Sinaloa
+SLP
+SON
+Sonora
+TAB
+Tabasco
+TAM
+Tamaulipas
+Tepic
+Tlaxcala
+Tlaxcala de Xicohténcatl
+TLX
+Toluca de Lerdo
+Tuxtla Gutiérrez
+VER
+Veracruz
+Victoria de Durango
+Villahermosa
+Xalapa-Enríquez
+YUC
+Yucatán
+ZAC
+Zacatecas
