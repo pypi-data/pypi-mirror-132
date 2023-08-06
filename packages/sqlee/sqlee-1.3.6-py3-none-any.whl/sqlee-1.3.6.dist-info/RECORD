@@ -1,0 +1,16 @@
+sqlee/__init__.py,sha256=gUvi_SZREZgz08U1GVNFymAULKTX3UDTzyAWxV6n4hs,369
+sqlee/config.py,sha256=rRwT2kjeujKSsADkdhH3mMI0VUaNMbzdC0GY6egVPTA,21
+sqlee/sqlee.py,sha256=wBNXTi3L0al-GiBOznhUQ9ujOnBTnIZ8KVGTcLABvN0,5438
+sqlee/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sqlee/utils/backend.py,sha256=gtv5qspWBfZOagpryvz3iZg8gVMM_g-Ji8RwnJl-A8A,7668
+sqlee/utils/exceptions.py,sha256=9I2Od7X674RhppWRifo0PWz2QnOgNThUikPThqLXZgo,1449
+sqlee/utils/gitee.py,sha256=Fn_DdITJdyeF30GS-BqOqiC6sQRDfkQggllFw-IDRm0,7941
+sqlee/utils/urlparse.py,sha256=NuxJu7dOpJ1iGU5D6tkfBZWUFJc1ntmhTptSYFS-Fno,646
+sqlee/utils/django/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sqlee/utils/django/handler.py,sha256=l3fYOfjvtztiuJLKmdvTvOEngvba-J0bmIfi33dHZDk,5065
+sqlee/utils/django/models.py,sha256=txrx1Rdnopnb_8jAsmKO5fT34DB5Hoj56etRUuFEbBY,3875
+sqlee-1.3.6.dist-info/LICENSE,sha256=Qv2ilebwoUtMJnRsZwRy729xS5JZQzLauJ0tQzkAkTA,1088
+sqlee-1.3.6.dist-info/METADATA,sha256=oznVk8YUkgbZk1Q_cpWtqylLByS4Jjq6k0tQH1RzICg,1543
+sqlee-1.3.6.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+sqlee-1.3.6.dist-info/top_level.txt,sha256=DkI1xnl-Q6aKvSbeJOS7rF1kEVA-hAUDj6gkyxuGG0c,6
+sqlee-1.3.6.dist-info/RECORD,,
