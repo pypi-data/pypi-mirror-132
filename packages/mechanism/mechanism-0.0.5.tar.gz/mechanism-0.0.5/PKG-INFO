@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: mechanism
+Version: 0.0.5
+Summary: A package that provides a kinematic analysis of mechanisms, cams, and gears.
+Home-page: https://github.com/gabemorris12/mechanism
+Author: Gabe Morris
+Author-email: gabemorris1231@gmail.com
+License: MIT
+Keywords: mechanism,kinematic,cams,linkages,analysis,animations
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3.10
+License-File: license.txt
+
+
+The readme.md file on the original GitHub repository contains better graphics that detail the capabilities of this 
+package. This can be found here: https://github.com/gabemorris12/mechanism.
+
