@@ -1,0 +1,10 @@
+filedataclasses/__init__.py,sha256=QqrVK28QDwYqQXurYf5Hpj5lUOMhnEBBzuupUig_GVA,159
+filedataclasses/file.py,sha256=1rhIBm3Z1DX2onHsV5s0NZ5f_bRDlpH6tIvRvrNBBbc,2428
+filedataclasses/json.py,sha256=CntWf_Le1RHjaDe3V5pP8-ZlhJWcVA2lI1P2H5ORHbE,248
+filedataclasses/toml.py,sha256=YwBv_EG9oMUNpGzQtjGuxV0fpvYV4vjovQRI10vZ8MA,404
+filedataclasses/yaml.py,sha256=twnrwB0EyQ88-60ZJPR7dfMp-Ua8Mi8fsQr814lb3E8,420
+filedataclasses-0.1.0.dist-info/LICENSE.txt,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+filedataclasses-0.1.0.dist-info/METADATA,sha256=Y_FbyCIGFZZJ5qwX4lc8qRoEZjTi2iovOxDMIKzKY-A,1393
+filedataclasses-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+filedataclasses-0.1.0.dist-info/top_level.txt,sha256=jr48q6h_FxmVhMNOFca_Hc3JIQ4TEr9EWZrAtjmeDxA,16
+filedataclasses-0.1.0.dist-info/RECORD,,
