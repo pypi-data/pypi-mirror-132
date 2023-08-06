@@ -1,0 +1,9 @@
+neuro_logging/__init__.py,sha256=S27QnOn1YqWj7EuI_pRt7Te_1pzZsaEi_S7SMOKZ63E,2332
+neuro_logging/py.typed,sha256=rFKpTCovpEgH9Cv-mamRCd2BJeKym4e7v6_5ED8OnLU,9
+neuro_logging/testing_utils.py,sha256=hl8qTQ61Ac2_Ik259QOf4oCg0ifeLfPfQBtx0Y-0hJM,213
+neuro_logging/trace.py,sha256=4-89enpPEp6uqHucMqQwpibRmp234AKkCbZtwb1_foo,12923
+neuro_logging-21.12.2.dist-info/LICENSE,sha256=Y7mveq4M47TIT5p0LMfDfvSx8vYQc_x0lIqyoI5Rkks,587
+neuro_logging-21.12.2.dist-info/METADATA,sha256=867m6oJQxg2CrM79fqBzj_Zde2P6yRBiMGu35K0h8jo,1165
+neuro_logging-21.12.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+neuro_logging-21.12.2.dist-info/top_level.txt,sha256=i877rb437aYWZ4vgiocsu9-jBzH_qLwgvHcjspCwrCE,14
+neuro_logging-21.12.2.dist-info/RECORD,,
