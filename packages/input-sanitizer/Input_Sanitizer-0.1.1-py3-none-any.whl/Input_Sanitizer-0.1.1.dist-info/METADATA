@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Input-Sanitizer
+Version: 0.1.1
+Summary: Sanitizes input data to prevent XSS i.e. cross site scripting attacks.
+Home-page: UNKNOWN
+Author: Me
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+
