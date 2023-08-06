@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: compare_objects
+Version: 1.0.0
+Summary: Resolve schema and deploy to single schema
+Home-page: https://github.com/elyashiv3839/compare_objects.git
+Author: Elyashiv Danino
+Author-email: elyashiv3839@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/elyashiv3839/compare_objects/archive/refs/tags/1.0.0.tar.gz
+Project-URL: Bug Tracker, https://github.com/elyashiv3839/compare_objects.git
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: Licence.txt
+
+file: README.md
+

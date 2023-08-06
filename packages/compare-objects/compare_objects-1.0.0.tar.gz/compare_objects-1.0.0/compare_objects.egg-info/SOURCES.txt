@@ -1,0 +1,12 @@
+Licence.txt
+README.md
+setup.py
+compare_objects/CompareObjects.py
+compare_objects/CompareObjectsWithInfo.py
+compare_objects/__init__.py
+compare_objects.egg-info/PKG-INFO
+compare_objects.egg-info/SOURCES.txt
+compare_objects.egg-info/dependency_links.txt
+compare_objects.egg-info/top_level.txt
+test/test_CompareObjects.py
+test/test_CompareObjectsWithInfo.py
