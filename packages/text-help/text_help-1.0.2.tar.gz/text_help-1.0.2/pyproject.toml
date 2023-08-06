@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "text_help"
+version = "1.0.2"
+description = "Text('Some text').translit(lang), .upper(), .lower(), .rus_to_eng(), eng_to_rus(); Cipher('Text for cipher').transposing(), .to_A1Z26(lang), from_A1Z26(lang); Support langs: Eng, Rus."
+authors = ["Dima <ludina.work1@gmail.com>"]
+packages = [
+    { include = "text_help" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
