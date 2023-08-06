@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Prob15
+Version: 0.0
+Summary: Probability between 0 and 1
+Home-page: UNKNOWN
+Author-email: s.aleks-02@mail.ru
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+Probability that we will find dot between 0 and 15 if we have 15 steps, we choose 3 times each
+
