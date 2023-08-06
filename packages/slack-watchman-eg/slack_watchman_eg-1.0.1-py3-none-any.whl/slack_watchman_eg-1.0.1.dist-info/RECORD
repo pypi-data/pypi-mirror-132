@@ -1,0 +1,17 @@
+slack_watchman_eg/__init__.py,sha256=_0EbOXliSPxmmwXjlI7KKHGw6_djjgK3_NRxLGhEgdU,12051
+slack_watchman_eg/__version__.py,sha256=ZvMqSOFXdA4ihB4Rb6yaydJKN3sB83euFTlD0_u7LVE,164
+slack_watchman_eg/logger.py,sha256=1NvH5wHszNTTobnflCZKHUyOoht9p3i8NIJvdmAQ3Is,2064
+slack_watchman_eg/signature.py,sha256=46gManpRzQ55n8ZC4CkRS5faNkWqNBhFYVw_uVAVZH8,2879
+slack_watchman_eg/slack_wrapper.py,sha256=wAEVFlQ2TdDnUZeB76wDiFzDXYXf637L7K43n87XjGM,55715
+slack_watchman_eg/slack_objects/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+slack_watchman_eg/slack_objects/conversation.py,sha256=XDl8S8GgBfKFJeU-1yb9grtg6N943ezyUT_ZHY1c7iI,4510
+slack_watchman_eg/slack_objects/enterprise.py,sha256=C1fr97o6XR0L0IFUebsgL4F98ICIjXDUuPzmIJ38z3Y,1333
+slack_watchman_eg/slack_objects/post.py,sha256=DAwXfJqKWmKktZSQpsWjmACj_MCBZ9Wwu7OjN7BTYEY,4474
+slack_watchman_eg/slack_objects/user.py,sha256=KJNa4N3f7f9K2ZeGFSMr9inNaFvzVLW39CyEpxfY4vo,4047
+slack_watchman_eg/slack_objects/workspace.py,sha256=ZzSoYJotzrE9Le4V8EZTM4TOkimeKGrouljzuAomBKA,2579
+slack_watchman_eg-1.0.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+slack_watchman_eg-1.0.1.dist-info/METADATA,sha256=CD7XDLhEcHPPID11RMavj0QYmsoe8soYM41FheiwFgg,7481
+slack_watchman_eg-1.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+slack_watchman_eg-1.0.1.dist-info/entry_points.txt,sha256=gO338wIi7_HsZxLp5HLate4J-QJzsp6xz181B4aQHic,66
+slack_watchman_eg-1.0.1.dist-info/top_level.txt,sha256=26yEllsA5FHbfobImPrZjhC5bEf1yllFyUACVwiqGpE,18
+slack_watchman_eg-1.0.1.dist-info/RECORD,,
