@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: igruha
+Version: 2.4
+Summary: Torrent-Igruha SDK Python
+Home-page: UNKNOWN
+Author: lordcodes
+Author-email: lordgrief176@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: lxml
+Requires-Dist: beautifulsoup4
+Requires-Dist: cfscrape
+
+Простой пример использования библиотеки:
+
+* Устанавливаем библиотеку
+```commandline
+python -m pip install igruha
+```
+
+* Пример кода
+```python
+from igruha import Igruha
+
+parser = Igruha()
+games = parser.search('Far Cry').games
+
+for game in games:
+    game.get_details()
+    print('Игра: %s\nТрейлер: %s' % (game.name, game.trailer) )
+
+games[0].torrents[0].download('/custom/path/to/game') #Скачать игру
+```
+
+Дополнительная информация и методы: https://github.com/LORD-ME-CODE/igruha
+
