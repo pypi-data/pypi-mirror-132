@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.py
+src/betterdicts/__init__.py
+src/betterdicts/betterdict.py
+src/betterdicts/codeio.py
+src/betterdicts/jsdict.py
+src/betterdicts/number_dict.py
+src/betterdicts/persistent.py
+src/betterdicts.egg-info/PKG-INFO
+src/betterdicts.egg-info/SOURCES.txt
+src/betterdicts.egg-info/dependency_links.txt
+src/betterdicts.egg-info/not-zip-safe
+src/betterdicts.egg-info/top_level.txt
