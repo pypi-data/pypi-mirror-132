@@ -1,0 +1,3 @@
+[console_scripts]
+slip39 = slip39.main:main
+
