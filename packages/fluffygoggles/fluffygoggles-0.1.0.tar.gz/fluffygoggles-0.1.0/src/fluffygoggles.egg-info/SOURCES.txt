@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/fluffygoggles/__init__.py
+src/fluffygoggles/__main__.py
+src/fluffygoggles.egg-info/PKG-INFO
+src/fluffygoggles.egg-info/SOURCES.txt
+src/fluffygoggles.egg-info/dependency_links.txt
+src/fluffygoggles.egg-info/requires.txt
+src/fluffygoggles.egg-info/top_level.txt
