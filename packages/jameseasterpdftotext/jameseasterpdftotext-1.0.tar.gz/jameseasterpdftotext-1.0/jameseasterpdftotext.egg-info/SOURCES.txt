@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+jameseasterpdftotext/__init__.py
+jameseasterpdftotext/pdf2image.py
+jameseasterpdftotext/pdf2text.py
+jameseasterpdftotext.egg-info/PKG-INFO
+jameseasterpdftotext.egg-info/SOURCES.txt
+jameseasterpdftotext.egg-info/dependency_links.txt
+jameseasterpdftotext.egg-info/top_level.txt
