@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: ddv-settings
+Version: 0.1.0
+Summary: Module for easily reading and exporting settings from files
+Home-page: https://gitlab.com/davidevi/ddv-settings
+License: Unlicense
+Keywords: ddv,settings,ini,config,read,export
+Author: Davide Vitelaru
+Author-email: davide@vitelaru.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: configparser (>=5.2.0,<6.0.0)
+Project-URL: Repository, https://gitlab.com/davidevi/ddv-settings
+Description-Content-Type: text/markdown
+
+# DDV Settings
+
+Module for easily reading and exporting settings from files
+
+## Example
+
+**settings.ini**
+```
+[a]
+b = c
+d = e
+
+[f]
+g = h
+j = k
+```
+
+Code that loads settings from `settings.ini` and uses them:
+```
+import os
+import sys
+from ddv.settings import read, export
+
+read("settings.ini")
+export(sys.modules[__name__], True, "TEST")
+
+print("Variable TEST_A_B == c")
+print(TEST_A_B)
+
+print("Env Var TEST_F_G == h")
+print(os.environ.get("TEST_F_G"))
+```
+
+**Output:**
+```
+Variable TEST_A_B == c
+c
+Env Var TEST_F_G == h
+h
+```
