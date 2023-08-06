@@ -1,0 +1,10 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+basicTools/__init__.py
+basicTools.egg-info/PKG-INFO
+basicTools.egg-info/SOURCES.txt
+basicTools.egg-info/dependency_links.txt
+basicTools.egg-info/requires.txt
+basicTools.egg-info/top_level.txt
