@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+encrypt_file.egg-info/PKG-INFO
+encrypt_file.egg-info/SOURCES.txt
+encrypt_file.egg-info/dependency_links.txt
+encrypt_file.egg-info/entry_points.txt
+encrypt_file.egg-info/requires.txt
+encrypt_file.egg-info/top_level.txt
+encryptfile/__init__.py
+encryptfile/__main__.py
+encryptfile/encryptfile.py
+tests/__init__.py
+tests/conftest.py
+tests/encryptfile/__init__.py
+tests/encryptfile/test_encryptfile.py

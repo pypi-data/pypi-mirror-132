@@ -1,0 +1,7 @@
+cryptography==2.8
+humanfriendly==10.0
+idna==2.8
+pycparser==2.21
+pyfiglet==0.8.post1
+six==1.16.0
+sty==1.0.0b12
