@@ -1,0 +1,5 @@
+numpy>=1.17
+numba>=0.54.1
+
+[test]
+pytest
