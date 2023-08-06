@@ -1,0 +1,12 @@
+MANIFEST.in
+_plthook.pyx
+setup.py
+PyPLTHook.egg-info/PKG-INFO
+PyPLTHook.egg-info/SOURCES.txt
+PyPLTHook.egg-info/dependency_links.txt
+PyPLTHook.egg-info/top_level.txt
+plthook_c/README.md
+plthook_c/plthook.h
+plthook_c/plthook_elf.c
+plthook_c/plthook_osx.c
+plthook_c/plthook_win32.c
