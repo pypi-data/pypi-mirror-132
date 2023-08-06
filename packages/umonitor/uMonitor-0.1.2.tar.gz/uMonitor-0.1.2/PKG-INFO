@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: umonitor
+Version: 0.1.2
+Summary: A package to run and monitor background services
+Home-page: https://github.com/RuslanSergeev/uMonitor.git
+License: MIT
+Keywords: microservices,monitor,scheduler
+Author: Ruslan Sergeev
+Author-email: mybox.sergeev@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/RuslanSergeev/uMonitor.git
