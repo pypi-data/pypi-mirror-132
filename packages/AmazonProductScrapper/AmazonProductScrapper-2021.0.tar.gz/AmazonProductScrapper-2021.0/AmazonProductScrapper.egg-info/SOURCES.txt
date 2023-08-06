@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+AmazonProductScrapper/__init__.py
+AmazonProductScrapper/product_data_keyword.py
+AmazonProductScrapper.egg-info/PKG-INFO
+AmazonProductScrapper.egg-info/SOURCES.txt
+AmazonProductScrapper.egg-info/dependency_links.txt
+AmazonProductScrapper.egg-info/requires.txt
+AmazonProductScrapper.egg-info/top_level.txt
+AmazonProductScrapper/methods/__init__.py
+AmazonProductScrapper/methods/attributes.py
+AmazonProductScrapper/methods/product_data.py
+AmazonProductScrapper/methods/progress.py
+AmazonProductScrapper/methods/soup.py

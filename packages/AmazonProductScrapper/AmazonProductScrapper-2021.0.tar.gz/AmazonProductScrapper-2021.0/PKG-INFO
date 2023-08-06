@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: AmazonProductScrapper
+Version: 2021.0
+Summary: AmazonProductScrapper
+Home-page: UNKNOWN
+Author: Subhajit Saha
+Author-email: <subhajitsaha.formal@gmail.com>
+License: UNKNOWN
+Keywords: python,Amazon Product Scrapper,Scrapper,Amazon,Product Scrapper
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+License-File: LICENSE
+
+Extract Products and its associated data from a keyword
+
