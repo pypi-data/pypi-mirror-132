@@ -1,0 +1,14 @@
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+test_api.py
+.pytest_cache/README.md
+pylivecoinwatch/__init__.py
+pylivecoinwatch/api.py
+pylivecoinwatch.egg-info/PKG-INFO
+pylivecoinwatch.egg-info/SOURCES.txt
+pylivecoinwatch.egg-info/dependency_links.txt
+pylivecoinwatch.egg-info/requires.txt
+pylivecoinwatch.egg-info/top_level.txt
