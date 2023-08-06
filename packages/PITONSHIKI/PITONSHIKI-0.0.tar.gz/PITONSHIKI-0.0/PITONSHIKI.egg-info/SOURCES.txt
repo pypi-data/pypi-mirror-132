@@ -1,0 +1,15 @@
+README.txt
+setup.py
+PITONSHIKI/__init__.py
+PITONSHIKI/pract1.py
+PITONSHIKI/pract2.py
+PITONSHIKI/pract3.py
+PITONSHIKI/pract4.py
+PITONSHIKI/pract5.py
+PITONSHIKI/pract6.py
+PITONSHIKI/pract7_8.py
+PITONSHIKI.egg-info/PKG-INFO
+PITONSHIKI.egg-info/SOURCES.txt
+PITONSHIKI.egg-info/dependency_links.txt
+PITONSHIKI.egg-info/not-zip-safe
+PITONSHIKI.egg-info/top_level.txt
