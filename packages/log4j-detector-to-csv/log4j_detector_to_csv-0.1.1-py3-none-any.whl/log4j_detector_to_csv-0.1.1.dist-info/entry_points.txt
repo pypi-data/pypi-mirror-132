@@ -1,0 +1,3 @@
+[console_scripts]
+log4j-detector-to-csv=log4j_detector_to_csv.main:cmd
+
