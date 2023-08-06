@@ -1,0 +1,5 @@
+[pytest11]
+looptime_chronometers = looptime.chronometers
+looptime_plugin = looptime.plugin
+looptime_timeproxies = looptime.timeproxies
+
