@@ -1,0 +1,9 @@
+README.md
+setup.py
+xstavka_parse_package/__init__.py
+xstavka_parse_package/parse.py
+xstavka_parse_package.egg-info/PKG-INFO
+xstavka_parse_package.egg-info/SOURCES.txt
+xstavka_parse_package.egg-info/dependency_links.txt
+xstavka_parse_package.egg-info/requires.txt
+xstavka_parse_package.egg-info/top_level.txt
