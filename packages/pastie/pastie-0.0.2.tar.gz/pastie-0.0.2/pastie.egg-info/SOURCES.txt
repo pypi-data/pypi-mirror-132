@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+pastie.egg-info/PKG-INFO
+pastie.egg-info/SOURCES.txt
+pastie.egg-info/dependency_links.txt
+pastie.egg-info/top_level.txt
