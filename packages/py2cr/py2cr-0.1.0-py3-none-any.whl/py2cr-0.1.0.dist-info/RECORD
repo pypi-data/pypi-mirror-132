@@ -1,0 +1,17 @@
+py2cr/__init__.py,sha256=24qu64vUi5Fhu3-Y_Frp483TnP5FGAY5Fj-EkXVMucE,121986
+py2cr/errors.py,sha256=cZ-Xe1BYRPuyky0l1L3yFApRyYbt53SHoCUBmg0hqMU,78
+py2cr/formatter.py,sha256=E9xQbvkVTuhYQF22ZNjXwRDQvlY9q_wI3UaQiT1pCuQ,2630
+py2cr/numpy.py,sha256=D0TqI4EEqp2njX-tSTeGMKULC2RgbIXRkz_Ed2AxzG4,9834
+py2cr/pycopy.py,sha256=61YL8hlUEFVcrjCOB9VLUbrKZW2nTrMgI-3aXY5YTwQ,335
+py2cr/pymain.py,sha256=e5fh4_lA7ooQj73gbbGQiq-E9JVmheKPcn7pguQshws,7099
+py2cr/pyos.py,sha256=wDwOq9YlNKQQ-0nZVHXgVB1Hjf48sPgFvWkRGQewCtc,940
+py2cr/pysix.py,sha256=xl3uQxZVj1vHYucU6sK7QPRd8Y8tvWqzGE1HoZqEaE8,946
+py2cr/pysys.py,sha256=Aif3pdjbpspayPT5QM6I2_tbTjdGE0bHAI5CRPeApF0,641
+py2cr/translator.py,sha256=lDQYW3ON9bd4nn8N97RrFanYL21KpeYoQ-Tx_rhuFTI,1644
+py2cr/types.py,sha256=cygI_BisGm75MfhJHaWIhXcbPTOLzymimT_jd9-uXrc,5930
+py2cr-0.1.0.dist-info/LICENSE,sha256=BnF_IEBLTqywSBKt70miUkU0Jiewf7P4JPhNDfrmTPE,1107
+py2cr-0.1.0.dist-info/METADATA,sha256=zd095l9ZbAjTLxIMsn9SIXg-lg9z375OdyuQRNP3D68,7360
+py2cr-0.1.0.dist-info/WHEEL,sha256=_NOXIqFgOaYmlm9RJLPQZ13BJuEIrp5jx5ptRD5uh3Y,92
+py2cr-0.1.0.dist-info/entry_points.txt,sha256=C-Vx3qcFLtFd7P7dkCsD_2AefbZwjHq4IzWuGqX-kbI,38
+py2cr-0.1.0.dist-info/top_level.txt,sha256=K0l2F1orK0HlJxtBQPiz1OKfE1fn-3DqNFm-errYa-I,6
+py2cr-0.1.0.dist-info/RECORD,,
