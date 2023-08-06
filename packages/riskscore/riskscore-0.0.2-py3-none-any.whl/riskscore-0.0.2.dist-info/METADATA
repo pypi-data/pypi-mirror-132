@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: riskscore
+Version: 0.0.2
+Summary: Develop a creditscore model or mechinelearning model.
+Home-page: https://pypi.python.org/pypi?%3Aaction=list_classifiers
+Author: xuguanming
+Author-email: xgm9981@163.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: statsmodels
+Requires-Dist: sklearn
+Requires-Dist: xgboost
+Requires-Dist: openpyxl
+Requires-Dist: xlsxwriter
+Requires-Dist: joblib
+
+
+# riskscore
+
+riskscore程序包，为用于开发信用评分卡或机器学习模型而专门撰写的程序包，也可以用它来开发营销评分等任何需要用到类似方法的评分。
+
+## 安装
+
+``` sh
+pip install riskscore
+```
+
+## Step0 导入包
+
+
+```python
+from riskscore import creditscore as cs 
+from riskscore import mechinelearning as mcl 
+```
+
+
