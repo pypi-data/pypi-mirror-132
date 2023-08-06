@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+conftab/__init__.py
+conftab/ctl.py
+conftab/default.py
+conftab/function.py
+conftab/model.py
+conftab/tab.py
+conftab/web.py
+conftab.egg-info/PKG-INFO
+conftab.egg-info/SOURCES.txt
+conftab.egg-info/dependency_links.txt
+conftab.egg-info/requires.txt
+conftab.egg-info/top_level.txt
