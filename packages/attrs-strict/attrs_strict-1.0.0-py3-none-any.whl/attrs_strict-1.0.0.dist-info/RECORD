@@ -1,0 +1,11 @@
+attrs_strict/__init__.py,sha256=wKIscfqU4-ERSmvRtn_p9UPSUnJBjJbzW5diamShDl4,1287
+attrs_strict/_commons.py,sha256=IBIBZDB3VbmInrQC_Xjvuo2R7XuET60f8s6lXbvLxKs,342
+attrs_strict/_error.py,sha256=ze5SXbNtoUsmOmLtEge8auB0QrIeUmobVJwK0J6-MpY,5637
+attrs_strict/_type_validation.py,sha256=lgeWDFPqauuCtjkhnhUdYR0qLoGswIExMdZ2pmWWc6g,12672
+attrs_strict/_version.py,sha256=s6_qGdDnPzwOV0BiMfI4ma1FzSQ3zck5kYpMvrSwJLY,803
+attrs_strict/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+attrs_strict-1.0.0.dist-info/LICENSE,sha256=MrtdgBTckXiXW3mD4Hj_BYnXlJvtN8wdc8HLbTHxiHE,11353
+attrs_strict-1.0.0.dist-info/METADATA,sha256=ZLMhplvszOwR68VWYV2WAh5e-EyNeWCNkowiXYj5AQw,6525
+attrs_strict-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+attrs_strict-1.0.0.dist-info/top_level.txt,sha256=zCQPqHtnvtfzuEuJeM7am_-U9atf2acXeFw2NcyuSxY,13
+attrs_strict-1.0.0.dist-info/RECORD,,
