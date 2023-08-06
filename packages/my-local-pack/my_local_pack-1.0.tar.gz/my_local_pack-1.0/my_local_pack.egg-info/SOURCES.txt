@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+my_local_pack.egg-info/PKG-INFO
+my_local_pack.egg-info/SOURCES.txt
+my_local_pack.egg-info/dependency_links.txt
+my_local_pack.egg-info/top_level.txt
+plugins/.DS_Store
+plugins/my_test_plugins.py
+plugins/py_pack/__init__.py
+plugins/py_pack/py_file.py
+plugins/some_normal_dir/normal-file.csv
+test_package/__init__.py
+test_package/test.py
