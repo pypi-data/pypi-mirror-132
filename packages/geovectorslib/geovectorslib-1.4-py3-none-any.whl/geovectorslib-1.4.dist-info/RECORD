@@ -1,0 +1,14 @@
+geovectorslib/__init__.py,sha256=sT_XmjUE5ikd4UP9cp5o6nER1Dxng0alfhAmIwbKsZ0,254
+geovectorslib/datum.py,sha256=HINB_miIDHVV0bH3APx9oiGMVSKRozYOkrFiJwjioQM,705
+geovectorslib/geod.py,sha256=5BXlOLsoAOaaAGwZFcs80-LeQSNca3JzCJ5wFdqyu5o,9393
+geovectorslib/tests/__init__.py,sha256=LURUPwwDqcFmVe1XvEzadPdXxro8RdEF-rTaMw-AfiI,34
+geovectorslib/tests/conftest.py,sha256=Noz5CUwT-xh2CJNKsYyu_bUFaoMMKavOiAuhHzZeOp8,267
+geovectorslib/tests/test_datum.py,sha256=PBgpiL_6XOM61A0ZAbeecsnZkftMu6-fO4mE8ns-IzM,532
+geovectorslib/tests/test_geod.py,sha256=o9E9orRIa3J9s9IPmEs2V8csVj7nzUsYD1jzw4aXyk4,7160
+geovectorslib/tests/test_utils.py,sha256=P7a52NYQuECWJA6iFcwJZqu6t5F-LUbkGUd7ta_6MPE,846
+geovectorslib/utils.py,sha256=vgr_oP1hJwEKUoJiz2RNVp32ICapZpDYC8F1S2EvmkI,1115
+geovectorslib-1.4.dist-info/entry_points.txt,sha256=s6dj9WRjFnZsZKwJm5k_rgqYlfguKTV0Oj5_RBFr2hQ,53
+geovectorslib-1.4.dist-info/LICENSE.md,sha256=6G1-0BVzSyBaHylAiF8troLYgCQyO_BnO5_EasrwXS4,1088
+geovectorslib-1.4.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+geovectorslib-1.4.dist-info/METADATA,sha256=jwM-Xwh0-dLtYqgA5S4rvQs6oksNxcgp6pj26knljaA,5063
+geovectorslib-1.4.dist-info/RECORD,,
