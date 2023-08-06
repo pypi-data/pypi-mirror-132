@@ -1,0 +1,31 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "hanieh-release"
+authors = [{name = "Hanieh Salmantaheri", email = "st.honeyeh@gmail.com"}]
+readme = "README.md"
+home-page = "https://github.com/haniehst/hanieh-release"
+dist-name = "hanieh-release"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+]
+requires-python = ">=3.8"
+dynamic = ["version", "description"]
+dependencies = [
+    "confluent-kafka==1.7.0 ",
+    "prometheus-client==0.11.0",
+    "APScheduler==2.1.2",
+]
+
+[project.urls]
+Source = "https://github.com/haniehst/hanieh-release"
+
+
+[tool.flit.module]
+name = "hanieh_release"
