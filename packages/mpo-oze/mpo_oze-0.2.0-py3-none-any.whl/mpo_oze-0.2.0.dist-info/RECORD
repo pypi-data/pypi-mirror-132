@@ -1,0 +1,11 @@
+mpo/__init__.py,sha256=miSsqPy2PFJ18TW9kocQJLcv4HFpkfQhcTzgAO-GTVE,22
+mpo/__main__.py,sha256=XWfX156vxdPBGKerRAgXtZC48IxYmNJMgoRrUl70nz8,1272
+mpo/links.py,sha256=1ZQAonZVUnn68JFf7Q3MvgNk67nXmeRZFn_iNwri5ig,2338
+mpo/pdf.py,sha256=Q28glwplKKbsRiBAvQSAZENadlYToV3wZL-TOWHER6o,2075
+mpo/show.py,sha256=2EsHm7UGykHQV4wOoRgT7pcXWLUjbRBmql3Q1xfHp8U,72
+mpo_oze-0.2.0.dist-info/LICENSE,sha256=Cn-lykz_WOs2EmO-yJqL6gIisBNulGuHEH0fhKto-DI,1069
+mpo_oze-0.2.0.dist-info/METADATA,sha256=82NUxVgLKBRWnt55wyVx0WHaLMMwCoWMsknDQKopUzo,2331
+mpo_oze-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mpo_oze-0.2.0.dist-info/entry_points.txt,sha256=gENnpkZwcs-48HkrMq2GfDdsLBEuXySajIzAwj9Fi3A,43
+mpo_oze-0.2.0.dist-info/top_level.txt,sha256=XEb1ur9PSFSlqgO6Yrsnh2md7hapGbrpqrQLcW1NLXE,4
+mpo_oze-0.2.0.dist-info/RECORD,,
