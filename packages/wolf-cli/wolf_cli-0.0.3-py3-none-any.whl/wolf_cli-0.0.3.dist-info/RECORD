@@ -1,0 +1,10 @@
+wolf_cli/__init__.py,sha256=ryAfvAaW7VM8g1gnCrFCPrXmcbbm99Xw44aLkwGZzaI,23
+wolf_cli/cli.py,sha256=ACfo0htASy-8Hq_3nZx9cDLtVLJS7qWQcibAv4wfFoo,445
+wolf_cli/commands/__init__.py,sha256=ryAfvAaW7VM8g1gnCrFCPrXmcbbm99Xw44aLkwGZzaI,23
+wolf_cli/commands/images.py,sha256=HmqkVFoQGfrxJCmPwSY92qBYD__dFp3pf8PalWvGLqs,2321
+wolf_cli/commands/urls.py,sha256=kxKOzSgIoYEVtuqKpWBXvygs27184u0gQn_fBliNMSA,2867
+wolf_cli-0.0.3.dist-info/entry_points.txt,sha256=3ZUm2-jytTAf7UTTuCINnsi8YZAQubSb1nLgc0KtOsA,37
+wolf_cli-0.0.3.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+wolf_cli-0.0.3.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+wolf_cli-0.0.3.dist-info/METADATA,sha256=y-eLZ8bVTHn88AxNuI1BVD_t5yW0ZKI-uZ95Sc7B7UI,1254
+wolf_cli-0.0.3.dist-info/RECORD,,
