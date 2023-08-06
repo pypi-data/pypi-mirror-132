@@ -1,0 +1,2 @@
+recursive-include data *.txt *.csv
+recursive-include notebooks *.ipynb *.py *.png *.csv
