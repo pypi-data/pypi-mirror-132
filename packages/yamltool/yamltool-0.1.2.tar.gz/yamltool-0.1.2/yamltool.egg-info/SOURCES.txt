@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+yamltool/__init__.py
+yamltool/__main__.py
+yamltool.egg-info/PKG-INFO
+yamltool.egg-info/SOURCES.txt
+yamltool.egg-info/dependency_links.txt
+yamltool.egg-info/entry_points.txt
+yamltool.egg-info/requires.txt
+yamltool.egg-info/top_level.txt
