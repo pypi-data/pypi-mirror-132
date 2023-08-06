@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: starmart
+Version: 0.0.2
+Summary: Starmart deployment tool
+Home-page: https://starmart.io
+Author: Tomas Piaggio
+Author-email: tomaspiaggio@starmart.io
+License: apache-2.0
+Keywords: AI,Machine Learning,Deep Learning,Serverless
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: GitPython (==3.1.24)
+Requires-Dist: flask (==2.0.2)
+Requires-Dist: waitress (==2.0.0)
+Requires-Dist: python-dotenv (==0.19.2)
+Requires-Dist: halo (==0.0.31)
+
+UNKNOWN
+
