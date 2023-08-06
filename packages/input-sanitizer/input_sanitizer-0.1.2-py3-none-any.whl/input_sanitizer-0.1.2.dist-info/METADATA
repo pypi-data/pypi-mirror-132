@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: input-sanitizer
+Version: 0.1.2
+Summary: Sanitizes input data to prevent XSS i.e. cross site scripting attacks.
+Home-page: UNKNOWN
+Author: Akshay Ghatul
+Author-email: akshay.ghatul@trigensoft.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+
