@@ -1,0 +1,3 @@
+[console_scripts]
+yt = yamltool.__main__:main
+

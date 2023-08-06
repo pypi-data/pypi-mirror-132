@@ -1,0 +1,101 @@
+Metadata-Version: 2.1
+Name: yamltool
+Version: 0.1.1
+Summary: YAML tool, a clone of the json.tool Python module for YAML.
+Home-page: https://git.shore.co.il/nimrod/yamltool
+Author: Nimrod Adar
+Author-email: nimrod@shore.co.il
+License: MIT
+Keywords: yaml
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Debuggers
+Classifier: Topic :: Software Development :: Quality Assurance
+Classifier: Topic :: Text Processing :: Markup
+Classifier: Topic :: Utilities
+Description-Content-Type: text/x-rst
+License-File: LICENSE.txt
+
+YAML tool
+#########
+
+.. image:: https://git.shore.co.il/nimrod/yamltool/badges/main/pipeline.svg
+    :target: https://git.shore.co.il/nimrod/yamltool/-/commits/main
+    :alt: pipeline status
+
+YAML tool, a clone of the json.tool Python module for YAML.
+
+This tool provides a simple command line interface to validate and pretty-print
+YAML documents while trying to preserve as much as possible from the original
+documents (like comments and anchors).
+
+Usage
+-----
+
+.. code:: shell
+
+    usage: yt [-h] [-i] [files ...]
+
+    YAML tool, a clone of the json.tool Python module for YAML.
+
+    This tool provides a simple command line interface to validate and pretty-print
+    YAML documents while trying to preserve as much as possible from the original
+    documents (like comments and anchors).
+
+    positional arguments:
+      files           a YAML file to be validated or pretty-printed
+
+    optional arguments:
+      -h, --help      show this help message and exit
+      -i, --in-place  Perform the pretty-print in place, overwriting the existing files.
+
+    When enabling --in-place, all files are processed as input files.
+    When --in-place is not enabled and there are more then 2 files
+    passed, the last files is considered as the output file. If you
+    wish to pretty-print multiple files and output to standard out,
+    specify the last file as "-" .
+    Please note that specifying multiple input files will concatenate
+    them, resulting in a single file that has multiple documents.
+
+pre-commit hook
+---------------
+
+YAML tool can be used as a `pre-commit <https://pre-commit.com/>`_ hook by
+adding the following to your :code:`.pre-commit-config.yaml` file:
+
+.. code:: yaml
+
+    ---
+    repos:
+      - repo: https://git.shore.co.il/nimrod/yamltool.git
+        rev: 0.1.1
+        hooks:
+          - id: yamltool
+
+License
+-------
+
+This software is licensed under the MIT license (see the :code:`LICENSE.txt`
+file).
+
+Author
+------
+
+Nimrod Adar, `contact me <nimrod@shore.co.il>`_ or visit my `website
+<https://www.shore.co.il/>`_. Patches are welcome via `git send-email
+<http://git-scm.com/book/en/v2/Git-Commands-Email>`_. The repository is located
+at: https://git.shore.co.il/nimrod/.
+
+
