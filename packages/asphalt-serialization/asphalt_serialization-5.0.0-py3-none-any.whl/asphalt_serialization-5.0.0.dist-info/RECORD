@@ -1,0 +1,17 @@
+asphalt/serialization/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+asphalt/serialization/api.py,sha256=Uzz-V2MCpj80Urbqotuf478wERt2MOH4YZpO8SuU6Pk,4997
+asphalt/serialization/component.py,sha256=MiWPbTfd_gBxDaf76PoJ9n-sede6ZlUSg-PpnEnKMCM,3146
+asphalt/serialization/marshalling.py,sha256=7Gm32feK2BgrvGKav9FWs0ZUmPIh9IY39mHnYR25TNE,1452
+asphalt/serialization/object_codec.py,sha256=pPQTsgl9hdF9Q79llPmK-xbXlUsQglR4dNIdrA8Fsag,3049
+asphalt/serialization/serializers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+asphalt/serialization/serializers/cbor.py,sha256=eAKOuTVvgnWippa8ihZx9U8EU_AenOnthAYh6jJsW1o,4842
+asphalt/serialization/serializers/json.py,sha256=JPkX6QP9oes-y1O4gu8sZP54JZN70xSDfry5qXHbN9E,3269
+asphalt/serialization/serializers/msgpack.py,sha256=snUhFpv-oPYL92lBSv7o3gSOUkc9uijLnGXOX1_F3a8,4040
+asphalt/serialization/serializers/pickle.py,sha256=_eQEjrX5o_CXgvhUJ8eFjyuhVq1RTQystjM4jMIDvTw,1071
+asphalt/serialization/serializers/yaml.py,sha256=GbHXO435xlZtu3_GZOqgpvXCFW0UiPh2TLTvK53VmKs,1509
+asphalt_serialization-5.0.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+asphalt_serialization-5.0.0.dist-info/METADATA,sha256=CZExSAl96NpZuLIDuQpFZ0KP_nRMue5QVbPFOAnZ1Z8,3160
+asphalt_serialization-5.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+asphalt_serialization-5.0.0.dist-info/entry_points.txt,sha256=1yeA9fEIT3Q3KJpjX9rDwTfzPCFOJblNJ1rVt2kjR2c,474
+asphalt_serialization-5.0.0.dist-info/top_level.txt,sha256=R-2hwgwPRuCBIBZvElxlXTU7XZdVGgdOGf_8pMfkK1w,8
+asphalt_serialization-5.0.0.dist-info/RECORD,,
