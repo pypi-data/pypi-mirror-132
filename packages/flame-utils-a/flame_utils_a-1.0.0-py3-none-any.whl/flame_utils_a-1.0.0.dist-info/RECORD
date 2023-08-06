@@ -1,0 +1,10 @@
+flame_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flame_utils/data_manipulation.py,sha256=oXQyIkCQtrCdfrAcnsNGGyC9QagMFn9-OheVR-XzUq8,5531
+flame_utils/data_operation.py,sha256=nx6iqWBKjkvT0_lK83wW6G0UkzbQDIddR3s_E2QiBLI,2327
+flame_utils/kernels.py,sha256=WM9lN5jJJyYDzOshotSicB-4nAXt1UK-ldCz3NcyFUA,398
+flame_utils/misc.py,sha256=qVejNzDfFL8Y5K2NRWrCzmUn5gayAz06fIX5qeWBQ0A,3882
+flame_utils_a-1.0.0.dist-info/LICENSE.txt,sha256=JGBdjy0xdMsaKoMZu46JwHzLnG4nLm5NhNgctGpd2aY,1088
+flame_utils_a-1.0.0.dist-info/METADATA,sha256=BqBqbTxQ79o34yukx5GhdzZ_tLbba5-XnT85jPjtAXA,533
+flame_utils_a-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+flame_utils_a-1.0.0.dist-info/top_level.txt,sha256=T7oUmUWW8NJSY95gqnc-8H6X4nXK5yKI1OJaONa5DYE,12
+flame_utils_a-1.0.0.dist-info/RECORD,,
