@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: riskscore
+Version: 0.0.1
+Summary: Develop a creditscore model or mechinelearning model.
+Home-page: https://pypi.python.org/pypi?%3Aaction=list_classifiers
+Author: xuguanming
+Author-email: xgm9981@163.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: statsmodels
+Requires-Dist: sklearn
+Requires-Dist: xgboost
+Requires-Dist: openpyxl
+Requires-Dist: xlsxwriter
+Requires-Dist: joblib
+
+Develop a creditscore model or mechinelearning model.
+
+
