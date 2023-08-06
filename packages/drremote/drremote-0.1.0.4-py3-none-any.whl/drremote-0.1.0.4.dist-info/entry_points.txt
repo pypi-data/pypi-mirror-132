@@ -1,0 +1,3 @@
+[console_scripts]
+drremote = drremote:run_main
+
