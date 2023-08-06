@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+flame_para_l.egg-info/PKG-INFO
+flame_para_l.egg-info/SOURCES.txt
+flame_para_l.egg-info/dependency_links.txt
+flame_para_l.egg-info/top_level.txt
+para/__init__.py
+para/sample.py
+para/sample_text.txt
