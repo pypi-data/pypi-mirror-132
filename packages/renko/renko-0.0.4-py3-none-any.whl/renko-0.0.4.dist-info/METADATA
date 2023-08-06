@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: renko
+Version: 0.0.4
+Summary: Renko chart creator.
+Home-page: https://github.com/aticio/renko
+Author: Özgür Atıcı
+Author-email: aticiozgur@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest (>=3.7) ; extra == 'dev'
+
+# Renko
+
+Renko chart creator.
+
+## Installation
+
+Run the following to install:
+
+```python
+pip install renko
+```
+
