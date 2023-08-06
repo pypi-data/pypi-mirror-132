@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "tbcp-gitpy"
+version = "0.1.0"
+description = ""
+authors = ["John Ollhorn <john@ollhorn.de>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+GitPython = "^3.1.24"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+bandit = "^1.7.1"
+mypy = "^0.930"
+twine = "^3.7.1"
+black = "^21.12b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
