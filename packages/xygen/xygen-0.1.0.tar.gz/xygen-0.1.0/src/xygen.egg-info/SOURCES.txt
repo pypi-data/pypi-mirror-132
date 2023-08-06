@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/xygen/__init__.py
+src/xygen/__main__.py
+src/xygen.egg-info/PKG-INFO
+src/xygen.egg-info/SOURCES.txt
+src/xygen.egg-info/dependency_links.txt
+src/xygen.egg-info/top_level.txt
