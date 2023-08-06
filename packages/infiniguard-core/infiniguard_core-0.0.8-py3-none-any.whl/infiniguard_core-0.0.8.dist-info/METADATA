@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: infiniguard-core
+Version: 0.0.8
+Summary: InfiniGuard Core Utils
+Home-page: UNKNOWN
+Author: Maxim Kigel
+Author-email: mkigel@infinidat.com
+License: BSD
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: colorama
+Requires-Dist: infi.caching
+Requires-Dist: requests
+Requires-Dist: setuptools
+Requires-Dist: infinisdk
+Requires-Dist: fabric2
+
+InfiniGuard Core Utils for the Different InfiniGuard Projects
+
+
