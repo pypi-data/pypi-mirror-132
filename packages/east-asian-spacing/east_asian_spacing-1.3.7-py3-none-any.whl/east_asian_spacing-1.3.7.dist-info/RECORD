@@ -1,0 +1,16 @@
+east_asian_spacing/__init__.py,sha256=l2ozBddZAcyNZAbl6O63amyT80W_shqgB7nxujSMDmg,321
+east_asian_spacing/__main__.py,sha256=mbt0dmspfhfDnjmEAy6pw54R2ixpHO9kw95E79VsWUM,535
+east_asian_spacing/builder.py,sha256=QDnmZN-6IjWslGTDuPZbcMXE9pq9fBXBbAXtI4qft8c,12502
+east_asian_spacing/config.py,sha256=0BfloIMaXmbzE80IcFRTuNA9LTZNPV6Lvvy8mU2V2WE,6332
+east_asian_spacing/dump.py,sha256=nkNEZzjCGekK-B7dqsxaW8GHcnK__go23lBFtA_27jg,22946
+east_asian_spacing/font.py,sha256=ZyON5V6QAjI_QivJh2vcAa-Qw-F1i58lYqsOgY0mDI0,14609
+east_asian_spacing/log_utils.py,sha256=W4F_VBdqugp-csyQl07K90fOwp7XLA40safQY4OWimk,1322
+east_asian_spacing/shaper.py,sha256=D6K4FoVB9A_kqtog3STlps3bIvzr2egHO-Ns3hTv2VI,16622
+east_asian_spacing/spacing.py,sha256=G6uHPrDKfNh3_DgD42eCm0neug6q_K9UUbRHyKnRYd4,27776
+east_asian_spacing/tester.py,sha256=2BysKtqKPp784FxI2xAO1V5_P3rHpKni2wU057rZJts,7424
+east_asian_spacing/ttc.py,sha256=yyNsd7DwQ1ZOFHuMk0AdHdXdUbLYbMDAaIODtxjtdeU,1022
+east_asian_spacing-1.3.7.dist-info/entry_points.txt,sha256=tySfjE2rqt-Ari0zYYR6k6jR_MIzND2GsOW7flTxKBY,71
+east_asian_spacing-1.3.7.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+east_asian_spacing-1.3.7.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+east_asian_spacing-1.3.7.dist-info/METADATA,sha256=iIQ_gHCc8CnDoM8Ww-e4od_NhLzDLodnR5BxrxqoFZ4,16105
+east_asian_spacing-1.3.7.dist-info/RECORD,,
