@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: wudaoai
+Version: 1.0.8
+Summary: 超大规模中文预训练模型
+Home-page: https://github.com/wjx2zuoshi/wudaoAI
+Author: yufeng
+Author-email: zhuyufeng@wudaoai.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
+
