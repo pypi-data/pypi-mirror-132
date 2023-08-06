@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: COIN-FLIPPY
+Version: 0.0.1
+Summary: A coin flipping game.
+Home-page: UNKNOWN
+Author: Notanyone(Aditya jha), Zay, Underscore, Calming waves.
+Author-email: <mail@neuralnine.com>
+License: UNKNOWN
+Keywords: Game,heads_or_tails,Coin flip
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python
+Requires-Dist: pyautogui
+Requires-Dist: pyaudio
+
+
+Coinflippy
+
+A coin flip game in which you can put the amount of money below or equal to 1000 and then choose heads or tail. Please try playing it.
+
