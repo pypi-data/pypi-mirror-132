@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/rxnpy/__init__.py
+src/rxnpy.egg-info/PKG-INFO
+src/rxnpy.egg-info/SOURCES.txt
+src/rxnpy.egg-info/dependency_links.txt
+src/rxnpy.egg-info/requires.txt
+src/rxnpy.egg-info/top_level.txt
+src/rxnpy.egg-info/zip-safe
