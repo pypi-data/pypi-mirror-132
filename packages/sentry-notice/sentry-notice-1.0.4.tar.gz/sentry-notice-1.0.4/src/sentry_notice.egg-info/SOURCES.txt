@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/sentry_notice/__init__.py
+src/sentry_notice/forms.py
+src/sentry_notice/plugin.py
+src/sentry_notice.egg-info/PKG-INFO
+src/sentry_notice.egg-info/SOURCES.txt
+src/sentry_notice.egg-info/dependency_links.txt
+src/sentry_notice.egg-info/entry_points.txt
+src/sentry_notice.egg-info/not-zip-safe
+src/sentry_notice.egg-info/requires.txt
+src/sentry_notice.egg-info/top_level.txt
