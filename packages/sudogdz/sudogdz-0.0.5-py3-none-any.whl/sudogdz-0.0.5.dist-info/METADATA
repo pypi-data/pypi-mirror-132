@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: sudogdz
+Version: 0.0.5
+Summary: Parser of everything from the Russian reshebnik GDZ.RU
+Author: Shishkevich
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Internet
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Education
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: lxml >=4.7.1
+Requires-Dist: requests >=2.6
+Requires-Dist: beautifulsoup4 >=4.10.0
+Requires-Dist: fake-useragent >=0.1.11
+Project-URL: Home, https://github.com/aye20054925/sudogdz
+
+<p align='center'><img src='https://github.com/aye20054925/SudoGDZ/blob/main/png/Logo.png?raw=true'></p>
+
+<h1 align='center'>SudoGDZ (Unstable)</h1>
+<p align='center'>Parser of everything from the Russian reshebnik GDZ.RU</p>
+
+## Install
+To start learning about cheating, you need to execute one great command
+```bash
+pip install sudogdz
+```
+
+## Using and examples
+### Get books and copybooks from GDZ.ru
+To start using you have to import sudogdz into your project and declare the **`GDZ`** class
+```python
+from sudogdz import GDZ
+
+resheba = GDZ()
+```
+Lets get a list of algebra textbooks for 7 Class (Russian Education System) and print textbook name and authors?
+##### script.py
+```python
+from sudogdz import GDZ
+
+resheba = GDZ()
+
+schoolitems = resheba.GDZGet.schoolsubjects() # ["matematika", "english", "russkii_yazik", "algebra", ...]
+
+for textbook in resheba.GDZGet.books(schoolclass=7, schoolitem=schoolitems[3]):
+	print(textbook.name)
+	print(textboot.authors)
+```
+Lets check console:
+```bash
+$ python script.py
+Алгебра 7 класс  Ю.Н. Макарычев Просвещение 2015-2019
+Ю.Н. Макарычев, Н.Г. Миндюк, К.И. Нешков, С.Б. Суворова, С. А. Теляковский
+======================
+...
+```
+### Get information about book / copybook
+Soon
+### Get answers for book / copybook
+Soon
+
+## Build from source
+Soon
+
