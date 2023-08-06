@@ -1,0 +1,17 @@
+monito/__init__.py,sha256=1LH-ZVXEq-Sror859N3WHLRN1Met4zWQ60IXztXHJd4,256
+monito/article.py,sha256=8m_jCycXgUMAQtQK91iqU6nvd_1iZpfuVYqHgcnPOYY,2752
+monito/gpe_mexico_ciudades.txt,sha256=wyfJNk6QuUJJBz5RCpA0mG1t2_Di3Vt9qmU80aX5zzs,1986
+monito/gpe_mexico_estados.txt,sha256=pIQGcZmlXB9-uuxlHrpCmwWrg8cF5itzd4DYUSNHeH4,847
+monito/gpe_mexico_municipios.txt,sha256=0fzVSk13iDfYAeq0dnkC9lGy7VVF5AYBd10pfOBfgUw,34932
+monito/gpe_world_capitals_es.txt,sha256=TBim9aRZY71Th-v5ujExRXpwu0yQgl5L7mbc5AJmb2E,1714
+monito/gpe_world_cities_es.txt,sha256=cOtMUo_71iGsLsv9_qZRAnqiD0EcuZHn-HM748wnG-Y,5004
+monito/gpe_world_continents_es.txt,sha256=BPpRGMB1bH17cxG-_1ebCjhtwSDnjCX0szI7TIo_Gt0,38
+monito/gpe_world_countries_es.txt,sha256=cYWMScMjKxcb0P68SlSBRB7vzPSv2CeKlO8gLnvnw18,1966
+monito/monito_main.py,sha256=QkCp4LbfOJRV2I8WSJL3YF7WF8KJWkzh4b8DbrajIdY,16397
+monito/parsers.py,sha256=OCJaAqnRc8ZF_uzQuxH2t9hFHn7LBsvunWT53r--qZE,11056
+monito/tools.py,sha256=XbCLOvRHkcpBhI7n8wIcMAVvdMztL9fhbAws1ifgZtg,7035
+monito-0.1.0.dist-info/entry_points.txt,sha256=N0nHYhwc0rpLg-LDvQg1eksbCt0TRloTLP03KsSBbA0,46
+monito-0.1.0.dist-info/LICENSE,sha256=1KFzzBsM5VrD62ywONc0W5d4sL5btelb_mBCNIK9H5s,1074
+monito-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+monito-0.1.0.dist-info/METADATA,sha256=iNlE4IEf16yCie9INQQZDnCicMNe3duZCYH6JtkgDkI,3161
+monito-0.1.0.dist-info/RECORD,,

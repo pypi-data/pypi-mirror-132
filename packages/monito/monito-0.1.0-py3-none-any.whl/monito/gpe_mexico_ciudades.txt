@@ -1,0 +1,131 @@
+016
+855 563
+Acapulco de Juárez
+Aguascalientes
+Apatzingán de la Constitución
+Apodaca
+Buenavista
+Cabo San Lucas
+Cancún
+Celaya
+Chalco de Díaz Covarrubias
+Chetumal
+Chicoloapan
+Chihuahua
+Chilpancingo de los Bravo
+Chimalhuacán
+Cholula de Rivadavia
+Ciudad Acuña
+Ciudad Cuauhtémoc
+Ciudad del Carmen
+Ciudad de México
+Ciudad Guzmán
+Ciudad Juárez
+Ciudad López Mateos
+Ciudad Madero
+Ciudad Obregón
+Ciudad Valles
+Ciudad Victoria
+Coatzacoalcos
+Colima
+Comitán de Domínguez
+Córdoba
+Cuautitlán
+Cuautitlán Izcalli
+Cuautla de Morelos
+Cuernavaca
+Culiacán Rosales
+Delicias
+El Pueblito
+Ensenada
+Fresnillo
+García
+General Escobedo
+Gómez Palacio
+Guadalajara
+Guadalupe
+Guaymas
+Hacienda Santa Fe
+Heroica Matamoros
+Heroica Nogales
+Hidalgo del Parral
+Iguala
+Irapuato
+Ixtapaluca
+Jiutepec
+Juárez
+Kanasín
+Lagos de Moreno
+La Paz
+León
+Los Mochis
+Manzanillo
+Mazatlán
+Mérida
+Mexicali
+Minatitlán
+Miramar
+Monclova
+Monterrey
+Morelia
+Naucalpan de Juárez (municipio de Huixquilucan)
+Naucalpan de Juárez (municipio de Naucalpan)
+Navojoa
+Nezahualcóyotl
+Nuevo Laredo
+Oaxaca de Juárez
+Ojo de Agua
+Orizaba
+Pachuca de Soto
+Piedras Negras
+Playa del Carmen
+Playas de Rosarito
+Poza Rica de Hidalgo
+Puebla de Zaragoza
+Puerto Vallarta
+Ramos Arizpe
+Reynosa
+Río Bravo
+Salamanca
+Saltillo
+San Cristóbal de las Casas
+San Cristóbal Ecatepec
+San Francisco Coacalco
+San Francisco de Campeche
+San José del Cabo
+San Juan Bautista Tuxtepec
+San Juan del Río
+San Luis Potosí
+San Luis Río Colorado
+San Nicolás de los Garza
+San Pablo de las Salinas
+San Pedro Garza García
+Santa Catarina
+Santiago de Querétaro
+Soledad de Graciano Sánchez
+Tampico
+Tapachula
+Tehuacán
+Temixco
+Tepexpan
+Tepic
+Tijuana
+Tlalnepantla de Baz
+Tlaquepaque
+Toluca de Lerdo
+Tonalá
+Torreón
+Tulancingo de Bravo
+Tuxtla Gutiérrez
+Uruapan del Progreso
+Veracruz (municipio de Boca del Río)
+Veracruz (municipio de Veracruz)
+Victoria de Durango
+Villa de Álvarez
+Villahermosa
+Villa Nicolás Romero
+Xalapa
+Xico
+Zacatecas
+Zamora de Hidalgo
+Zapopan
