@@ -1,0 +1,16 @@
+sica/__init__.py,sha256=EQLCrevI8DqkyZy83LZIyTGyAeB4_hyUjWKUnO_y-t4,95
+sica/_whitening.py,sha256=OdLQWi3uCOgWIvp6JGudfgJCERhs54nJc9mKrxPGXQY,6942
+sica/base.py,sha256=IU7zyynzAh8qgu0VWZmKc34HfBMrYB90aByihUYCYKk,31885
+sica/mutualknn.py,sha256=zkRSGMf9d1gLI5rHl8klliTltxAotq5SyckeAN_AlUI,13741
+sica/singlecell.py,sha256=uWh9npk6XElbM0XZtmNqVyX3-pLbUwiRk1i35vWjxTM,8149
+sica/annotate/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sica/annotate/_utils.py,sha256=tO_J50rHv9Wtt8qNFFKTtK1L4fNAPd1ClhGMHvhNbZM,6050
+sica/annotate/reactome.py,sha256=-KxF3mRGOiwA9rVGn1TMS3J--xg7Dv2Nqnn8Yud6G2w,10907
+sica/annotate/toppfun.py,sha256=73NKXD5_-q4qoeTL0Z9LkzlWzov4ACItAvM09-8Z4iM,10066
+tests/__init__.py,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+tests/test_StabilizedICA.py,sha256=rmNDJC5xxH1t8uwJ5wUDCmeBFBbjz_W7aqsABQIRvBM,12280
+stabilized_ica-1.1.0.dist-info/LICENSE,sha256=R4jxyzLjnYc6LhvT-4X-GUC2Kd8UcJaQPT9IAEgFV9Y,1093
+stabilized_ica-1.1.0.dist-info/METADATA,sha256=1VlCzgF2MqJL8pY5uTQOmwJOJUSUORKWiPEi5zD3GAc,6551
+stabilized_ica-1.1.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+stabilized_ica-1.1.0.dist-info/top_level.txt,sha256=zyiE8q0XgbevEynggfqi9oAlIc-UFZ7k8pkDYjrYIlQ,11
+stabilized_ica-1.1.0.dist-info/RECORD,,
