@@ -1,0 +1,3 @@
+[console_scripts]
+dupgee = dupgee.manage:execute
+
