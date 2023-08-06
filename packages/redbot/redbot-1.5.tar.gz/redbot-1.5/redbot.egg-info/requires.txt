@@ -1,0 +1,12 @@
+thor>=0.8.4
+markdown>=2.6.5
+netaddr>=0.7.19
+Jinja2>=2.11.1
+
+[dev]
+mypy
+selenium
+black
+
+[systemd]
+csystemd
