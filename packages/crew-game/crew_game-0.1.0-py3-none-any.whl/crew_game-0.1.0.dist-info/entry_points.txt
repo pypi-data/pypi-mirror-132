@@ -1,0 +1,3 @@
+[console_scripts]
+crew_helper=crew_game.ui:main
+

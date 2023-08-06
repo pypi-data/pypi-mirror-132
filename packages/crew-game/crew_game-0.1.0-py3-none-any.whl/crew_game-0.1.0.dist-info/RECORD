@@ -1,0 +1,12 @@
+crew_game/__init__.py,sha256=VtOnSaH8NJE5yoEHU3uBfUMfT2_BYqvsH_zwG53oJRc,74
+crew_game/core.py,sha256=2XOQGB1tM0Dj7FK9WxA6c081KUr47JyqPJLbyx9mb5M,4684
+crew_game/ui.py,sha256=Qzy-lyqucfTxJVcLnkvOP6h-xotFdt7IgmWqVyZxo-o,7781
+crew_game/backend/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+crew_game/backend/main.py,sha256=vYU71fxO_EWV0a1t7wKUOvmCF-t5y_uV4Yv4jDroHaw,4160
+crew_game/frontend/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+crew_game/frontend/main.py,sha256=TVYe7KdRUH1D4L9RKQ7O8JKIzUnrO-3lONXmjXHMmTg,600
+crew_game-0.1.0.dist-info/entry_points.txt,sha256=eFOQLt1wbzVCg3Jw6CbuJ4VI7CQBn9K1ZWTBbuf38-c,49
+crew_game-0.1.0.dist-info/LICENSE,sha256=AgAPFegM_T2tqR5hDwnjts1X5qRaHRehkb7WrtiuLjs,1072
+crew_game-0.1.0.dist-info/WHEEL,sha256=jPMR_Dzkc4X4icQtmz81lnNY_kAsfog7ry7qoRvYLXw,81
+crew_game-0.1.0.dist-info/METADATA,sha256=F03KN-XPqxeJKnC6OVpoJQLJbsEgCqk9SvzKsWtXIeo,642
+crew_game-0.1.0.dist-info/RECORD,,
