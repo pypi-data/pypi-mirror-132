@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: attrdict2
+Version: 2.0.2
+Summary: A dict with attribute-style access
+Home-page: https://github.com/ofarukbicer/AttrDict
+Author: Brendan Curran-Johnson
+Author-email: brendan@bcjbcj.ca
+License: MIT License
+Platform: UNKNOWN
+Classifier: Development Status :: 7 - Inactive
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+License-File: LICENSE
+
+A dict with attribute-style access
+
