@@ -1,0 +1,3 @@
+[build-system]
+requires = ['mysql-connector-python', 'ShynaCreatecredentials']
+build-backend = "setuptools.build_meta"
