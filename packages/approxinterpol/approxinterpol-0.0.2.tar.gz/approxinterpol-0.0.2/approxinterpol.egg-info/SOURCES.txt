@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+approxinterpol/__init__.py
+approxinterpol/approxinterpol.py
+approxinterpol.egg-info/PKG-INFO
+approxinterpol.egg-info/SOURCES.txt
+approxinterpol.egg-info/dependency_links.txt
+approxinterpol.egg-info/not-zip-safe
+approxinterpol.egg-info/requires.txt
+approxinterpol.egg-info/top_level.txt
