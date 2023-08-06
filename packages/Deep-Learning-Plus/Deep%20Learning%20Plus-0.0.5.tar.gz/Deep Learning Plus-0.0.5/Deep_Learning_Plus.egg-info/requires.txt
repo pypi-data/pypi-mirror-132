@@ -1,0 +1,4 @@
+tqdm==4.62.3
+h5py==3.6.0
+matplotlib==3.5.1
+pytorch-lightning==1.5.7
