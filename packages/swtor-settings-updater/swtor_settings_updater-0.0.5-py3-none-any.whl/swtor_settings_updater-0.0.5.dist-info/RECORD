@@ -1,0 +1,14 @@
+swtor_settings_updater/__init__.py,sha256=4HuEhJX1OYgLqaa6wxblsvNKJWgC_lOX_Vqu3dNPYbo,286
+swtor_settings_updater/character.py,sha256=g0NRBrJdLjUpuFW4UXcMTaWkxQKec7o9SFHzfJdPRc4,1956
+swtor_settings_updater/chat.py,sha256=73yzArtqSoXcIGbzX68RvGp2NCzmXE3IMbE3vW5c6Uk,10054
+swtor_settings_updater/color.py,sha256=vN4hh-X6IsFW5eIzT7dn3novVpEB8r-e6KCScRFRbIA,544
+swtor_settings_updater/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+swtor_settings_updater/util/__init__.py,sha256=GroHE0w_gS8PweSxIBfnMNTw2uNuuSc3shlrAHzjh0A,363
+swtor_settings_updater/util/character_class.py,sha256=8t_9Ay4YZwdG79u4MhtUyMkgMjqg4Z5z-UXIYjGyIDU,1475
+swtor_settings_updater/util/option_transformer.py,sha256=kT-eEiWP1ru-rK5JAwAnXUR_H6LZDK7Oa5BjQrjLBPA,850
+swtor_settings_updater/util/settings_dir.py,sha256=80PwDsChxi60pwHjCm_U5u57fKIwVYqD9US9n6W9CGE,133
+swtor_settings_updater/util/swtor_case.py,sha256=7U8YDDk-rmaZD8_12r-zkgRLIwCjGpgcwiGgM229jeI,376
+swtor_settings_updater-0.0.5.dist-info/LICENSE,sha256=PQLLfE5pKfF_SFYffX4yuCjnmfmkPbUNPHhd9TIAFSE,1092
+swtor_settings_updater-0.0.5.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+swtor_settings_updater-0.0.5.dist-info/METADATA,sha256=OiyDPBhVqhm5mcPneIPcUWyyJOWXIPGyzWsWS9Yi79Q,3588
+swtor_settings_updater-0.0.5.dist-info/RECORD,,
