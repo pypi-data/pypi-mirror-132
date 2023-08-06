@@ -1,0 +1,11 @@
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+pyloglib/__init__.py
+pyloglib.egg-info/PKG-INFO
+pyloglib.egg-info/SOURCES.txt
+pyloglib.egg-info/dependency_links.txt
+pyloglib.egg-info/requires.txt
+pyloglib.egg-info/top_level.txt
+test-file/pyloglib-test-file.py
