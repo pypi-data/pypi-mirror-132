@@ -1,0 +1,7 @@
+setup.py
+auto_uplift.egg-info/PKG-INFO
+auto_uplift.egg-info/SOURCES.txt
+auto_uplift.egg-info/dependency_links.txt
+auto_uplift.egg-info/not-zip-safe
+auto_uplift.egg-info/top_level.txt
+autouplift/__init__.py
