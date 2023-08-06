@@ -1,0 +1,9 @@
+grimoire/__init__.py,sha256=Uy_ETEjUqPCrpfgLTJwG1G_sr7KbdIX73sdBiRh0V6k,35
+grimoire/core.py,sha256=Y8AD84q2RgwOEtAZoPEtTVga-v0yfCEfOEt-xhjoqeU,2935
+grimoire/templates.py,sha256=SmhTnVzqN7AgiTHg-ksuZ57v1mXbd8Tl1vqPFnLIf4c,2859
+grimoire/utils.py,sha256=1NhmqDzjz8U6rEqOpmlePwKYUw6psChJWYxL5MmKgTE,277
+grimoire_if-1.0.0.dist-info/LICENSE,sha256=lgLDnIw_ePX0vbJnVz-7L55AZ3kg1d83gWDjRUGGDSw,1060
+grimoire_if-1.0.0.dist-info/METADATA,sha256=qmanz4TDcS0kYsmrmZ1XEHMt3jjxsa7HE7IzAQ7Dxac,5959
+grimoire_if-1.0.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+grimoire_if-1.0.0.dist-info/top_level.txt,sha256=FndLzk5PyE6kOqoANIvcNr6nGXyIO9iRWOWmJnXVS0w,9
+grimoire_if-1.0.0.dist-info/RECORD,,
