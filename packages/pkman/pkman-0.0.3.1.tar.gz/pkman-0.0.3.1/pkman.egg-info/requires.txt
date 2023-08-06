@@ -1,0 +1,7 @@
+fire
+codemaker
+codetmpl
+build
+twine
+requests
+freehub>=0.1.3.0
