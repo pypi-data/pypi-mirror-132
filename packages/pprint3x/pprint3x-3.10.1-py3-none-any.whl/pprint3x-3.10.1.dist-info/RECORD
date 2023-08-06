@@ -1,0 +1,12 @@
+pprint3x/__init__.py,sha256=47kD3PMf7Ic7vuwJJyegOH6NuUKqNINGKJFtcE_io_Q,709
+pprint3x/__init__conf__.py,sha256=7xv_r6GxEyJpHpXL7vEbwlLHUpzik3IUWqjbfvYbopk,484
+pprint3x/pprint3x.py,sha256=F3RBBfwxZFNbNyDVNCh6qY4VowxLBqnlbOKIxI-SBl0,23898
+pprint3x/pprint3x.pyi,sha256=yAwgRN6Scn9GqbvOmxepXJfCp3M_OOZ2utBp1ngTiis,3607
+pprint3x/pprint3x_cli.py,sha256=sKW7iPNBgGcQN8U0iSO05dXVp-k0XDD0zgpoXeh7O9E,1490
+pprint3x/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pprint3x-3.10.1.dist-info/LICENSE,sha256=w_bnCCwX7aLLaw3L9PSWXvCRrhsEJmSIXzaPZgNYHQc,1076
+pprint3x-3.10.1.dist-info/METADATA,sha256=0EvgkmTMFhYRCzjPCU4Q6O2HKL_gsnpvsPURrjV5qNo,7747
+pprint3x-3.10.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pprint3x-3.10.1.dist-info/entry_points.txt,sha256=Pmu7Emq0D95NL8d75-Z4oz9IuHpSOWas08WbAaUZaFw,61
+pprint3x-3.10.1.dist-info/top_level.txt,sha256=bswCIWvivh1o_2HVCQVvjdUpLVl0Ju51hi-HfMzSg4g,9
+pprint3x-3.10.1.dist-info/RECORD,,
