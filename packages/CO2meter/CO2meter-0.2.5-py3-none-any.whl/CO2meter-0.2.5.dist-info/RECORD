@@ -1,0 +1,13 @@
+co2meter/__init__.py,sha256=blL2DbR_u9lBjUYOppBVa1ym7tioZZHutLwYti-8ZU0,85
+co2meter/_version.py,sha256=Us_MdYY9G22sSit-qq1wgw8TWXyyN2C9meOXUxEKFvM,57
+co2meter/co2meter.py,sha256=16g6fx9KzDZCyT4yd2IaaH56IYba2zqTqQQxWjoUBsU,15981
+co2meter/homekit.py,sha256=CiSwGnb4b5xXuM-9BRS6BsjSHmuuQ9uJKOE9XJqih7U,6386
+co2meter/server.py,sha256=VEw9eoeUHSpmbjVyDX_SNGAkMQIo8RpGIzGrNxeIPu4,18012
+co2meter/templates/dashboard.html,sha256=_sDY5EJ1hqn3EVMAkVTE_tTLcEfnWd-ZLIshLr6CVUg,1979
+co2meter/templates/index.html,sha256=idAHS7n_92JuapKVJOH2fyNpAqhGPfgWnAeUkeJj7TE,941
+CO2meter-0.2.5.dist-info/LICENSE.txt,sha256=6a66aXqIgZkbgop2qb6EOtAfZ5Pu4ZbNFrVIAdrXuy0,1090
+CO2meter-0.2.5.dist-info/METADATA,sha256=2j7TJ7lXNAAfwNl6GSvRIxPZBAdcCSCleIa6ovXX9rA,589
+CO2meter-0.2.5.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+CO2meter-0.2.5.dist-info/entry_points.txt,sha256=udfoDppxUMEmnCYI_3mXWXeWqgtFd0tZGNPLJDFGAjs,157
+CO2meter-0.2.5.dist-info/top_level.txt,sha256=TIMFiku2rtMlMo1X9yZ9XKiI3dMzavqrvZVpjM_C_Yc,9
+CO2meter-0.2.5.dist-info/RECORD,,
