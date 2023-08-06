@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/tqdm_batch/__init__.py
+src/tqdm_batch/batch_process.py
+src/tqdm_batch/progress_bar.py
+src/tqdm_batch/task_wrapper.py
+src/tqdm_batch.egg-info/PKG-INFO
+src/tqdm_batch.egg-info/SOURCES.txt
+src/tqdm_batch.egg-info/dependency_links.txt
+src/tqdm_batch.egg-info/top_level.txt
