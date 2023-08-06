@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+pyproject/__init__.py
+pyproject/pyproject.py
+pyproject_npp.egg-info/PKG-INFO
+pyproject_npp.egg-info/SOURCES.txt
+pyproject_npp.egg-info/dependency_links.txt
+pyproject_npp.egg-info/entry_points.txt
+pyproject_npp.egg-info/not-zip-safe
+pyproject_npp.egg-info/requires.txt
+pyproject_npp.egg-info/top_level.txt

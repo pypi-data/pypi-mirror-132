@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: pyproject-npp
+Version: 0.2
+Summary: Programa per tractament de fitxers.
+Home-page: https://github.com/NilPujolPorta/pyproject
+Author: Nil Pujol Porta
+Author-email: nilpujolporta@gmail.com
+License: GNU
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# pyproject-npp
+## Informació
+- Per executar el programa s'ha de tenir instalat el python versio 3 o mes.
+- Requeriments a requirements.txt.
+- El fitxer compilar.bat transforma el .py en .pyc que es mes eficient i rapid.
+- Executar amb opcio -h per veure mes opcions i funcionalitats.
+## Instal·lació
+- Utilitzant `pip`
+```
+pip install pyproject
+```
+## Ús
+- Executar el fitxer `pyproject.py` o `pyproject.cpython-39.pyc` amb les opcions adients
+
+- Opcions
+```
+
+```
+
+

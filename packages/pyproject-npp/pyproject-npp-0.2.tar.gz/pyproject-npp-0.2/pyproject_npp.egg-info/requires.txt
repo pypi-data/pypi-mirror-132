@@ -1,0 +1,5 @@
+argparse
+setuptools>=42
+wheel
+Gooey
+pytest-shutil
