@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: s3finder
+Version: 0.1.1
+Summary: 
+Author: Polina Rasskazova
+Author-email: rasskazova.pm@phystech.edu
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: biopython (>=1.79,<2.0)
+Requires-Dist: logic (>=0.2.3,<0.3.0)
+Requires-Dist: ncbi-genome-download (>=0.3.1,<0.4.0)
+Requires-Dist: primer3-py (>=0.6.1,<0.7.0)
+Requires-Dist: requests (>=2.26.0,<3.0.0)
+Requires-Dist: wxPython (>=4.1.1,<5.0.0)
