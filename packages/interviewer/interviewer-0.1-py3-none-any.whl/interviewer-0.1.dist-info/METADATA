@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: interviewer
+Version: 0.1
+Summary: Preparation Bot for Job Interviews
+Home-page: UNKNOWN
+Author: Lukas Jan Stroemsdoerfer
+Author-email: ljstroemsdoerfer@gmail.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# interviewer - a little bot helping you to prep your job interviews
+
+## What it does
+<code>interviewer</code> is a little python library that defines a bot to help you 
+practice your interview skills. It basically prompts interview questions in your 
+python console and stops the time it takes you to answer those. It is not much, 
+but it definitely helped me to pick up some confidence.
+
