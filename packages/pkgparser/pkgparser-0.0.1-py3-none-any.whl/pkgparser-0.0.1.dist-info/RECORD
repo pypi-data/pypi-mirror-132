@@ -1,0 +1,13 @@
+pkgparser/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pkgparser/configuration.py,sha256=Nc_pAo8TrWyzKaShT2OCiMIuFgZE_Bzpk8kqV3_zVHk,156
+pkgparser/pypackage/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pkgparser/pypackage/pyclass.py,sha256=pp457NQ8BDM3AimF3P-Ww309mKa-_Xvdw05zIx55tGU,2016
+pkgparser/pypackage/pyfunction.py,sha256=S8QMqanN1be8wgULh4zieJEOgitnUB4Tr2LiknDsERU,1561
+pkgparser/pypackage/pyobject.py,sha256=_UMKiFbRrQxyYdOtwaUaHb5ELVUiowjvfEFgjCZQF3I,4501
+pkgparser/pypackage/pypackage.py,sha256=EkvdSIb2IFsRKVOlvtsPqfdMKKsOszWLA7tOIm-fV4w,3019
+pkgparser/utilities/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pkgparser/utilities/package.py,sha256=Eu60hg4cEpLiIh30Nwc7nmpBOhozRJ8dUj7QcHRHRBw,3624
+pkgparser-0.0.1.dist-info/METADATA,sha256=PNcVvxmKvImgEyK6KN3S_vrP0PH8byq6aTQYbTJV0dI,604
+pkgparser-0.0.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+pkgparser-0.0.1.dist-info/top_level.txt,sha256=w_RPtn9316LVCgHSDh75hP1GfJ10AXD3UDIdyaA7vxw,10
+pkgparser-0.0.1.dist-info/RECORD,,
