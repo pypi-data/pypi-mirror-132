@@ -1,0 +1,17 @@
+lsl_cli/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lsl_cli/echo.py,sha256=1wW-W2YT-y6ZQxYeVDQSTyosdnK5DSB2hqejVa1-_AY,798
+lsl_cli/find.py,sha256=gbOtkRZzez3bCw29_PKopjt95Q0LQWKW8ANcKv31LyM,649
+lsl_cli/list.py,sha256=jH2XqbrXKRbHXE7qOrhrn8-sHL_8sDwI8CW4D6znQwU,1725
+lsl_cli/lsl.py,sha256=0yayOGdeWHw9NxJiD6UYJB8yCigAlphmyEXMREvjMWs,2279
+lsl_cli/resolve.py,sha256=SialLUplJ_xVh3Sx1VcAI-igBFLf9nYVSkHdauZ7vQM,1755
+lsl_cli/show.py,sha256=Rjf3QkxmDr92hvVZm-YVpBRQtvZ95Mb782gIRiDXnDA,326
+lsl_cli/utils.py,sha256=qnG3KWh4MvFfGMK4RRV4vQRM2p2AkkXkzOVRD7zfGTg,439
+lsl_cli/extra/lsl-completion.bash,sha256=U4nt3tiFTQYxogp02mAUFt2cphPuqNOduQucmWp0ZZo,1524
+lsl_cli/extra/lsl-completion.zsh,sha256=d8Qsx1BEKl6l_eZLhqGFv-92sPugKPZ27IJGusURQsM,151
+lsl_cli/extra/lsl_complete_script.sh,sha256=rTl2-BZoZB07B9DCCmT4Hwr1u2SCHjh3WxBgp0n3EfE,553
+lsl_cli-0.1.0.dist-info/LICENSE,sha256=0ljL8twvHrc30vsCbDlpsUOxXMh9J7c1JpR8gRqDYCM,1070
+lsl_cli-0.1.0.dist-info/METADATA,sha256=Ikkho934VcDEejWzs2BwgKwWxxDa-lDIgpi8xSuRFhw,1270
+lsl_cli-0.1.0.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+lsl_cli-0.1.0.dist-info/entry_points.txt,sha256=QJUpzpLzrXfreOrSXbZ6Acj8CD2imU_80kmvr7HVMmY,42
+lsl_cli-0.1.0.dist-info/top_level.txt,sha256=5Vva04GG3IdAl2DrIWyru5o8nnnaDwTjXIjhk7IIDlg,8
+lsl_cli-0.1.0.dist-info/RECORD,,
