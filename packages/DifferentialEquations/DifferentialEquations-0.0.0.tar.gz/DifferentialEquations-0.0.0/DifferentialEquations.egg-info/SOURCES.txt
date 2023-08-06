@@ -1,0 +1,13 @@
+LICENSE.txt
+setup.cfg
+setup.py
+DifferentialEquations/Euler.py
+DifferentialEquations/Euler_Caushy.py
+DifferentialEquations/Runge_Kutta.py
+DifferentialEquations/__init__.py
+DifferentialEquations/differential_input.py
+DifferentialEquations.egg-info/PKG-INFO
+DifferentialEquations.egg-info/SOURCES.txt
+DifferentialEquations.egg-info/dependency_links.txt
+DifferentialEquations.egg-info/not-zip-safe
+DifferentialEquations.egg-info/top_level.txt
