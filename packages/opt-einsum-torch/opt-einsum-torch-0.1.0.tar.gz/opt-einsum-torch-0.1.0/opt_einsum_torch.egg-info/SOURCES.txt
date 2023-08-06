@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+opt_einsum_torch/__init__.py
+opt_einsum_torch/einsum.py
+opt_einsum_torch/planner.py
+opt_einsum_torch/utils.py
+opt_einsum_torch.egg-info/PKG-INFO
+opt_einsum_torch.egg-info/SOURCES.txt
+opt_einsum_torch.egg-info/dependency_links.txt
+opt_einsum_torch.egg-info/requires.txt
+opt_einsum_torch.egg-info/top_level.txt
