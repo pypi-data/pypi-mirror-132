@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+robosoc2dplot/__init__.py
+robosoc2dplot/plot.py
+robosoc2dplot.egg-info/PKG-INFO
+robosoc2dplot.egg-info/SOURCES.txt
+robosoc2dplot.egg-info/dependency_links.txt
+robosoc2dplot.egg-info/requires.txt
+robosoc2dplot.egg-info/top_level.txt
+test/test.py
