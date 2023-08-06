@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "miniseed2mat"
+version = "0.1.7"
+description = "Analyzing MiniSEED seismic data in MATLAB"
+homepage="https://www.earthinversion.com/utilities/converting-mseed-data-to-mat-and-analyzing-in-matlab/"
+authors = ["Utpal Kumar <utpalkumar50@gmail.com>"]
+documentation= "https://github.com/earthinversion/convert-mseed2mat"
+keywords=["matlab", "seismic waveforms", "python to matlab", "seismology", "miniseed"]
+readme="README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+scipy = "^1.7.3"
+obspy = "^1.2.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+mseed2mat = "miniseed2mat.main:convertmseed2mat"
