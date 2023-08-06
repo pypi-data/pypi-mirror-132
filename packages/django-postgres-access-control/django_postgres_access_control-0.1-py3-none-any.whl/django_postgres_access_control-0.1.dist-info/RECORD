@@ -1,0 +1,8 @@
+dj_pg_access_control/__init__.py,sha256=eT2w4R49AM_QoY2tM3zUkGsVXZswuRFFOIB8i-ko7iw,73
+dj_pg_access_control/context_managers.py,sha256=Vx3QlV2QwII1CFaREVenmwlGfEzWMKjkMj7qqGDhXno,1253
+dj_pg_access_control/utils.py,sha256=-cL09ViVjf4kBMZe7x9ex2yISq5jkUm-Yauf2Z8T9Tg,167
+django_postgres_access_control-0.1.dist-info/LICENSE,sha256=QCPe4IY_iSlB8mRUU3gfZNuh557YdaHXTCDgQ7FwR88,1075
+django_postgres_access_control-0.1.dist-info/METADATA,sha256=fNKDpP3MTy4dbS8HB7Ec1QVvpLaKMLHAJpCMqkIaCsw,699
+django_postgres_access_control-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+django_postgres_access_control-0.1.dist-info/top_level.txt,sha256=caZsdOKDxYBmAuA4mIuWbVcwLOQuyIMCcTcAmReisp0,21
+django_postgres_access_control-0.1.dist-info/RECORD,,
