@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+amcess/__init__.py
+amcess/ascec.py
+amcess/base_molecule.py
+amcess/electronic_energy.py
+amcess/gaussian_process.py
+amcess/search_engine.py
+amcess.egg-info/PKG-INFO
+amcess.egg-info/SOURCES.txt
+amcess.egg-info/dependency_links.txt
+amcess.egg-info/requires.txt
+amcess.egg-info/top_level.txt
+amcess/data/__init__.py
+amcess/data/atomic_data.py
