@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: optilib
+Version: 0.1
+Summary: Add static script_dir() method to Path
+Home-page: https://github.com/deaflurryth/optimlib
+Author: deaflurryth
+Author-email: deaflurryth@icloud.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
