@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: recast
+Version: 0.1.0
+Summary: python bit recaster
+Home-page: https://github.com/kupad/recast
+Author: Phil Dreizen, Miccah Castorina
+Author-email: dreizen@kupad.net, m.castorina93@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/kupad/recast/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v2 (LGPLv2)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# recast
+python bit recaster
+
+Convenient functions for converting bytes into various different python
+types. These functions do not modify the underlying bits, but rather,
+how they are interpreted in python.
+
+## Examples
+```py
+>>> import recast
+
+>>> hex(recast.int2uint(-1))
+'0xffffffff'
+
+>>> recast.double2bytes(4.400150012111731e-110)
+b'recast:)'
+```
+
+## License
+recast - python bit recaster
+Copyright (C) 2021 Phil Dreizen and Miccah Castorina
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
+USA
+
+
