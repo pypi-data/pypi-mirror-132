@@ -1,0 +1,12 @@
+beetsplug/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+beetsplug/emd_audiofilefields.py,sha256=8sq4OGtgbQvTm68dnepTSXkRr_thEQZ0HtI-721pdy4,15146
+beetsplug/emd_command.py,sha256=ZBKmHsg9mjOkG9zhesR2F1ut7j4xM0v9QUCNHdrz8f0,2748
+beetsplug/emd_command_actions.py,sha256=yk6-hxaid99A72C7ZMUGAsbh8a8N_3ODx9ZK0X99Q_Q,11636
+beetsplug/emd_metadata.py,sha256=rIcwXTIAxMbov_Qo6yPbZi2FLg6yKvzln7p3VYZIdjU,1936
+beetsplug/emd_query.py,sha256=lfHliNmHFZPvTC3CARZoQsu5RBMH4E0XKG71IDusMjo,8216
+beetsplug/extendedmetadata.py,sha256=AzisoF55iGQosCjNtDA6MyrOVvmb0wsQIfpZJrNreUQ,661
+beets_extended_metadata-0.2.7.dist-info/LICENSE,sha256=YI6cosCbfvaxTaqVwfjRZGXmfTOnWlyjtNdJW1sMNiA,1078
+beets_extended_metadata-0.2.7.dist-info/METADATA,sha256=dgXiOsFXy2r-gP1pXbEE2OED16RkjT5QSsLCp8lCXtc,10518
+beets_extended_metadata-0.2.7.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+beets_extended_metadata-0.2.7.dist-info/top_level.txt,sha256=za8u6CXAGbgac8cUyn9NlsgXqqq-_4HHZcNmJnfmyWc,10
+beets_extended_metadata-0.2.7.dist-info/RECORD,,
