@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: starlaunch
+Version: 1.0.0
+Summary: A tool to create, configure, and launch isolated Starbound instances.
+License: GPL-3.0-or-later
+Author: Nick Thurmes
+Author-email: nthurmes@gmail.com
+Requires-Python: >=3.7,<3.11
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
