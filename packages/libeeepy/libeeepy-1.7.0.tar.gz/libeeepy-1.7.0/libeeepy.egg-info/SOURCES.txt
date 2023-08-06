@@ -1,0 +1,10 @@
+setup.py
+libeeepy/__init__.py
+libeeepy/calculateaccuracy.py
+libeeepy/dataprocessing.py
+libeeepy/operatemysql.py
+libeeepy.egg-info/PKG-INFO
+libeeepy.egg-info/SOURCES.txt
+libeeepy.egg-info/dependency_links.txt
+libeeepy.egg-info/requires.txt
+libeeepy.egg-info/top_level.txt
