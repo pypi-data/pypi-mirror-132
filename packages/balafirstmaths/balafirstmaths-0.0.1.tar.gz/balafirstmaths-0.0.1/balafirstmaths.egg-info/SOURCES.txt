@@ -1,0 +1,8 @@
+LICENCE.txt
+README.txt
+setup.py
+balafirstmaths/__init__.py
+balafirstmaths.egg-info/PKG-INFO
+balafirstmaths.egg-info/SOURCES.txt
+balafirstmaths.egg-info/dependency_links.txt
+balafirstmaths.egg-info/top_level.txt
