@@ -1,0 +1,8 @@
+gdrivewrapper/__init__.py,sha256=VJuBO0kyibuKKq36CDvJ5VqdNyswrLi1FMtfS9Y3f2E,101
+gdrivewrapper/service.py,sha256=GhxF2KP2LsRZA01YgBUQ2dLCFnMee23-oj1oIUNqMOs,1109
+gdrivewrapper/throttle.py,sha256=YwSxjr9IDR2aZbGO3G9XsZx_CR6YvQ6E7ylkodE3VEc,475
+gdrivewrapper/wrapper.py,sha256=4QrlgOS6du6NsZct1BachGhtuaKxDtdmHp1F9wRwziY,4698
+gdrivewrapper-0.0.17.dist-info/METADATA,sha256=MtFRHvBVG5mYAfxnkm3vMUzNhJK_wJwM8lW5heS9NtI,1757
+gdrivewrapper-0.0.17.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+gdrivewrapper-0.0.17.dist-info/top_level.txt,sha256=uyoSbCLqzySLkRsFZgh1R0ZLKIgZgusOjAs1liJAES8,14
+gdrivewrapper-0.0.17.dist-info/RECORD,,
