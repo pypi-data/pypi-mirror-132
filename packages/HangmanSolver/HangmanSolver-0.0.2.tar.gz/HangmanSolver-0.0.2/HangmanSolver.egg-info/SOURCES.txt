@@ -1,0 +1,8 @@
+setup.py
+HangmanSolver.egg-info/PKG-INFO
+HangmanSolver.egg-info/SOURCES.txt
+HangmanSolver.egg-info/dependency_links.txt
+HangmanSolver.egg-info/requires.txt
+HangmanSolver.egg-info/top_level.txt
+hangman/__init__.py
+hangman/main.py
