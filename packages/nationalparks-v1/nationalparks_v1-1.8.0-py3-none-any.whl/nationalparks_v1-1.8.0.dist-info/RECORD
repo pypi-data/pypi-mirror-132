@@ -1,0 +1,9 @@
+nationalparks_v1/__init__.py,sha256=i-gTPm8wuwL3GfuvDLhOBjVZJDBDk1T9DwVoKyS7R1Q,120
+nationalparks_v1/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nationalparks_v1/data/activities.csv,sha256=_7lh0fy-X7GEBbk5WywHcN-ksAfp0qvY41m4QnXnAnY,1981
+nationalparks_v1/data/parks_list.csv,sha256=ERRJ3aPLDmEuM2FcKhh71wczLGylCQFn8JKgGqX_yRE,3709509
+nationalparks_v1/nationalparks_v1.py,sha256=K_NeIo0DYIZtJOCLyd_HHcJ_WkBbae5X-7q0Uw-CdhY,22034
+nationalparks_v1-1.8.0.dist-info/LICENSE,sha256=reO-bVF2KGaD6u1Kc728GilBNWH3IO_El4fEkdVUXLo,1094
+nationalparks_v1-1.8.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+nationalparks_v1-1.8.0.dist-info/METADATA,sha256=6i-WYDMVAfTjEL9j2i5VIeJX53KgmDkWm5JNBHx4UY0,2214
+nationalparks_v1-1.8.0.dist-info/RECORD,,
