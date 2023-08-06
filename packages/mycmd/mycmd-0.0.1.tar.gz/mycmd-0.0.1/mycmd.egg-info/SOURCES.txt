@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+command_service/__init__.py
+command_service/main.py
+mycmd.egg-info/PKG-INFO
+mycmd.egg-info/SOURCES.txt
+mycmd.egg-info/dependency_links.txt
+mycmd.egg-info/entry_points.txt
+mycmd.egg-info/not-zip-safe
+mycmd.egg-info/requires.txt
+mycmd.egg-info/top_level.txt
