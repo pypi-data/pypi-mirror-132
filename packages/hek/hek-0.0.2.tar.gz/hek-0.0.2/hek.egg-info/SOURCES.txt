@@ -1,0 +1,13 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+hek/__init__.py
+hek/exceptions.py
+hek/ipstuff.py
+hek.egg-info/PKG-INFO
+hek.egg-info/SOURCES.txt
+hek.egg-info/dependency_links.txt
+hek.egg-info/requires.txt
+hek.egg-info/top_level.txt
