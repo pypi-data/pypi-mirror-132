@@ -1,0 +1,9 @@
+LICENCE.txt
+README.txt
+setup.py
+balafirstlibrary.egg-info/PKG-INFO
+balafirstlibrary.egg-info/SOURCES.txt
+balafirstlibrary.egg-info/dependency_links.txt
+balafirstlibrary.egg-info/top_level.txt
+firstcalculation/__init__.py
+firstcalculation/operation.py
