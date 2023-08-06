@@ -1,0 +1,4 @@
+#!python
+
+print('argos-translate-gui not installed')
+print('install with `pip install argostranslategui`')
