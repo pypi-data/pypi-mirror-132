@@ -1,0 +1,8 @@
+starlaunch/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+starlaunch/gui.py,sha256=skrVdW_fAz3WuzJkz7PVrzf4w_qNPT4Yn9pZReqgXkE,9527
+starlaunch/lib.py,sha256=EOKOMV8XKdBnX9D0PEPqVAiwf_umWXM20L_UoZSTFEg,7573
+starlaunch/main.py,sha256=aVhexqYDAbrGV8xwJIjZExzTb9Ly9YBwlDMvlT5FlA8,1022
+starlaunch-1.0.0.dist-info/entry_points.txt,sha256=6sReuIezoRMZ2ZC_cuxtc2iofoXQkb2SSDybFocOgTM,51
+starlaunch-1.0.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+starlaunch-1.0.0.dist-info/METADATA,sha256=2jtk3U5Wtr4posJh_CLeKcFkCQFecgRCQy7Q8WQ9QuU,578
+starlaunch-1.0.0.dist-info/RECORD,,
