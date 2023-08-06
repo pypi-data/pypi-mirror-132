@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+ipfn_contributors.txt
+licence.txt
+setup.cfg
+setup.py
+ipfn/__init__.py
+ipfn/ipfn.py
+ipfn.egg-info/PKG-INFO
+ipfn.egg-info/SOURCES.txt
+ipfn.egg-info/dependency_links.txt
+ipfn.egg-info/requires.txt
+ipfn.egg-info/top_level.txt
+tests/context.py
+tests/tests.py
