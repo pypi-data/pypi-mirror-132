@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: flow-controller
+Version: 1.0.3
+Summary: package for managing pipelines with simple commands
+Home-page: UNKNOWN
+Author: Ignace Konig
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: keyboard
+
+UNKNOWN
+
