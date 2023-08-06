@@ -1,0 +1,3 @@
+[console_scripts]
+flibexec = fgfw.core:entry
+
