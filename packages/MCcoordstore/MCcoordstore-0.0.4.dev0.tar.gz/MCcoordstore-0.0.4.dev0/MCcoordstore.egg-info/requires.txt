@@ -1,0 +1,13 @@
+flask
+flask_sqlalchemy
+Flask-WTF
+Flask-login
+matplotlib
+numpy
+mpld3
+werkzeug
+flask-migrate
+itsdangerous
+flask-restless-NG
+pytz
+python-dotenv

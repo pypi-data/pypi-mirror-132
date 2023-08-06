@@ -1,0 +1,272 @@
+{% extends "base.htm" %}
+
+{% block headblock %}
+
+<script src="https://cdn.plot.ly/plotly-2.8.3.min.js"></script>
+<script src="static/scripts/plotly_render.js"></script>
+
+{% endblock %}
+
+
+{% block content %}
+
+<script>
+  
+  function clearPOItable() {
+      var table = document.getElementById("list_of_pois");
+      var rowarr = Array.prototype.slice.call(table.rows,1);
+      for(row of rowarr)
+	  row.remove();
+  };  
+
+  const styles_to_render = new Map();
+  
+  function fillPOItable(jsondata) {
+      var table = document.getElementById("list_of_pois");
+      var myuserid = document.getElementById("current_user_id").innerHTML;
+      for(item of jsondata["data"])
+      {
+	  const attrs = item["attributes"];
+	  var row = table.insertRow(-1);
+	  row.className = "poi_row";
+	  var namecell = row.insertCell(-1);
+	  namecell.innerHTML = attrs["name"];
+
+	  for(let i=0; i<3; i++)
+	      row.insertCell(-1).innerHTML = attrs["coords"][i];
+	  
+	  //TODO: do this lookup on client side, probably
+	  var typecell = row.insertCell(-1);
+	  typecell.innerHTML = attrs["typename"];
+
+	  //var stylecell = row.insertCell(-1);
+	  //var stylename = lookupRelationship(item, jsondata, "style",
+	  //"name");
+	  //stylecell.innerHTML = stylename;
+
+	  var  stylepreview = row.insertCell(-1);
+	  stylepreview.setAttribute("class", "stylepreview");
+	  const styleid = item["relationships"]["style"]["data"]["id"];
+	  const  idstr = "renderpoi" + item["id"] + "style" + styleid;
+	  stylepreview.setAttribute("id",idstr);
+
+	  if (!styles_to_render.has(Number(styleid)))
+	      styles_to_render.set(Number(styleid),  new Array());
+	  styles_to_render.get(Number(styleid)).push(stylepreview);
+	  
+	  var usercell = row.insertCell(-1);
+	  var userdisplay = lookupRelationship(item, jsondata, "user", "displayname");
+	  
+	  usercell.innerHTML = userdisplay;
+
+	  var datecell = row.insertCell(-1);
+	  var createdat = new Date(attrs["create_date"].trim());
+	  datecell.innerHTML = createdat.toLocaleString();
+
+	  if(Number(item["relationships"]["user"]["data"]["id"]) == Number(myuserid))
+	  {
+	      var poiid = item["id"]
+	      var editcell = row.insertCell(-1);
+	      var editlink = '<a href="/editpoi/' + poiid + '">edit</a>';
+	      editcell.innerHTML = editlink;
+	      
+	      var deletecell = row.insertCell(-1);
+
+	      var deletelink ='<a href="/poi/delete/' + poiid + '">delete</a>';
+	      deletecell.innerHTML = deletelink;
+
+	      
+	  }
+
+	  
+      }
+  };
+
+
+  function lookupRelationship(poiitem, jsondata, relname, attrname=null)
+  {
+      var relid = poiitem["relationships"][relname]["data"]["id"];
+      var reltype = poiitem["relationships"][relname]["data"]["type"];
+      var flt = jsondata["included"].filter( x=> (x["id"] == relid && x["type"]
+						  == reltype));
+      if(flt.length > 1)
+	  throw "logic error: multiple duplicate relationships found";
+      if(flt.length == 0)
+	  throw "logic error: no results found!";
+      if(attrname != null)
+	  return flt[0]["attributes"][attrname];
+      else
+	  return flt[0]["attributes"];
+  }      
+
+  function plotpoints(jsondata)
+  {
+      for(item of jsondata["data"])
+      {
+	  var attrs = item["attributes"];
+	  var txt = attrs["name"];
+	  const x = Number(attrs["coords"][0]);
+	  const z = Number(attrs["coords"][2]);
+
+	  const style = lookupRelationship(item, jsondata, "style","style");
+
+	  if(attrs["coordtype"] =="OVERWORLD")
+	      overworldplot.plotPoint(x,z, txt, style);
+	  else if( item["attributes"]["coordtype"] == "NETHER")
+	      netherplot.plotPoint(x,z,txt, style);
+	  else
+	  {
+	  }
+      };
+  };
+
+  const rdr = new PlotlyShapeRenderer();
+  function render_all_styles(styledata)
+  {
+      const sizes = Array.from(styledata.values()).map(x => x["marker.size"]);
+      const symbols = Array.from(styledata.values()).map(x =>
+	  x["marker.symbol"]);
+      const styleids = Array.from(styledata.keys());
+      rdr.replace_styles(symbols, sizes);
+
+      var i =0;
+      for(const [id,targets] of styles_to_render.entries())
+      {
+	  const pos = styleids.indexOf(id);
+	  if(pos == -1)
+	      throw "logic error: style id not found!";
+	  var path = rdr.render_one_svg(pos);
+	  svg_style_helper(path, styledata.get(id));
+	  
+	  for( const tgt of targets)
+	  {
+	      
+	      var thispath = path.cloneNode();
+	      var svgitem = svg_centred_render_helper(thispath, tgt, -1, null,
+	      10);
+	  }
+      }
+      
+  }
+  
+  var ordermap =  new Map();
+  const style_data = new Map();
+  async function fetch_pois(sortkey=null) {
+      styles_to_render.clear();
+      options = {method: "GET",
+		 headers: {"Accept": "application/vnd.api+json"},
+		 credentials: "same-origin"};
+      url = new URL("/api/poi", document.URL)
+      params = [["page[number]", "1"], ["include", "user,style"],
+		["fields[user]", "displayname"],
+		["fields[style]", "name,style"]];
+      if(sortkey != null)
+      {
+	  if( !(sortkey  in ordermap))
+	  {
+	      ordermap[sortkey] = true;
+	  }
+	  else if(ordermap[sortkey])
+	  {
+	      ordermap[sortkey] = false;
+	      sortkey = "-" + sortkey;
+	  }
+	  else
+	  {
+	      ordermap[sortkey] = true;
+	  }
+	   params.push(["sort", String(sortkey)]);
+      }
+      url.search = new URLSearchParams(params).toString();
+
+      netherplot.clearPlot();
+      overworldplot.clearPlot();
+
+      clearPOItable();
+      for(;;)
+      {
+	  const response = await fetch(url, options);
+	  const rjson = await response.json();
+	  fillPOItable(rjson);
+	  plotpoints(rjson);
+
+	  for(item of rjson["included"].filter(x=>x["type"]=="style"))
+	  {
+	      const styleid = Number(item["id"]);
+	      if( ! style_data.has(styleid))
+	      {
+		  const stylestyle = item["attributes"]["style"];
+		  style_data.set(styleid, stylestyle)
+	      }
+	  }
+	  
+	  if(rjson["links"]["next"] == null)
+	      break;	
+	  url = rjson["links"]["next"];
+      }
+
+      render_all_styles(style_data);
+
+  }
+
+  
+</script>
+
+
+<h1> Minecraft Points of Interest </h1>
+
+<h2>POI map</h2>
+<div class="columns">
+  <div class="poigraph">
+    <div id="poi-overworldgraph"></div></div>
+  <div class="poigraph">
+    <div id="poi-nethergraph"></div>
+  </div>
+</div>
+
+<script>
+  overworlddom = document.getElementById("poi-overworldgraph");
+  netherdom = document.getElementById("poi-nethergraph");
+
+  const netherplot = new PlotlyCoordMapRenderer("The Nether", "50%", netherdom);
+  const overworldplot = new PlotlyCoordMapRenderer("Overworld", "50%", overworlddom);
+</script>
+
+{% if current_user.is_authenticated %}
+  <h2>Add new POI</h2>
+  <form method="post" class="poiform">
+  {{ form.csrf_token }}
+  {{ form.name.label }} {{ form.name }}
+  {{ form.x.label }} {{ form.x(class_="coordnum") }}
+  {{ form.y.label }} {{ form.y(class_="coordnum") }}
+{{ form.z.label }} {{ form.z(class_="coordnum") }}
+  {{form.coordtp.label}} {{form.coordtp}}
+  {{ form.public.label }} {{ form.public }}
+  {{form.style.label }} {{form.style}}
+  <input type="submit">
+  </form>
+{% endif %}
+
+
+<h2> List of POIs </h2>
+
+<div id="current_user_id" hidden>{{current_user.userid}}</div>
+
+<table class="poi_list" id="list_of_pois">
+  <th onclick="fetch_pois('name')">Name</th>
+  <th onclick="fetch_pois('coord_x')">X</th>
+  <th onclick="fetch_pois('coord_y')">Y</th>
+  <th onclick="fetch_pois('coord_z')">Z</th>
+  <th onclick="fetch_pois('coordtype')">type</th>
+  <!--<th onclick="fetch_pois('style.name')">style name </th>-->
+  <th>style preview</th>
+  <th onclick="fetch_pois('user.displayname')">created by</th>
+  <th onclick="fetch_pois('create_date')">created at</th>
+</table>
+
+<script>
+  fetch_pois("name");
+</script>
+
+
+{% endblock %}
