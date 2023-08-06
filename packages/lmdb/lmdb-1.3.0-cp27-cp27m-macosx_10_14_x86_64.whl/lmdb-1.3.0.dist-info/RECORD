@@ -1,0 +1,11 @@
+lmdb/__init__.py,sha256=o5A6afKYp5s_9F9Z6alDuzU6cO6LqoYZb6xcgP-GC60,1710
+lmdb/__main__.py,sha256=BGmvbVFVpOzuVtimLe_rG8Yo5-oY2kLjObL-vwzffvI,861
+lmdb/_config.py,sha256=aaI1ZvaFzSHHKVrN7S3mMpVQz-9bXP2C-E5Emwz6aNk,247
+lmdb/cffi.py,sha256=A2MkoB2IUnO1_tYpZk0jJR4FbryQknKU6WEZvwDVDq0,92210
+lmdb/cpython.so,sha256=GjxGL75yLWXGLiVggU1JTaumP1QRMzo7wo1Q3u766os,167944
+lmdb/tool.py,sha256=UMDg6vq8ewJxYKSAuUTRAYFpnDQN3YijOOyjofRAF7w,19675
+lmdb-1.3.0.dist-info/LICENSE,sha256=MQ_iXIWKlRX8jI19HySmfJSW-EqR4KDkHqmXWxNx5Wk,2214
+lmdb-1.3.0.dist-info/METADATA,sha256=fB0-42-RMbjknZ565YHdgsQsCMVO8qu4NTcOttIQli4,1112
+lmdb-1.3.0.dist-info/WHEEL,sha256=KRob6rYLMDb--O04gWvN_rlq0NwEMHGHMy2JIXuPEGM,111
+lmdb-1.3.0.dist-info/top_level.txt,sha256=qOkC5Hl6beBqEvdM6eZ-XU2LK4zbo3QHaTOUeHIc7s4,13
+lmdb-1.3.0.dist-info/RECORD,,
