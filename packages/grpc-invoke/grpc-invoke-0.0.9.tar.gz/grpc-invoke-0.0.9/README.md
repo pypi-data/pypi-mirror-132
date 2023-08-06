@@ -1,0 +1,64 @@
+## Grpc Invoke
+
+  This is a package for python grpc client like grpcurl.
+
+## As We know
+
+  grpc's work mode is generating client and server via proto file, But sometime we can't get the proto file.If you are facing the problem above, this tool may help you a lot.
+
+## Features
+
+- [x] you can do requests without any proto object
+- [x] you can request your grpc server like http
+- [x] you can use dictionary as your request data
+
+- [ ] support stream
+- [ ] support asyncio
+- [ ] support tls
+
+## Getting Started
+
+```bash
+$ pip install grpc-invoke
+```
+
+```python
+from grpc_invoke.grpc_client import GrpcClient
+
+
+with GrpcClient("localhost:50052", "Service", "method") as client:
+    resp = client.invoke(data={"data": "hello"}, header={"auth": "fdfefsssdffdg"})
+    print(resp)
+```
+
+  Enjoy it!
+
+
+## Notice
+
+  You should enable your server reflection. what you have to do is:
+
+```python
+server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
+hello_pb2_grpc.add_HelloServicer_to_server(Greeter(), server)
+
+
+# start
+SERVICE_NAMES = (
+    hello_pb2.DESCRIPTOR.services_by_name['Hello'].full_name,
+    reflection.SERVICE_NAME,
+)
+# enable reflection
+reflection.enable_server_reflection(SERVICE_NAMES, server)
+
+# done
+
+server.add_insecure_port('[::]:50052')
+server.start()
+server.wait_for_termination()
+SERVICE_NAMES = (
+    hello_pb2.DESCRIPTOR.services_by_name['Hello'].full_name,
+    reflection.SERVICE_NAME,
+)
+reflection.enable_server_reflection(SERVICE_NAMES, server)
+```
