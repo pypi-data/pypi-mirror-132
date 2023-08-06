@@ -1,0 +1,4 @@
+Django<=3.2.10
+Pillow<=8.4.0
+opencv-python<=4.5.4.60
+django-infinite-scroll>=0.1.7
