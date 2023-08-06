@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: phaedo
+Version: 0.1.0
+Summary: phaedo: Python domain model library for DDD (Domain Driven Development)
+Home-page: https://github.com/utamaru-hiro/phaedo
+Author: hiro utamaru
+Author-email: lemon.flavor.jam@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+# Phaedo - Python Domain Model Library
+
+## About
+
+Phaedo is a Python library helping developpers to create structured data object with typing, validating, and processing features. This library is inspired from DDD (Domain Driven Development), especially from the concept of "Domain Model". Developpers will find this helpful to make and keep codes easily and cleanly.
+
+## Quickstart Guide
+
+[WIP]
+
