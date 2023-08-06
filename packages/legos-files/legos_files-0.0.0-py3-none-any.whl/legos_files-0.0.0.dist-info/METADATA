@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: legos-files
+Version: 0.0.0
+Summary: A package providing utility classes to wrangle file collections and sequences on disk.
+Home-page: UNKNOWN
+Author: Bhavesh Pandey
+Author-email: bxpandey@pm.me
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: legos-base
+Requires-Dist: click
+Provides-Extra: dev
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-bdd ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+
+# legos-files
+
+`legos-files` provides utilities for wrangling file collections, sequences on disk and also provides functionalities for easy serialization to and from disk.
+
+
