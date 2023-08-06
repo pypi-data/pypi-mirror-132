@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/nepali_address_system/__init__.py
+src/nepali_address_system/addresses.py
+src/nepali_address_system/data.py
+src/nepali_address_system/districts.py
+src/nepali_address_system/municipalities.py
+src/nepali_address_system/provinces.py
+src/nepali_address_system.egg-info/PKG-INFO
+src/nepali_address_system.egg-info/SOURCES.txt
+src/nepali_address_system.egg-info/dependency_links.txt
+src/nepali_address_system.egg-info/top_level.txt
