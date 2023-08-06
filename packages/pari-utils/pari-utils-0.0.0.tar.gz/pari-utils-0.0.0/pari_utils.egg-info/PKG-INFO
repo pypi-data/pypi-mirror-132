@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: pari-utils
+Version: 0.0.0
+Summary: utilities for PARI/GP
+Home-page: https://gitlab.com/sagemath/pari-utils
+Author: Vincent Delecroix
+Author-email: vincent.delecroix@u-bordeaux.fr
+License: GPL v3
+Download-URL: https://pypi.org/project/pari-utils/#files
+Keywords: PARI/GP
+Platform: any
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: Unix
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/x-rst
+
+pari-utils
+==========
+
+A Python library to parse PARI/GP configuration and header files. This
+is mainly used in the code generation of https://github.com/sagemath/cypari2
+and https://github.com/sagemath/pari-jupyter.
+
+This library supports only Python 3.
+
+Installation
+------------
+
+Using pip
+^^^^^^^^^
+
+Requirements:
+
+- PARI/GP >= 2.9.4 (header files and library)
+- Python >= 3.7
+- setuptools >= 40.6.0, wheel
+
+Install pari-utils via the Python Package Index (PyPI) via
+
+::
+
+    $ pip install pari-utils [--user]
+
+(the optional option *--user* allows to install pari-utils for a single user
+and avoids using pip with administrator rights). Depending on your operating
+system the pip command might also be called pip2 or pip3.
+
+If you want to try the development version use
+
+::
+
+    $ pip install git+https://github.com/sagemath/pari-utils.git [--user]
+
+Contributing
+------------
+
+Submit pull request or get in touch with the SageMath developers.
+
+

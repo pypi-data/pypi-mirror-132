@@ -1,0 +1,14 @@
+README.rst
+VERSION
+pyproject.toml
+setup.cfg
+test.py
+pari_utils/__init__.py
+pari_utils/args.py
+pari_utils/parser.py
+pari_utils/paths.py
+pari_utils/ret.py
+pari_utils.egg-info/PKG-INFO
+pari_utils.egg-info/SOURCES.txt
+pari_utils.egg-info/dependency_links.txt
+pari_utils.egg-info/top_level.txt
