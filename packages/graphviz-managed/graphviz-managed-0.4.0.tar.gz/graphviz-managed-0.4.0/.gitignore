@@ -1,0 +1,8 @@
+/Makefile.venv
+/.venv
+/.tox
+
+/dist/
+*.egg-info
+
+*.pyc
