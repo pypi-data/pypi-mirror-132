@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+oderk.egg-info/PKG-INFO
+oderk.egg-info/SOURCES.txt
+oderk.egg-info/dependency_links.txt
+oderk.egg-info/not-zip-safe
+oderk.egg-info/requires.txt
+oderk.egg-info/top_level.txt
