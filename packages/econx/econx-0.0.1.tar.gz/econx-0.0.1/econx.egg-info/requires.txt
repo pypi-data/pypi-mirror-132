@@ -1,0 +1,10 @@
+numpy
+arviz
+jupyter
+matplotlib
+pandas
+pyjags
+scipy
+seaborn
+sympy
+pytest

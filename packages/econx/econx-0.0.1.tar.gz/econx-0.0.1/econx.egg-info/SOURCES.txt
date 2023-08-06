@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+econx.egg-info/PKG-INFO
+econx.egg-info/SOURCES.txt
+econx.egg-info/dependency_links.txt
+econx.egg-info/requires.txt
+econx.egg-info/top_level.txt
