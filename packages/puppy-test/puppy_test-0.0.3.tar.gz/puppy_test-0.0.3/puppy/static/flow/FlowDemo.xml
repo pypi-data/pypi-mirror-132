@@ -1,0 +1,15 @@
+<flow xmlns="http://www.w3school.com.cn"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3school.com.cn ../file/xsd/flow.xsd"
+
+    param="">
+    <interface name="InterfaceDemo" desc="接口调用示例">
+        <post_processor>
+            <expect desc="断言返回值code等于00" type="res_data" act="equal" key="code">
+                00
+            </expect>
+            <set name="task_id" type="res_data" key="taskId"/>
+        </post_processor>
+    </interface>
+    <return value="${task_id}"/>
+</flow>
