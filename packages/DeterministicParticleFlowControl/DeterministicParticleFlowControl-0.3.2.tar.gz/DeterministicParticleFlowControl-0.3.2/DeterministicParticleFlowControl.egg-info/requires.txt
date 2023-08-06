@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+numba
+POT
+pyemd
+duecredit
+seaborn
