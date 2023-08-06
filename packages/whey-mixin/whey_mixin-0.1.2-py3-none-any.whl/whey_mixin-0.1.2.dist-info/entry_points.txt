@@ -1,0 +1,8 @@
+[whey.builder]
+whey_mixin_sdist = whey.mixin:BuilderFor.sdist
+whey_mixin_wheel = whey.mixin:BuilderFor.wheel
+whey_mixin_binary = whey.mixin:BuilderFor.binary
+whey_mixin_exe = whey.mixin:BuilderFor.exe
+whey_mixin_dmg = whey.mixin:BuilderFor.dmg
+whey_mixin_deb = whey.mixin:BuilderFor.deb
+whey_mixin_rpm = whey.mixin:BuilderFor.rpm
