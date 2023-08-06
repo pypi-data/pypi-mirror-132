@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "cmdline-mini"
+version = "1.0.2"
+description = "Partial command line handler"
+authors = ["David Nugent <david.nugent@news.com.au>"]
+license = "MIT"
+packages = [
+  { include = "cmdline" },
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+testpaths = [
+    "tests",
+]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
