@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: dupgee
+Version: 0.2
+Summary: Mini Web Framework on MicroPython (Esp8266)
+Home-page: https://github.com/ahmetkotan/dupgee
+Author: ahmetkotan
+Author-email: ahmtkotan@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: Implementation :: MicroPython
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+
