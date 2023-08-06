@@ -1,0 +1,6 @@
+colorama
+infi.caching
+requests
+setuptools
+infinisdk
+fabric2
