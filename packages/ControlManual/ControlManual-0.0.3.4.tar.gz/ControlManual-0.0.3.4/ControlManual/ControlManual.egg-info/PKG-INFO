@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: ControlManual
+Version: 0.0.3.4
+Summary: A universal console-like interface
+Home-page: https://github.com/ZeroIntensity/ControlManual
+Author: ZeroIntensity
+Author-email: admin@controlmanual.xyz
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/ZeroIntensity/ControlManual/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Control Manual
+
+![https://github.com/ZeroIntensity/ControlManual/blob/main/LICENSE](https://img.shields.io/github/license/ZeroIntensity/ControlManual)
+
+## Under development, **no support provided!**
+
+### Running
+
+There are 3 ways to run:
+
+1. Download the source, install requirements, and run `run.py`
+
+2. Run `pip3 install ControlManual` and then `python3 -m ControlManual`
+
+3. Assuming `pipx` is installed, run `pipx run ControlManual`
+
+
