@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: modate
+Version: 1.0.0
+Summary: A python package to change "created", "modificated" or "last accessed" dates of a file.
+Home-page: https://github.com/dontic/modate
+Author: Daniel Garcia Sanchez
+Author-email: UNKNOWN
+License: LGPLv3+
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Classifier: Natural Language :: English
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Desktop Environment :: File Managers
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
