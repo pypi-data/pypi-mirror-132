@@ -1,0 +1,6 @@
+termcolor
+pandas
+tqdm
+xarray
+netCDF4
+plotly
