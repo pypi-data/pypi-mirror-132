@@ -1,0 +1,16 @@
+pikachuwechat/__init__.py,sha256=T-Sb7DlFdeBGY_lz7JhizfsSrar2WbfYtvZhd8AfR3w,435
+pikachuwechat/pikachuwechat.py,sha256=ftRZDx4SaoiXHd4J6NoCIQ3YHLsdBmqmIlnsJHKQAQs,1870
+pikachuwechat/modules/__init__.py,sha256=fnspCvWm4JbPhCh-a9cSSygHg8HqKA8LiBApGpFqrjQ,78
+pikachuwechat/modules/core/__init__.py,sha256=p1ttnXkY2OyjznznNx6duQOwahMLNglwOS0sKQQRiT0,140
+pikachuwechat/modules/core/analysisfriends.py,sha256=nRqEo-2J3So-G8HXsNQxdQzuuZyYGOdxAbDeZm0MF1o,3393
+pikachuwechat/modules/core/antiwithdrawal.py,sha256=bQ2o0MysJEVijaN0oFQYAeWn_kEEkCHomzNAKTDxt-M,6585
+pikachuwechat/modules/core/autoreply.py,sha256=3QKI_7Ynwh5SFsZYzlDa0M3oytP7uzW7wjvHVMZPhfk,1410
+pikachuwechat/modules/utils/__init__.py,sha256=Hf-eogCBtTSEdXQGNVvs2lWh60dghP2vUa1H5EquzhA,129
+pikachuwechat/modules/utils/logger.py,sha256=F1TRKHc8UI_neMLbjPi5Qc8Bo11hi8Rdn38rPATR0jo,1775
+pikachuwechat/modules/utils/misc.py,sha256=nJoVHnPOWSJMdwkbPthdwKaXWPbEbtQdgVmAta8NL1A,1062
+pikachuwechat-0.1.1.dist-info/LICENSE,sha256=JRvit1JTdLA23o2XytMiaJOzwcKv2ttiAz_icrg9Fd0,1080
+pikachuwechat-0.1.1.dist-info/METADATA,sha256=XQhf76zF0BrvEUhNx2s65g_ctfLog0V6ATTnUYSfreI,4032
+pikachuwechat-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pikachuwechat-0.1.1.dist-info/top_level.txt,sha256=ot1jp425j6juFEkG7n8CFilcdL7r4zLGZW81vbjMTBk,14
+pikachuwechat-0.1.1.dist-info/zip-safe,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+pikachuwechat-0.1.1.dist-info/RECORD,,
