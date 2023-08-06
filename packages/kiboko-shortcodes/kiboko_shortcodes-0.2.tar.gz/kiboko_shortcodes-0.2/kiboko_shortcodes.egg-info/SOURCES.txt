@@ -1,0 +1,7 @@
+setup.py
+kiboko_shortcodes/__init__.py
+kiboko_shortcodes/kiboko_shortcodes.py
+kiboko_shortcodes.egg-info/PKG-INFO
+kiboko_shortcodes.egg-info/SOURCES.txt
+kiboko_shortcodes.egg-info/dependency_links.txt
+kiboko_shortcodes.egg-info/top_level.txt
