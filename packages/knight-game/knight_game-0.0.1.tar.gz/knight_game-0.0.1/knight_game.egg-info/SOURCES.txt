@@ -1,0 +1,10 @@
+README.md
+setup.py
+knight_game.egg-info/PKG-INFO
+knight_game.egg-info/SOURCES.txt
+knight_game.egg-info/dependency_links.txt
+knight_game.egg-info/requires.txt
+knight_game.egg-info/top_level.txt
+knight_game_package/__init__.py
+knight_game_package/__main__.py
+knight_game_package/knight_game_module.py
