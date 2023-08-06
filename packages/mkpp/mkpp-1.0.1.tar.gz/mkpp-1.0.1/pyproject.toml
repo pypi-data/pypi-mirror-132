@@ -1,0 +1,33 @@
+[project]
+name = "mkpp"
+version = "1.0.1"
+description = "Simple tool for creating Python packages. For lazies."
+dependencies = []
+requires-python = ">=3.6"
+readme = "README.md"
+repository = "https://github.com/jieggii/mkpp"
+keywords = [ "packages",]
+[[project.authors]]
+name = "jieggii"
+email = "jieggii.contact@gmail.com"
+
+[build-system]
+requires = [ "pdm-pep517",]
+build-backend = "pdm.pep517.api"
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+homepage = "https://github.com/jieggii/mkpp"
+"Bug Tracker" = "https://github.com/jieggii/mkpp/issues"
+
+[project.scripts]
+mkpp = "mkpp.__main__:main"
+
+[tool.black]
+line-length = 99
+target-version = [ "py36",]
+
+[tool.pdm.dev-dependencies]
+dev = [ "black>=20.8b1", "isort>=5.8.0", "flake8>=4.0.1",]
