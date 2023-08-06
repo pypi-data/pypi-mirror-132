@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: testModuleByKarielMyrr
+Version: 0.1.0
+Summary: Test module for Data Analysis.
+Home-page: https://github.com/Kariel-Myrr/kariel_andan_test_module.git
+Author: Karile_Myrr
+Author-email: kirillant2013@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.6

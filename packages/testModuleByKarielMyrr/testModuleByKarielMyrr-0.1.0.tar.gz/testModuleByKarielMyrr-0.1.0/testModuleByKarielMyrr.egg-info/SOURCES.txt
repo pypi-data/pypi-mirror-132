@@ -1,0 +1,8 @@
+setup.py
+testModuleByKarielMyrr/__init__.py
+testModuleByKarielMyrr/helper.py
+testModuleByKarielMyrr.egg-info/PKG-INFO
+testModuleByKarielMyrr.egg-info/SOURCES.txt
+testModuleByKarielMyrr.egg-info/dependency_links.txt
+testModuleByKarielMyrr.egg-info/requires.txt
+testModuleByKarielMyrr.egg-info/top_level.txt
