@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: findy
+Version: 0.0.2
+Summary: FinDy, fetching open financing data library
+Home-page: https://github.com/doncat99/FinanceCenter
+Author: Don Wong, Bin Wong
+Author-email: doncat99@gmail.com
+License: MIT
+Keywords: Finance Data
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: ==3.8.12
+License-File: LICENSE
+
+FinDy, fetching open financing data library
+
