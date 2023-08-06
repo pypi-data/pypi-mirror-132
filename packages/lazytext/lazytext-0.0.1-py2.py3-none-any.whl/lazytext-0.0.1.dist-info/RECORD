@@ -1,0 +1,11 @@
+lazytext/__init__.py,sha256=hlUv-AddZ7sJ7xeswBiSnu7_0FSpsEOUt8zFXQEvNms,280
+lazytext/_repo_version.py,sha256=CactNZqrHHYTPrkHKccy2WKXmaiUdtTgPqSjFyVXnJk,18
+lazytext/cli.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lazytext/create_table.py,sha256=I3na28GvP9v1_VmpkYwY4hRJ-aFiKGo34pTjNzTYwHk,1820
+lazytext/supervised.py,sha256=zK-J6yMLAzAjdl44QvQmuF2l0rSIP-TThr7WCxLRt80,18220
+lazytext-0.0.1.dist-info/LICENSE,sha256=K1GGp5OCh5RHgDquSQzIxk7pmanVzuuc2sEEWUQ65CM,1066
+lazytext-0.0.1.dist-info/METADATA,sha256=5rEZkBV-cKJzRiiHLQhe0v-qE-WwV16KnbQa6JPxIDQ,890
+lazytext-0.0.1.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+lazytext-0.0.1.dist-info/entry_points.txt,sha256=-U8-vourgBNk_L31MmPXztHsEtbJSaOHgTyp9S8M4ck,54
+lazytext-0.0.1.dist-info/top_level.txt,sha256=YhlcW6j__-QAA-QkCFHO0wD8iOd6SzGCETmLafMLtKY,9
+lazytext-0.0.1.dist-info/RECORD,,
