@@ -1,0 +1,3 @@
+[console_scripts]
+fastq-filter = fastq_filter:main
+
