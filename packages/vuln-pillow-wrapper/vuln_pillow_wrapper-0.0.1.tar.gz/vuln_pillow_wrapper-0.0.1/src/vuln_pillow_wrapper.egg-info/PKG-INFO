@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: vuln-pillow-wrapper
+Version: 0.0.1
+Summary: A wrapper for a vulnerable pillow version, used for demo purposes
+Home-page: https://github.com/Conio/vuln_pillow_wrapper
+Author: Alberto Fanton
+Author-email: alberto.fanton@conio.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Conio/vuln_pillow_wrapperhttps/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Vulnerable pillow wrapper
+This package is used to demostrate why software composition problems can be non trivial solve. This package has a vulnerable dependency but it is "not directly" vulnerable.
+
+
