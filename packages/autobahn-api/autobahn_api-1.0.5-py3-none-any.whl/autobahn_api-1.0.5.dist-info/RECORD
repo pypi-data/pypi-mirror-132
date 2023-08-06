@@ -1,0 +1,15 @@
+autobahn_api/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+autobahn_api/data.py,sha256=1qh5_InD0UUt2xln-rvis1q0_lJlHgMQZIbCAPeMjjo,1833
+autobahn_api/info.py,sha256=JX5CdG0UM-DHt98Zc8UyTFAc7-0Wlp-UpcJa-Jqe30w,549
+autobahn_api/main.py,sha256=0pfJOaEX5X1jxc_MsdbWb2OKPDNAtvXT1jjSKL0P5fA,2119
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_data.py,sha256=H4QJ6YA-vKSISn5gBYYAw2Dh2qtwadU5J9Gr6UnkCLw,737
+tests/test_info.py,sha256=ck5fYlY2qqu5nAgYCGVPLZ0GzHKtfDXEBBx_ScZIJf0,135
+tests/test_main.py,sha256=5ajHxIk4wZI08y1hvKykl6pbK5oq4-8TzveiYguWihc,689
+tests/test_responses.py,sha256=tn0yIJG4o7Mi08MYm1WWz1tyuaHfcaGNON5cRnoxF1U,1766
+autobahn_api-1.0.5.dist-info/LICENSE,sha256=ONzY79hXPpm6zXfZk8-a5Kqabex4xefXAehsA94_EvI,1074
+autobahn_api-1.0.5.dist-info/METADATA,sha256=rOTZq0aV0nKycjiHa8UDNCarpifBHR37Jre4nMkB76o,1403
+autobahn_api-1.0.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+autobahn_api-1.0.5.dist-info/entry_points.txt,sha256=5I4GTcJVSH24oKEMO10xTyXY_PhAn5QoWCKAXgdKVRg,44
+autobahn_api-1.0.5.dist-info/top_level.txt,sha256=s_LlqncZZzAwFm6iEoR1ng4vFuQCoXU-NhCv_1JIix8,19
+autobahn_api-1.0.5.dist-info/RECORD,,
