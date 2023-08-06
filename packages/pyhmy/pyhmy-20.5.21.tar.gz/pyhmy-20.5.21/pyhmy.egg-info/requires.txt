@@ -1,0 +1,8 @@
+pexpect
+requests
+incremental
+eth-rlp
+eth-account==0.5.4
+eth-utils
+hexbytes
+cytoolz
