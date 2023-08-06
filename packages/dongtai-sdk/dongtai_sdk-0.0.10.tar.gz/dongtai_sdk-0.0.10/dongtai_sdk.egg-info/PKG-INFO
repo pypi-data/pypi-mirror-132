@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: dongtai-sdk
+Version: 0.0.10
+Summary: DongTai SDK
+Home-page: https://github.com/HXSecurity/DongTai-SDK-Python
+Author: spensercai
+Author-email: spensercai@gmail.com
+License: MIT
+Description: DongTai SDK
+Platform: UNKNOWN
