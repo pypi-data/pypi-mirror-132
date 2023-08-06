@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: casambi-bt
+Version: 0.0.2
+Summary: A minimal, unofficial implementation of a bluetooth client for casambi devices
+Home-page: UNKNOWN
+Author: lkempf
+Author-email: pypi@lukas-kempf.de
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: bleak (>=0.10)
+Requires-Dist: cryptography (>=3)
+Requires-Dist: httpx (>=0.17)
+
+# CasambiBt
+
+This library provides a currently **highly unstable** interface to Casambi-based lights over Bluetooth. The author is not associated with Casambi and the implementation is based on his own analysis of the protocol. This interface is not feature complete and will probably not work in a scenario with more than just a couple of lights.
+
