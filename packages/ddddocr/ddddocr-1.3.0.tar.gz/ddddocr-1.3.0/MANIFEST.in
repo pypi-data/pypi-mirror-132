@@ -1,0 +1,2 @@
+recursive-include ddddocr common.onnx
+recursive-include ddddocr common_det.onnx
