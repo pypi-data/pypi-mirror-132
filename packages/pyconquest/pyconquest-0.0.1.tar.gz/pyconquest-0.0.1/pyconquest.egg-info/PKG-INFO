@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: pyconquest
+Version: 0.0.1
+Summary: Python code which partly mimics the conquest pacs
+Home-page: https://github.com/ReneMonshouwer/pyconquest
+Author: René Monshouwer
+Author-email: rene.monshouwer@radboudumc.nl
+License: UNKNOWN
+Description: Python code to partly mimic the functionality of the Conquest Pacs system ( http://www.natura-ingenium.nl/dicom.html ).
+        Done by reverse engineering ( not using the source code of conquest ).
+        
+        a/ indexer properties : read a dicom tree and build a sqlite database from this which conforms to the Conquest standard.
+        b/ use the conquest style dicom.sql to define the columns
+        c/ provide low level procedures to write and read to the database
+        d/ provide basic SCU and SCP functionality
+        
+        No attempt made to mimic
+        full dicom functionality
+        lua scripting
+        image representation
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
