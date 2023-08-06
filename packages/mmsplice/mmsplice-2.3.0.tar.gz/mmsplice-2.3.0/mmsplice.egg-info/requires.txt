@@ -1,0 +1,10 @@
+setuptools
+kipoiseq>=0.7
+cyvcf2
+tensorflow
+scipy
+pandas
+pyfaidx
+tqdm
+click
+pyranges>=0.0.71
