@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/jax_bitempered_loss/__init__.py
+src/jax_bitempered_loss/loss.py
+src/jax_bitempered_loss/loss_test.py
+src/jax_bitempered_loss.egg-info/PKG-INFO
+src/jax_bitempered_loss.egg-info/SOURCES.txt
+src/jax_bitempered_loss.egg-info/dependency_links.txt
+src/jax_bitempered_loss.egg-info/top_level.txt
