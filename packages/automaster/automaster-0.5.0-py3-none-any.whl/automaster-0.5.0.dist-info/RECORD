@@ -1,0 +1,12 @@
+autotk/AutoADB.py,sha256=t1iDqt5jg_hgOjevZD0Izw0p0e4tIPlth9Kpj5jDPzU,71168
+autotk/AutoCore.pyd,sha256=6g4ZXrPeSwor38tsonc6cyaxjbj3AdhvQQQLP0eYyX4,609280
+autotk/AutoCoreLite.pyd,sha256=0YyD4ifcczxKN3sGM4Iw9mkFlEconquIwpQMMLrdhY8,99328
+autotk/AutoDB.py,sha256=k1gQd1mZ8TCA-Z1M7gzk7kKaXBCi4RTfjSW3bg_J6F4,15038
+autotk/AutoLang.py,sha256=0oLc155J3uK4GAe6DMnZyYR1jm08n9BgcYFmlLqk5tM,6375
+autotk/AutoMES.py,sha256=hhMA1uxa5e7qMUfreZfytp1XF4KgHB9M1BSnQeSChK8,27401
+autotk/AutoUI.py,sha256=9RsO1gDtGGc0J6e2Tm5Akwu1uX47ggZ9KKzra3s5750,131911
+autotk/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+automaster-0.5.0.dist-info/METADATA,sha256=OsVh1KsVaAsDst4gamTUnmiqFGo2Oa-DuCRnbdvQeIM,596
+automaster-0.5.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+automaster-0.5.0.dist-info/top_level.txt,sha256=8VNttXGy4bSg3j2-HyT5veNPQ0nAn41fyXV0fdxIR7s,7
+automaster-0.5.0.dist-info/RECORD,,
