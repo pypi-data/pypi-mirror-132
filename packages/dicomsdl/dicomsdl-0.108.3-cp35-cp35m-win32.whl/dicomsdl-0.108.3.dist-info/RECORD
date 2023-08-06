@@ -1,0 +1,12 @@
+dicomsdl/__init__.py,sha256=fPOeh3dMGWoWVFdpkDXc89Sl0GPl7_ZQ1a96vwPs9q4,5825
+dicomsdl/_dicomsdl.cp35-win32.pyd,sha256=t5-WNrB-EmApA8Q6xqdHKZs1Qf5hiMb12louw1ZYmtY,1906176
+dicomsdl/_util.cp35-win32.pyd,sha256=4VsLAtrzF_d1Fn8D3xEJj0v6gPseKUfZlg8OJfIZBsw,114176
+dicomsdl/dump.py,sha256=UmMQnILHcDiPSRXoYZAxD2X_1aRpv8OdONPsbvtX03Q,574
+dicomsdl/show.py,sha256=EcWlWhkpV3U2YFmQoQ6awtoUDLFotpJBnWLuvwo8whA,458
+dicomsdl/util.py,sha256=snU_PwLneFchn8wVToq86YhOyefHTX459pnlQcQBn7g,126
+dicomsdl-0.108.3.dist-info/LICENSE,sha256=B1q0TXVUOR2hJ8MMXlePRhDrNElEpn-EF6T2jFKyXU0,9800
+dicomsdl-0.108.3.dist-info/METADATA,sha256=E3hAb6_abL0cowt4sQbuxh8LTigoxyAfhRl42NwNaJQ,5915
+dicomsdl-0.108.3.dist-info/WHEEL,sha256=ug3CNU21t25kd6eK7_prdrXpHurlLn3cp2VIDi7kDAQ,102
+dicomsdl-0.108.3.dist-info/entry_points.txt,sha256=PSvjseq-iSUdrdl5CWdnqE6mIWbxhCJUx7LMKzxAKs4,81
+dicomsdl-0.108.3.dist-info/top_level.txt,sha256=5Aec8NM9UXIX27-GGPVCrS2mRpl8hgAHFaDkO_MiMWw,9
+dicomsdl-0.108.3.dist-info/RECORD,,
