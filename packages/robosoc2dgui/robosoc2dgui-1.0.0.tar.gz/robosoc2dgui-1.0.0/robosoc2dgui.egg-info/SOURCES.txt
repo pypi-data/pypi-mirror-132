@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+robosoc2dgui/__init__.py
+robosoc2dgui/gui.py
+robosoc2dgui.egg-info/PKG-INFO
+robosoc2dgui.egg-info/SOURCES.txt
+robosoc2dgui.egg-info/dependency_links.txt
+robosoc2dgui.egg-info/requires.txt
+robosoc2dgui.egg-info/top_level.txt
+test/test.py
