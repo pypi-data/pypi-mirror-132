@@ -1,0 +1,16 @@
+wagtail_localize_panel/__init__.py,sha256=3kr5xzKllIhrlf_HyuIHChj3X7UBzGGSMXD5anDplgc,251
+wagtail_localize_panel/apps.py,sha256=8YwNjjHCD-8X4E-g3oBG21vD-maVEM6v7TdFltAgLDc,154
+wagtail_localize_panel/config.py,sha256=AjwQx2qt3f7z6Qs2XNENqBH4b_U0iNx3R_M0nIQrZ8k,656
+wagtail_localize_panel/migrations/0001_add_permission.py,sha256=KxKTb-waP52DomAWPfUh2UCLOHliT907RvIbnDCQWJg,178
+wagtail_localize_panel/migrations/0002_add_permission.py,sha256=f6duN8Wx_nXOvU-0i5D5miyN4pMdrIgAgXsz23eLduw,2424
+wagtail_localize_panel/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wagtail_localize_panel/models.py,sha256=Tu1fuevfwH7YbajFfASVKKkHhfQ8WhnvIYNOoZt6EPc,5041
+wagtail_localize_panel/notify_translations.py,sha256=9Tu9hIJ6_G5mqFnlg5NixEToPy9o3TS_PDBO5Up8C-0,2370
+wagtail_localize_panel/templates/wagtail_localize_panel/home/workflow_pages_to_translate.html,sha256=_F_igc9Va0jAyato9qsRQ7TrEeQI20fgbU3KM9tJZUI,1323
+wagtail_localize_panel/utils.py,sha256=b3kKmJWD1poNfgpyGW5ZO05146W1akmR8KsqmTJ6-q0,225
+wagtail_localize_panel/views.py,sha256=w6qImeovGrKw1jVmcMVeVT8l-Zk-lJwh8QBQEbAvpvY,728
+wagtail_localize_panel/wagtail_hooks.py,sha256=-WBeScZD5QSo2nyrdQOmwwoXGWwgkmzIgwkPkRwyYxE,1231
+wagtail_localize_panel-0.2.1.dist-info/LICENSE,sha256=pIQ_f9ww89QCiVh4ETWjBfXPf-hhE35Hk28__rIrXw8,1502
+wagtail_localize_panel-0.2.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+wagtail_localize_panel-0.2.1.dist-info/METADATA,sha256=mDziou_ihx3xUnOSUstZt-jhZ_lg2UGO3JoU60d2o0Y,1627
+wagtail_localize_panel-0.2.1.dist-info/RECORD,,
