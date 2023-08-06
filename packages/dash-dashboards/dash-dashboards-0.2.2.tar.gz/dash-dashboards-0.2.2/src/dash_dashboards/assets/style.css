@@ -1,0 +1,284 @@
+body {
+    background-color: #F5F3F4;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+
+/* --- Navigation --- */
+
+.nav-group {
+    padding-top: 16px;
+    width: 180px;
+    position: fixed;
+}
+
+.nav-item {
+    white-space: break-spaces;
+    inline-size: 160px;
+    overflow-wrap: anywhere;
+}
+
+.app-title {
+    color: #A4161A;
+    font-size: 16px;
+    font-weight: 800;
+    padding: 0 12px;
+}
+
+#sidebar-nav {
+    background-color: #FFFFFF;
+}
+
+#sidebar-nav .list-group-item {
+    color: #161A1D;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+#sidebar-nav .list-group-item:hover,
+#sidebar-nav .list-group-item:focus,
+.nav-accordion .list-group-item:hover,
+.nav-accordion .list-group-item:focus {
+    font-weight: 400;
+}
+
+#sidebar-nav .list-group-item:hover i {
+    color: #A4161A;
+}
+
+.list-group-item i {
+    padding-right: 14px;
+}
+
+.nav-accordion:focus {
+    outline: none;
+}
+
+.nav-accordion .accordion-item {
+    border: none;
+}
+
+.nav-accordion .accordion-button {
+    color: #161A1D;
+    font-size: 14px;
+    font-weight: 200;
+    outline: none;
+}
+
+.nav-accordion .accordion-button:hover,
+.nav-accordion .accordion-button:not(.collapsed) {
+    font-weight: 400;
+}
+
+.accordion-button::after {
+    color: #A4161A;
+}
+
+.nav-accordion .accordion-button:hover::after,
+.accordion-button:not(.collapsed)::after {
+    background-image: url("data:image/svg+xml;+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path fill='rgb(164,22,26)' fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>")
+}
+
+.nav-accordion .accordion-button,
+.accordion-button:not(.collapsed) {
+    background-color: white;
+    box-shadow: none;
+}
+
+.auto-width {
+    width: auto;
+}
+
+
+/* ---------- */
+
+
+/* --- Main container --- */
+
+.main-container {
+    padding: 14px 16px;
+    padding-left: 196px;
+}
+
+.content-container,
+.filter-container {
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 6px 0px rgba(211, 211, 211, 0.3);
+    border-radius: 4px;
+    padding: 8px 14px;
+    font-size: 14px;
+}
+
+
+/* ---------- */
+
+
+/* ---  Page container --- */
+
+.page-header {
+    min-height: 100px;
+    font-size: 22px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #D3D3D3;
+}
+
+.page-content {
+    padding-top: 24px;
+    padding-right: 14px;
+}
+
+.page-title {
+    position: relative;
+}
+
+.page-title span {
+    position: absolute;
+    top: 24px;
+    font-size: 24px;
+    font-weight: 100;
+}
+
+
+/* ---------- */
+
+
+/* --- KPI container --- */
+
+.kpi-title {
+    color: #B1A7A6;
+    font-size: 12px;
+    font-weight: 300;
+    padding: 8px;
+}
+
+.kpi-body {
+    color: #A4161A;
+    font-size: 32px;
+    font-weight: 800;
+    padding-top: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.secondary-kpi {
+    padding-top: 18px;
+}
+
+.secondary-kpi-body {
+    color: #660708;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: -12px;
+}
+
+.secondary-kpi-title {
+    font-size: 10px;
+    color: #B1A7A6;
+    font-style: italic;
+}
+
+.vertical-kpi {
+    padding-bottom: 16px;
+}
+
+
+/* ---------- */
+
+
+/* --- Dropdown menu --- */
+
+.custom-dropdown-style {
+    font-size: 14px;
+    font-weight: 200;
+    padding-bottom: 14px;
+}
+
+.custom-dropdown-style div {
+    box-shadow: 0px 0px 6px 0px rgba(211, 211, 211, 0.3);
+}
+
+.custom-dropdown-style div div div {
+    border: none;
+}
+
+
+/* ------ override multi select ------*/
+
+.Select--multi .Select-value {
+    border-color: #A4161A;
+    background-color: #fdf6f7;
+    color: #660708;
+}
+
+.Select--multi .Select-value-icon {
+    border-right: #A4161A;
+}
+
+.Select--multi .Select-value-icon:hover {
+    background-color: #fdf3f5;
+    color: #660708;
+}
+
+.VirtualizedSelectFocusedOption {
+    background-color: #fdf6f7;
+}
+
+.is-focused:not(.is-open)>.Select-control {
+    border-color: #A4161A;
+    box-shadow: 0px 0px 6px 0px rgba(211, 211, 211, 0.3);
+}
+
+
+/* ---------- */
+
+
+/* --- Graphs --- */
+
+.graph-title {
+    padding-bottom: 6px;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+
+/* ---------- */
+
+
+/* --- Not found page --- */
+
+.not-found-content {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.not-found-img {
+    padding: 16px;
+}
+
+.not-found-link:hover {
+    color: #660708;
+}
+
+
+/* ---------- */
+
+
+/* --- Modal --- */
+
+.modal-close-button {
+    background-color: #660708;
+    border: none;
+    text-transform: none;
+    font-size: 14px;
+}
+
+.modal-close-button:hover {
+    background-color: #A4161A;
+    border: none;
+    text-transform: none;
+    font-size: 14px;
+}
+
+
+/* ----------- */
