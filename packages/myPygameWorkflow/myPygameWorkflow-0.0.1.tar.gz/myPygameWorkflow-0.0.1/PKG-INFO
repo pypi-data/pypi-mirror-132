@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: myPygameWorkflow
+Version: 0.0.1
+Summary: Create cool games just like in unity in python with pygame.
+Home-page: UNKNOWN
+Author: DuskyElf (Rehmatpal)
+Author-email: <clayedison75@gmail.com>
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: python,pygame,gamedev,unity,scene management
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows

@@ -1,0 +1,10 @@
+README.md
+setup.py
+myPygameWorkflow/__init__.py
+myPygameWorkflow/game.py
+myPygameWorkflow/presets.py
+myPygameWorkflow.egg-info/PKG-INFO
+myPygameWorkflow.egg-info/SOURCES.txt
+myPygameWorkflow.egg-info/dependency_links.txt
+myPygameWorkflow.egg-info/requires.txt
+myPygameWorkflow.egg-info/top_level.txt
