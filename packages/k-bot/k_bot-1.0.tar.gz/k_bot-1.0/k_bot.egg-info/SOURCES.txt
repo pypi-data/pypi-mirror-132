@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+k_bot/__init__.py
+k_bot/bots.py
+k_bot/users.py
+k_bot.egg-info/PKG-INFO
+k_bot.egg-info/SOURCES.txt
+k_bot.egg-info/dependency_links.txt
+k_bot.egg-info/not-zip-safe
+k_bot.egg-info/requires.txt
+k_bot.egg-info/top_level.txt
