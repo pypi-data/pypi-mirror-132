@@ -1,0 +1,17 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+endist/__init__.py
+endist/read.py
+endist.egg-info/PKG-INFO
+endist.egg-info/SOURCES.txt
+endist.egg-info/dependency_links.txt
+endist.egg-info/top_level.txt
+endist/forecasting/__init__.py
+endist/imputation/__init__.py
+endist/plotting/__init__.py
+endist/preprocessing/__init__.py
+endist/preprocessing/features.py
+endist/temp_dependency/__init__.py
