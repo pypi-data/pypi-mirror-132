@@ -1,0 +1,12 @@
+pymongo
+numpy
+pandas
+sklearn
+dependency_injector
+pydantic
+fastapi
+cython
+state_machine
+elasticsearch
+usaddress
+nltk
