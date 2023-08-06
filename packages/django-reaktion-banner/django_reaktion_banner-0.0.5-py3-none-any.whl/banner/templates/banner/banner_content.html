@@ -1,0 +1,23 @@
+<div class="container article adjust-paddings p-0 top-border {% if banner_content %} bottom-border {% else %} mb-2 {% endif %}">
+    {% if banner_content %}
+        <div class="d-none d-md-block col-12 text-center my-2 rounded banner-box p-0 leaderboard-ad-div d-none d-md-block"
+             banner-id="{{ banner_content.id }}" banner-url="{{ banner_content.image_url }}">
+            <img class="rounded leaderboard-ad-image" type="image/webp" src="{{ banner_content.image.url }}">
+
+        </div>
+    {% endif %}
+    {% comment %}Mobile{% endcomment %}
+    {% if banner_content and banner_content.small_mobile_image.url %}
+        <div class="col-12 d-md-none text-center my-2 rounded banner-box p-0 d-md-none"
+             banner-id="{{ banner_content.id }}" banner-url="{{ banner_content.image_url }}">
+
+             {% if banner_content.has_extra_urls %}
+                 <a href="/kampnajer/r/42/kiliaro-google-play?bid=6" target="_blank" title="Google Play" style="position: absolute; left: 3.13%; top: 80.94%; width: 46.56%; height: 12.5%; z-index: 2;"></a><a href="" title="" style="position: absolute; left: 33.64%; top: 86.17%; width: 12.71%; height: 7%; z-index: 2;"></a>
+                 <a href="/kampnajer/r/41/kiliaro-app-store?bid=6" target="_blank" title="Apple App Store" style="position: absolute; left: 51.88%; top: 81.88%; width: 46.56%; height: 12.5%; z-index: 2;"></a><a href="" title="" style="position: absolute; left: 33.64%; top: 86.17%; width: 12.71%; height: 7%; z-index: 2;"></a>
+             {% endif %}
+            <img class="rounded" style="height: 250px; width: 300px;" type="image/webp" src="{{ banner_content.small_mobile_image.url }}">
+
+        </div>
+    {% endif %}
+
+</div>

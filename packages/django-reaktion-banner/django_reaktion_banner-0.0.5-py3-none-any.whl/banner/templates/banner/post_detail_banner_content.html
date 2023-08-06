@@ -1,0 +1,44 @@
+{% if banner_content and post.random_ads_content or post.content_banner != None and post.content_banner in banner_list_content %}
+<div class="top-border pt-2 bottom-border">
+<div class="container p-0 article adjust-paddings">
+    {% comment %}Desktop{% endcomment %}
+    {% if banner_content and post.random_ads_content %}
+        <div class="row">
+            <div class="d-none d-md-block col-12 text-center mb-2 rounded banner-box leaderboard-ad-div "
+                 banner-id="{{ banner_content.id }}" banner-url="{{ banner_content.image_url }}">
+                <img class="rounded leaderboard-ad-image" type="image/webp"
+                     src="{{ banner_content.image.url }}">
+            </div>
+        </div>
+    {% elif post.content_banner != None and post.content_banner in banner_list_content %}
+
+        <div class="row">
+            <div class="d-none d-md-block col-12 text-center mb-2 rounded banner-box leaderboard-ad-div"
+                 banner-id="{{ post.content_banner.id }}" banner-url="{{ post.content_banner.image_url }}">
+                <img class="rounded leaderboard-ad-image" type="image/webp"
+                     src="{{ post.content_banner.image.url }}">
+            </div>
+        </div>
+    {% endif %}
+    {% comment %}Mobile{% endcomment %}
+    {% if banner_content and post.random_ads_content and banner_content.small_mobile_image.url %}
+        <div class="row">
+            <div class="col-12 d-md-none col-12 p-0 text-center mb-2 rounded banner-box "
+                 banner-id="{{ banner_content.id }}" banner-url="{{ banner_content.image_url }}">
+                <img class="rounded " type="image/webp" style="height: 250px; width: 300px;"
+                     src="{{ banner_content.small_mobile_image.url }}">
+
+            </div>
+        </div>
+    {% elif post.content_banner != None and post.content_banner.small_mobile_image.url and post.content_banner in banner_list_content %}
+        <div class="row">
+            <div class="col-12 d-md-none col-12 p-0 text-center mb-2 rounded banner-box "
+                 banner-id="{{ post.content_banner.id }}" banner-url="{{ post.content_banner.image_url }}">
+                <img class="rounded " type="image/webp" style="height: 250px; width: 300px;"
+                     src="{{ post.content_banner.small_mobile_image.url }}">
+            </div>
+        </div>
+    {% endif %}
+</div>
+</div>
+{% endif %}
