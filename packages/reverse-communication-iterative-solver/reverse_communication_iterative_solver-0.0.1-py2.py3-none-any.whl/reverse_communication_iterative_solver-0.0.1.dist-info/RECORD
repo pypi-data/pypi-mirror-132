@@ -1,0 +1,10 @@
+reverse_communication_iterative_solver/__init__.py,sha256=DsAHdxLC16H2VjdFOU5tBx2xT9VnNQ-XbTS24fRCa_w,22
+reverse_communication_iterative_solver/__main__.py,sha256=b6FNFQHPvYRXyEr-nHvqynLZbqsVwAXFwup6oPGSlU8,445
+reverse_communication_iterative_solver/cli.py,sha256=hkFnUfVbFQ-J3ip1AVz_GBErv17fTAiYu9pBxyWyD2g,903
+reverse_communication_iterative_solver-0.0.1.dist-info/AUTHORS.rst,sha256=afrTIg2A-VZseCtWHMNTcCfQasfmiUpu6BWifeqBPYU,66
+reverse_communication_iterative_solver-0.0.1.dist-info/LICENSE,sha256=IaRug-MzMlwRNC_LIiUFxZYY83yzyZZn_7EwAx6FxiY,43736
+reverse_communication_iterative_solver-0.0.1.dist-info/METADATA,sha256=-s57Q2j9b_J-TI9GFIGDaGd2cqpq5AwDQthCjqDmYwo,3934
+reverse_communication_iterative_solver-0.0.1.dist-info/WHEEL,sha256=8zNYZbwQSXoB9IfXOjPfeNwvAsALAjffgk27FqvCWbo,110
+reverse_communication_iterative_solver-0.0.1.dist-info/entry_points.txt,sha256=MmY5xP-NXl6pKCaLOe_Pu8N4f0fLSLaier8X5eU3OtY,108
+reverse_communication_iterative_solver-0.0.1.dist-info/top_level.txt,sha256=XNHZ1V4nNjq2RByElWpB0k08k93o8SZWpVpttEE2jg0,39
+reverse_communication_iterative_solver-0.0.1.dist-info/RECORD,,

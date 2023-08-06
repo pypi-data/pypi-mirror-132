@@ -1,0 +1,120 @@
+Metadata-Version: 2.1
+Name: reverse-communication-iterative-solver
+Version: 0.0.1
+Summary: Python package/template to build iterative solver via reverse communication and classes
+Home-page: https://github.com/enricofacca/python-reverse_communication_iterative_solver
+Author: Enrico Facca
+Author-email: enrico.facca@gmail.com
+License: LGPL-3.0-or-later
+Project-URL: Documentation, https://python-reverse_communication_iterative_solver.readthedocs.io/
+Project-URL: Changelog, https://python-reverse_communication_iterative_solver.readthedocs.io/en/latest/changelog.html
+Project-URL: Issue Tracker, https://github.com/enricofacca/python-reverse_communication_iterative_solver/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Operating System :: Unix
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+
+========
+Overview
+========
+
+
+
+This package aims to provide a common template for building iterative solvers, 
+those solver that approximate problem solutions with incremental steps (called "update" in this project).
+This template will over a minimal base for developing, tuning and using iterative solvers from the earliest 
+protypting phase to the delivery of block box algorithm.
+
+The interface between an (advanced) user and the iterative solver is decomposed into the following 4 main phases
+
+1. set the solver controls and problem inputs before the next update;
+2. reset the solver controls reset problem inputs after a update failure; 
+3. study any you want combaning the information from problem, unknows, and solver;
+4. set when the solver has finished its job.
+
+This decomposition is done via a Reverse Communication (RC) 
+approach, an old style of programming used for 
+example in the `ARPACK <https://www.caam.rice.edu/software/ARPACK/>`_ library, combined with Python classes. 
+We adopt this approach because it let the user work "manually" on the structures
+describing its problem instead of having to define in advance 
+the procedure to handle the steps 1,2,3,4. This is particularly convient in early step of
+the algorithm development. A nicer and clenear function hiding the RC cycle to an user who 
+wants a block-box solver can be easily build.
+
+
+* Free software: GNU Lesser General Public License v3 or later (LGPLv3+)
+
+Installation
+============
+
+::
+
+    pip install reverse-communication-iterative-solver
+
+You can also install the in-development version with::
+
+    pip install https://github.com/enricofacca/python-reverse_communication_iterative_solver/archive/master.zip
+
+
+Documentation
+=============
+
+
+https://python-reverse_communication_iterative_solver.readthedocs.io/
+
+
+Development
+===========
+
+To run all the tests run::
+
+    tox
+
+Note, to combine the coverage data from all the tox environments run:
+
+.. list-table::
+    :widths: 10 90
+    :stub-columns: 1
+
+    - - Windows
+      - ::
+
+            set PYTEST_ADDOPTS=--cov-append
+            tox
+
+    - - Other
+      - ::
+
+            PYTEST_ADDOPTS=--cov-append tox
+
+
+Changelog
+=========
+
+0.0.1 (2021-12-30)
+------------------
+
+* Updating the README to real package aim 
+
+
+0.0.0 (2021-12-29)
+------------------
+
+* First release on PyPI.
+
+

@@ -1,0 +1,3 @@
+[console_scripts]
+reverse-communication-iterative-solver = reverse_communication_iterative_solver.cli:main
+
