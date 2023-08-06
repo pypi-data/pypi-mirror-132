@@ -1,0 +1,14 @@
+napari_workflow_optimizer/__init__.py,sha256=LgHXG7Hif18GVKvbC7YTsTDXVNATipFceEWxKLnKTV0,299
+napari_workflow_optimizer/_optimizer.py,sha256=5D12m3LQxumFTYdcGlmwLEv3pTFPYuYxR0jUQNSo5hI,11071
+napari_workflow_optimizer/_tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+napari_workflow_optimizer/_tests/test_dock_widget.py,sha256=6ISzGb7G7-c0G3rZrZr9z-7BKWw5Lm7yB1YdEDM3MIA,728
+napari_workflow_optimizer/_tests/test_optimizers.py,sha256=4i7g83TRwFWmXxmz1vXkzMuaJAQZlPUpEGzPwV2IszQ,2961
+napari_workflow_optimizer/gui/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+napari_workflow_optimizer/gui/_dock_widget.py,sha256=bsS0I8NXm0SJBcFAFAQAb3fu2uF9mJECwPrd6IW8zLA,14622
+napari_workflow_optimizer/gui/_plotter.py,sha256=PAui1e-sKEh8Zdma1KK1Ag2gg9xPEOHzvIZlpN9boIc,2048
+napari_workflow_optimizer-0.1.1.dist-info/LICENSE,sha256=A4drZfxGJfUE2L76Xo8DPca-iHkIrdgGR735y4LOtzU,1524
+napari_workflow_optimizer-0.1.1.dist-info/METADATA,sha256=kriR3WpzPKU873mCjlh_t8wCX1Eti8itdeNBzdGxIps,12374
+napari_workflow_optimizer-0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+napari_workflow_optimizer-0.1.1.dist-info/entry_points.txt,sha256=7x4zKzvaZBUUMFJyjlMJZDLeMOjTgh-ryNdo_vIfXvQ,71
+napari_workflow_optimizer-0.1.1.dist-info/top_level.txt,sha256=ufOuAEYZyadc-3Wq5YXGyIm8peJJmzsBopnrKqD3BQ8,26
+napari_workflow_optimizer-0.1.1.dist-info/RECORD,,
