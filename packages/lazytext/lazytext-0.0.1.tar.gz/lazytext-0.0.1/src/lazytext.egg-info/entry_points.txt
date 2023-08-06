@@ -1,0 +1,3 @@
+[console_scripts]
+lazytext = lazytext.cli:entrypoint
+
