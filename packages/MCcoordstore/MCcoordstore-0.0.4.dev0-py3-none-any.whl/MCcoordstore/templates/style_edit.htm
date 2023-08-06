@@ -1,0 +1,106 @@
+{% extends "base.htm" %}
+
+{% block content %}
+
+<script src="https://cdn.plot.ly/plotly-2.8.3.min.js"></script>
+<script src="/static/scripts/plotly_render.js"></script>
+
+<div class="columns">
+  <div class="poigraph" id="styleplot"></div>
+</div>
+
+<p>
+
+  <div id="formdatamapping" style="display: none">
+    {{datamapping}}
+  </div>
+  
+  
+<form id="styleeditform"  method="post">
+  {{form.csrf_token}}
+  {{form.stylename.label}} {{form.stylename}} <br>
+  {{form.fillcolor.label}} {{form.fillcolor}} <br>
+  {{form.linecolor.label}} {{form.linecolor}} 
+  {{form.linewidth.label}} {{form.linewidth(min="0", max="10", value="2")}} <br>
+  {{form.symbolsize.label}} {{form.symbolsize(min="3", max="30",
+  value="10")}} <br>
+  {{form.opacity.label}} {{form.opacity(min="0.3", max="1.0", value="0.7")}} <br>
+  {{form.symbolname}}
+  <input type="submit" onsubmit="submit_check()">
+</form>
+
+<script>
+  function submit_check() {
+      console.log("submitting form");
+      const form = document.getElementById("styleeditform");
+      if(form.symbolname.value == "")
+      {
+	  alert("must select a symbol style (click on it!)");
+      }
+  };
+</script>
+
+
+
+</p>
+
+<script>
+
+  var domplot = document.getElementById("styleplot");
+  var plotwidth = 15;
+
+  var plt = new PlotlyStyleRenderer(domplot, plotwidth);
+
+
+  function updatePlot(domid, prop) {
+      var val = document.getElementById(domid).value;
+      var update = {[prop] : String(val)};
+      Plotly.restyle(domplot,update , 0);
+      //var svgidx = Number(document.getElementById("svgitemidx").value);
+      //update_hidden_forms(svgidx);
+      
+  }
+  
+  plt.plot_all_possible_symbols();
+  
+  var svg = document.querySelectorAll("path.point");
+
+  function update_hidden_forms(idx)
+  {
+      var svgitem = svg[idx];
+      var svgstyle = svgitem.attributes.style.value;
+      var svgd = svgitem.attributes.d.value;
+      //document.getElementById("svgstyle").value = svgstyle;
+      //document.getElementById("svgpathd").value = svgd;
+
+  };
+  
+  domplot.on("plotly_click", function (data)
+	     {
+		 if(data.points.length > 1)
+		     throw "logic error, only expected 1 point!";
+
+		 var ptidx = data.points[0].pointNumber;
+//		 document.getElementById("svgitemidx").value = ptidx;
+		 
+		 var sym = data.points[0].data.marker.symbol[ptidx];
+		 document.getElementById("symtype").value = sym;
+
+		 update_hidden_forms(ptidx);
+	  });
+
+
+  const mapstr = document.getElementById("formdatamapping").innerHTML;
+  const formdatamapping = JSON.parse(mapstr);
+  
+  for(const [k,w] of Object.entries(formdatamapping))
+  {
+      if(k == "symbolname")
+	  continue;
+      updatePlot(k,w);
+  };
+  
+    
+</script>
+
+{% endblock %}

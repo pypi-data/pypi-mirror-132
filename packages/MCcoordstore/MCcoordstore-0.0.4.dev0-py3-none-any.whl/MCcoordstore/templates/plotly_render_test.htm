@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.plot.ly/plotly-2.8.3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.4.2/tinycolor.min.js"></script>
+    <script src="static/scripts/plotly_render.js"></script>
+  </head>
+  <body>
+    <h1> Plotly render test </h1>
+
+    <h2>Plotly Plot </h2>
+    <div id="plotdiv"> </div>
+
+    <h2> Rendered SVG </h2>
+    <div id="render"> </div>
+    <script>
+      var rdr = new PlotlyShapeRenderer();
+
+      const markers = ["diamond-cross", "octagon"];
+      const sizes = [20, 40];
+
+      rdr.replace_styles(markers, sizes);
+
+      const newitem = rdr.render_one_svg(1);
+      svg_centred_render_helper(newitem, document.getElementById("render"), -1);
+      
+     
+      
+    </script>
+
+  </body>
+</html>
