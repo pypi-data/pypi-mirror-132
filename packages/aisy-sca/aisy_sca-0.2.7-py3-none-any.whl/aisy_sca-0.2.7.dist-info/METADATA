@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: aisy-sca
+Version: 0.2.7
+Summary: Deep Learning-based Framework for Side Channel Analysis
+Home-page: https://aisylab.github.io/AISY_docs/
+Author: Guilherme Perin
+Author-email: guilhermeperin7@gmail.com
+License: UNKNOWN
+Keywords: side-channel analysis deep learning profiled attacks
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+    # AISY - Deep Learning-based Framework for Side Channel Analysis
+
+    Welcome to the first deep learning-based side-channel analysis framework.
+    This AISY Framework was developed by AISYLab from TU Delft.
+
+    If you use our framework, please consider citing:
+
+    @misc{AISY_Framework,
+        author = {Guilherme Perin and Lichao Wu and Stjepan Picek},
+        title  = {{AISY - Deep Learning-based Framework for Side-Channel Analysis}},
+        howpublished = {AISyLab repository},
+        note   = {{\url{https://github.com/AISyLab/AISY_Framework}}},
+        year   = {2021}
+    }
+    
+
