@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: botbuilder-sangam-dialogs-prompt
+Version: 0.4.0
+Summary: Microsoft Bot Builder sangam dialogs prompts
+Home-page: https://github.com/rvinothrajendran
+Author: Bot Builder sangam
+Author-email: r.vinoth@live.com
+License: MIT
+Keywords: botbuilder bots ai botframework custom prompt
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+
+# Dialog Prompts
+
+This package contains additional Inputs , beyond those offered out of the box by the Bot Framework SDK. 
+
+## AdaptiveCardPrompt
+
+The AdaptiveCardPrompt is use in waterfallDialog to receive adaptive card event.
+
+## Installing
+
+    pip install botbuilder-sangam-dialogs-prompt
+
+## Usage
+You can then import required types, for example:
+
+```python
+   
+   from botbuilder.sangam.dialogs.prompt.adaptive import AdaptiveCardPrompt
+   
+   self.dialog_set.add(AdaptiveCardPrompt("adaptive_prompt"))
+   
+```
+
+Then, you can call the bot by specifying your PromptOptions and calling PromptAsync.
+
+```python           
+   
+   async def adaptive_card(self,waterfall_step:WaterfallStepContext):
+      
+      # card = pass adaptive card information
+  
+        message = Activity(
+            text="Here is an Adaptive Card:",
+            type=ActivityTypes.message,
+            attachments=[CardFactory.adaptive_card(card)],
+        )
+
+        prompt_options = PromptOptions()
+        prompt_options.prompt = message
+        prompt_options.Type = ActivityTypes.message
+
+        return await waterfall_step.prompt("adaptive_prompt",prompt_options)   
+   
+```
+
+
+
