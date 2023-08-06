@@ -1,0 +1,7 @@
+attrs
+numpy
+vector
+networkx
+pyhepmc_ng
+h5py
+typicle
