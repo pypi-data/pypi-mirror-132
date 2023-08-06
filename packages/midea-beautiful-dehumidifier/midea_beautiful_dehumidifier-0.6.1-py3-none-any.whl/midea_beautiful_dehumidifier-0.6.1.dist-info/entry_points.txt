@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        midea-beautiful-dehumidifier-cli=midea_beautiful_dehumidifier.cli:cli
+    
