@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: pyblinkpico
+Version: 0.1.0
+Summary: The BlinkPico shield library to be used with RPI Pico
+Home-page: https://github.com/ID220/BlinkPico
+Author: Andrea Bianchi
+Author-email: andrea@kaist.ac.kr
+License: MIT
+Description: UNKNOWN
+Keywords: education,matrix_shield,HT16K33,RPI Pico
+Platform: UNKNOWN
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: Implementation :: MicroPython
