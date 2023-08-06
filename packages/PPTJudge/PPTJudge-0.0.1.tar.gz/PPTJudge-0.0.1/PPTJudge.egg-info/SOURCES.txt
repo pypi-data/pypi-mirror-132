@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+PPTJudge.egg-info/PKG-INFO
+PPTJudge.egg-info/SOURCES.txt
+PPTJudge.egg-info/dependency_links.txt
+PPTJudge.egg-info/entry_points.txt
+PPTJudge.egg-info/requires.txt
+PPTJudge.egg-info/top_level.txt
+proxyjudge/__init__.py
+proxyjudge/proxyjudge.py
