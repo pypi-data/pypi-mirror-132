@@ -1,0 +1,9 @@
+pkgmt/__init__.py,sha256=miSsqPy2PFJ18TW9kocQJLcv4HFpkfQhcTzgAO-GTVE,22
+pkgmt/changelog.py,sha256=hgWTDuHhTLCTcey2SrpWvdJiiPDLhLGFRiOH9Pzpto8,695
+pkgmt/config.py,sha256=_mx1SKwBzXk8YmiBBHFnDl2MB2dKyv4iS1YiHSJNRJM,109
+pkgmt/versioneer.py,sha256=hdFVoMwuMogOxeWIwjr1YVVP_qsDRZjfSHsft4Aei5E,9441
+pkgmt-0.0.2.dist-info/LICENSE,sha256=QW1Q1pT09nfSCMhreWYz9Ab8t2CAmOqJ-7GudWr_oQQ,1072
+pkgmt-0.0.2.dist-info/METADATA,sha256=4ymNCtswbDdlGUaEa0zsZxFconpvjI3bukpD5tYA7qA,384
+pkgmt-0.0.2.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+pkgmt-0.0.2.dist-info/top_level.txt,sha256=gh6C2Kj4ofmNqonPQDjcU-q7jiTQHpY_kGL_V4O6PxA,6
+pkgmt-0.0.2.dist-info/RECORD,,
