@@ -1,0 +1,14 @@
+MANIFEST.in
+README.txt
+setup.cfg
+setup.py
+polska/__init__.py
+polska/__main__.py
+polska/calculator.py
+polska.egg-info/PKG-INFO
+polska.egg-info/SOURCES.txt
+polska.egg-info/dependency_links.txt
+polska.egg-info/requires.txt
+polska.egg-info/top_level.txt
+polska/tests/__init__.py
+polska/tests/test_polska.py
