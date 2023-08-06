@@ -1,0 +1,4 @@
+{'success': 1, 'error': 1}
+
+success : jobB
+error : jobA
