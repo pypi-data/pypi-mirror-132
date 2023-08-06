@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: a7dtester
+Version: 0.0.2
+Summary: simple test runner
+Home-page: UNKNOWN
+Author: Uladzislau Khamkou
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+Simple tester runer.
+Can run tests in this form:
+tests/
+  test1/
+    test <--- executable tester
+  test2/
+    test
+
+
