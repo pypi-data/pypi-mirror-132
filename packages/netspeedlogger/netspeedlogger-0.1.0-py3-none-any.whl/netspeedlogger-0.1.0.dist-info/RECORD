@@ -1,0 +1,9 @@
+netspeedlogger/__init__.py,sha256=I9_xlu2dfSsH6oasn1DVYSTt_VWvxMqATwTcu3OOq50,146
+netspeedlogger/app.py,sha256=IxLC20uN8J_VjGH53bPuReRc9bhtxNCENm12qk04qAc,1951
+netspeedlogger/cli.py,sha256=75yFwjMHW7i24cfiCbd89E2-DHpn53GWKfRmPlrOuFo,3570
+netspeedlogger/netspeedlogger.py,sha256=LELLbNIXBmDCY-gQWYQrasrU0qN3g8MsNNBB07E5LOA,6210
+netspeedlogger-0.1.0.dist-info/entry_points.txt,sha256=XxE4OGLnDf9PNBJrGZPs4UJT--LG4fEoS5JYp1zCsEM,58
+netspeedlogger-0.1.0.dist-info/LICENSE,sha256=3YZkwzYeKXMz50oQr6PSes_som2DyxxrspQAnBGH4Lc,1069
+netspeedlogger-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+netspeedlogger-0.1.0.dist-info/METADATA,sha256=wz4LQOEZIo5c-bAsZPYn1_ZX-p2SyuZLymUCv-GqWYc,3290
+netspeedlogger-0.1.0.dist-info/RECORD,,
