@@ -1,0 +1,24 @@
+[package]
+name = "rastro_python"
+version = "0.1.8"
+authors = [ "Duncan Eddy <duncan.eddy@gmail.com>",]
+edition = "2021"
+description = "A modern space dynamics library for research and engineering applications.\nDesigned to be high performance, easy to learn, and fast to code, and ready for flight.\n"
+homepage = "https://https://duncaneddy.github.io/rastro/"
+documentation = "https://docs.rs/rastro/"
+repository = "https://github.com/duncaneddy/rastro/"
+keywords = [ "space", "astrodynamics", "satellite",]
+categories = [ "science",]
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+rastro = "0.1.8"
+
+[lib]
+name = "rastro_python"
+crate-type = [ "cdylib",]
+
+[dependencies.pyo3]
+version = "0.15.1"
+features = [ "extension-module",]
