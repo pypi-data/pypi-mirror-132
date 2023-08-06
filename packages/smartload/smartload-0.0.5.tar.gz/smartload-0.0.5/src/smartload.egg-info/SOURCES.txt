@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/smartload/__init__.py
+src/smartload/smartload.py
+src/smartload.egg-info/PKG-INFO
+src/smartload.egg-info/SOURCES.txt
+src/smartload.egg-info/dependency_links.txt
+src/smartload.egg-info/top_level.txt
