@@ -1,0 +1,14 @@
+LICENSE
+README.rst
+setup.py
+pyhhmm/__init__.py
+pyhhmm/base.py
+pyhhmm/gaussian.py
+pyhhmm/heterogeneous.py
+pyhhmm/multinomial.py
+pyhhmm/utils.py
+pyhhmm.egg-info/PKG-INFO
+pyhhmm.egg-info/SOURCES.txt
+pyhhmm.egg-info/dependency_links.txt
+pyhhmm.egg-info/requires.txt
+pyhhmm.egg-info/top_level.txt
