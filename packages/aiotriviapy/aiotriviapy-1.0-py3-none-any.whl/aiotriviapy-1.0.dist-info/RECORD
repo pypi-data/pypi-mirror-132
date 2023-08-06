@@ -1,0 +1,10 @@
+triviapy/__init__.py,sha256=nJLgWwGWbbxUdshywKfYjBBuPS7-AQzwujT6FdmV_hw,73
+triviapy/errors.py,sha256=aTSoOFKSvqoe--gXlrlkyOIEv3j2s3Qob9pTE_DJ8ng,556
+triviapy/game.py,sha256=zQ2V1L2bdJU-S1Idtxpdw1lz7rhnU6O1a9gJd6z9vHo,2959
+triviapy/question.py,sha256=H8FLp03vGP_pAeTZ_suI-dCF6YPDpZyiCTS1xE0sDOs,342
+triviapy/urls.py,sha256=ocs7IACFdDOh37cK0lHgFDjowSFxld1-5B7kBoumrQU,293
+triviapy/utils.py,sha256=BvZcd4MxWu0No4Z0y-jm5DtZLGFRJUUwuL8SIkoiKLM,186
+aiotriviapy-1.0.dist-info/METADATA,sha256=BnRipmwX7X5BxmCmZz_hf4PAFq8UTF7HF9KwTamdYAs,3792
+aiotriviapy-1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aiotriviapy-1.0.dist-info/top_level.txt,sha256=e1llkENJJS4P2vHCKsT02arNWP5y4Wdrg51WbLjAU18,9
+aiotriviapy-1.0.dist-info/RECORD,,
