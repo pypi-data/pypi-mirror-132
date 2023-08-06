@@ -1,0 +1,4 @@
+boto3>=1.9.68
+requests
+python-hosts
+python-crontab
