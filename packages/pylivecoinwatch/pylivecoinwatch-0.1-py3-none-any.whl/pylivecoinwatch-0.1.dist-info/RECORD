@@ -1,0 +1,9 @@
+pylivecoinwatch/__init__.py,sha256=a_SwFU4TSSRQpbqlApVMj4R1Af7mGTK8pM34tMzj8HQ,33
+pylivecoinwatch/api.py,sha256=Qqq3RKhgOQrkSW4SvlB1FG_Srr6TLEhkxqWXJiiMFTA,2827
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_api.py,sha256=3c0iLXwssYGqudMDjCX1Oa3T0XLqURrRH5EnwgpX8D8,3086
+pylivecoinwatch-0.1.dist-info/LICENSE,sha256=mnEUEdoIOnAVul1IvM5hHf4rJFHAPngOiN9S0wL00-E,1070
+pylivecoinwatch-0.1.dist-info/METADATA,sha256=0eP3h8DnPzQdsw6_FV5FAnNjw-OSt6AWLlGp0uDOfMw,826
+pylivecoinwatch-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pylivecoinwatch-0.1.dist-info/top_level.txt,sha256=RXMWg_QbTh8Jl70zu9jMS9jCYC_33A1tyA7DJecjx3w,22
+pylivecoinwatch-0.1.dist-info/RECORD,,
