@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: endist
+Version: 0.0.3
+Summary: A Python library for the distribution system operations
+Home-page: UNKNOWN
+Author: Blaž Dobravec
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+
+This is a very simple calculator that takes two numbers and an operator and returns the result.
+
+
+Change Log
+==========
+
+0.0.1 (27.12.2021)
+-----------------
+- Initial release
+
+
+0.0.2 (27.12.2021)
+-----------------
+- Added basic preprocessing functionality
+- Added basic data imputation functionality
+
+0.0.3 (27.12.2021)
+-----------------
+- Added main Endist class
+
