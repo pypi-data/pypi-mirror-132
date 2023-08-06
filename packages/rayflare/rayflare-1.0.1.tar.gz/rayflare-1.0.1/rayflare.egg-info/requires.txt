@@ -1,0 +1,8 @@
+joblib
+matplotlib
+numpy
+scipy
+seaborn
+solcore
+sparse
+xarray
