@@ -1,0 +1,11 @@
+xcsf/__init__.py,sha256=YBAYRsuH3T6RKhqVKHRWY9LcuX2WFaJgC4TcB314dFw,21
+xcsf/__init__.pyi,sha256=E3FpoQ4cvefXhNWM7VvCqdTb4oblBBa1wIpIHoEFEKs,10917
+xcsf/xcsf.cp310-win_amd64.pyd,sha256=pYcVTZMbdKYuHPfO73M9P2XL_at_VKe6d-IHZm58qhs,1645056
+xcsf/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xcsf/utils/types.py,sha256=-_oBq7y681QAW8NkLvYPZ4FCO9HRLSecSKKZgnI_t6o,4190
+xcsf/utils/viz.py,sha256=iBypxAZrHBKc-uFRqyKdCLryd5ggapQrsMWL7h26zBw,5408
+xcsf-1.1.5.dist-info/LICENSE.md,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+xcsf-1.1.5.dist-info/METADATA,sha256=7NNHmkV2ys46QoqAoWCQwlutfen1raDnNV25T5DeQDM,4160
+xcsf-1.1.5.dist-info/WHEEL,sha256=C6CHup2HLC2Rld8AL5u9w89MYULjdaP5k0k7SG83CcI,102
+xcsf-1.1.5.dist-info/top_level.txt,sha256=pqvumbTrd2SU-bWSMB5byaZo79ysSK1qMZ8vuWXVP_g,15
+xcsf-1.1.5.dist-info/RECORD,,
