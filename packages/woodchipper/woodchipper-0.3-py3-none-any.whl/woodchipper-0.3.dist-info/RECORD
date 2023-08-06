@@ -1,0 +1,15 @@
+woodchipper/__init__.py,sha256=ulABroFpVLK1GR7JQ9k-FKmUEClgNjsNoWEPnwFF6sQ,2295
+woodchipper/configs.py,sha256=Zy4RWu_Ir9jlaHhVkqtYF2Cqw3bgb3Y6n9ZBkMu62Y4,2126
+woodchipper/context.py,sha256=GfoiL-UdfCmeN1o2gnAjKWggS9ITP49ETrBDOdB6juU,7682
+woodchipper/processors.py,sha256=E5Z1I5OWDE6N9T5dKFDCTYElHfgMfNuRY21tqfde2Xc,974
+woodchipper/http/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+woodchipper/http/awslambda.py,sha256=VThlkPtZCX89Xy4P5IF8tEzfLiNZGQiLgxEW-0TZFjM,794
+woodchipper/http/flask.py,sha256=RrsTneQtR8xjKNjQICyj0tB_ukOcLvFJENEZNffEP_U,1292
+woodchipper/monitors/__init__.py,sha256=1_Dy7ObSU7p2ng4FrjpVhwXN2lMsSLFLmzrQD1flzDM,295
+woodchipper/monitors/sqlalchemy.py,sha256=VVlYyHimtH5AYPeRRFJgy75XeL8iJV07nkppnMEhTBw,1533
+woodchipper-0.3.dist-info/AUTHORS,sha256=nIcqXDRqE9Cuwm1ZpESQM8m25rEhiv5GUbsqpdOPaPs,116
+woodchipper-0.3.dist-info/COPYING,sha256=46mU2C5kSwOnkqkw9XQAJlhBL2JAf1_uCD8lVcXyMRg,7652
+woodchipper-0.3.dist-info/METADATA,sha256=OGy-VanWfrhbiBLZKBRVPvbKlqamEtl4d7Vk34rXDTY,602
+woodchipper-0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+woodchipper-0.3.dist-info/top_level.txt,sha256=jfca_jpe38zV4FD8u6kw1F_rYp8vuFzr9qXESuGvH4Y,12
+woodchipper-0.3.dist-info/RECORD,,
