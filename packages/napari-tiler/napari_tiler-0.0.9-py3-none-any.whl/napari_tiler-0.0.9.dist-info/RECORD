@@ -1,0 +1,11 @@
+napari_tiler/__init__.py,sha256=zlekOSCAczkrbT51WGX2lDAucTKNlZm4pAkfKTjUO1M,491
+napari_tiler/_dock_widget.py,sha256=Sktx73DM5NauehR-HrmVVV57B6Cppo5iRKNBcU93U6w,333
+napari_tiler/_tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+napari_tiler/_tests/test_dock_widget.py,sha256=GbEirvQhQVBNL9KICgubSmq7cCF1Qg7-vPbLIJH_r6Y,6004
+napari_tiler/merger_widget.py,sha256=A22W2qi74H6QUkbGCNc5ofSxtVWZpk1aAy-52JknfHo,3565
+napari_tiler/tiler_widget.py,sha256=9Ynw4eUw3rIa4Ta0vYzIivCnKQAlC_cLz6LOTlpXV0Q,11348
+napari_tiler-0.0.9.dist-info/entry_points.txt,sha256=JD-mSuOUl6EBE-XcT6QJ3zZup9rfLtvv7zGJBj-kn5Y,43
+napari_tiler-0.0.9.dist-info/LICENSE,sha256=_giOcVXCFpfbWxyiz9YXn7Tfgg6TlORSzdXmsdfdI5Y,1482
+napari_tiler-0.0.9.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+napari_tiler-0.0.9.dist-info/METADATA,sha256=UcGyhE8V7ERVLSIUExxjQRHzG8qMx0SGnbnvYZgVw90,5354
+napari_tiler-0.0.9.dist-info/RECORD,,
