@@ -1,0 +1,239 @@
+Metadata-Version: 2.1
+Name: sanmu
+Version: 0.1.0
+Summary: 用Excel描述测试用例的UI自动化测试框架，基于Selenium 和 UnitTes
+Home-page: https://github.com/dongfangtianyu/sanmu
+Author: dongfangtianyu
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: webdriver-manager
+Requires-Dist: selenium
+Requires-Dist: openpyxl
+Requires-Dist: pydantic
+Requires-Dist: ddt
+Requires-Dist: pytest
+Requires-Dist: pytest-html
+
+# Sanmu
+
+Sanmu 是一个纯用Excel描述测试用例的UI自动化测试框。
+
+底层使用selenium + unittest 实现测试用例的执行，兼容pytest
+
+借助Sanmu框架，不需要掌握编程c语言，也不需要编写代码，只需要编辑Excel即可完成UI自动化测试。
+
+作者微信: **python_sanmu**
+
+## 功能特点
+- [x] 纯Excel测试用例，不需要任何代码
+- [x] 支持pytest及其插件生态
+- [x] webdriver：**自动就绪**，支持ChromeDriver（国内网络复杂，暂时只关注ChromeDriver）
+- [x] 关键字驱动：内置常用关键字，实现**关键字驱动测试**，提供了接口可以**扩展关键字**
+- [x] 定位：内置可配置的等待策略+XPath智能补全功能，实现元素**智能定位**
+- [x] 用例截图：元素交互时自动聚焦，交互后**自动截图**记录
+- [x] HTML报告：自动生成HTML测试报告，展示用例执行情况、交互截图
+- [x] 用例筛选：通过 `-k` 参数，可以**筛选指定的用例**进行执行
+- [x] 命令指定excel文件路径（pytest模式）
+- [x] 支持allure报告（pytest模式）
+
+## Todo
+
+- [ ] 支持并行测试(pytest-xdist插件)
+- [ ] 命令行生成的excel文件模板
+- [ ] 命令行指定配置文件路径
+- [ ] 支持基于pytest.ini 的文件配置
+- [ ] 增加逻辑控制关键字：for、if 、else、sleep等
+- [ ] 调用python内置函数
+- [ ] 调用python自定义函数
+- [ ] 弹窗：自动处理弹窗，避免用例阻塞、定位失败等问题
+- [ ] 结果通知：测试执行完毕后，自动通知到相关人员，支持Email、钉钉、企业微信
+- [ ] 支持Appium，实现App端的自动化测试
+- [ ] 支持docker run，开箱即用
+- [ ] 在线测试报告：展示框架运行日志，支持查看历史报告
+
+
+
+
+## 局限性
+
+不支持并行测试
+使用pytest模式时，将自动禁用以下插件:
+
+- pytest-xdist
+
+
+
+## 安装
+
+sanmu可以通过pip进行安装
+
+```bash
+pip install sanmu
+```
+
+
+
+## 使用
+
+在控制台输入 `sanmu --help` 后可以看到帮助信息
+
+```bash
+>sanmu --help 
+Usage: sanmu [OPTIONS] COMMAND [ARGS]...           
+                                                   
+  Sanmu 是一个纯用Excel描述测试用例的UI自动化测试框
+                                                   
+  默认执行 run_pytest 命令                         
+                                                   
+Options:                                           
+  --help  Show this message and exit.              
+
+Commands:
+  report        调用allure，生成HTML报告
+  run-pytest    （默认）启动 Pytest 框架执行用例，通过pytest-html生成报告
+  run-unittest  启动UnitTess框架执行用例，通过HTMLTestRunner生成报告
+```
+
+
+
+如果只输入`sanmu` 将调用默认子命令`run-pytest`，开始执行pytest模式的用例
+```
+>sanmu        
+========================== test session starts ==========================
+platform win32 -- Python 3.10.1, pytest-6.2.5, py-1.11.0, pluggy-1.0.0
+rootdir: D:\Users\Tianyu\PycharmProjects\UI_by_Excel, configfile: pytest.ini
+plugins: allure-pytest-2.9.45, html-3.1.1, metadata-1.11.0, rerunfailures-10.2, sanmu-0.0.6
+collected 2 items
+
+test_电商项目.xlsx ..                                         [100%]           ========================== 2 passed in 15.22s ===========================
+```
+
+
+
+
+
+## 编写用例
+
+通过excel文件编写用例：
+
+- 每个sheet视为一个TestSuite，
+- 数据行，视为测试用例的“步骤”
+- 如果步骤为“0”，视为一个新的用例
+
+基本关系：
+
+- 每个excel文件中由多个sheet 
+- 每个sheet中由多个 用例
+- 每个用例中有多个 步骤
+
+
+
+![](https://raw.githubusercontent.com/dongfangtianyu/sanmu/master/images/case_by_excel.png)
+
+
+
+## 查看报告
+
+### 1. unittest模式
+
+在unittest模式下，sanmu强绑定了HTMLTestRunner，在执行完毕后，自动在**当前目录**生成前缀为`TestResults`的HTML文件，效果如下
+
+![](https://raw.githubusercontent.com/dongfangtianyu/sanmu/master/images/report_by_unittest.png)
+
+### 2. pytest模式
+
+在pytest模式下，可以按照pytest的惯例，使用以下插件生成报告，sanmu对其有良好的兼容和支持：
+
+- pytest-html
+- allure-pytest
+
+![](https://raw.githubusercontent.com/dongfangtianyu/sanmu/master/images/report_by_allure.jpg)
+
+
+
+## 内置关键字
+
+| 关键字 | 作用                                     | 参数                |
+| :----- | ---------------------------------------- | :------------------ |
+| goto   | 跳转到指定url                            | [url, ]             |
+| touch  | 等待元素，并做作为后面定位表达式的父元素 | [locator,]          |
+| click  | 点击元素                                 | [locator,]          |
+| input  | 向元素输入内容                           | [locator, content,] |
+|        |                                          |                     |
+|        |                                          |                     |
+| verify | 创建验证器，执行断言                     | 见下文”验证器”部分  |
+
+
+
+## 验证器
+
+验证器(即：verify关键字)接收以下参数
+
+- locator  ，要断言的元素
+- verify_name， 要断言的属性
+- expression， 断言表达式
+- value， 预期值
+
+
+
+### verify_name
+
+要断言的属性，在excel独占一个单元格，可选的值如下表
+
+| verify_name | 详情            |      |
+| ----------- | --------------- | ---- |
+| title       | 网页标题        |      |
+| url         | 网页url         |      |
+| alert       | alert弹窗的文本 |      |
+| text        | 元素内的文本    |      |
+
+### expression
+
+断言表达式在excel独占一个单元格，可选的值如下表
+
+| expression | 详情     | 例子                     |
+| ---------- | -------- | ------------------------ |
+| >          | 大于     | 3 > 2                    |
+| >=         | 大于等于 | 2 >= 2                   |
+| <=         | 小于等于 | 1 <= 2                   |
+| <          | 小于     | 0 < 2                    |
+| ==         | 相等     | 2 == 2<br />张三 == 张三 |
+| !=         | 不相等   | 1 != 2<br />张三 != 李四 |
+| contains   | 包含     | 张三 contains 张         |
+|            |          |                          |
+|            |          |                          |
+
+
+
+
+
+
+
+
+
+## 配置(todo)
+
+可配置项：
+
+- 日志等级
+- 日志路径
+- 聚焦颜色
+- 模板路径
+- 报告路径
+- 等待时长
+- 等待频率
+- 是否强制点击
+- 浏览器启动参数
+
+
+
+
+## 发布流程
+
+1. 开发环境执行pytest，确保测试用例全部通过
+2. 修改版本号，并创建新的commit和tag
+3. push到github后，手动在github创建新的releases
+4. 完成
+
