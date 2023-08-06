@@ -1,0 +1,10 @@
+draw_polygon.cp39-win_amd64.pyd,sha256=eFGAenuA5WoZr7UIBy9C-MAbY8QdQ_ye9NN9BjiRY2I,259584
+find_contours.cp39-win_amd64.pyd,sha256=sD8UAQr0YK6AqT-OmXzs-d9ekEHqouMmZLImmSj8NXI,151040
+run_length_encoding.cp39-win_amd64.pyd,sha256=GqUGWSzRzwmb-sNA3fx59Ujtz5iqkYR5hd7Rjg1gKqw,150016
+simplify_polygon.cp39-win_amd64.pyd,sha256=R2vCCaAP5jdbPl8aqAj--epLyNuo1_AtWOusfeL814k,39936
+upolygon/__init__.py,sha256=P92xc-5MUEhRb4WNe3beG6r9DbqArImnHONyOwqmrVc,215
+upolygon-0.1.7.dist-info/LICENSE,sha256=EOL0lqq3kI2oy_qwY95M3XkGrrLWzTjyuS-oO3yMFZc,1092
+upolygon-0.1.7.dist-info/METADATA,sha256=qPxGjJyfdwsbGWGkVRRTmJ_iYv8AHZdMar689hQlYMw,2585
+upolygon-0.1.7.dist-info/WHEEL,sha256=MRZ_p7RU4olp1XL4U2EYLkuYikriaVRqXBoKVLH_OSE,100
+upolygon-0.1.7.dist-info/top_level.txt,sha256=5VhPAEB3KpSpSXie94Yb_PHVLVXh85qeYEfxki7XZbM,73
+upolygon-0.1.7.dist-info/RECORD,,
