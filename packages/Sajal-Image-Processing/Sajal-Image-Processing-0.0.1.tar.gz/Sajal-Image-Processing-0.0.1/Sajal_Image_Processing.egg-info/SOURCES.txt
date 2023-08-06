@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+Sajal-Image-Processing/__init__.py
+Sajal_Image_Processing.egg-info/PKG-INFO
+Sajal_Image_Processing.egg-info/SOURCES.txt
+Sajal_Image_Processing.egg-info/dependency_links.txt
+Sajal_Image_Processing.egg-info/requires.txt
+Sajal_Image_Processing.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+Change Log
+==============
+
+
+0.0.1 (22nd December 2021)
+--------------------------
+First Release of ImageProcessing Task

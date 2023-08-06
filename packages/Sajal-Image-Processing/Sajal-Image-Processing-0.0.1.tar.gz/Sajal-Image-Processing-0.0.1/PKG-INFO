@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: Sajal-Image-Processing
+Version: 0.0.1
+Summary: A very basic Image Processing
+Home-page: UNKNOWN
+Author: Sajal Garg
+Author-email: sajalgarg17.sg@gmail.com
+License: MIT
+Description: This is module is capable basic image processing such as:
+        ReadImage: Read Image from given path
+        ProcessImage: Perform Grayscaling and Gaussian Blur
+        WriteImage: Write processed image to given path
+        
+        Change Log
+        ==============
+        
+        
+        0.0.1 (22nd December 2021)
+        --------------------------
+        First Release of ImageProcessing Task
+Keywords: imageprocessing
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
