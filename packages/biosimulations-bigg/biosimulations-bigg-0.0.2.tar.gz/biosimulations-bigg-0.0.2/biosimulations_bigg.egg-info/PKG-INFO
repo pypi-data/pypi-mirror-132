@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: biosimulations-bigg
+Version: 0.0.2
+Summary: Command-line program for importing the BiGG model repository into BioSimulations.
+Home-page: https://github.com/biosimulations/biosimulations-bigg
+Author: Center for Reproducible Biomedical Modeling
+Author-email: info@biosimulations.org
+License: MIT
+Download-URL: https://github.com/biosimulations/biosimulations-bigg
+Keywords: metabolism,biochemical network,cell biology,systems biology,computational biology,mathematical modeling,numerical simulation,flux balance analysis,FBA,Systems Biology Markup Language,SBML,BiGG
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Provides-Extra: gurobi
+Provides-Extra: tests
+Provides-Extra: docs
+Provides-Extra: all
+License-File: LICENSE
+
+UNKNOWN
+
