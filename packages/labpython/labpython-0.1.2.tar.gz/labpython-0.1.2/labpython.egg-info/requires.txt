@@ -1,0 +1,8 @@
+numpy
+scipy
+statsmodels
+jsbeautifier
+
+[devices]
+pyvisa
+pydaqmx>=1.4.6
