@@ -1,0 +1,3 @@
+[console_scripts]
+brapi2biosamples = brapi2biosamples:main
+

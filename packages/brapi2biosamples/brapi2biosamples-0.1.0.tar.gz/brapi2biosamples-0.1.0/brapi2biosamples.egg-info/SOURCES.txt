@@ -1,0 +1,11 @@
+LICENSE
+README.md
+__init__.py
+brapi2biosamples.py
+setup.py
+brapi2biosamples.egg-info/PKG-INFO
+brapi2biosamples.egg-info/SOURCES.txt
+brapi2biosamples.egg-info/dependency_links.txt
+brapi2biosamples.egg-info/entry_points.txt
+brapi2biosamples.egg-info/requires.txt
+brapi2biosamples.egg-info/top_level.txt
