@@ -1,0 +1,9 @@
+tqdm_batch/__init__.py,sha256=7emxODVkNeji3mmWqU-SomHG1tsvvChFq3XflRjVrCM,196
+tqdm_batch/batch_process.py,sha256=quVuJa93XXwwr0Vb7QRnjMoYqgAE5snGgWqrZPTnLxk,2521
+tqdm_batch/progress_bar.py,sha256=VHIdGQWmzPSIkEdFWAttEtHuYb6XHcBOnKuvD7N9Ug4,1748
+tqdm_batch/task_wrapper.py,sha256=5FdezeYetTDeQ_SCVM-Fq33Xd8rb9QocPc8FenRfxeI,271
+tqdm_batch-0.1.0.dist-info/LICENSE,sha256=cdKGx5yuJU7N0Pc3p6E5J0ubTUwW0gvaSY9-sIiGSIk,1071
+tqdm_batch-0.1.0.dist-info/METADATA,sha256=2wR33ziFz1TohYhklp9AbpNmBobMNwKyUgoMDodksMg,1227
+tqdm_batch-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tqdm_batch-0.1.0.dist-info/top_level.txt,sha256=n4-633Ct5ZMZe-e8K6aLjiIq94dszg0K37ZKk7zNaOM,11
+tqdm_batch-0.1.0.dist-info/RECORD,,
