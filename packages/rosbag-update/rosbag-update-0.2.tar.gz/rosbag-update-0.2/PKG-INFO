@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: rosbag-update
+Version: 0.2
+Summary: Updates topic data types on ROS bags, solves checksum errors
+Home-page: https://github.com/yt/rosbag-update
+Author: Tayfun Yurdaer
+Author-email: tayfun@adastec.com
+License: MIT
+Download-URL: https://github.com/yt/rosbag-update/archive/refs/tags/v0.2.tar.gz
+Description: Updates topic data types on ROS bags, solves checksum errors. 
+        
+        Run with `rosbag-update [bag-path]`
+Keywords: ROS,rosbag,update
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environment :: Console
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Intended Audience :: Developers
+Requires-Python: >= 3.6
+Description-Content-Type: text/markdown
