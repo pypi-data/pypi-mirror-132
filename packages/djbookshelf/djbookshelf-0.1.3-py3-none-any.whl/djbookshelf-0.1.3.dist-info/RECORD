@@ -1,0 +1,16 @@
+djbookshelf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+djbookshelf/admin.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+djbookshelf/apps.py,sha256=v4SyFBbYuifpFBfZ2SOh51p3PobRkcTwYDAEHMK6o7A,154
+djbookshelf/exceptions.py,sha256=RXdbq-83jUwIwQPUmjNf-oqvLfZZ0Sq1OUYER0h3cts,171
+djbookshelf/migrations/0001_initial.py,sha256=kvBG0k6XfG_UV7VcesrK85cw3mC6lguZSqfMTPN5vGg,2994
+djbookshelf/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+djbookshelf/models.py,sha256=OYWGvmj4IB4jYdAQKwRfOJMXM-CAO8_etcUZ_HKOTWU,1955
+djbookshelf/templates/djbookshelf/core.html,sha256=rg-DWB4bkqL3-eeIMnEGkos_wApte4aZNLgDDqB0MP8,38
+djbookshelf/tests.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+djbookshelf/urls.py,sha256=Jux7wIt6p_3xMspHQjvloaQGN4oWrWMBPX0Rse6bACc,319
+djbookshelf/utility.py,sha256=UpPlOlKnPUDFnuyZxyqXMvELNgpyKi6LY975-Mgzwps,1256
+djbookshelf/views.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+djbookshelf-0.1.3.dist-info/LICENSE,sha256=wFtZIt97sGraHuN6A1YdPHFhC8nYp9IyQdhOKxVtn-M,1066
+djbookshelf-0.1.3.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+djbookshelf-0.1.3.dist-info/METADATA,sha256=kPEYrzmd95dtBUxu8z8bXzfofD7HPM5dj21zQJMOWqg,952
+djbookshelf-0.1.3.dist-info/RECORD,,
