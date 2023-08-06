@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+pygifconvt_newinx/__init__.py
+pygifconvt_newinx/converter.py
+pygifconvt_newinx.egg-info/PKG-INFO
+pygifconvt_newinx.egg-info/SOURCES.txt
+pygifconvt_newinx.egg-info/dependency_links.txt
+pygifconvt_newinx.egg-info/not-zip-safe
+pygifconvt_newinx.egg-info/requires.txt
+pygifconvt_newinx.egg-info/top_level.txt
