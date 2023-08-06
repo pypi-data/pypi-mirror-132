@@ -1,0 +1,7 @@
+LICENSE
+README.rst
+setup.py
+tiktokchat.egg-info/PKG-INFO
+tiktokchat.egg-info/SOURCES.txt
+tiktokchat.egg-info/dependency_links.txt
+tiktokchat.egg-info/top_level.txt
