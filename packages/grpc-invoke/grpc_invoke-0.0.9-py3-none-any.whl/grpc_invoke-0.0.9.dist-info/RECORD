@@ -1,0 +1,15 @@
+grpc_invoke/__init__.py,sha256=z1aZCS8-xSzsU-FSLML1fCeVAMzl5HIWIsdQZ8SIgDE,22
+grpc_invoke/grpc_client.py,sha256=flb2GV_w57V98t-IGU_aPZOKBGz8iDC__pCvDBZ9fOg,5699
+grpc_invoke/gexceptions/MethodException.py,sha256=eiIaHCezgRaMc_o8Jqp6KMX4tpi-owAfhqTFex2y794,45
+grpc_invoke/gexceptions/ParamsException.py,sha256=g6KMZ5vm17rSqWcHgY2dHPkQhfooG50FVCg4rzIyZuk,45
+grpc_invoke/gexceptions/ServiceException.py,sha256=2oGUAWouGFt3OiyVwcpJd-fUj93f5MM2NFW1e35TvVk,46
+grpc_invoke/gexceptions/__init__.py,sha256=fHrKKKiCOAE1O3VqN3Z97iB3LbfAXxKpa-51eM4-vpg,20
+grpc_invoke/reflection_grpc/__init__.py,sha256=lxKTa0yme6YjorgdVkSWdyC4ZfB-UtuZLXwyR32Jjrk,24
+grpc_invoke/reflection_grpc/descriptor_cache.py,sha256=DaAE-vM70M6qqdXojdoEkzRYiGS8MxkuHdtIKIcwO1w,1484
+grpc_invoke/reflection_grpc/reflection.py,sha256=dpH-u1rZ7qlKFB-2cwwRjYL9dtbD0h4aackryx-QKTA,1078
+grpc_invoke/reflection_grpc/reflection_stub.py,sha256=A-r11gsI1E6IxXiPDzLfkhunJgq-ODaEBB9Ilgz-ye0,2843
+grpc_invoke-0.0.9.dist-info/LICENSE,sha256=eTAMrQxkyw6ApSsWH9vJdyVXchbASCr9kEPFfwQzv-c,1091
+grpc_invoke-0.0.9.dist-info/METADATA,sha256=luOi-e4wqHyffLUnVMIimWzgqm-EhlVEXB2AvYbjqS4,1927
+grpc_invoke-0.0.9.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+grpc_invoke-0.0.9.dist-info/top_level.txt,sha256=ElvPx9fDcgjO-zBYO33VFicJMqhqYzGGO6j1yv4TgVc,12
+grpc_invoke-0.0.9.dist-info/RECORD,,
