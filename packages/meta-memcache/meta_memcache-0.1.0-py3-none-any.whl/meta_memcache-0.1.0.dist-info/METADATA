@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: meta-memcache
+Version: 0.1.0
+Summary: Modern, pure python, memcache client with support for new meta commands.
+License: MIT
+Author: Guillermo Perez
+Author-email: bisho@revenuecat.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: uhashring (>=2.1,<3.0)
+Description-Content-Type: text/markdown
+
+# meta-memcache-py
+Modern, pure python, memcache client with support for new meta commands.
+
