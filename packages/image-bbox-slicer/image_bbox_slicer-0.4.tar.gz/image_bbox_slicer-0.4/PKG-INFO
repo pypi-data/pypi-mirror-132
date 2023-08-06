@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: image_bbox_slicer
+Version: 0.4
+Summary: UNKNOWN
+Home-page: https://github.com/acl21/image_bbox_slicer/
+Author: Akshay L Chandra
+Author-email: research@akshaychandra.com
+License: MIT
+Download-URL: https://github.com/acl21/image_bbox_slicer/archive/refs/tags/v0.4.tar.gz
+Description: This easy-to-use library is a data transformer sometimes useful in Object Detection     and Segmentation tasks. With only a few lines of code, one can slice images and their bounding box annotations       into smaller tiles, both into specific sizes and into any arbitrary number of equal parts.         The tool also supports resizing of images and their bounding box annotations, both by specific sizes           and by a resizing/scaling factor.
+        
+        Read the docs at https://image-bbox-slicer.readthedocs.io/en/latest/.
+Keywords: Image Slicer,Bounding Box Annotations Slicer,Slicer,PASCAL VOC Slicer,Object Detection,Resize Images,Resize Bounding Box Annotations,Segmentation
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
