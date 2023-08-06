@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pynet/pynet_dl.egg-info/PKG-INFO
+pynet/pynet_dl.egg-info/SOURCES.txt
+pynet/pynet_dl.egg-info/dependency_links.txt
+pynet/pynet_dl.egg-info/requires.txt
+pynet/pynet_dl.egg-info/top_level.txt
