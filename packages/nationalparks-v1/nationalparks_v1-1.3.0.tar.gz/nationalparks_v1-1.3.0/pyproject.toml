@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "nationalparks_v1"
+version = "1.3.0"
+description = "An API package using US National Park Services API to gather data about US National Parks, such as which parks to go for certain activities, how far a park from a location or the latest alerts in that park. May require user to obatin a free API key from US National Parks website."
+authors = ["Bengusu Ozcan"]
+license = "MIT"
+readme = "README.md"
+documentation = 'https://nationalparks_v1.readthedocs.io'
+homepage = "https://github.com/bengusuozcan/nationalparks_v1"
+repository = "https://github.com/bengusuozcan/nationalparks_v1"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.26.0"
+pandas = "^1.3.5"
+regex = "^2021.11.10"
+geopy = "^2.2.0"
+lxml = "^4.7.1"
+Jinja2 = "^3.0.3"
+
+[tool.poetry.dev-dependencies]
+myst-nb = "^0.13.1"
+sphinx-autoapi = "^1.8.4"
+sphinx-rtd-theme = "^1.0.0"
+pytest = "^6.2.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
