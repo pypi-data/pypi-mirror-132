@@ -1,0 +1,10 @@
+qwhois/__init__.py,sha256=9HQLdG0eXw7gOg0Azs7AMb2O4B_At444_RhylZVnsb4,4295
+qwhois/whois.py,sha256=FdcmCGXSrEfkSjQEmp3omtyNjDgKc55T7UnHNVuKfns,6014
+qwhois/data/public_suffix_list.dat,sha256=td-3k2qNuygIjjLb-e-KpsPwUlQTiIN47ujsRA-eEFw,236762
+qwhois/data/whois_server.map,sha256=C-0Lv03DG8CpTKa6NY08vwceFNmmFBWFrfixeX3aFyk,39407
+whois/__init__.py,sha256=U9EDNTC7zdWuMjtyVOW0sEcmqRTV5RbPlynWUl3Oogs,4308
+whois/whois.py,sha256=CO_2Q4r3zluNiZoVbYRrW6qsIo7wUJaDgVBreu2-nPg,6017
+qwhois-1.0.0.dist-info/METADATA,sha256=cvgRabsGA-rpKMpKFqkGm1pemirQHk0Qb2s1XIqCQVE,570
+qwhois-1.0.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+qwhois-1.0.0.dist-info/top_level.txt,sha256=-KphLUUGlnBDtbxF34AlWk4-p5h-QPbyeIU2ALxKb1o,7
+qwhois-1.0.0.dist-info/RECORD,,
