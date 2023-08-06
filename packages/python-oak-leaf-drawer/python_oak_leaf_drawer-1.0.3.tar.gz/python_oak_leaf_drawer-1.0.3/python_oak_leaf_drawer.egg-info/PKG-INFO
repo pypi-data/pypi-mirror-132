@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: python-oak-leaf-drawer
+Version: 1.0.3
+Summary: Python module depending on matplotlib to draw oak leaf.
+Home-page: UNKNOWN
+Author: Karam Mustafa
+Author-email: karam2mustafa@gmail.com
+License: UNKNOWN
+Description: Python module depending on matplotlib and angle to draw oak leaf wih specific title.
+Keywords: python,oak,oak-leaf,python-packages,matplotib
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
