@@ -1,0 +1,5 @@
+pylangacq<0.17.0,>=0.16.0
+wordseg==0.0.2
+
+[:python_version < "3.8"]
+importlib-metadata>=1.0
