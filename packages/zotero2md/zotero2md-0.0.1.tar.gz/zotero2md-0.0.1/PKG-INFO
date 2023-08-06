@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: zotero2md
+Version: 0.0.1
+Summary: Export Zotero annotations and notes to Markdown files.
+Home-page: https://github.com/e-alizadeh/Zotero2MD
+License: MIT
+Keywords: Zotero,Markdown,Note-Taking
+Author: ealizadeh
+Author-email: hello@ealizadeh.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Processing :: Markup :: Markdown
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Dist: Pyzotero (>=1.4.26,<2.0.0)
+Requires-Dist: SnakeMD (>=0.9.3,<0.10.0)
+Requires-Dist: markdownify (>=0.10.1,<0.11.0)
+Project-URL: Bug Tracker, https://github.com/e-alizadeh/Zotero2MD/issues
+Project-URL: Documentation, https://github.com/e-alizadeh/Zotero2MD
+Project-URL: Repository, https://github.com/e-alizadeh/Zotero2MD
+Description-Content-Type: text/markdown
+
+# Zotero to Markdown
+
+Generate Markdown files from Zotero annotations (Zotero Beta). 
+With new Zotero PDF Reader and Note Editor, all highlights are saved in Zotero databases.
+The highlights are NOT saved in the PDF file unless you export the highlights in order to save them.
+
+
+
+<a href="https://www.buymeacoffee.com/ealizadeh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
