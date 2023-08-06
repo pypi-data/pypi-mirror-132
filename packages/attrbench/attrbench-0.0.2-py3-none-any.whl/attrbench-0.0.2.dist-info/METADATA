@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: attrbench
+Version: 0.0.2
+Summary: A benchmark for feature attribution techniques
+Home-page: https://github.com/zoeparman/benchmark
+Author: Arne Gevaert, Axel-Jan Rousseau
+Author-email: arne.gevaert@ugent.be, axeljan.rousseau@uhasselt.be
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/zoeparman/benchmark/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: torch (>=1.5.0)
+Requires-Dist: h5py (>=2.0.0)
+Requires-Dist: tqdm (>=4.0.0)
+Requires-Dist: krippendorff (>=0.4.0)
+Requires-Dist: opencv-python (>=4.0.0.0)
+Requires-Dist: scikit-learn (>=0.24.0)
+Requires-Dist: seaborn (>=0.10.0)
+Provides-Extra: dash
+Requires-Dist: dash (>=1.18.0) ; extra == 'dash'
+Requires-Dist: dash-bootstrap-components (>=0.10.0) ; extra == 'dash'
+Requires-Dist: dash-core-components (>=1.14.0) ; extra == 'dash'
+Requires-Dist: dash-html-components (>=1.1.0) ; extra == 'dash'
+Requires-Dist: dash-renderer (>=1.8.0) ; extra == 'dash'
+Requires-Dist: dash-table (>=4.11.0) ; extra == 'dash'
+Provides-Extra: dev
+Requires-Dist: pytest (==6.2.5) ; extra == 'dev'
+
+# AttrBench: Metrics for Feature Attribution Techniques
+This repository contains the source code for the `attrbench` package, which provides a [Pytorch]()-based implementation of several metrics for the evaluation of feature attribution maps and methods. The package is currently mainly focused on image data, but we plan to generalize the code to work for any type of data.
+
+## Installation
+To install the project, run:
+```bash
+pip install attrbench
+```
+
+## Available metrics
+- Deletion
+- Insertion
+- IROF
+- IIOF
+- Impact Coverage
+- Impact Score
+- Infidelity
+- Max-Sensitivity
+- Minimal Subset
+- Sensitivity-n
+- Seg-Sensitivity-n
+
+## Future work
+We are mainly working in 3 general directions for the near future:
+- Generalization of the benchmark to other data modalities than images.
+- Optimization of GPU usage.
+- Inclusion of new metrics
+
