@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% load django_bootstrap5 %}
+
+{% block content %}
+<h1>Ajouter une Dette pour {{ occasion }}</h1>
+<form method="post" action="" class="form-horizontal" role="form">
+  {% csrf_token %}
+  {% bootstrap_form form layout="horizontal" %}
+  {% bootstrap_button "Ok" button_type="submit" button_class="btn-success" %}
+  {% bootstrap_button "En ajouter un autre !" button_type="submit" button_class="btn" name="add_another" %}
+</form>
+{% endblock %}
