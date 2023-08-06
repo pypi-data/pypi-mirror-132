@@ -1,0 +1,7 @@
+README.md
+pydetour.py
+setup.py
+pydetour.egg-info/PKG-INFO
+pydetour.egg-info/SOURCES.txt
+pydetour.egg-info/dependency_links.txt
+pydetour.egg-info/top_level.txt
