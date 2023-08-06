@@ -1,0 +1,14 @@
+fastack_cache/__init__.py,sha256=NSS8lPm_99Ik4XAppBkQdAZmpgyYW7XRyqOgRNVW4zY,2383
+fastack_cache/backends/__init__.py,sha256=dXSx8stDp6UQVBWted8Ke4LPoxorVwWZAVLi2pCXBK4,60
+fastack_cache/backends/base.py,sha256=4vIo3qEAugctSMLfYWYdRJeCEVpM8Mbv5fTFqzk_7wQ,1214
+fastack_cache/backends/dummy.py,sha256=5je-Jxsm5bo_xMaelcWPfuvZLtYwJb3Stio2ToJARb0,539
+fastack_cache/backends/redis.py,sha256=G37pur14RfcxJjDd62WoqxqE6RMPoAQhiHR6f4ITlKE,2991
+fastack_cache/decorators.py,sha256=7VUMh7QuwgvWzo5nC7o1-6LFX9aP8sxpp5Qs0BzFKzM,349
+fastack_cache/serializers/__init__.py,sha256=obd2zLxBssI7dPJRNy_C04bIUoi5u4B-lHXcM5gAVKk,136
+fastack_cache/serializers/base.py,sha256=5WkudoHbLwtIZWS9RQV53Y7dOsoGeIpmSv3eIKSaYR8,520
+fastack_cache/serializers/json.py,sha256=Gqs-1-VEGyx0MC7zhBE-tyAUTQJFtvmYD1SlY8CvPa4,1076
+fastack_cache/serializers/pickle.py,sha256=MylD-hXx62w7BUHaPt-sBJwn8uAD5j8ZwpK-36kTMoo,788
+fastack_cache-0.2.1.dist-info/LICENSE,sha256=0kplfTV2Lpk-TVqAeFln1a6LvLErSMsRlzE8Sy6r-uw,1055
+fastack_cache-0.2.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+fastack_cache-0.2.1.dist-info/METADATA,sha256=CJkUJ44cIoH6o56y39Zmg1E5gnYBgvZ3TgR3LAXR8Ik,2883
+fastack_cache-0.2.1.dist-info/RECORD,,
