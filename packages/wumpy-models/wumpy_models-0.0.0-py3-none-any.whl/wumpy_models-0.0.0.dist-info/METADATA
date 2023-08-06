@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: wumpy-models
+Version: 0.0.0
+Summary: Efficient models over Discord payloads for the Wumpy project
+Keywords: wumpy,wumpus,wrapper,discord,discord-api,discord-bot,discord-api-wrapper,python-3
+Author-email: Bluenix <bluenixdev@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Internet
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Typing :: Typed
+Project-URL: homepage, https://github.com/wumpyproject
+
+Here lies a future Wumpy subpackage..
+
+In the mean-time, check out the [Wumpy project on GitHub](github.com/wumpyproject).
+Wumpy is an open source, extensible Discord API wrapper designed for everyone.
+
