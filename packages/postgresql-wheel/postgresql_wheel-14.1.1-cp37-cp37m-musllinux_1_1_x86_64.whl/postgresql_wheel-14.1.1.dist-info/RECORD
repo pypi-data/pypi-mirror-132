@@ -1,0 +1,11 @@
+_postgresql.abi3.so,sha256=KXckSPZb6AJwYiYhATyEvYCJIBUVkCoHsYT_9RpKcsg,26512
+postgresql/__init__.py,sha256=AT4dWlIpASwJiSMdlC-80eI-E5OJmyouiJnrAuhCJI4,1849
+postgresql/build.py,sha256=8wO9iXBwL4GZ8I3ohsZ4XJfzVQlMb-J8PPj76VPCHPk,169
+postgresql/_version.py,sha256=6YQvKZsxNOqOxi2IwaS01fWVqi6SS9sNWk-ksZxHbo0,498
+postgresql/tests/test_postgresql.py,sha256=rDmsvJF9EKsxzyX5nkAwFvGb0unPnApEy5y5gKqz7hg,731
+postgresql/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+postgresql_wheel-14.1.1.dist-info/METADATA,sha256=VHMDOmZzUZL6IICxG_er8aZyf00pgb4tj6BLrW6MihY,3341
+postgresql_wheel-14.1.1.dist-info/WHEEL,sha256=AwCV1FkWdYpjfcoaK7n6p6fj_Id8GAo6XowTK5Ts_YM,112
+postgresql_wheel-14.1.1.dist-info/RECORD,,
+postgresql_wheel-14.1.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+postgresql_wheel-14.1.1.dist-info/top_level.txt,sha256=SVKh8EKrpy-BK2ywfuCWVu58m4Q7F0COXWNb9kZouv8,23
