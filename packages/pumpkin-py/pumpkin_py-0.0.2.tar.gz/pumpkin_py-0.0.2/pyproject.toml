@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "pumpkin_py"
+version = "0.0.2"
+description = "Fast semantic search and comparison"
+authors = []
+license = "BSD-3-Clause"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Operating System :: POSIX :: Linux",
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8, <=3.9"
+numpy = "^1.19.0"
+rdflib = "^5.0.0"
+pyroaring = "^0.3.2"
+bidict = "^0.21.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.0"
+autoflake = "^1.4"
+flake8 = "^3.9.2"
+isort = "^5.9.1"
+black = "^21.12b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line_length = 100
+skip-string-normalization = true
+
+[tool.isort]
+profile = "black"
+line_length = 100
+multi_line_output = 3
+include_trailing_comma = true
