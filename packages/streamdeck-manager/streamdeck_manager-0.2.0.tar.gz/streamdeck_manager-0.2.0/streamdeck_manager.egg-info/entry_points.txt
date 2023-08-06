@@ -1,0 +1,8 @@
+[console_scripts]
+sdm-background = streamdeck_manager.samples.tiled_image:run
+sdm-basic = streamdeck_manager.samples.basic_usage:run
+sdm-info = streamdeck_manager.samples.device_info:run
+sdm-menu = streamdeck_manager.samples.menu:run
+sdm-more-buttons = streamdeck_manager.samples.buttons_types:run
+sdm-navigator = streamdeck_manager.samples.navigator:run
+
