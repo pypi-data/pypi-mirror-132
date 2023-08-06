@@ -1,0 +1,10 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+src/binancetrader/__init__.py
+src/binancetrader/binancetrader.py
+src/binancetrader.egg-info/PKG-INFO
+src/binancetrader.egg-info/SOURCES.txt
+src/binancetrader.egg-info/dependency_links.txt
+src/binancetrader.egg-info/top_level.txt
