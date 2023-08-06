@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+calc.py
+setup.py
+unit_tests.py
+example_pkg_naturalett.egg-info/PKG-INFO
+example_pkg_naturalett.egg-info/SOURCES.txt
+example_pkg_naturalett.egg-info/dependency_links.txt
+example_pkg_naturalett.egg-info/top_level.txt
