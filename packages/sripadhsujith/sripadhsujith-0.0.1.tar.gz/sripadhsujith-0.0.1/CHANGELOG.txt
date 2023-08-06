@@ -1,0 +1,6 @@
+Details
+=======
+
+0.0.1 (25/12/2021)
+------------------
+-To use it write wiki() or to shutdown write shutdown()
