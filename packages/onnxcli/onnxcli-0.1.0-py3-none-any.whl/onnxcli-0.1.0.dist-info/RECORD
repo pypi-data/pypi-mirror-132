@@ -1,0 +1,13 @@
+onnxcli/__init__.py,sha256=Alzz_zPdwPrdyK31b7d15fuhLgErOGAPfTYryzrG5cU,111
+onnxcli/common.py,sha256=JLwNOIJvucVLremids4bb96mN2dPRczNvAeTnwPo-zE,1337
+onnxcli/dispatcher.py,sha256=47libMCVFv61VRy8pvgxojsM7veO7aczkT-C3ncmSJQ,765
+onnxcli/draw.py,sha256=4b97hyDdpJoJlANBKiMxIBKunpACtzNQnk6JBQsPuyE,3105
+onnxcli/extract.py,sha256=J8x37CR04P-eNKKj-xj9hwovzPP6qakPSPx_91NIXAg,1074
+onnxcli/infer_shape.py,sha256=VVDbOQVUk8ND-IZ-ZZgZfr8mMT4p2bvqkEj6R4WbMf8,755
+onnxcli/inspect.py,sha256=9LY9x-PVGErHqu4dHQQ3Cc7bGniqXh94m-IG109dRk0,7684
+onnxcli-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+onnxcli-0.1.0.dist-info/METADATA,sha256=33tYY-_WB3IIjvwWF3AeMuWxItgxhCiDdJkl_E-xcnM,7446
+onnxcli-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+onnxcli-0.1.0.dist-info/entry_points.txt,sha256=LN5bTg0As_TiB1ZUymq2W0hbuE0zIfwCZfolwian9ZU,92
+onnxcli-0.1.0.dist-info/top_level.txt,sha256=1a7RNU7lORJeOlIwokYoqmGhw1vbIdEKcek0gqQqypw,8
+onnxcli-0.1.0.dist-info/RECORD,,
