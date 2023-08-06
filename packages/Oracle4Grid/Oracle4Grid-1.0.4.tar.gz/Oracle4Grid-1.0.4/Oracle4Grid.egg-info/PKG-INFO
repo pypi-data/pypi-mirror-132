@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: Oracle4Grid
+Version: 1.0.4
+Summary: Oracle agent that finds the best course of actions aposteriori, within a given perimeter of actions
+Home-page: https://github.com/marota/Oracle4Grid/
+Author: Nicolas Megel, Mario Jothy
+Author-email: nico.megel@gmail.com, mariojothy@gmail.com
+License: Mozilla Public License 2.0 (MPL 2.0)
+Download-URL: https://github.com/marota/Oracle4Grid/archive/refs/tags/1.0.4.tar.gz
+Description: UNKNOWN
+Keywords: ML powergrid optmization RL power-systems
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
