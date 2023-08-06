@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: pyliger
+Version: 0.0.1
+Summary: The Python version of LIGER package.
+Home-page: https://github.com/welch-lab/pyliger
+Author: Lu Lu
+Author-email: luluhz@umich.edu
+License: MIT
+Keywords: LIGER
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: anndata
+Requires-Dist: python-igraph
+Requires-Dist: annoy
+Requires-Dist: louvain
+Requires-Dist: leidenalg
+Requires-Dist: umap-learn
+Requires-Dist: matplotlib
+Requires-Dist: datashader
+Requires-Dist: bokeh
+Requires-Dist: holoviews
+Requires-Dist: colorcet
+Requires-Dist: scikit-learn
+Requires-Dist: h5sparse
+
+# pyliger
+
