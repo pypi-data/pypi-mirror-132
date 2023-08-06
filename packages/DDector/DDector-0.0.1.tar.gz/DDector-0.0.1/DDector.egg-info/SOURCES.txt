@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+DDector.egg-info/PKG-INFO
+DDector.egg-info/SOURCES.txt
+DDector.egg-info/dependency_links.txt
+DDector.egg-info/requires.txt
+DDector.egg-info/top_level.txt
