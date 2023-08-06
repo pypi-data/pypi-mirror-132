@@ -1,0 +1,8 @@
+numpy
+scipy
+maxosc
+mido
+scikit-learn
+pandas
+python-osc
+matplotlib
