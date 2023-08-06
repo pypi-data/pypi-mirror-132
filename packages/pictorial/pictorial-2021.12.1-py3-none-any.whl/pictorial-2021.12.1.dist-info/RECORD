@@ -1,0 +1,15 @@
+pictorial/__init__.py,sha256=OOSNHepRjws1xTBQmvLZ1IFalkukHZwxpRjZaQtvC1c,367
+pictorial/aggregate.py,sha256=AfeRXBzT0YFX6-hm03MG6TxYAvBm6QLhaOLdjmhDJx4,1410
+pictorial/utility.py,sha256=JWNiKR_Nn3oNc9njF6flKh7fLen2AzG1dd-jtlU9_c8,2471
+pictorial/core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pictorial/core/bar.py,sha256=ZDrn82DbqAE_hN1fQV5mhUrBOtqSHDQAMy6kPxftZIM,1354
+pictorial/core/box.py,sha256=MEbOrqosOkj_QgoMD3RvBvKv9e-D2cWYgP9CGujAvj4,2813
+pictorial/core/corr.py,sha256=_jorm6VQQesPdofiOozRXdoDE-u1o0E004_JGEyMV5k,705
+pictorial/core/subplots.py,sha256=UEvgpTUB96-_bhlXTF3qrEo57VSDgWgDcb0s_HlBU20,978
+pictorial/testing/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pictorial/testing/data.py,sha256=vrMWhF2zzoOlG4vJlSgKhlrsmgY77OtI9EwKh6xYiZI,721
+pictorial-2021.12.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pictorial-2021.12.1.dist-info/METADATA,sha256=qJSlSaX-ELPoFCfmkHvwomrgQhxxdtiPXmImKCVU64o,1477
+pictorial-2021.12.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pictorial-2021.12.1.dist-info/top_level.txt,sha256=cntB01tQIfiUvC3Bz60jRzogSoPpj54v-bKaA9NXOzc,10
+pictorial-2021.12.1.dist-info/RECORD,,
