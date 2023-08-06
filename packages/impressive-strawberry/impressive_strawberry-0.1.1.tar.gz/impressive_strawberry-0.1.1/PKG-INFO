@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: impressive-strawberry
+Version: 0.1.1
+Summary: Achievements-as-a-service
+Home-page: https://impressive-strawberry.ryg.one/
+License: AGPL-3.0-or-later
+Keywords: achievements,fastapi,backend,strawberry,webapi
+Author: Stefano Pigozzi
+Author-email: me@steffo.eu
+Maintainer: Stefano Pigozzi
+Maintainer-email: me@steffo.eu
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: FastAPI
+Classifier: Intended Audience :: Other Audience
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Games/Entertainment
+Classifier: Topic :: Internet
+Classifier: Typing :: Typed
+Requires-Dist: SQLAlchemy (>=1.4.26,<2.0.0)
+Requires-Dist: alembic (>=1.7.4,<2.0.0)
+Requires-Dist: fastapi (>=0.70.0,<0.71.0)
+Requires-Dist: httpx (>=0.21.1,<0.22.0)
+Requires-Dist: lazy-object-proxy (>=1.6.0,<2.0.0)
+Requires-Dist: psycopg2-binary (>=2.9.1,<3.0.0)
+Requires-Dist: pytest-cov (>=3.0.0,<4.0.0)
+Requires-Dist: python-dotenv (>=0.19.1,<0.20.0)
+Requires-Dist: uvicorn (>=0.15.0,<0.16.0)
+Project-URL: Documentation, https://hub.ryg.one/impressive-strawberry/
+Project-URL: Repository, https://github.com/RYGhub/impressive-strawberry/
+Description-Content-Type: text/markdown
+
+# Strawberry
+
+Achievements-as-a-service
+
+## Design docs
+
+Design docs are available on [FigJam](https://www.figma.com/file/8J7exqW3srh0WNiICHnf0O/Medals?node-id=0%3A1).
+
