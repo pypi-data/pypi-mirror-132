@@ -1,0 +1,8 @@
+LICENSE.txt
+README.txt
+setup.py
+akeuroo_deck/__init__.py
+akeuroo_deck.egg-info/PKG-INFO
+akeuroo_deck.egg-info/SOURCES.txt
+akeuroo_deck.egg-info/dependency_links.txt
+akeuroo_deck.egg-info/top_level.txt
