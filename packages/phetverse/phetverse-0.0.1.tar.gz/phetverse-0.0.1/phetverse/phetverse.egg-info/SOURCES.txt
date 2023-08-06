@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+phetverse/phetverse.egg-info/PKG-INFO
+phetverse/phetverse.egg-info/SOURCES.txt
+phetverse/phetverse.egg-info/dependency_links.txt
+phetverse/phetverse.egg-info/top_level.txt
