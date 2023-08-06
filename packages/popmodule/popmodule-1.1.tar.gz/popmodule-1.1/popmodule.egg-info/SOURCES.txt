@@ -1,0 +1,5 @@
+setup.py
+popmodule.egg-info/PKG-INFO
+popmodule.egg-info/SOURCES.txt
+popmodule.egg-info/dependency_links.txt
+popmodule.egg-info/top_level.txt
