@@ -1,0 +1,15 @@
+simple_data_collector/__init__.py,sha256=g1g5j0AfQGzTCSPmfy8MG5KkobBp-Sv3Ea6SL6oZJNU,229
+simple_data_collector/data_collector.py,sha256=Oh9Uvia4lr4cC5BCXckEBvQRA45nvtGMODASsXBWFXM,3860
+simple_data_collector/search_data_converter.py,sha256=z7bXtIwotjLyz0yfd5uqVfbgpitH2aEYGEVWNdgBFo0,3080
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/_search_space_list.py,sha256=GNgyxA0Dj8nWAca4HPUWsuE7VmNm5sJJPJbeCwXg9ww,4064
+tests/_test_utils.py,sha256=3NghsV1SgGZ2oTTlG9z40LVoI311vMiYLRGT3Dce3Gk,1368
+tests/test_append.py,sha256=8ULalDMry3S-aMhzLoXJ6p0HAlp4dHJenJuHDeGvvD4,3916
+tests/test_parallel.py,sha256=cyMGXwASQ3iRrUa-IJyYjGnolWo16YItClvCTY-esAs,5886
+tests/test_remove.py,sha256=t2VQct2tqSfiWsOX3Jr85dBf9GL-6rYZY-DevbVXsJs,819
+tests/test_save.py,sha256=dTcEYaJURNiWdMr-3rZwNhMWyCpEW5sf-jP6CYjUB78,3938
+simple_data_collector-0.0.4.dist-info/LICENSE,sha256=O_PC0c7QLEIrMjzCtvU1zuRDnajd4QUwXsa8FowQgfg,1069
+simple_data_collector-0.0.4.dist-info/METADATA,sha256=gOR1O0erzzRgpjRipYS_muWfN7vt4ZRMZqLQyN8cYbY,3108
+simple_data_collector-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+simple_data_collector-0.0.4.dist-info/top_level.txt,sha256=JPdviQcMtQI7Pyhrg72n5R1jDVIcXKz6HmysRUp_nsw,28
+simple_data_collector-0.0.4.dist-info/RECORD,,
