@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: tpulse
+Version: 0.1.5
+Summary: version
+Author-email: Semenov Artur <juicehq@yandex.ru>
+Requires-Python: >=3.7
+Classifier: License :: OSI Approved :: MIT License
