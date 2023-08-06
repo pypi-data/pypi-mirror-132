@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/stxbaselibs/__init__.py
+src/stxbaselibs/business_types.py
+src/stxbaselibs/common_types.py
+src/stxbaselibs.egg-info/PKG-INFO
+src/stxbaselibs.egg-info/SOURCES.txt
+src/stxbaselibs.egg-info/dependency_links.txt
+src/stxbaselibs.egg-info/top_level.txt
