@@ -1,0 +1,31 @@
+[project]
+name = "kqlalchemy"
+dynamic = []
+description = "A SQLAlchemy dialect for Azure Data Explorer (Kusto)"
+dependencies = [ "sqlalchemy~=1.4", "azure-identity", "pyodbc", "azure-kusto-data>=2.3.2",]
+requires-python = ">=3.7.1"
+version = "0.1.0"
+[[project.authors]]
+name = "Alex Kyllo"
+email = "alex.kyllo@gmail.com"
+
+[build-system]
+requires = [ "pdm-pep517",]
+build-backend = "pdm.pep517.api"
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+homepage = "https://github.com/alexkyllo/kqlalchemy"
+
+[project.optional-dependencies]
+
+[tool.isort]
+profile = "black"
+
+[tool.pdm.version]
+from = "src/kqlalchemy/__init__.py"
+
+[tool.pdm.dev-dependencies]
+dev = [ "sphinx", "black>=21.12b0", "pylint>=2.12.2", "isort>=5.10.1", "pytest>=6.2.5",]
