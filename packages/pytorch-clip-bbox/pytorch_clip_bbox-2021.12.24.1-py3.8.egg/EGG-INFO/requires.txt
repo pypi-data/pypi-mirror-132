@@ -1,0 +1,7 @@
+Cython
+cython
+numpy
+opencv-python
+pytorch_clip_guided_loss
+torch
+wheel

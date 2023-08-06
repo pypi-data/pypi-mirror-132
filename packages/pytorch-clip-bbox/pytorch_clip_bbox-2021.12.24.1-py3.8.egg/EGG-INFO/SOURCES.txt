@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+pytorch_clip_bbox/__init__.py
+pytorch_clip_bbox/clip_bbox.py
+pytorch_clip_bbox.egg-info/PKG-INFO
+pytorch_clip_bbox.egg-info/SOURCES.txt
+pytorch_clip_bbox.egg-info/dependency_links.txt
+pytorch_clip_bbox.egg-info/requires.txt
+pytorch_clip_bbox.egg-info/top_level.txt
+pytorch_clip_bbox.egg-info/zip-safe
