@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+optimlib.egg-info/PKG-INFO
+optimlib.egg-info/SOURCES.txt
+optimlib.egg-info/dependency_links.txt
+optimlib.egg-info/not-zip-safe
+optimlib.egg-info/top_level.txt
