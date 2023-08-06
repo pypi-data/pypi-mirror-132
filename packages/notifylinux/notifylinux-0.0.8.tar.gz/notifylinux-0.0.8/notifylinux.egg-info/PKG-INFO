@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: notifylinux
+Version: 0.0.8
+Summary: A python package to send desktop notification in linux
+Home-page: https://github.com/aasis2520c/notifylinux
+Author: Aashish Sharma
+Author-email: ashishchapain86@gmail.com
+License: UNKNOWN
+Description: # notifylinux
+        a python package to send desktop notification in linux
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3

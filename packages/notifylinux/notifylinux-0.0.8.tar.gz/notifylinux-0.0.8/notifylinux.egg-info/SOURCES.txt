@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+notifylinux/__init__.py
+notifylinux/linuxnotifier.py
+notifylinux.egg-info/PKG-INFO
+notifylinux.egg-info/SOURCES.txt
+notifylinux.egg-info/dependency_links.txt
+notifylinux.egg-info/top_level.txt
