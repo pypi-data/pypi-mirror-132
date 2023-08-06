@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pyliger
+Version: 0.0.1
+Summary: The Python version of LIGER package.
+Home-page: https://github.com/welch-lab/pyliger
+Author: Lu Lu
+Author-email: luluhz@umich.edu
+License: MIT
+Keywords: LIGER
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pyliger
+
