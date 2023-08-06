@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: flake8-isolated-packages
+Version: 1.0.0
+Summary: This Flake8 plugin is for checking imports isolations.
+Author: Dudov Dmitry
+Author-email: dudov.dm@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: astpretty (>=2.1.0,<3.0.0)
+Requires-Dist: flake8 (>=4,<5)
