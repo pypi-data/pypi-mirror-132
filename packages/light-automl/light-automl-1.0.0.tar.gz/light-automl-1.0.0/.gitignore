@@ -1,0 +1,12 @@
+venv
+__pycache__/
+.vscode/
+*.pyc
+.idea/
+.env
+test.py
+*.joblib
+dist/
+setup.cfg
+light_automl.egg-info
+todo.txt
