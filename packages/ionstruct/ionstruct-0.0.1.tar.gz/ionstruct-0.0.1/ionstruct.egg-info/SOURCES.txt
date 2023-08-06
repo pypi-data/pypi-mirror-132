@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+ionstruct/VTEC.py
+ionstruct/__init__.py
+ionstruct/day.py
+ionstruct/mapping_functions.py
+ionstruct/yearly_trends.py
+ionstruct.egg-info/PKG-INFO
+ionstruct.egg-info/SOURCES.txt
+ionstruct.egg-info/dependency_links.txt
+ionstruct.egg-info/top_level.txt
