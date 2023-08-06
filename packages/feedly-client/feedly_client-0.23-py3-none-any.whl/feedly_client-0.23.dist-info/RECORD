@@ -1,0 +1,10 @@
+feedly/api_client/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+feedly/api_client/data.py,sha256=d38WsKZCyAfgy7427FwGZ_iZ_Upd32FIz8xfBag6TcQ,14411
+feedly/api_client/protocol.py,sha256=kAYqeC8-Q-Ciu5_gyoyo9rd8byVaBYClxFGZhGMr-r8,3063
+feedly/api_client/session.py,sha256=tQ2EBVF5DqvwnO_vPYM08jPi7MvyvYic53JYNO_tHdk,11152
+feedly/api_client/stream.py,sha256=c7qD3jPxav-Tp1SAdLhsfOEhbDc3R9lrOWpENpV7D78,5452
+feedly_client-0.23.dist-info/LICENSE,sha256=uD7_4xyqZyNUoIFWqimvE5nzdYcEIRs1Du_7pA1AyKg,1064
+feedly_client-0.23.dist-info/METADATA,sha256=7eDGp-WfjP9U-spfIEU_K5LOZrZSwUgJzhhcWnxKICc,5490
+feedly_client-0.23.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+feedly_client-0.23.dist-info/top_level.txt,sha256=KBZdLvIuQLdDLzegSEykfaUwj5Q_g9a275YppLyy2FU,7
+feedly_client-0.23.dist-info/RECORD,,
