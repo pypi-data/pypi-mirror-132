@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: automaton-linux
+Version: 1.2.2
+Summary: An automation library for linux that uses UInput via evdev.
+License: MIT
+Author: Abdul-Muiz-Iqbal
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: evdev (>=1.4.0,<2.0.0)
+Requires-Dist: multiprocess (>=0.70.12,<0.71.0)
