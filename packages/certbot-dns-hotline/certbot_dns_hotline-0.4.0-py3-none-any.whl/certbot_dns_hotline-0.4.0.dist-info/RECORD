@@ -1,0 +1,8 @@
+certbot_dns_hotline/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+certbot_dns_hotline/dns_hotline.py,sha256=vKCMwFfc6oRD40r6oCcZSWF5KI0tuYoUA2Q8XQXAb7s,4610
+certbot_dns_hotline-0.4.0.dist-info/LICENSE,sha256=r_7BSjft4WLwMdLc_n2ACVwLyWWcdxJapnOoKYGqi-I,1068
+certbot_dns_hotline-0.4.0.dist-info/METADATA,sha256=hEqgu1kmDArCVuE7K76N8vne8vWpdSggvJslcVsgMrU,1175
+certbot_dns_hotline-0.4.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+certbot_dns_hotline-0.4.0.dist-info/entry_points.txt,sha256=7tlQZxp-_tuQ4CTkmX1IguzDokvIMpV0OrzPsrsLHe4,79
+certbot_dns_hotline-0.4.0.dist-info/top_level.txt,sha256=Rwbf1_jN4o5HVRVC-cFYTyTd-gmMFIeY-mpwrFze9bk,20
+certbot_dns_hotline-0.4.0.dist-info/RECORD,,
