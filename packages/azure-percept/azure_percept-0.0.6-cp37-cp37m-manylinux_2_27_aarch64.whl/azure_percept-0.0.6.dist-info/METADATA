@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: azure-percept
+Version: 0.0.6
+Summary: Unofficial Python package to control the Azure Percept SoM
+Home-page: UNKNOWN
+Author: Christian Vorhemus
+Author-email: 
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: numpy (>=1.16.6)
+Requires-Dist: pyusb
+Requires-Dist: networkx (~=2.5)
+Requires-Dist: protobuf (>=3.15.6)
+Requires-Dist: onnx (>=1.8.1)
+Requires-Dist: defusedxml (>=0.7.1)
+
+UNKNOWN
+
