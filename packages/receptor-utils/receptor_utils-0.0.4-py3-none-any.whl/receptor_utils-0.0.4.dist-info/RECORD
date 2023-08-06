@@ -1,0 +1,13 @@
+receptor_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+receptor_utils/extract_refs.py,sha256=8xOLphpn-K904BJoBnxTTSHo-2CyZIb4kqBk7WFQRdk,1174
+receptor_utils/gap_inferred.py,sha256=BbE-YtY2U8PgcyJ5bZ1VgeukTCDKP3aXvHX_BWdpBYU,1124
+receptor_utils/identical_seqs.py,sha256=CX_XnyOjA8uT0ZbziqEfVHgMivul9btPbu1LB3W0NbM,947
+receptor_utils/novel_allele_name.py,sha256=MPB5D0OSwET211F6ubL34EJSXGHBw66iY_R5W47bCyM,5679
+receptor_utils/number_ighv.py,sha256=8ncphKEvpn7_90C11jCruNA319OjRwqmozIf7FCRrbU,12194
+receptor_utils/simple_bio_seq.py,sha256=EvnBlogt5t8FL2ObHX7VTB8VK8_Rj2QuLb_sXrQI0Mw,3878
+receptor_utils-0.0.4.dist-info/LICENSE,sha256=pE2_sjOjolvAoSljjAKrrgZwFWwZkLu2z0-r70OwgOw,240
+receptor_utils-0.0.4.dist-info/METADATA,sha256=WHwHrZtPUgDWvIzv1NFttZ6MJNV2CXidzrV3MjBrAUg,3111
+receptor_utils-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+receptor_utils-0.0.4.dist-info/entry_points.txt,sha256=a5M-FZfAwC886__PtRKfaCjmN2SlwfHIYUW8jnC8cLE,167
+receptor_utils-0.0.4.dist-info/top_level.txt,sha256=7mAm89Oo8ebRJjFC_9MFr60VZulH-1UaEHM9pXsp3jA,15
+receptor_utils-0.0.4.dist-info/RECORD,,
