@@ -1,0 +1,7 @@
+license.txt
+setup.py
+mechanism.egg-info/PKG-INFO
+mechanism.egg-info/SOURCES.txt
+mechanism.egg-info/dependency_links.txt
+mechanism.egg-info/requires.txt
+mechanism.egg-info/top_level.txt
