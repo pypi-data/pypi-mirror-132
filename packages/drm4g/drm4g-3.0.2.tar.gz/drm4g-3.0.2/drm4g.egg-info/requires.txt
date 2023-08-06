@@ -1,0 +1,4 @@
+docopt
+fabric
+openssh-wrapper
+scp
