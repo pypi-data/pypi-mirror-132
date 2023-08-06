@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: dsa-buddy
+Version: 3.0.5
+Summary: dsa_buddy client for DSA preparation and code submission utlity
+Home-page: UNKNOWN
+Author: Botoservices
+Author-email: botoservices@gmail.com
+License: MIT
+Description: DSA buddy client @Copyright 2021-22 [Botoservices]
+        
+        Steps:
+        1.  Please Check your Python version. Python3 is required for this package
+        2.  Install it using below command: 
+            pip install dsa-buddy
+        
+        3.  You can submit your code using below decorator along with main function.  [Check below Sample code]
+        
+        4.  When you will run your code, it will ask you to enter dsa-buddy credentials.  
+        
+        5.  If you have any query regrading registeration/feedback, Please contact us via "botoservices@gmail.com" 
+        
+        Sample Code:
+        
+        #################### Sample code #####################
+        
+        import dsa_buddy
+        
+        @dsa_buddy.submit()
+        def factorial(num):
+        	ans = 1
+            while num > 0:
+                ans = ans * num 
+                num = num - 1
+        
+            return ans
+        
+        
+        factorial(5)
+        
+        
+        ######################################################
+Keywords: dsa buddy coding python
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
