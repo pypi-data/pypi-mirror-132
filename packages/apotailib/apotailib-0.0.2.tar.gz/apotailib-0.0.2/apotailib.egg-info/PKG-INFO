@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: apotailib
+Version: 0.0.2
+Summary: A very basic calculator
+Home-page: UNKNOWN
+Author: Duy Nguyen
+Author-email: duynguyenngoc@hotmail.com
+License: MIT
+Keywords: ai
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE.txt
+
+a very simple calculartor.
+
+Change Log
+==========
+
+0.0.1 (2021/12/28)
+------------------
+- First Release only test how can upload.
+
+0.0.2 (2021/12/28)
+------------------
+- test with import class on __init__.py
+
