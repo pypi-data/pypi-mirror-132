@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+DiffIntegrat/Diff_Integr.py
+DiffIntegrat/__init__.py
+DiffIntegrat.egg-info/PKG-INFO
+DiffIntegrat.egg-info/SOURCES.txt
+DiffIntegrat.egg-info/dependency_links.txt
+DiffIntegrat.egg-info/not-zip-safe
+DiffIntegrat.egg-info/requires.txt
+DiffIntegrat.egg-info/top_level.txt
