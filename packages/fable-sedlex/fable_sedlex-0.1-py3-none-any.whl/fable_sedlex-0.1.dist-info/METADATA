@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: fable-sedlex
+Version: 0.1
+Summary: OCaml Sedlex port for Python via Fable.Python compiler: generating efficient and collision-free lexers from lexer combinators.
+Home-page: https://github.com/thautwarm/.
+Author: thautwarm
+Author-email: twshere@outlook.com
+License: mit
+Keywords: lexer generator,code generator
+Platform: any
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.8.0
+Description-Content-Type: text/markdown
+
+## .
+
+
