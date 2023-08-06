@@ -1,0 +1,3 @@
+tornado<7.0,>=6.0
+redis>=2.9.1
+aioredis>=2.0Click>=7.0
