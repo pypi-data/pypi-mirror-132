@@ -1,0 +1,13 @@
+README.md
+setup.py
+drremote/__init__.py
+drremote/__main__.py
+drremote/drremote.py
+drremote/get_resolve.py
+drremote/output.py
+drremote/parse.py
+drremote.egg-info/PKG-INFO
+drremote.egg-info/SOURCES.txt
+drremote.egg-info/dependency_links.txt
+drremote.egg-info/entry_points.txt
+drremote.egg-info/top_level.txt
