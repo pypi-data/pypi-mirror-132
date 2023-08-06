@@ -1,0 +1,162 @@
+Metadata-Version: 2.1
+Name: nubium-dude
+Version: 1.1.0
+Summary: Developer utilities to help manage nubium applications and other typical maintenance tasks
+Home-page: https://gitlab.corp.redhat.com/mkt-ops-de/dude
+Author: RedHat Marketing Operations Data Engineering
+Author-email: mkt-ops-de@redhat.com,
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown; charset=UTF-8
+Requires-Dist: black (<22.0,>=21.6b0)
+Requires-Dist: click (<9.0.0,>=8.0.1)
+Requires-Dist: nubium-schemas (<2.0.0,>=1.1.2a)
+Requires-Dist: nubium-utils[confluent] (>=1.1.0)
+Requires-Dist: python-dotenv (>=0.19.0)
+Requires-Dist: virtualenv-api (<3.0.0,>=2.1.18)
+Requires-Dist: virtualenv (<21.0.0,>=20.4.7)
+Provides-Extra: all
+Requires-Dist: coverage[toml] ; extra == 'all'
+Requires-Dist: pylint ; extra == 'all'
+Requires-Dist: pytest (>=6.2.2) ; extra == 'all'
+Requires-Dist: pytest-cov ; extra == 'all'
+Provides-Extra: test
+Requires-Dist: coverage[toml] ; extra == 'test'
+Requires-Dist: pylint ; extra == 'test'
+Requires-Dist: pytest (>=6.2.2) ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+
+# dude CLI
+
+# Installation and Setup
+
+```
+pipx install nubium-dude
+```
+
+## Environment Variables and Configuration
+
+`dude` is configured via a `config.env` file, an example of which can be found at `./dude/config.env` (which is used
+by default if one not provided). Set the path of:
+
+`DUDE_CONFIG_DOTENV=(path to ./dude/config.env)`
+
+Additionally, you will need to set:
+
+`DUDE_CREDENTIALS_DOTENV=(path to a .env with various credentials)`
+
+NOTE: this will likely change in the future and secrets will be downloaded by default for you.
+
+Lastly, there are new variables related to `nubium-utils`; these can go in your `DUDE_CREDENTIALS_DOTENV` file:
+
+```
+RHOSAK_USERNAME=(same as preprod)
+RHOSAK_PASSWORD=(same as preprod)
+SCHEMA_REGISTRY_URL=bifrost-schema-registry-mktg-ops--nubium.int.us-west.dc.preprod.paas.redhat.com
+TEST_CLUSTER=(copy bootstrap server address from RHOSAK for test-nubium-0)
+NUBIUM_CLUSTER_0=(copy bootstrap server address from RHOSAK for dev-nubium-0)
+NUBIUM_CLUSTER_1=(copy bootstrap server address from RHOSAK for dev-nubium-1)
+NUBIUM_CLUSTER_2=(copy bootstrap server address from RHOSAK for dev-nubium-2)
+REQUESTS_CA_BUNDLE=/usr/local/lib/python3.9/site-packages/certifi/cacert.pem
+```
+
+NOTE: the `REQUESTS_CA_BUNDLE` value may be Mac-specific... if you have schema registry problems, it could be related
+to this.
+
+# Usage
+
+## Managing Topics
+
+### List topics
+
+`dude list topics`
+
+Topics will be listed by cluster.
+
+### Create topics
+
+`dude topics create --topics topic_a,topic_b`
+
+If the topic exists in `nubium_schemas/nubium_topic_configs/clusters.py`, `dude` will try to create the topic on the
+assigned `NUBIUM_CLUSTER_0`, `NUBIUM_CLUSTER_1`, or `NUBIUM_CLUSTER_2` with the partitions and replication
+factor defined in `clusters.py`. If the topic doesn't exist in `clusters.py`, it will be created on your
+`TEST_CLUSTER` with a default number of partitions of 3 and a default replication factor of 3.
+
+### Create topics with custom partitions and replication factor
+
+`dude topics create --topics topic_a --num-partitions 2 --replication-factor 2`
+
+### Create topics on your `TEST_CLUSTER`, ignoring cluster maps in `cluster.py`
+
+`dude topics create --topics topic_a,topic_b --ignore-cluster-maps`
+
+### Delete topics
+
+`dude topics delete --topics topic_a,topic_b`
+
+If the topic exists in `nubium_schemas/nubium_topic_configs/clusters.py`, `dude` will try to delete the topic from the
+assigned cluster.  Passing `--ignore-cluster-maps` will instruct `dude` to delete the topic from your `TEST_CLUSTER`.
+
+## Producing and Consuming
+
+### Produce to a topic from a json file
+
+`dude topics produce --topic topic_a --message-file test_data_in.json --schema nubium_integrations.dynamic_form.eloqua_form`
+
+The parameter `--schema` must be a valid path to import the schema from `nubium_schemas`.
+
+### Consume all messages from a topic and dump to a json file
+
+`dude topics consume --topic topic_a --message-file test_data_out.json`
+
+NOTE: in the future, we would like to add an option to the `dude topics consume` function so that you may choose to
+consume from your consumer group's latest offset instead of consuming everything.
+
+## App
+
+### Build requirements.txt
+
+(in app root folder): `dude app build_reqs`
+
+### Run app
+
+(in app root folder): `dude app run`
+
+### Run unit tests
+
+(in app root folder): `dude app unit_test`
+
+### Run integration test
+
+(in app root folder): `dude app integration_test`
+
+## Known limitations
+
+- Test coverage is almost non-existent.
+
+# Development
+
+## Pipx isolated environments
+If you want to run the `dude` script based on changes in your local repo, use
+the editable option when installing with pipx:
+```
+pipx install -e /PATH/TO/DUDE/REPO
+```
+
+You can also inject editable versions of dependencies like this:
+```
+pipx inject nubium-dude -e /PATH/TO/nubium-schemas
+pipx inject nubium-dude -e /PATH/TO/nubium-utils
+```
+
+### Once we finish adding more tests...
+
+Run tests via:
+
+```
+pipx install tox
+tox && tox -e cov
+```
+
+
