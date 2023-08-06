@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+izh2104/__init__.py
+izh2104/itogicoboki.py
+izh2104.egg-info/PKG-INFO
+izh2104.egg-info/SOURCES.txt
+izh2104.egg-info/dependency_links.txt
+izh2104.egg-info/not-zip-safe
+izh2104.egg-info/top_level.txt
