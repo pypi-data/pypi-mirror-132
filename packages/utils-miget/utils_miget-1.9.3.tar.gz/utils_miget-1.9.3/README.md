@@ -1,0 +1,66 @@
+# Utils-MIGET Documentations
+
+## Introduction
+This documentations has been written for __version 1.9__ of the package. 
+
+-------------------------------
+
+The package contains utilities to handle the preprocessing as well as postprocessing of data related to the Multiple Inert Gas Elimination Technique (__MIGET__). The original software written in Fortran by P. D. Wagner is only the core of the technique, but substancial data handling before and after the acquisition of the data from the subject is required to achieve a smooth workflow. The "utilities" you will find in this package are needed to:
+
+1. Perform ancillary calculations regarding, for example, pure blood and gas volumes in the syringes, retentions, excretions, and general gas exchange calculations. 
+2. Easily plot retention and excretions against "normal" values. This is useful to quickly plot the data and get an idea of the ventilation-perfusion (V/Q) alteration present, without running the full Fortran program. 
+3. Automatically draw the data from a dataset (at the moment with default variable names) to create a default input file for the first of the two Fortran original program: SHORT.f
+4. Plotting both a V/Q distribution given default data (for teaching purposes, for example) and publication-ready V/Q distribution outputs from the Fortran program. 
+
+Of note, all these calculations work for a workflow which implies a Gas Chromatography device with _headspace sampler_, like the one we currently use at the University Medical Center Göttingen. 
+
+
+## Modules
+
+### calculations_miget
+
+As the name implies, this module contains functions used to perform ancillary calculations to prepare the dataset for a successive evaluation of MIGET data. 
+
+- __miget_dataset_preparation(dataset)__
+
+This function perform a whole serie of calculations (for further details, take a look at the source code) to prepare the dataset. Two features are important to be understood: 
+    - The function requires specific variable names at the moment. For details, take a look at the source code, which has been commented to be as clear as possible
+    - The function operates on a Pandas DataFrame. So one first needs to load a DataFrame (from .csv, .xlsx, etc...). The function returns a new dataset with all the original + the calculated variables.
+
+- __graph_retentions(d, row_selected, sample, corrected = True)__
+
+This function plots the retentions (and the excretions, side by side) calculated on the _previously prepared dataset_ (so obviously one needs to run first the function miget_dataset_preparation) against the normal values. The function takes again a Pandas DataFrame ad argument as well as:
+    - row_selected: which row of the dataset to use (each one representing 1 measurement). Remember the 0-index of Python.
+    - sample: whether to use the set 1 or set 2 (remember that MIGET measurements are always acquired in double).
+    - corrected: whether to correct for acetone losses. By default it is set to True
+
+- __write_raw_report(...)__
+
+This is an auxillary function that actually writes a .RAW file to be fed into SHORT. It use is already incapsulated into export_raw_input (see below). Anyway, one may use acquired data to run this function, without using a Pandas DataFrame. It takes many arguments, I suggest to take a look directly at the source code. 
+
+- __export_raw_input(dataset, record_n, default_pc = False, scaling_peak_factor = 1e-4)__
+
+This function works again on a Pandas DataFrame. It gathers the variables from the dataset and outputs 2 .RAW files (using the aforementioned function) that will be fed into SHORT. 
+    - record_n: indicates which line of the dataset to use (= which subject/measurement needs to be formatted for the export)
+    - dafault_pc: in case the _partition coefficients_ were not measured, defaults can be exported
+    - scaling_peak_factor: the original Fortran routine accepted Gas Chromatography peaks in mm. Our GC-MS exports data in "signal amplitude". Therefore, a global scaling factor needs to be decided to fit into the required format. For us 1e-4 works great, but with any given system this is different. 
+
+
+### vq_plotter
+
+This module collects methods to make relatively easy to plot logarithmic distribution of ventilation and perfusion.
+
+- __plot_defined_vq(qt, sdq1, sdq2, qmean1, qmean2, qratio, vdvt, qsqt, save = False, name_saved_file = None, file_extension = "jpg", resolution = 600)__
+
+This function plots, possibly for teaching purposes, determined V/Q distribution given certain physiological parameters. Furthermore, it gives the possibility to save the output plot with a given name, extension and resolution. The plot allows a bimodal distribution controlled by the parameters:
+    - qt: cardiac output [l/min]
+    - sdq1 (and 2): standard deviation of the first (and second) cardiac output mean
+    - qmean1 (and 2): mean of the first (and second) cardiac output. For example, "10" means that the first mean of cardiac output falls on a V/Q ratio of 10. 
+    - qratio: proportion of cardiac output on the first mean compared to the second. For example, 0.2 means that 20% of the cardiac output falls on the first mean.
+    - vdvt: deadspace. _The entry is in absolute percentage!_. Therefore "20" means actually 20% of deadspace. 
+    - qsqt: true shunt. _The entry is in absolute percentage!_. Therefore "20" means actually 20% of shunt.
+
+- __plot_miget_output(path_to_txt, save = False, name_saved_file = None, file_extension = "jpg", resolution = 600)__
+
+ This function plots the output of the second Fortran program (VQBOHR) in a publication-ready format. It also gives the possibility to save the file with a good deal of personalization. 
+    - path_to_txt: this parameter needs to be a string of the _absolute path_ where the output file of VQBOHR is stored. 

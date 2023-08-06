@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+utils_miget/__init__.py
+utils_miget/calculations_miget.py
+utils_miget/vq_plotter.py
+utils_miget.egg-info/PKG-INFO
+utils_miget.egg-info/SOURCES.txt
+utils_miget.egg-info/dependency_links.txt
+utils_miget.egg-info/top_level.txt
