@@ -1,0 +1,11 @@
+dotnetz/System/Disposable.py,sha256=ESLfSDGNn3JTS9_HExWyPo7DNLS_9xfG-m3EXHjx9LU,740
+dotnetz/System/EventArgs.py,sha256=2Pit0HCE9ZBHPTj-Yd4ZQN2uPIJdrMcbdYrgT0EOthQ,124
+dotnetz/System/EventHandler.py,sha256=2_LdHjfL4aVSOQK_orQ9jaBRiKindIw5ByBjXXawUo4,1476
+dotnetz/System/IDisposable.py,sha256=U_7KuVfqJKW9af9UoB4BjXVvHwf_SrztQMs2oW55dt8,2748
+dotnetz/System/__init__.py,sha256=9qTeZwE4FyIJp71fV9AXb_fmvnoQKpIo5-fup0V2NxI,192
+dotnetz/__init__.py,sha256=6Wo4g08TQAA3FjNUhfecG7awIUFFLHEUKJYETKcSRgk,62
+dotnetz/runtime.py,sha256=uijppFMtT4lb2nj19atMAThGBWzlLj7Z3e2VgcXTMSc,253
+dotnetz-0.1.1.dist-info/LICENSE,sha256=cs_TEocqIIgGQIKi-elgeOYzXbpTP7tq-gavHiXDayw,1149
+dotnetz-0.1.1.dist-info/WHEEL,sha256=FMw6u7Kp3jrdDDtJRZ3hkPV-9adLQT8pbM4iifKUGfw,85
+dotnetz-0.1.1.dist-info/METADATA,sha256=DvrLcFr_GECKqVFZGzZYtJvEd3M9kuoX29QdufoS9Xs,2209
+dotnetz-0.1.1.dist-info/RECORD,,
