@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/core_utils/__init__.py
+src/core_utils/user_collection.py
+src/dummy/__init__.py
+src/dummy/say_hello.py
+src/utils_rbiswasfc.egg-info/PKG-INFO
+src/utils_rbiswasfc.egg-info/SOURCES.txt
+src/utils_rbiswasfc.egg-info/dependency_links.txt
+src/utils_rbiswasfc.egg-info/top_level.txt
