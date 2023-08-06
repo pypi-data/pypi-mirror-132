@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+matrix_gauss.egg-info/PKG-INFO
+matrix_gauss.egg-info/SOURCES.txt
+matrix_gauss.egg-info/dependency_links.txt
+matrix_gauss.egg-info/not-zip-safe
+matrix_gauss.egg-info/top_level.txt
