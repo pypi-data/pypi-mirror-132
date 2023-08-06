@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: seamester
+Version: 1.2
+Summary: UNKNOWN
+Home-page: https://github.com/PROgramJEDI/seamester
+Author: PROgramJEDI
+Author-email: UNKNOWN
+License: MIT
+Download-URL: https://github.com/PROgramJEDI/seamester/archive/refs/tags/1.2.tar.gz
+Description: UNKNOWN
+Keywords: courses,semester,degree,university,learn
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
