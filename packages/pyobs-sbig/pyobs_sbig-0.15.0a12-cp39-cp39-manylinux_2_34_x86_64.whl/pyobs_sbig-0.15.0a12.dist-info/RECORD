@@ -1,0 +1,11 @@
+pyobs_sbig/__init__.py,sha256=IjdUQaKC_dbxq0nTQmRauJ4p9M0e-OGKi3Kd6cYpHy0,180
+pyobs_sbig/sbig6303e.py,sha256=M-HP7kRNVK5gcs19MeGv2YmKSRQhs2Z1kAuMU5T787w,1591
+pyobs_sbig/sbigcamera.py,sha256=W_1OuvTCyUoUAJaNIxqUJLCkBPpDyNRZfMZVysRpOaY,9312
+pyobs_sbig/sbigfiltercamera.py,sha256=zxItHxX9xrnoy6DN-qTsbA4dKHcyj61d6Vl4mQgpVSQ,6776
+pyobs_sbig/sbigudrv.cpp,sha256=jJ1-SD1hy5Ym9RkNYmIlNmElK0L_RWzLz7eaL9giQtw,841812
+pyobs_sbig/sbigudrv.cpython-39-x86_64-linux-gnu.so,sha256=qSIuSFXkHnqTROHweGzCtQ0_lUqDYJLR8Jgf2rlTio0,2305976
+pyobs_sbig/sbigudrv.pxd,sha256=qE9ZyCLvoE07MsUEIu4A5VJvwJ4U-armSzm-sB09DwQ,9399
+pyobs_sbig/sbigudrv.pyx,sha256=MUmomgGU8z0_9Y4fiL4kJ1sLi5ANZawHw_EZcfN1dG8,11058
+pyobs_sbig-0.15.0a12.dist-info/WHEEL,sha256=zwHwUUtOmFVE1ozaa23NP-uIxLKxoQvYqSTuL4cCBTU,103
+pyobs_sbig-0.15.0a12.dist-info/METADATA,sha256=MiFufjiGRQn9d0XqKIFf8BwM5zAOT-rMy7813LB66H0,475
+pyobs_sbig-0.15.0a12.dist-info/RECORD,,
