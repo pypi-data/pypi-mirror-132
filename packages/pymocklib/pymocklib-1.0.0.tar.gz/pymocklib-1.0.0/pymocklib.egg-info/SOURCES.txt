@@ -1,0 +1,9 @@
+README.md
+setup.py
+lib/__init__.py
+lib/__main__.py
+lib/helpers.py
+pymocklib.egg-info/PKG-INFO
+pymocklib.egg-info/SOURCES.txt
+pymocklib.egg-info/dependency_links.txt
+pymocklib.egg-info/top_level.txt
