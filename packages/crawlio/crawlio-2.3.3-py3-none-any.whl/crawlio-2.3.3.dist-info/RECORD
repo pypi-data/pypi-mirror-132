@@ -1,0 +1,13 @@
+crawlio/__init__.py,sha256=k6Y-YU8qfliq1_OXpFvrgwEdGHBHnZtzLOyOK353c74,125
+crawlio/classes.py,sha256=Pcrv-CSd_1WQroXWSYu5K30v53Cbgs33Eyxi2vg7PXg,422
+crawlio/cli.py,sha256=x-wwxWMUrXPFvdrTHuAmLYVDC5hpiHtXf1QAZqpqKrs,732
+crawlio/cmd.py,sha256=pjOvAp3_HHxNUdg-Un8tqCNx9x4_7H90_3V3oZUILGo,772
+crawlio/crawlio.py,sha256=-RsXBiqszETUnQAn_31iD9eFAU93hScesenBUfdXNr4,4596
+crawlio/web/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+crawlio/web/app.py,sha256=Nxobn_6niGDha41l_ayWvy488t1_FkHooi7UuK9wWAs,813
+crawlio-2.3.3.dist-info/COPYING,sha256=N0P3pKtRMvfb64jmgJdlerg3TnS0a2QC776AzPsbZIg,35128
+crawlio-2.3.3.dist-info/METADATA,sha256=pJBsrwDC2vLA5C6rP4TYYYVpX9ZV_l0Fm1QRaUyy174,2506
+crawlio-2.3.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+crawlio-2.3.3.dist-info/entry_points.txt,sha256=rp9I-kd5_T6za6NLx9UYs5pB7ZWws8ScV-fADiI3BaI,55
+crawlio-2.3.3.dist-info/top_level.txt,sha256=MbUKwQX6h1a-KplQGAZ5LlDNqK7Ki5aCO6sqEF3qoRU,8
+crawlio-2.3.3.dist-info/RECORD,,

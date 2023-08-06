@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    crawlio=crawlio.cli:cli
+    
