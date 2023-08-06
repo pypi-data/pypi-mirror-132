@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: tmtools
+Version: 0.0.1
+Summary: Python bindings around the TM-align code for structural alignment of proteins
+Home-page: https://github.com/jvkersch/tmtools
+Author: Joris Vankerschaver
+Author-email: joris.vankerschaver@gmail.com
+License: GPLv3
+Platform: Linux
+Platform: Mac OS-X
+Platform: Unix
+Platform: Windows
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: biopython
+Requires-Dist: numpy
+
+['TM-Tools\n', '========\n', '\n', 'Python bindings for the TM-align algorithm and code [developed by Zhang et\n', 'al](https://zhanggroup.org/TM-align/) for protein structure comparison.\n', '\n', '\n', 'Installation\n', '------------\n', '\n', 'From the console, simply run\n', '```console\n', '    pip install git+https://github.com/jvkersch/tmtools.git#egg=tmtools\n', '```\n', '\n', 'The package supports Python 3.6 and up. You will need a fairly recent version\n', 'of pip, as well as a C++ compiler that supports C++ 14.\n', '\n', 'This package supports Linux, macOS, and Windows.\n', '\n', 'Usage\n', '-----\n', '\n', 'The function `tmtools.tm_align` takes two NumPy arrays with coordinates for the\n', 'residues (with shape `(N, 3)`) and two sequences of peptide codes, performs the\n', 'alignment, and returns the optimal rotation matrix and translation, along with\n', 'the TM score:\n', '```python\n', '>>> import numpy as np\n', '>>> from tmtools import tm_align\n', '>>>\n', '>>> coords1 = np.array(\n', '...     [[1.2, 3.4, 1.5],\n', '...      [4.0, 2.8, 3.7],\n', '...      [1.2, 4.2, 4.3],\n', '...      [0.0, 1.0, 2.0]])\n', '>>> coords2 = np.array(\n', '...     [[2.3, 7.4, 1.5],\n', '...      [4.0, 2.9, -1.7],\n', '...      [1.2, 4.2, 4.3]])\n', '>>>\n', '>>> seq1 = "AYLP"\n', '>>> seq2 = "ARN"\n', '>>>\n', '>>> res = tm_align(coords1, coords2, seq1, seq2)\n', '>>> res.t\n', 'array([ 2.94676159,  5.55265245, -1.75151383])\n', '>>> res.u\n', 'array([[ 0.40393231,  0.04161396, -0.91384187],\n', '       [-0.59535733,  0.77040999, -0.22807475],\n', '       [ 0.69454181,  0.63618922,  0.33596866]])\n', '>>> res.tm_norm_chain1\n', '0.3105833326322145\n', '>>> res.tm_norm_chain2\n', '0.414111110176286\n', '```\n', '\n', 'If you already have some PDB files, you can use the functions from `tmalign.io`\n', 'to retrieve the coordinate and sequence data:\n', '```python\n', '>>> from tmtools.io import get_structure, get_residue_data\n', '>>> from tmtools.testing import get_pdb_path\n', '>>> s = get_structure(get_pdb_path("2gtl"))\n', '>>> s\n', '<Structure id=2gtl>\n', '>>> chain = next(s.get_chains())\n', '>>> coords, seq = get_residue_data(chain)\n', '>>> seq\n', "'DCCSYEDRREIRHIWDDVWSSSFTDRRVAIVRAVFDDLFKHYPTSKALFERVKIDEPESGEFKSHLVRVANGLKLLINLLDDTLVLQSHLGHLADQHIQRKGVTKEYFRGIGEAFARVLPQVLSCFNVDAWNRCFHRLVARIAKDLP'\n", '>>> coords.shape\n', '(147, 3)\n', '```\n', '\n', 'These functions are light-weight wrappers around BioPython.\n', '\n', 'Credits\n', '-------\n', '\n', 'This package arose out of a personal desire to better understand both the\n', 'TM-score algorithm and the\n', '[pybind11](https://pybind11.readthedocs.io/en/stable/index.html) library to\n', 'interface with C++ code. At this point in time it contains no original research\n', 'code.\n', '\n', 'If you use the package for research, you should cite the [original TM-score\n', 'papers](https://zhanggroup.org/TM-score/):\n', '\n', '- Y. Zhang, J. Skolnick, _Scoring function for automated assessment of protein\n', '  structure template quality_, Proteins, 57: 702-710 (2004).\n', '- J. Xu, Y. Zhang, How significant is a protein structure similarity with\n', '  TM-score=0.5? Bioinformatics, 26, 889-895 (2010).\n', '\n', 'License\n', '-------\n', '\n', 'The original TM-align software (version 20210224, released under the MIT\n', 'license) is bundled with this repository (`src/extern/TMalign.cpp`). Some small\n', 'tweaks had to be made to compile the code on macOS and to embed it as a\n', 'library. This modifications are also released under the MIT license.\n', '\n', 'The rest of the codebase is released under the GPL v3 license.\n']
+
