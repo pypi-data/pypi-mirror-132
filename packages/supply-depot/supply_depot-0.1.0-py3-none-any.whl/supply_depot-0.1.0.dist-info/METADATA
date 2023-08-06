@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: supply-depot
+Version: 0.1.0
+Summary: Useful python components for research
+Home-page: https://github.com/kragniz/cookiecutter-pypackage-minimal
+Author: Shyam Sudhakaran
+Author-email: shyamsnair@protonmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Requires-Dist: gym
+Requires-Dist: torch
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: ray
+Requires-Dist: tqdm
+Requires-Dist: tensorboard
+Requires-Dist: opencv-python
+
+# Supply Depot: Collection of python components for research (WIP)
+
+
