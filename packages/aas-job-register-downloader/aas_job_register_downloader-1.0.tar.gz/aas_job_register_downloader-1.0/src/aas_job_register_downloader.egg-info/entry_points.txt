@@ -1,0 +1,3 @@
+[console_scripts]
+download_aas_jobs = aas_job_register_downloader.cli:main
+
