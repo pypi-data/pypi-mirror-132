@@ -1,0 +1,6 @@
+main.py
+setup.py
+burgerpizza.egg-info/PKG-INFO
+burgerpizza.egg-info/SOURCES.txt
+burgerpizza.egg-info/dependency_links.txt
+burgerpizza.egg-info/top_level.txt
