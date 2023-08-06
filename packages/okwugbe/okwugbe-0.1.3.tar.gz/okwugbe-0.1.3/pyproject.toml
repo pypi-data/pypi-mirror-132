@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel", "numpy", "torch", "torchaudio","datasets==1.12.1", "colorama","ipython==5.5.0", "livelossplot"
+]
+install_requires = [
+    "setuptools>=42",
+    "wheel", "numpy", "torch", "torchaudio","datasets==1.12.1","colorama","ipython==5.5.0", "livelossplot"
+]
+build-backend = "setuptools.build_meta"

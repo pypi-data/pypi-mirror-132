@@ -1,0 +1,9 @@
+setuptools>=42
+wheel
+numpy
+torch
+torchaudio
+datasets==1.12.1
+colorama
+ipython==5.5.0
+livelossplot
