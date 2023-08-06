@@ -1,0 +1,16 @@
+geniverse/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+geniverse/modeling_utils.py,sha256=-YUUNG0vZS5zj_LZo1IA4P6t6a7nHYacHsT1_D9bI18,22474
+geniverse/models/__init__.py,sha256=JskpITBPz51tB8HkvI8BpAy3R5FFh2qeZcmzY-HxjyM,527
+geniverse/models/aphantasia/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+geniverse/models/aphantasia/modeling_aphantasia.py,sha256=NjgnNC5cgu6ijXEbTYyuZLK2v1GbYC5qruOItf3rwbc,15956
+geniverse/models/dalle_mini/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+geniverse/models/dalle_mini/modeling_dalle_mini.py,sha256=S4dSZkjbJjZwIKscAK3a0DgOpjVM-1ZhSDL-qhA_GyY,5580
+geniverse/models/glide/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+geniverse/models/glide/modeling_glide.py,sha256=FddRn2KXaizMGBl6XrXfoPHK5etQdv_mKQ2Exln0gnQ,2414
+geniverse/models/taming/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+geniverse/models/taming/modeling_taming.py,sha256=vWRjEpoN3vb9ocus9Oa5-KWuHYsc14lmc2TOMTykEsE,22400
+geniverse-0.1.2.dist-info/LICENSE,sha256=ZabnNRSuX5byyHpJIsXm4FX836tUloBLh7UReyUhWI0,1066
+geniverse-0.1.2.dist-info/METADATA,sha256=XcAjwZPxWXyaXVDrH3Er6iy9MCfe2l6xYSWeg_2Pvow,1292
+geniverse-0.1.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+geniverse-0.1.2.dist-info/top_level.txt,sha256=UO8wp22j-0JHWlFhEEezAr2XzjEmwVyQveDIv3Fh2n0,10
+geniverse-0.1.2.dist-info/RECORD,,
