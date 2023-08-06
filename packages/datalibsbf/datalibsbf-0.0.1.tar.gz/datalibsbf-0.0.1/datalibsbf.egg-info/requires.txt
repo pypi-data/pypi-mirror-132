@@ -1,0 +1,7 @@
+awswrangler
+google-cloud-bigquery
+redshift-connector
+pandas
+cx_Oracle
+pyodbc
+boto3
