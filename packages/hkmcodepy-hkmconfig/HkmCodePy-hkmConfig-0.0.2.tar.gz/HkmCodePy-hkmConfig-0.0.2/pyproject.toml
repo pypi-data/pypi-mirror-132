@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "HkmCodePy-hkmConfig"
+version = "0.0.2"
+description = "@HkmCodePy Configuration system package"
+authors = ["Hakeem Shamavu <hakeemshamavu@hakrichteam.com>"]
+license = "GNU"
+maintainers = ["Hakeem Shamavu <hakeemshamavu@hakrichteam.com>"]
+readme = "README.md"
+homepage = "https://github.com/hakrichTech/HkmCodePy"
+repository = "https://github.com/hakrichTech/HkmCodePy"
+documentation = "https://github.com/hakrichTech/HkmCodePy"
+keywords = ["python", "import", "HkmCodePy", "config", "HkmCodePy-hkmConfig", "metaprogramming", "dynamic config", "configuration"]
+classifiers = [
+    'Topic :: Software Development :: Libraries',
+    'Development Status :: 1 - Planning',
+    'Intended Audience :: Developers',
+    'License :: OSI Approved :: MIT License',
+    'Programming Language :: Python',
+    'Programming Language :: Python :: 3',
+    'Programming Language :: Python :: Implementation :: CPython',
+    'Programming Language :: Python :: Implementation :: PyPy',
+]
+packages = [
+    { include = "hkmConfig" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+autoload-module = "^1.7.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
