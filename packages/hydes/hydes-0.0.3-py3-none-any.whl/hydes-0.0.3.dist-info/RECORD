@@ -1,0 +1,12 @@
+animation.py,sha256=VoUTK5fHl-Vp5lnOiFPahAnwljccQmFHqwFK0Og8loc,490
+calc.py,sha256=RsH-4qL8lQ6EPSmEeIkcSjKjeMw7Oi_w_aDXfBGmElY,509
+display.py,sha256=DWskC_9m9-LLspI1nNo-pPa1HDrQpI-Kdn4zFG1U58M,4492
+domain.py,sha256=oM5-ph5oH8xgTvSOGktePtedexmM0YvxDJj9fZxmh8c,878
+hydes.py,sha256=ccNfmyw3DCAXm6wH3ETRt-K2DawehXSka0o53qpZgoA,2857
+initCond.py,sha256=A2xYQk2PL2pLTXNyvnUf3ZCZiuw_8shpoCO0cSxtSUQ,3609
+state.py,sha256=qN9I3ItPPKvXp3RSK7jplLrXmlwcsmnxuTqLNHGLFVQ,9365
+hydes-0.0.3.dist-info/LICENSE,sha256=uht_gwBjkdq_8mYcwe0jEpkcmROFQmEVVtB7gOS81Mc,1092
+hydes-0.0.3.dist-info/METADATA,sha256=SUpGRIHAJop6FBsip9LFCzc2cLHKVNrhR7NkvoUm04c,1277
+hydes-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+hydes-0.0.3.dist-info/top_level.txt,sha256=jBNDeFxLhQn49jUUnj6juvT3t2FThSLl4ff_yBfN5sE,51
+hydes-0.0.3.dist-info/RECORD,,
