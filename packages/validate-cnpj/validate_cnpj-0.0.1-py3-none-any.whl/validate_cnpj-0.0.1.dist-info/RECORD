@@ -1,0 +1,9 @@
+validate_cnpj/__init__.py,sha256=b3oXYm-pksR0UaHkQAITedj-tPg74wUKJ8D5Yl2WAYo,179
+validate_cnpj/__main__.py,sha256=8j8MeU6BXnCIs3s6FbmEgT-F7tXO4ubUsTj8aXA7mUI,104
+validate_cnpj/cli.py,sha256=YCHZy9u_wBp-UftY6o-NlWvvNJcBmCCa4ZcDnmswP-8,452
+validate_cnpj/py.typed,sha256=NDn05us5lPTEQGpdKZrP71EPR0ONAlxFv3x_6j2hptY,158
+validate_cnpj/validate_cnpj.py,sha256=I899iSgkUqjKYw_4GeZwhzCAH7GzVYenBZbisgQhxRg,1239
+validate_cnpj-0.0.1.dist-info/LICENSE,sha256=K2cui9h7f2Vixxlr1g2ZP9BzPA6r--_ZJbmLnVyBFBs,1077
+validate_cnpj-0.0.1.dist-info/WHEEL,sha256=V7iVckP-GYreevsTDnv1eAinQt_aArwnAxmnP0gygBY,83
+validate_cnpj-0.0.1.dist-info/METADATA,sha256=CCqTd8PtAk1FXBcWQ4vwv56xEY0uZVwzsYGXCIw0yz0,1580
+validate_cnpj-0.0.1.dist-info/RECORD,,
