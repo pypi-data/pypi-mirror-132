@@ -1,0 +1,11 @@
+NMisS/SoLAE.py,sha256=83-QkJmbZP_0dqz1_Y1Z-xTsDz2TBHdNybY_otknopc,13240
+NMisS/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+NMisS/approximation.py,sha256=FUCCzXbGIiESzUfIH5dmmLbhDzNaTa-UkRj_q82km4M,9252
+NMisS/equations.py,sha256=AJ8fKBak3hYh0NLD44xW4I_xkksO0I3pfNnMoi1ApWU,12813
+NMisS/integ_diff.py,sha256=cUm-w6i80WJYW47C6Xx-1xZv4dg2HT80yBvhusyYZhY,5238
+NMisS/matrix.py,sha256=jgIAaPsSGi07Kf2Dtxj-xckuF9gyfGiEm27PYQIVZYM,12697
+NMisS/spectral.py,sha256=FxboQ8Da63IILGXCUOYBMW42rlIrj8ylAe_UMi1Qajo,4024
+NMisS-0.1.0a1.dist-info/METADATA,sha256=QPO8C_FSY6CLwVEQWEgJBULQtKKFgpuAofV4svs36nA,431
+NMisS-0.1.0a1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+NMisS-0.1.0a1.dist-info/top_level.txt,sha256=oI_NBB85FC-ASknsGzAB2nV7KlqGV_Bzs0MJgotdKRc,6
+NMisS-0.1.0a1.dist-info/RECORD,,
