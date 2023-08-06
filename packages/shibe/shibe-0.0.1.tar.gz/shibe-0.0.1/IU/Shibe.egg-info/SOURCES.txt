@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+IU/Shibe.egg-info/PKG-INFO
+IU/Shibe.egg-info/SOURCES.txt
+IU/Shibe.egg-info/dependency_links.txt
+IU/Shibe.egg-info/top_level.txt
+IU/shibe.egg-info/PKG-INFO
+IU/shibe.egg-info/SOURCES.txt
+IU/shibe.egg-info/dependency_links.txt
+IU/shibe.egg-info/top_level.txt
