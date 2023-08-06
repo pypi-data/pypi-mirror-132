@@ -1,0 +1,10 @@
+draw_polygon.cp36-win_amd64.pyd,sha256=N35ymy_qTKUNbw0sc48e6yUxV_3UWdxyA7G5eh5lqVg,262144
+find_contours.cp36-win_amd64.pyd,sha256=lsFmI0zLHjwSfx1t05AyXUjjZzdvse_nWaXQsSjRHMQ,152576
+run_length_encoding.cp36-win_amd64.pyd,sha256=MVDeMkdxaM0toHnfXq_Lbzt6_tGu-HxxvNWyQuwsbyo,150528
+simplify_polygon.cp36-win_amd64.pyd,sha256=qICYqaKyqdqe4hGG-RYkSdz3kzmT8B8ZY36K50Nxmo0,39936
+upolygon/__init__.py,sha256=P92xc-5MUEhRb4WNe3beG6r9DbqArImnHONyOwqmrVc,215
+upolygon-0.1.7.dist-info/LICENSE,sha256=EOL0lqq3kI2oy_qwY95M3XkGrrLWzTjyuS-oO3yMFZc,1092
+upolygon-0.1.7.dist-info/METADATA,sha256=379y9TSTcf2h6a1btarHpVf4f_hF-5U_-wh3oUfgTBg,2563
+upolygon-0.1.7.dist-info/WHEEL,sha256=hjxCepQBXS-sq_JehIDt_m-XLDxE9ssXOignC0wRm1s,101
+upolygon-0.1.7.dist-info/top_level.txt,sha256=5VhPAEB3KpSpSXie94Yb_PHVLVXh85qeYEfxki7XZbM,73
+upolygon-0.1.7.dist-info/RECORD,,
