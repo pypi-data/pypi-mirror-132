@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+matrixcalc/__init__.py
+matrixcalc/matrix.py
+matrixcalc.egg-info/PKG-INFO
+matrixcalc.egg-info/SOURCES.txt
+matrixcalc.egg-info/dependency_links.txt
+matrixcalc.egg-info/requires.txt
+matrixcalc.egg-info/top_level.txt
