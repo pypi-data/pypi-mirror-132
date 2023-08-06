@@ -1,0 +1,8 @@
+[build-system]
+requires = [
+    "pytest",
+    "pytest-cov",
+    "setuptools",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
