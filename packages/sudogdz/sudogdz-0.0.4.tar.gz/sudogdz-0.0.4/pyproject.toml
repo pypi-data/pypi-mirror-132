@@ -1,0 +1,32 @@
+[tool.bumpver]
+current_version = "0.0.4"
+version_pattern = "MAJOR.MINOR.PATCH"
+
+[tool.bumpver.file_patterns]
+"sudogdz.py" = [
+    '__version__ = "{version}"',
+]
+
+[build-system]
+requires = [
+    "flit_core >=3.2,<4",
+]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "sudogdz"
+authors = [{name = "Shishkevich"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: MIT License"]
+requires-python = ">=3.6"
+dependencies = [
+    "lxml >=4.7.1",
+    "requests >=2.6",
+    "beautifulsoup4 >=4.10.0",
+    "fake-useragent >=0.1.11",
+]
+dynamic = ["version", "description"]
+
+[project.urls]
+Home = "https://github.com/aye20054925/sudogdz"

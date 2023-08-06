@@ -1,0 +1,47 @@
+<p align='center'><img src='https://github.com/aye20054925/SudoGDZ/blob/main/png/Logo.png?raw=true'></p>
+
+<h1 align='center'>SudoGDZ (Unstable)</h1>
+<p align='center'>Parser of everything from the Russian reshebnik GDZ.RU</p>
+
+## Install
+To start learning about cheating, you need to execute one great command
+```bash
+pip install sudogdz
+```
+
+## Using and examples
+### Get books and copybooks from GDZ.ru
+To start using you have to import sudogdz into your project and declare the **`GDZ`** class
+```python
+from sudogdz import GDZ
+
+resheba = GDZ()
+```
+Lets get a list of algebra textbooks for 7 Class (Russian Education System) and print textbook name and authors?
+##### script.py
+```python
+from sudogdz import GDZ
+
+resheba = GDZ()
+
+schoolitems = resheba.GDZGet.schoolsubjects() # ["matematika", "english", "russkii_yazik", "algebra", ...]
+
+for textbook in resheba.GDZGet.books(schoolclass=8, schoolitem=schoolitems[3]):
+	print(textbook.name)
+	print(textboot.authors)
+```
+Lets check console:
+```bash
+$ python script.py
+Алгебра 7 класс  Ю.Н. Макарычев Просвещение 2015-2019
+Ю.Н. Макарычев, Н.Г. Миндюк, К.И. Нешков, С.Б. Суворова, С. А. Теляковский
+======================
+...
+```
+### Get information about book / copybook
+Soon
+### Get answers for book / copybook
+Soon
+
+## Build from source
+Soon
