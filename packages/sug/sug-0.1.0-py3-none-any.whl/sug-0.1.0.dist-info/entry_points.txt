@@ -1,0 +1,3 @@
+[console_scripts]
+sug=sug.__main__:app
+
