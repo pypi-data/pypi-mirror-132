@@ -1,0 +1,10 @@
+electrostatic/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+electrostatic/asgi.py,sha256=W9I1AQDjxFLkK-2PXot5zhlXhD4cc-5v0-u23YXVHKE,13643
+electrostatic/assets.py,sha256=aatJQ1LThdBeKYUG-y64SXVV3o2s9zfShyNBOQiRYRU,7673
+electrostatic/typing.py,sha256=lRBAfLIC6_r-n9ZLOwa3GsNGYTJbeH04cKSx4HrBIxU,158
+electrostatic/utils.py,sha256=S7ZArJ-TRuwj5Byso_4aOisyHgNgybBau7A3w9b1fE4,8058
+electrostatic/wsgi.py,sha256=Lw9mS5eUYSHOkL2ZiHoZDmN1X4dDgvHtf6saGGYe1NM,253
+electrostatic-0.0.1.dist-info/LICENSE,sha256=XHyTxEl52dbdryndjDvVxoYCa5elk_w6cGwHJak9KCU,1067
+electrostatic-0.0.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+electrostatic-0.0.1.dist-info/METADATA,sha256=p1ShO7pn3ZXBXbIzSsbUBcqJc0sIP09QU-uieWgqyNE,1814
+electrostatic-0.0.1.dist-info/RECORD,,
