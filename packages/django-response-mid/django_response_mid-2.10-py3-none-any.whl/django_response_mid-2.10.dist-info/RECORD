@@ -1,0 +1,11 @@
+django_response_middleware/__init__.py,sha256=EAfXxEv1HBX903tDSkzJVjsjQQ2MWOOdJNZ6fDATR0k,734
+django_response_middleware/django_response_middleware.py,sha256=0dP7eaudnB2Gi0v4TzXrfhkFk0L--eOUaTyK-2Mt9OM,2963
+django_response_middleware/response_codes.py,sha256=c9lP2H_SFWIiNDCiW90MaCXVg5wYMhqm_CzmNAjvPq8,3496
+django_response_middleware/response_data.py,sha256=JU7RKw5sdN5dDeeskT770eh84TGWA9fq4GoePl7e0dE,3008
+django_response_middleware/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_response_middleware/utils/type_conversion.py,sha256=YmUn5QsDqw6X7MLUKwoDyzIpJy81TVdXKNJ2012XRi4,750
+django_response_mid-2.10.dist-info/METADATA,sha256=97dqN3Np8zFR21PX9FPnXoDfm5PMFSC3ZRVxaS5UBEM,442
+django_response_mid-2.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+django_response_mid-2.10.dist-info/top_level.txt,sha256=MgzbqUASY8x2qCICR_4ar1Y033TPt67dXeu8tk87Gfg,27
+django_response_mid-2.10.dist-info/zip-safe,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+django_response_mid-2.10.dist-info/RECORD,,
