@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pytyping/__init__.py
+src/pytyping/app.py
+src/pytyping.egg-info/PKG-INFO
+src/pytyping.egg-info/SOURCES.txt
+src/pytyping.egg-info/dependency_links.txt
+src/pytyping.egg-info/entry_points.txt
+src/pytyping.egg-info/top_level.txt
