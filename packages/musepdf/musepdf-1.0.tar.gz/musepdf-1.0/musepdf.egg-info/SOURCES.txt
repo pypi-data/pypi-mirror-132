@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+musepdf/__init__.py
+musepdf/pdf2image.py
+musepdf/pdf2text.py
+musepdf.egg-info/PKG-INFO
+musepdf.egg-info/SOURCES.txt
+musepdf.egg-info/dependency_links.txt
+musepdf.egg-info/top_level.txt
