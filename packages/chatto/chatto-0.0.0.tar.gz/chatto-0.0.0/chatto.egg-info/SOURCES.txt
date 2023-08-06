@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.py
+chatto/__init__.py
+chatto/errors.py
+chatto.egg-info/PKG-INFO
+chatto.egg-info/SOURCES.txt
+chatto.egg-info/dependency_links.txt
+chatto.egg-info/top_level.txt

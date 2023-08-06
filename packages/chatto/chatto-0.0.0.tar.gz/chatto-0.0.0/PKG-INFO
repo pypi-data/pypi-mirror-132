@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: chatto
+Version: 0.0.0
+Summary: A unified API wrapper for YouTube and Twitch chat bots.
+Home-page: https://github.com/parafoxia/chatto
+Author: Ethan Henderson
+Author-email: 
+License: BSD 3-Clause 'New' or 'Revised' License
+Project-URL: Documentation, https://chatto.readthedocs.io/en/latest
+Project-URL: Source, https://github.com/parafoxia/chatto
+Project-URL: Bug Tracker, https://github.com/parafoxia/chatto/issues
+Project-URL: CI, https://github.com/parafoxia/chatto/actions
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development
+Classifier: Typing :: Typed
+Requires-Python: >=3.7.0,<3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Chatto
+
+A unified API wrapper for YouTube and Twitch chat bots.
+
+## Contributing
+
+Chatto is open to contributions. To find out where to get started, have a look at the [contributing guide](https://github.com/parafoxia/chatto/blob/main/CONTRIBUTING.md).
+
+## License
+
+The Chatto module for Python is licensed under the [BSD 3-Clause License](https://github.com/parafoxia/chatto/blob/main/LICENSE).
+
+
