@@ -1,0 +1,10 @@
+norfair/__init__.py,sha256=ZLxJTvt4at9xF12ddWTgVkntyr9S8DVkKbL27VwV6WM,72
+norfair/filter.py,sha256=UAXC8Q6hFwYO7fhgarmJN8ZS1kwTQhKQgOA78aH_-60,1354
+norfair/kalman.py,sha256=Cxl6xVWFK0LwGBXuW0FP4nO-OqlNDNR5ow123SeZM_0,3751
+norfair/tracker.py,sha256=m0UbaKyBs7epWu0ldP648THpmOMnsQZOew77Y0ggfH0,13021
+norfair/utils.py,sha256=0xy4F1QedhCGXpDnRO4BmiHSgggv5YHRV3pW-8lLOPE,999
+techainer_norfair-0.3.3.dist-info/LICENSE,sha256=Fx3itxw5_TCDlxsv8lfCAO947jhfRN0RYskqMRjWsUw,1508
+techainer_norfair-0.3.3.dist-info/METADATA,sha256=0z74K4aYfRoVd9ge3pxmvOqoQ1AiLKkIDYhioXNhIXA,306
+techainer_norfair-0.3.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+techainer_norfair-0.3.3.dist-info/top_level.txt,sha256=RAeZeW80B82oZ0ewGSt4wTAIqi1gunL2Axn2RvgzdtE,8
+techainer_norfair-0.3.3.dist-info/RECORD,,
