@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+ansys_ace_project_gen.egg-info/PKG-INFO
+ansys_ace_project_gen.egg-info/SOURCES.txt
+ansys_ace_project_gen.egg-info/dependency_links.txt
+ansys_ace_project_gen.egg-info/entry_points.txt
+ansys_ace_project_gen.egg-info/not-zip-safe
+ansys_ace_project_gen.egg-info/requires.txt
+ansys_ace_project_gen.egg-info/top_level.txt
+createaceproject/ProjectGenerator.py
+createaceproject/__init__.py
+createaceproject/main.py
