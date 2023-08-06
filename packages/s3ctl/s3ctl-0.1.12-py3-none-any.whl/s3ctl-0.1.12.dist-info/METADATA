@@ -1,0 +1,19 @@
+Metadata-Version: 2.0
+Name: s3ctl
+Version: 0.1.12
+Summary: s3ctl is using for get info about s3 buckets
+Home-page: UNKNOWN
+Author: Jonathan Morais
+Author-email: jonathan.m.lucena@gmail.com.br
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: boto3
+Requires-Dist: click
+
+UNKNOWN
+
+
