@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+requirements.txt
+setup.cfg
+PackageIt.egg-info/PKG-INFO
+PackageIt.egg-info/SOURCES.txt
+PackageIt.egg-info/dependency_links.txt
+PackageIt.egg-info/requires.txt
+PackageIt.egg-info/top_level.txt
+packageit/ExceptionCodes.py
+packageit/PackageItException.py
+packageit/__init__.py
+packageit/packageit.py
+packageit/test.py
