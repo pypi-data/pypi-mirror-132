@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: terminal-password
+Version: 0.1.1
+Summary: a tool for input cipher password
+Home-page: UNKNOWN
+License: UNKNOWN
+Keywords: password,terminal
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.4
+
+================
+Usage
+================
+
+This module support input cipher password in terminal,Only support Python 3.  
+
+Default prompt char is `*`，you can replace the prompt as you love,such as ★.  
+
+::
+
+    import terminal_password as password
+    a = password.get_password()
+    b = password.get_password(u'\u2605')
+
+This is a example for this module.
+
+.. image:: img/terminal_password.gif
+
