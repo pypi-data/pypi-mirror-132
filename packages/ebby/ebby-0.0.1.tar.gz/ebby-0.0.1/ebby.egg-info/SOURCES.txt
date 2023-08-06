@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+ebby.egg-info/PKG-INFO
+ebby.egg-info/SOURCES.txt
+ebby.egg-info/dependency_links.txt
+ebby.egg-info/top_level.txt
