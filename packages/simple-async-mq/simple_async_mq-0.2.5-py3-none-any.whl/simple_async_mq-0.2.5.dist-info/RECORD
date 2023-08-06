@@ -1,0 +1,10 @@
+simple_async_mq/__init__.py,sha256=vhQffRPQcYR__uXB6kSj6pkkNRuCmjQZGy1l_BzXpi8,112
+simple_async_mq/client_app.py,sha256=aRJsxikQK9yn5E4nPjdn-xMbaaDlfYzPhyb07QspfnY,3142
+simple_async_mq/client_app_example.py,sha256=MAnQU87A-GLRv_xA4QTtzeQWu-psOgbHC0YfAIhM370,357
+simple_async_mq/client_pub_app_example.py,sha256=KXCLrOTrHYZBFadp9rJ5j2ZcRapmWw6IOTxCIQpwCyU,663
+simple_async_mq/client_sub_app_example.py,sha256=RLuAqCvEBkMwNM75qY1BJjgOICwfnLYfmcuvVQF0f94,382
+simple_async_mq-0.2.5.dist-info/LICENSE.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+simple_async_mq-0.2.5.dist-info/METADATA,sha256=aZ2Mw0ikOEukL9azpvydqPQfHYU9QvLY3FZSN08IVoI,736
+simple_async_mq-0.2.5.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+simple_async_mq-0.2.5.dist-info/top_level.txt,sha256=bwUWgKOD1HEHFv-yKdGVtaDdXRxVNqdH_WY1DqX0_No,16
+simple_async_mq-0.2.5.dist-info/RECORD,,
