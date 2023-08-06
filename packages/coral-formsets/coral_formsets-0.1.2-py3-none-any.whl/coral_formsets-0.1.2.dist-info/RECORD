@@ -1,0 +1,9 @@
+coral_formsets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+coral_formsets/apps.py,sha256=0eKpl3_aWKACO-wg_Gg002452V8-XJUxa_Xey_9n9Zo,142
+coral_formsets/static/coral_formsets/js/FormSet.js,sha256=6ndrBOqz8iUnOQw5w1_LjJr6Nn9221rAKhCBE28XdCs,6293
+coral_formsets/templatetags/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+coral_formsets/templatetags/coral_formset_tags.py,sha256=9Oed2v_aLWEk_Yoy1uf4koH3jS3F3Zbgit76kGUTdCQ,428
+coral_formsets-0.1.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+coral_formsets-0.1.2.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+coral_formsets-0.1.2.dist-info/METADATA,sha256=gHpZLFYJ7ump529z82-TIEm3SDdCV5-1EPfXK61b7Gk,2955
+coral_formsets-0.1.2.dist-info/RECORD,,
