@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pywevolor/__init__.py
+src/pywevolor/wevolor.py
+src/pywevolor.egg-info/PKG-INFO
+src/pywevolor.egg-info/SOURCES.txt
+src/pywevolor.egg-info/dependency_links.txt
+src/pywevolor.egg-info/top_level.txt
