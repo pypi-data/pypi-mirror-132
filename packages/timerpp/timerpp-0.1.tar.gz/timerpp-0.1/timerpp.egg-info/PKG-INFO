@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: timerpp
+Version: 0.1
+Summary: timer class
+Home-page: https://github.com/nbdy/timerpp
+Author: Pascal Eberlein
+Author-email: pascal@eberlein.io
+License: UNKNOWN
+Keywords: timer soft-timer
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# timerpp
+
+# features
+
+- [X] header only
+- [X] [tested](tests.cpp)
+- [X] no dependencies
+- [X] python bindings
+
+# example
+
+```c++
+#include "timerpp.h"
+#include <iostream>
+
+int main() {
+  uint64_t lastTimestamp = TIMESTAMP_MS;
+  uint64_t newTimestamp = 0;
+  uint32_t x = 0;
+  timerpp::Timer t([&x, &newTimestamp, &lastTimestamp]{
+    newTimestamp = TIMESTAMP_MS;
+    x += newTimestamp - lastTimestamp;
+    lastTimestamp = newTimestamp;
+  });
+
+  t.start(500);
+  std::this_thread::sleep_for(Milliseconds(1501));
+  t.stop();
+
+  std::cout << "1500 == " <<  x << std::endl;
+
+  return 0;
+}
+```
+
