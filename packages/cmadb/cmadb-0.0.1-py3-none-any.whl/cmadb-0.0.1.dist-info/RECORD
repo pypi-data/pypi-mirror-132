@@ -1,0 +1,10 @@
+cm_adb/__init__.py,sha256=EOUstzGLRYrkCUDGmzTPmEwsVNqCod-vOy3gWR12vUs,876
+cm_adb/client.py,sha256=4PK4_HZjs_BDwqqM7pjKbDraBQluUf6nUWF38JVi2F0,276
+cm_adb/server.py,sha256=p6jjZMuN8OMJN1PmDby5S5NPZYJ3EWVM9CqtQ9s7hlY,1075
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/server_tests.py,sha256=rYbfkdaXlY3m0qUE_udTAnsCKEckGsVQ7qcbdgHTCWc,483
+cmadb-0.0.1.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+cmadb-0.0.1.dist-info/METADATA,sha256=QbgEi7mRNaL8TT_E8eUWb7oe7lBcKrPgD1F2TNtRtLo,983
+cmadb-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cmadb-0.0.1.dist-info/top_level.txt,sha256=XVMEhPJUY8Glgtqyj_meRbd7xzgmEbnB-50py-tCzTk,13
+cmadb-0.0.1.dist-info/RECORD,,
