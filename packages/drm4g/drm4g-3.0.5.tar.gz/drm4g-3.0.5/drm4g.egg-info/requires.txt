@@ -1,0 +1,5 @@
+docopt
+paramiko>=2.4
+scp
+fabric
+openssh-wrapper
