@@ -1,0 +1,9 @@
+bytecodes/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bytecodes/func.py,sha256=JB5qA7We78FxSWWOHNS_KcJEwIEi5sVPTPPU1Dw-1sg,5487
+bytecodes/insn.py,sha256=1-V8xxSL9Z8sThtLCvGw-seovXwVdS18HeGCvU27CCA,5727
+bytecodes/test.py,sha256=EX-usN5ehfpHoy5cpgvfwD8nZ6kYJYU-n7bZXFoDSqY,759
+bytecodes-0.0.1a2.dist-info/LICENSE,sha256=PndHPP8koJIYPSnBdEqZLZEmsEOwXiKPhsvvf7_J0-s,1059
+bytecodes-0.0.1a2.dist-info/METADATA,sha256=v3SZ00RC7UwYkBcX9QUdE6QDCs8ozgxPwVxd6fIhyPw,704
+bytecodes-0.0.1a2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bytecodes-0.0.1a2.dist-info/top_level.txt,sha256=JqR5OnuPXFovAD_02STdROLvMQ1WyPvdA75TmkSCVWU,10
+bytecodes-0.0.1a2.dist-info/RECORD,,
