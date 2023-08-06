@@ -1,0 +1,7 @@
+README.rst
+license.txt
+setup.py
+ibrahimpdfafridi.egg-info/PKG-INFO
+ibrahimpdfafridi.egg-info/SOURCES.txt
+ibrahimpdfafridi.egg-info/dependency_links.txt
+ibrahimpdfafridi.egg-info/top_level.txt
