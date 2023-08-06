@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+pygifconvt/__init__.py
+pygifconvt/converter.py
+pygifconvt_dark_king.egg-info/PKG-INFO
+pygifconvt_dark_king.egg-info/SOURCES.txt
+pygifconvt_dark_king.egg-info/dependency_links.txt
+pygifconvt_dark_king.egg-info/not-zip-safe
+pygifconvt_dark_king.egg-info/requires.txt
+pygifconvt_dark_king.egg-info/top_level.txt
