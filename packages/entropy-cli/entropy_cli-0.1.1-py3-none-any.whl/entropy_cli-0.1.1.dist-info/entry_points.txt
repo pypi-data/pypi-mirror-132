@@ -1,0 +1,3 @@
+[console_scripts]
+entropy=entropy_cli.main:main
+
