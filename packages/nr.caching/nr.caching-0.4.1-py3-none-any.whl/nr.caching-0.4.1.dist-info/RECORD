@@ -1,0 +1,15 @@
+nr/__init__.py,sha256=V4HKk2TVKBPn9noSDfyZUHgwFUUHFFXpAchk3zhVj_o,82
+nr/caching/__init__.py,sha256=NPVvidu8ERx6L-CV7r6VQTSFH7eTTOZS-cziBe7-iIc,85
+nr/caching/api.py,sha256=CHggbKsUulepW2BnxgZYv4TokSDELS-bRtLH9uGkkvo,1692
+nr/caching/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nr/caching/adapters/__init__.py,sha256=iQVvXVSHpd_CXb2h7j8MbNdVn8UeGTpXdMeC7Is-nvw,121
+nr/caching/adapters/json.py,sha256=t1xDoEVDVNJWljUCRXYXyi-F4D54riEDphUBC7YID2U,5639
+nr/caching/adapters/mapping.py,sha256=rVcIuP8WbeGRtLtG7KFmOaT0BlnK9ErtCNIFE16pnqY,1662
+nr/caching/stores/__init__.py,sha256=DEE32lzpu5l3fBisg-4mlal_XnHj9EPmMECet6hIKhM,123
+nr/caching/stores/jsondirectory.py,sha256=bj7hy0a7XScywmA7EyZ-lN33Bp1W3ZsfknYwJqlvFUc,2591
+nr/caching/stores/sqlite.py,sha256=_zpjg79eAmateBHn7M1BWm93wi-sr19WXWEqXeSCACY,5409
+nr.caching-0.4.1.dist-info/LICENSE.txt,sha256=DWcTMuhLaPQZurKHQT2h7S8qmLCOEKgGuZ_kTIgjSiI,1002
+nr.caching-0.4.1.dist-info/METADATA,sha256=Chx15c16-Ykk1bIHfVojCX_Dt8MFAKtMf23aHXsj2nc,1242
+nr.caching-0.4.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+nr.caching-0.4.1.dist-info/top_level.txt,sha256=8ipe96hphd64fYwhLcJmehxJ5lvqPpqOvSWVv-HcPnI,3
+nr.caching-0.4.1.dist-info/RECORD,,
