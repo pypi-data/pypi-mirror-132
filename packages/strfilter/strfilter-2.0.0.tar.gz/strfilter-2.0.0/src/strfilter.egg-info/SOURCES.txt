@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/strfilter/__init__.py
+src/strfilter/strfilter.py
+src/strfilter.egg-info/PKG-INFO
+src/strfilter.egg-info/SOURCES.txt
+src/strfilter.egg-info/dependency_links.txt
+src/strfilter.egg-info/top_level.txt

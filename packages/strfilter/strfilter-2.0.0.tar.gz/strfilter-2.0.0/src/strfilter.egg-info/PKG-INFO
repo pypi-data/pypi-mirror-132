@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: strfilter
+Version: 2.0.0
+Summary: A (simple) package for filtering text based on an input
+Home-page: UNKNOWN
+Author: Rizwan Niju
+Author-email: mohammed.r210@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+This package is a program that filters text based on an input.
+
+A class named TextFilter has a function, self.findclosest(place).
+
+place should be the string "first" or "any". Then, if place is first,
+TextFilter will check every item in the "this" list (when initialised)
+and if the input matches, then it will be part of what is returned.
+
+"any" is an idiom for "return this item if TextFilter can find an 
+instance of the substring 'input' inside the item of the list".
+
+That's all! My Scratch Profile is rizwan4j.
+
