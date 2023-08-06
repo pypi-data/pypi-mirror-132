@@ -1,0 +1,10 @@
+README.md
+setup.py
+libpythonpro/__init__.py
+libpythonpro/github_api.py
+libpythonproSantos.egg-info/PKG-INFO
+libpythonproSantos.egg-info/SOURCES.txt
+libpythonproSantos.egg-info/dependency_links.txt
+libpythonproSantos.egg-info/not-zip-safe
+libpythonproSantos.egg-info/requires.txt
+libpythonproSantos.egg-info/top_level.txt
