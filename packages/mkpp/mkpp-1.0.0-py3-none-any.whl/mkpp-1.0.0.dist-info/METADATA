@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mkpp
+Version: 1.0.0
+Summary: Simple tool for creating Python packages. For lazies.
+License: MIT
+Author-email: jieggii <jieggii.contact@gmail.com>
+Requires-Python: >=3.6
+Project-URL: homepage, https://github.com/jieggii/mkpp
