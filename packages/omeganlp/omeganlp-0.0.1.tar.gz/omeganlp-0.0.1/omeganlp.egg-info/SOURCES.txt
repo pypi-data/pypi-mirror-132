@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+omeganlp/__init__.py
+omeganlp.egg-info/PKG-INFO
+omeganlp.egg-info/SOURCES.txt
+omeganlp.egg-info/dependency_links.txt
+omeganlp.egg-info/not-zip-safe
+omeganlp.egg-info/top_level.txt
