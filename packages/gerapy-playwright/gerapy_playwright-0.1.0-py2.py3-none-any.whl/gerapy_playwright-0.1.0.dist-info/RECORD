@@ -1,0 +1,11 @@
+gerapy_playwright/__init__.py,sha256=QCv7D8dqRuilOLQqA7ph50JfgWupTmntbBp3hujN3xM,95
+gerapy_playwright/__version__.py,sha256=nC13bGsZRtv3brvY4j3zV-hYDwM-D9jtG-JO8AjiMKA,75
+gerapy_playwright/downloadermiddlewares.py,sha256=gg8wIW9ouU09eKirsxikLO_58CD_RRT5vSomxbFUFQ8,17221
+gerapy_playwright/pretend.py,sha256=kPIQmVci4Ji68j6T3bO32eMOaHlX9oLwp6kjSHhLRwA,140733
+gerapy_playwright/request.py,sha256=9BO87TfpjS1OLejZ4B8pK0B2NBeZlAlW3OKRnSr1_TI,4107
+gerapy_playwright/settings.py,sha256=qw9jlmoRT3XzSOe71V86RqgGFHTUIYeTtShTx8eSkQo,1590
+gerapy_playwright/utils.py,sha256=zapU5WqdAnmzoyXlf6inuqIBB0q00dh-2b0bj7YvmBw,1191
+gerapy_playwright-0.1.0.dist-info/METADATA,sha256=Hqfvwq8nBm4YAoejpg5dy5mpKyCrwmZ2Ii_gfSv6xoU,15292
+gerapy_playwright-0.1.0.dist-info/WHEEL,sha256=ADKeyaGyKF5DwBNE0sRE5pvW-bSkFMJfBuhzZ3rceP4,110
+gerapy_playwright-0.1.0.dist-info/top_level.txt,sha256=zMAH2dE3i7BA1gdXBnF1GidfSOUttg265LWsPfhzsR0,18
+gerapy_playwright-0.1.0.dist-info/RECORD,,
