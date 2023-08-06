@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+webnew/__init__.py
+webnew.egg-info/PKG-INFO
+webnew.egg-info/SOURCES.txt
+webnew.egg-info/dependency_links.txt
+webnew.egg-info/top_level.txt
