@@ -1,0 +1,27 @@
+{
+    "simName":  "SampleSim",
+    "domain":{
+                "xmin": -10, "xmax": 10.0,
+                "ymin": -10, "ymax": 10.0,
+                "xres":  128, "yres": 128
+            },
+
+    "initCond":{
+                "type":         "gaussian",
+                "subtype":      "shock",
+                "ampl":         2,
+                "v0":           0e0,
+                "magNum":       1e-3},
+
+    "maxIter":      1e3,
+    "maxTime":      1e2,
+    "clf":          0.97,
+    "boundCond":    "0deriv",
+
+    "plotType":     "quiver",
+    "pltCad":       5e1,
+
+    "savePath":     "results",
+    "savePlotCad":  1,
+    "saveSnapCad":  1e2
+}

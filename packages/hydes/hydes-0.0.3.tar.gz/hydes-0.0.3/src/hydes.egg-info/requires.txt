@@ -1,0 +1,7 @@
+numpy
+matplotlib
+setuptools>=54
+wheel
+
+[movie]
+opencv-python
