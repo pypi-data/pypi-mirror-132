@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: simple-dbc
+Version: 0.0.59
+Summary: Database Client
+Home-page: https://github.com/AnthonyRaimondo/dbc
+Author: Anthony Raimondo
+Author-email: anthonyraimondo7@gmail.com
+License: GNU
+Platform: UNKNOWN
+Requires-Dist: pydantic
+Requires-Dist: mysql-connector-python
+Requires-Dist: pandaSuit
+
+UNKNOWN
+
+
