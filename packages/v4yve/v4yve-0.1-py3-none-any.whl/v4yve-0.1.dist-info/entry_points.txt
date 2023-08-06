@@ -1,0 +1,5 @@
+[console_scripts]
+v4b = v4yve.cli:main
+v4yv3 = v4yve.cli:main
+v4yve = v4yve.cli:main
+
