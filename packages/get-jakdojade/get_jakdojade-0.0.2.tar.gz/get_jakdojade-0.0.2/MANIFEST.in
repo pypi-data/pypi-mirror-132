@@ -1,0 +1,2 @@
+recursive-include get_jakdojade *
+global-exclude *.pyc
