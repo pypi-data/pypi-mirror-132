@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "yeouia"
+version = "3.0.0"
+description = "Yummy Email Or Username Insensitive Auth model backend for Django"
+authors = ["Guilhem Saurel <guilhem.saurel@laas.fr>"]
+license = "BSD-2-Clause"
+readme = "README.md"
+homepage = "https://github.com/nim65s/django-YummyEmailOrUsernameInsensitiveAuth"
+repository = "https://github.com/nim65s/django-YummyEmailOrUsernameInsensitiveAuth.git"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = ">=2.2<5.0"
+
+[tool.poetry.dev-dependencies]
+coverage = "^5.5"
+black = "^21.12b0"
+django-stubs = "^1.7.0"
+flake8 = "^3.9.2"
+mypy = "^0.812"
+pre-commit = "^2.11.1"
+pydocstyle = "^6.0.0"
+safety = "^1.10.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
