@@ -1,0 +1,17 @@
+_pyodide/__init__.py,sha256=ERSEVD3t6GH1OzmTdaJzjFgB3-OYLVXUHSPzBfa28FA,597
+_pyodide/_base.py,sha256=PY4WBG6bC-spNFiz99GmSgpENNoAVoaYEPpUWhr2GDI,18617
+_pyodide/_core_docs.py,sha256=fD1j4lwL3RCHQMpnkO-6IzN2LfOfsP8PbpRkSv2H1VQ,10705
+_pyodide/_importhook.py,sha256=PTFOkYzWdmQUea1ssEayj0NDS4v6xanidDrGraTk8lk,4244
+_pyodide/console.py,sha256=aJuDvTtDHNSy6rKpjeH1xxXVQ-kGeS_Ub9ymdqWxlqw,17147
+_pyodide/docstring.py,sha256=XgY8BLERp5mY01oxVh7rQW-W2SavnKRPPY7HjF9xEzM,1646
+pyodide/__init__.py,sha256=If5ErYOzdewWh7pa66hhwQKnk9vNukwJOAD9zU6WDv0,1517
+pyodide/_core.py,sha256=GIP24_6qgqe2R4T2P2KKSn_Dsv_AJO_A7dT1uJkeVVE,627
+pyodide/_state.py,sha256=53RfoByH9kkLXm3aljgPYJSam-N7MZUOD4aOtlH-LuY,1376
+pyodide/_util.py,sha256=0cAF9AaRiUgSdSrQI24q7UtQDSEgfpYNrOjxdYn09Po,1025
+pyodide/console.py,sha256=TdgqKey1-GZVe-O6LxJ_7vSnQKuysbK__TNK4Q096rA,1088
+pyodide/http.py,sha256=KOSwzgd416Ja_Z7wGam34gFC-6B2QlHpdR_3dWyO_cs,7215
+pyodide/webloop.py,sha256=lxA9USVhJPzpCkJATo299hdTNuPV2-wUk-CzMNICvKw,14424
+pyodide-0.19.0a1.dist-info/METADATA,sha256=zZmaQJ1Fxv4mGng7Y5LFe0fT3IFYZ9YFJq-_XYqFVmY,1804
+pyodide-0.19.0a1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+pyodide-0.19.0a1.dist-info/top_level.txt,sha256=Do7WJD0HYc2ZnO0EeqZi--1f_JgXH1oc5z56Cgx1TNY,17
+pyodide-0.19.0a1.dist-info/RECORD,,
