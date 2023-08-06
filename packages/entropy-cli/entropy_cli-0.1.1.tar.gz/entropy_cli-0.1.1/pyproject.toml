@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "entropy_cli"
+version = "0.1.1"
+description = "the command line tool for seamless code projects"
+authors = ["perseus.yang <ry82@cornell.edu>"]
+readme = "README.rst"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.26.0"
+boto3 = "^1.20.23"
+awscli = "^1.22.23"
+
+[tool.poetry.scripts]
+entropy = "entropy_cli.main:main"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
