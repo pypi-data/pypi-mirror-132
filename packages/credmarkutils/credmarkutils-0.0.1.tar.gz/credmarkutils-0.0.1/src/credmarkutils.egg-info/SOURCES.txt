@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+test_helloworld.py
+src/helloworld.py
+src/credmarkutils.egg-info/PKG-INFO
+src/credmarkutils.egg-info/SOURCES.txt
+src/credmarkutils.egg-info/dependency_links.txt
+src/credmarkutils.egg-info/requires.txt
+src/credmarkutils.egg-info/top_level.txt
