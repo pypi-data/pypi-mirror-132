@@ -1,0 +1,11 @@
+aas_job_register_downloader/__init__.py,sha256=WKI1U3TI7SwNx3ea1J2h-YAy9YFLGwsUfH2mFKpL8NQ,385
+aas_job_register_downloader/cli.py,sha256=QonOvgcNotr3-ANae8aoNXbNO_tztQMVfFh1GyQfxS8,1410
+aas_job_register_downloader/html_parser.py,sha256=SFrCkq1ViMXEve8B1GWk_tUcQKRt8jNRBxjteJNXLWY,958
+aas_job_register_downloader/parse_job_page.py,sha256=U2beQYGhI-1CXBOlKkc1gBUPkpbnoMub427cgI8nzFU,257
+aas_job_register_downloader/parse_main_page.py,sha256=ScyP77Gz48oJlqbqfaO_x5WfVprOYzujB9zQp8mmDfk,1105
+aas_job_register_downloader-1.0.dist-info/METADATA,sha256=bGB-S5H60Poya692U42gB8G2om25PKwWckGcv_j0Gao,1495
+aas_job_register_downloader-1.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+aas_job_register_downloader-1.0.dist-info/entry_points.txt,sha256=FcuSqM9Jc2lxI6X5P0KRCjdyjJs5FbWs_FjQcTWBmWI,76
+aas_job_register_downloader-1.0.dist-info/top_level.txt,sha256=jMeFyz-yYW0iUpUYWNS2impy_f_d5kumB6RXxKeEDZY,28
+aas_job_register_downloader-1.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aas_job_register_downloader-1.0.dist-info/RECORD,,
