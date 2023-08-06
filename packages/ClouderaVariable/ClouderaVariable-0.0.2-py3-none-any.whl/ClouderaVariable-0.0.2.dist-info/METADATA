@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ClouderaVariable
+Version: 0.0.2
+Summary: Configuration path information of Cloudera related components
+Home-page: UNKNOWN
+Author: zhuhs
+Author-email: zhuhs087@163.com
+License: apache 3.0
+Platform: UNKNOWN
+Requires: numpy
+
+UNKNOWN
+
+
