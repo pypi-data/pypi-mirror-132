@@ -1,0 +1,3 @@
+[console_scripts]
+easy-cli = easy_cli.scripts.easy_scripts:cli
+
