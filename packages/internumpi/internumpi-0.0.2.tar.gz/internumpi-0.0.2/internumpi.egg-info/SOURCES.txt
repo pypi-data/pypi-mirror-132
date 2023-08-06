@@ -1,0 +1,12 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+internumpi/__init__.py
+internumpi/distributeData.py
+internumpi/interpolate.py
+internumpi/main.py
+internumpi.egg-info/PKG-INFO
+internumpi.egg-info/SOURCES.txt
+internumpi.egg-info/dependency_links.txt
+internumpi.egg-info/top_level.txt
