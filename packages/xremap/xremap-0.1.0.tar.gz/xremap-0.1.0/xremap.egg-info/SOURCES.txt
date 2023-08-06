@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+xremap-python
+xremap/dsl.py
+xremap.egg-info/PKG-INFO
+xremap.egg-info/SOURCES.txt
+xremap.egg-info/dependency_links.txt
+xremap.egg-info/requires.txt
+xremap.egg-info/top_level.txt
