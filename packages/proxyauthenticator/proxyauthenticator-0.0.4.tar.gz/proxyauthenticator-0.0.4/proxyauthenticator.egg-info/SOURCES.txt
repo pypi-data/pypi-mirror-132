@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+proxyauthenticator.egg-info/PKG-INFO
+proxyauthenticator.egg-info/SOURCES.txt
+proxyauthenticator.egg-info/dependency_links.txt
+proxyauthenticator.egg-info/top_level.txt
