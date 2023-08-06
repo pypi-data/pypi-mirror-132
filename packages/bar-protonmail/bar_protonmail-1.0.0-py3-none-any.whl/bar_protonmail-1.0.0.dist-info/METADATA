@@ -1,0 +1,80 @@
+Metadata-Version: 2.1
+Name: bar-protonmail
+Version: 1.0.0
+Summary: Waybar/Polybar module for notifications and unread messages count from ProtonMail
+Home-page: https://github.com/crabvk/bar-protonmail
+Author: Vyacheslav Konovalov
+Author-email: crabvk@protonmail.com
+License: MIT
+Project-URL: Source, https://github.com/crabvk/bar-protonmail
+Project-URL: Tracker, https://github.com/crabvk/bar-protonmail/issues
+Keywords: waybar polybar protonmail
+Platform: Unix
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: proton-client (>=0.7.1)
+Requires-Dist: dnspython (>=2.1.0)
+
+# New message notifications and unread messages count from ProtonMail (Waybar/Polybar module)
+
+## Dependencies
+
+* proton-client >= 0.7.1
+* libnotify
+* ttf-font-awesome (default badge )
+* libcanberra (optional, notification sound)
+
+## Waybar config example
+
+~/.config/waybar/config
+```json
+"modules-right": {
+    "custom/protonmail"
+}
+...
+"custom/protonmail": {
+    "exec": "bar-protonmail",
+    "return-type": "json",
+    "interval": 10,
+    "tooltip": false,
+    "on-click": "xdg-open https://mail.protonmail.com/u/0/inbox"
+}
+```
+~/.config/waybar/style.css
+```css
+#custom-protonmail.unread {
+    color: white;
+}
+#custom-protonmail.inaccurate {
+    color: darkorange;
+}
+#custom-protonmail.error {
+    color: darkred;
+}
+```
+
+## Polybar config example
+
+```ini
+modules-right = protonmail
+...
+[module/protonmail]
+type = custom/script
+exec = bar-protonmail -f polybar
+interval = 10
+click-left = xdg-open https://mail.protonmail.com/u/0/inbox
+```
+
+## Script arguments
+
+See `bar-protonmail -h` for the list of arguments with descriptions.  
+Possible values for `-s`, `--sound` can be found with:
+```shell
+ls /usr/share/sounds/freedesktop/stereo/
+```
+without extension, for example `-s message-new-instant`.
+
+
