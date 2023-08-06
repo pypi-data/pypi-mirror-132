@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: osmapi-py2
+Version: 2.0.0
+Summary: Python 2 wrapper for the OSM API
+Home-page: https://github.com/fishertsai/osmapi-py2
+Maintainer: Fisher Tsai
+Maintainer-email: fishy0903@gmail.com
+License: GPLv3
+Keywords: openstreetmap,osm,api
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: GIS
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Description-Content-Type: text/x-rst
+Requires-Dist: requests
+
+Python wrapper for the OSM API
+
+
