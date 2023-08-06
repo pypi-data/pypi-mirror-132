@@ -1,0 +1,46 @@
+[tool.poetry]
+name = "blueskyapi"
+version = "0.1.0a2"
+description = "Client for blueskyapi.io"
+authors = ["blueskyapi.io <contact@blueskyapi.io>"]
+license = "MIT"
+readme = "README.md"
+
+homepage = "https://blueskyapi.io"
+repository = "https://github.com/bluesky-api/python-client"
+
+keywords = ["weather", "data", "api"]
+
+packages = [
+    { include = "blueskyapi", from = "src" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+pandas = "^1.1"
+requests = "^2.0"
+
+[tool.poetry.dev-dependencies]
+black = "^21.12b0"
+isort = "^5.10.1"
+coveralls = "^3.3.1"
+pytest = "^6.2.5"
+pytest-sugar = "^0.9.4"
+
+[tool.black]
+target-version = ['py37']
+
+[tool.isort]
+py_version = 37
+profile = "black"
+force_single_line = true
+combine_as_imports = true
+lines_after_imports = 2
+src_paths = ["src", "tests"]
+
+[tool.coverage.run]
+source = ["src"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
