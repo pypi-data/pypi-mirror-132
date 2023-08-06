@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ml_pipe_core
+Version: 0.0.1
+Summary: Machine learning pipeline for accelerators
+Home-page: https://github.com/desy-ml/ml-pipeline
+Author: Michael Boese
+Author-email: michael.boese@desy.de
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/desy-ml/ml-pipeline/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ML_PIPE_CORE
+
+
+
