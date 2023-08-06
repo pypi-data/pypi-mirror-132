@@ -1,0 +1,65 @@
+[build-system]
+requires = ["setuptools", "poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "coral-formsets"
+version = "0.1.2"
+description = "Coral formsets"
+authors = ["Cleiton Lima <cleiton.limapin@gmail.com>"]
+license = "GPL-3.0-only"
+readme = "README.md"
+repository = "https://github.com/coral-sistemas/coral-formsets"
+documentation = "https://github.com/coral-sistemas/coral-formsets#coral-formsets"
+keywords = ["django", "formsets", "javascript"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: Django :: 2.2",
+    "Framework :: Django :: 3.2",
+    "Framework :: Django :: 4.0",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+]
+packages = [
+    { include = "coral_formsets", from = "src" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+Django = ">=2.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+pytest-django = "^4.5.2"
+flake8 = "^4.0.1"
+black = "^21.12b0"
+
+[tool.black]
+line-length = 80
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+  | migrations
+)/
+'''
+
+[tool.isort]
+profile = "black"
+line_length = 80
+multi_line_output = 3
+include_trailing_comma = true
+skip = "migrations"
