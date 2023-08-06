@@ -1,0 +1,3 @@
+[console_scripts]
+scitweet=scitweet.cli:main
+

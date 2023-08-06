@@ -1,0 +1,7 @@
+scitweet/__init__.py,sha256=9DWbQDkJ7gq7TFUcv0vEejf0G5Fp3jlnHQGFUodA6Zw,126
+scitweet/cli.py,sha256=xvK9js59bnbdhxI3RASUYRPtmGqBObczxhovBIXvNiE,290
+scitweet/scitweet.py,sha256=h0hwdogXGFqerm-5ZPeT-irPn91pCcQRjiHThXsRzEk,19
+scitweet-0.1.1.dist-info/entry_points.txt,sha256=X_ncCbJc2oVKojPQWQ9Y0SmGcVdTi8w73YdC53pI-iY,46
+scitweet-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+scitweet-0.1.1.dist-info/METADATA,sha256=fMgqCddTxCuFAgW3JZwc9cZQixM-U7tTM5A5KfiMZjk,2277
+scitweet-0.1.1.dist-info/RECORD,,
