@@ -1,0 +1,13 @@
+flake8
+isort
+yapf
+pycodestyle
+pylint<2.12
+pylint-json2html
+mypy
+pytest-cov
+pytest-html
+types-pkg_resources
+hiddenv
+
+[dev]
