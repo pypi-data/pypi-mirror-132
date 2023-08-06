@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+yabai_client/__init__.py
+yabai_client.egg-info/PKG-INFO
+yabai_client.egg-info/SOURCES.txt
+yabai_client.egg-info/dependency_links.txt
+yabai_client.egg-info/top_level.txt
