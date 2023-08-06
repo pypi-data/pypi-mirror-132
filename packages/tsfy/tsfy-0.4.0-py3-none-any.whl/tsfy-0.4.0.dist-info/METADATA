@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: tsfy
+Version: 0.4.0
+Summary: 
+Author: Xiaocong Sun
+Author-email: xiaocong.sun@unianalysis.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: python-dateutil (>=2.8.2,<3.0.0)
