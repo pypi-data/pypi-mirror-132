@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: NMisS
+Version: 0.1.5
+Summary: Эта библиотека создана потрясающими для потрясающих, и содержит в себе решения по численным методам
+Home-page: UNKNOWN
+Author: Yaroslav Turkunov (@joshjson), Pravdina Anna, Shelyagin Aleksandr, Oxana Bogatova
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+
+Эта библиотека содержит в себе простейшие функции, которые были даны во время обучения по дисциплине "численные методы"
+
+
