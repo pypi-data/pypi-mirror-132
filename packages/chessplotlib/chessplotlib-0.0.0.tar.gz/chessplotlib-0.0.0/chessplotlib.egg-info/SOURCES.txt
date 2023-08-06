@@ -1,0 +1,17 @@
+.gitignore
+.travis.yml
+LICENSE
+README.md
+requirements.txt
+setup.py
+chessplotlib/__init__.py
+chessplotlib/plot.py
+chessplotlib.egg-info/PKG-INFO
+chessplotlib.egg-info/SOURCES.txt
+chessplotlib.egg-info/dependency_links.txt
+chessplotlib.egg-info/requires.txt
+chessplotlib.egg-info/top_level.txt
+docs/Makefile
+docs/source/conf.py
+docs/source/index.rst
+docs/source/generated/chessplotlib.rst
