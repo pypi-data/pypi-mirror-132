@@ -1,0 +1,10 @@
+congenial_pogato/command_templates.py,sha256=8BVpg9CWgJQZCG4BF-IirscwE6B7nQA9T8jSMU4inTU,970
+congenial_pogato/db.py,sha256=P8MArsDECg9aTpqa9INhiB3u_l2ufKWxZ7J5xjEEayQ,4093
+congenial_pogato/encoder.py,sha256=dSBdu39d2haazVW0-CHCHvi3NouS6bosepB9KcVurXI,298
+congenial_pogato/parse.py,sha256=OunyBdzTE-qXqFAnT0avV1YAM1eps4mYae_CT3Vcb_Q,5629
+congenial_pogato/schema.py,sha256=5nZZddjhiVAcWuZgps5r7ENLrEQDgHSI497IVkcT9KQ,300
+congenial_pogato/table.py,sha256=o0Zh_Cptg1B88VNpohAE89RzxRV8yFay1BWQrDTNN5Q,8265
+congenial_pogato/util.py,sha256=Y6qHaVFAO4S4nHMU4BqcAvvjpfOobQmsiufQwqOV6VM,1526
+congenial_pogato-0.0.1a0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+congenial_pogato-0.0.1a0.dist-info/METADATA,sha256=5LiZlXkoWOn76CPfaqcMAT7kfwy7LAinL07n-65AduE,480
+congenial_pogato-0.0.1a0.dist-info/RECORD,,
