@@ -1,0 +1,14 @@
+terminal_video_player.py,sha256=1hcIXFEWpxnXXYCuMhWN4fZc5PeT1NTKHc5GxvD6EsU,4539
+to_ascii.py,sha256=GvngU4o5PhL2aM0nzIzKYkJ6wM3XIYfAkhf-jkLoYe8,2107
+vid_info.py,sha256=DhpYUEro8Yz0GOQ8V7J-1GfKCLeoitNtzd7p_lFptOk,510
+app/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app/__main__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app/application.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app1/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app1/__main__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app1/application.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+terminal_video_player_py-1.0.0.dist-info/METADATA,sha256=bZARVOPwBH_pVq7qMNvmk1sbKBwotXjggXmI7uIg05Y,1365
+terminal_video_player_py-1.0.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+terminal_video_player_py-1.0.0.dist-info/entry_points.txt,sha256=vgBiGcYKStqN5aZ2ouK1NzlZkzRU2bdO5Uz5ncmPDmI,70
+terminal_video_player_py-1.0.0.dist-info/top_level.txt,sha256=lxPDoGSB3___tGSewvjbv5_IiIhsao-gPG3_0Y3hBJc,45
+terminal_video_player_py-1.0.0.dist-info/RECORD,,
