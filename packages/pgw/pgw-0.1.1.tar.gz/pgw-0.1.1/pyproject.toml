@@ -1,0 +1,16 @@
+[build-system]
+requires = [
+    "pydub",
+    "pygame",
+    "pywin32",
+    "requests",
+    "pyautogui",
+    "inputs",
+    "pillow",
+    "wxPython",
+    "randstr",
+    "keyboard",
+    "pyperclip",
+    "setuptools >=42"
+]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,13 @@
+cython
+pywin32
+pygame
+inputs
+randstr
+keyboard
+pydub
+wxPython
+pyautogui
+moviepy
+wave
+opencv-python
+pyperclip
