@@ -1,0 +1,3 @@
+[console_scripts]
+hogpylib = hogpylib.__main__:main
+
