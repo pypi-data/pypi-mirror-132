@@ -1,0 +1,9 @@
+README.md
+setup.py
+PyConfigurer/__init__.py
+PyConfigurer/main.py
+PyConfigurer.egg-info/PKG-INFO
+PyConfigurer.egg-info/SOURCES.txt
+PyConfigurer.egg-info/dependency_links.txt
+PyConfigurer.egg-info/requires.txt
+PyConfigurer.egg-info/top_level.txt
