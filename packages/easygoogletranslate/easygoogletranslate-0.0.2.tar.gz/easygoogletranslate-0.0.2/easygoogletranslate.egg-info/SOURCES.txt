@@ -1,0 +1,7 @@
+README.md
+setup.py
+easygoogletranslate.egg-info/PKG-INFO
+easygoogletranslate.egg-info/SOURCES.txt
+easygoogletranslate.egg-info/dependency_links.txt
+easygoogletranslate.egg-info/requires.txt
+easygoogletranslate.egg-info/top_level.txt
