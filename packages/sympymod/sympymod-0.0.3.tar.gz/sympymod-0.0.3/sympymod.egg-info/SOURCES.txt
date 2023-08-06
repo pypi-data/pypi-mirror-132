@@ -1,0 +1,12 @@
+README.md
+setup.py
+sympymod/__init__.py
+sympymod/calculus.py
+sympymod/equation.py
+sympymod/pick.py
+sympymod/utils.py
+sympymod.egg-info/PKG-INFO
+sympymod.egg-info/SOURCES.txt
+sympymod.egg-info/dependency_links.txt
+sympymod.egg-info/requires.txt
+sympymod.egg-info/top_level.txt

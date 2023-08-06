@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: sympymod
+Version: 0.0.3
+Summary: A more convenient API for pencil and paper calculations with sympy
+Home-page: UNKNOWN
+Author: Mathcube
+Author-email: mathcube7@gmail.com
+License: MIT
+Description: # sympymod
+        
+Platform: ALL
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
