@@ -1,0 +1,4 @@
+core
+plugins
+schema
+testing
