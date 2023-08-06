@@ -1,0 +1,90 @@
+package:
+  name: curveball
+  version: {{ GIT_DESCRIBE_TAG }}
+
+source:
+  git_url: ../
+#  patches:
+   # List any patch files here
+   # - fix.patch
+
+build:
+  # noarch_python: True
+  # preserve_egg_dir: True
+  entry_points:
+    # Put any entry points (scripts to be generated automatically) here. The
+    # syntax is module:function.  For example
+    #
+    # - curveball = curveball:main
+    #
+    # Would create an entry point called curveball that calls curveball.main()
+
+    - curveball=curveball.scripts.cli:cli
+
+  # If this is a new build for the same version, increment the build
+  # number. If you do not include this key, it defaults to 0.
+  number: {{ environ.get('GIT_DESCRIBE_NUMBER', 0) }}
+
+requirements:
+  build:
+    - python
+    - setuptools
+    - future
+    - click
+    - lxml
+    - xlrd
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - seaborn
+    - scikit-learn
+    - sympy
+    - lmfit
+    - nose
+
+  run:
+    - python
+    - future
+    - click
+    - lxml
+    - xlrd
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - seaborn
+    - scikit-learn
+    - sympy
+    - lmfit
+    - webcolors
+
+test:
+  # Python imports
+  imports:
+    - curveball
+    - curveball.scripts
+    - data
+    - plate_templates
+    - tests
+
+  commands:
+    # You can put test commands to be run here.  Use this to test that the
+    # entry points work.
+    - curveball --version
+
+  # You can also put a file called run_test.py in the recipe that will be run
+  # at test time.
+
+  # requires:
+    # Put any additional test requirements here.  For example
+    # - nose
+
+about:
+  home: https://github.com/yoavram/curveball
+  license: MIT License
+  summary: 'Predicting competition results from growth curves'
+
+# See
+# http://docs.continuum.io/conda/build.html for
+# more information about meta.yaml
