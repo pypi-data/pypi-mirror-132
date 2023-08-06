@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: inspyred-print
+Version: 1.1
+Summary: A collection of ascii codes to make your visible strings prettier.
+Author: Taylor B.
+Author-email: 43686206+tayjaybabee@users.noreply.github.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: importlib-metadata (>=1.0,<2.0); python_version > "3.8"
+Requires-Dist: lastversion (>=2.0.1,<3.0.0)
+Requires-Dist: pypattyrn (>=1.2,<2.0)
+Requires-Dist: toml (>=0.10.2,<0.11.0)
