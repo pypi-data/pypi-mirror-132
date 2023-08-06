@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: intepop
+Version: 1.0
+Summary: UNKNOWN
+Home-page: https://github.com/danial29rus/interpop
+Author: danial29rus
+Author-email: shpeka4kaps4@mail.ru
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: fraction
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: numexpr
+Requires-Dist: mpmath
+
+UNKNOWN
+
+
