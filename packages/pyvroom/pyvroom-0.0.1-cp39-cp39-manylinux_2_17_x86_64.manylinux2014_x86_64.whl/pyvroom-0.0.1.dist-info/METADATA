@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pyvroom
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Jonathan Feinberg
+Author-email: jonathf@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: numpy
+
+UNKNOWN
+
