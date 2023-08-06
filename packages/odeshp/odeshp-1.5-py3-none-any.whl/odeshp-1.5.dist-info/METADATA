@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: odeshp
+Version: 1.5
+Summary: UNKNOWN
+Home-page: https://github.com/danial29rus/odeshp
+Author: danial29rus
+Author-email: shpeka4kaps4@mail.ru
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: fraction
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: numexpr
+Requires-Dist: mpmath
+
+UNKNOWN
+
