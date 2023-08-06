@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/thumos_configr.egg-info/PKG-INFO
+src/thumos_configr.egg-info/SOURCES.txt
+src/thumos_configr.egg-info/dependency_links.txt
+src/thumos_configr.egg-info/top_level.txt
