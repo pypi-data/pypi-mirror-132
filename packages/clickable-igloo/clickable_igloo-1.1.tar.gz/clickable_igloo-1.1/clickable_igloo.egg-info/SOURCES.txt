@@ -1,0 +1,16 @@
+CHANGELOG.md
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+clickable_igloo/__init__.py
+clickable_igloo.egg-info/PKG-INFO
+clickable_igloo.egg-info/SOURCES.txt
+clickable_igloo.egg-info/dependency_links.txt
+clickable_igloo.egg-info/entry_points.txt
+clickable_igloo.egg-info/not-zip-safe
+clickable_igloo.egg-info/requires.txt
+clickable_igloo.egg-info/top_level.txt
+tests/__init__.py
+tests/test_click.py
