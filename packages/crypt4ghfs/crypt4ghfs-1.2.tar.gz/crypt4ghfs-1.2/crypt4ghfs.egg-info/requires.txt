@@ -1,0 +1,3 @@
+crypt4gh>=1.5
+pyfuse3
+trio
