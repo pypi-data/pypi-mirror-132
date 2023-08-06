@@ -1,0 +1,10 @@
+.gitignore
+LICENSE
+README.md
+setup.py
+annotatec/__init__.py
+annotatec/parser.py
+annotatec/annotatec.egg-info/PKG-INFO
+annotatec/annotatec.egg-info/SOURCES.txt
+annotatec/annotatec.egg-info/dependency_links.txt
+annotatec/annotatec.egg-info/top_level.txt

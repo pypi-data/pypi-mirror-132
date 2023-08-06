@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: annotatec
+Version: 0.1
+Summary: Create annotations for ctypes straight in your C code
+Home-page: https://github.com/lynnporu/annotatec
+Author: Pavlo Tymoshenko
+Author-email: p.tymoshen@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Code Generators
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
