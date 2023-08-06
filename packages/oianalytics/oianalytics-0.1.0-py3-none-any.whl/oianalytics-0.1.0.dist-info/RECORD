@@ -1,0 +1,9 @@
+oianalytics/LICENSE,sha256=4ONuQZ6vK_uaroyHaGqZnbaLDkXK2ON3m7L6pPmFWPs,13799
+oianalytics/__init__.py,sha256=1zhrAOs-L0TyqTkRh16yMr_WcaGVEauy7yo79B5Ainc,41
+oianalytics/api/__init__.py,sha256=KS3j8TNarIVu7LV9A5Y6VCTn3XsuzaXkBg-qGejT17Q,314
+oianalytics/api/_credentials.py,sha256=fbnHe8tH4pnYTltljQwOAzZxTHzKsyBVixK1oF5I3P8,1649
+oianalytics/api/_dataframes.py,sha256=jTu0cCca3eOoKsUyVY9JSclYtq8BeuMzKYYt_JsxyRw,14268
+oianalytics/api/endpoints.py,sha256=-KImFmx0uzdBO7AO_uxhTBnejWK4WQtOVNG6fuDBe18,5532
+oianalytics-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+oianalytics-0.1.0.dist-info/METADATA,sha256=eNB0DyUX_auk8qbqvFInprTcbNvoKuPSkUShMpgZ0VE,437
+oianalytics-0.1.0.dist-info/RECORD,,
