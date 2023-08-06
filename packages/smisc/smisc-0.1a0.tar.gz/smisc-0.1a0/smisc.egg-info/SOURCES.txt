@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+smisc/__init__.py
+smisc/aaa.py
+smisc.egg-info/PKG-INFO
+smisc.egg-info/SOURCES.txt
+smisc.egg-info/dependency_links.txt
+smisc.egg-info/top_level.txt
