@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: feast-spark-offline-store
+Version: 0.0.2
+Summary: Spark support for Feast offline store
+Home-page: https://github.com/Adyen/feast-spark-offline-store
+Author: Thijs Brits
+License: MIT
+Description: # Feast Spark Offline Store
+        
+        Custom offline store for feast to interface with spark.
+        
+        Currently only support for feast `0.14.1`
+        
+        ## Installation
+        
+        `pip install -e .` 
+        
+        Development:
+        
+        `pip install -e .[dev]` 
+        
+        Testing:
+        
+        `pip install -e .[test]`
+        
+        ## Use with feast
+        Install feast and `feast_spark_offline_store` and change feast configurations in `feature_store.yaml` or 
+        `RepoConfig` to use `feast_spark_offline_store.SparkOfflineStore`
+Platform: UNKNOWN
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: test
