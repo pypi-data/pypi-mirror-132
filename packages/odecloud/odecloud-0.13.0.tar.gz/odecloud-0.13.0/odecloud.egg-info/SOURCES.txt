@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+version.py
+odecloud/__init__.py
+odecloud.egg-info/PKG-INFO
+odecloud.egg-info/SOURCES.txt
+odecloud.egg-info/dependency_links.txt
+odecloud.egg-info/not-zip-safe
+odecloud.egg-info/requires.txt
+odecloud.egg-info/top_level.txt
