@@ -1,0 +1,5 @@
+[![npm version](https://badge.fury.io/js/mca-projen-jsii-example.svg)](https://badge.fury.io/js/mca-projen-jsii-example)
+[![PyPI version](https://badge.fury.io/py/mca-projen-jsii-example.svg)](https://badge.fury.io/py/mca-projen-jsii-example)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/software.amazon.awscdk/core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/software.amazon.awscdk/core)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.marciocadev/mca-projen-jsii-example/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.marciocadev/mca-projen-jsii-example)
+[![release](https://github.com/marciocadev/mca-projen-jsii-example/actions/workflows/release.yml/badge.svg)](https://github.com/marciocadev/mca-projen-jsii-example/actions/workflows/release.yml)
