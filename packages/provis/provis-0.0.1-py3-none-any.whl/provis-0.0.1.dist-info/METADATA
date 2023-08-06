@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: provis
+Version: 0.0.1
+Summary: Protein Visualization Library in Python
+Home-page: https://github.com/czirjakkethz/provis
+Author: Kristof Czirjak
+Author-email: czirjakk@student.ethz.ch
+License: MIT
+Keywords: python,protein,visualization,pdb
+Platform: UNKNOWN
+License-File: LICENSE.md
+Requires-Dist: biopython
+Requires-Dist: trimesh
+Requires-Dist: pyvista
+Requires-Dist: biopandas
+Requires-Dist: torch
+Requires-Dist: pyvtk
+Requires-Dist: open3d
+
+UNKNOWN
+
