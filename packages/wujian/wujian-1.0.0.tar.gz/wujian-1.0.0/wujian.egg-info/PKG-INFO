@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: wujian
+Version: 1.0.0
+Summary: wujian hack tools
+Home-page: https://github.com
+Author: wujian
+Author-email: 199406481@qq.com
+License: MIT License
+Description: UNKNOWN
+Platform: all
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries
