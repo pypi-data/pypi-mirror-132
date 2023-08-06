@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: ThermiaOnlineAPI
+Version: 1.0.0
+Summary: A Python API for Thermia heat pumps using https://online.thermia.se
+Home-page: https://github.com/klejejs/python-thermia-online-api
+Author: Krisjanis Lejejs
+Author-email: krisjanis.lejejs@gmail.com
+License: GPL-3.0
+Download-URL: https://github.com/klejejs/python-thermia-online-api/archive/refs/tags/1.0.0.zip
+Description: UNKNOWN
+Keywords: Thermia,Online
+Platform: UNKNOWN
