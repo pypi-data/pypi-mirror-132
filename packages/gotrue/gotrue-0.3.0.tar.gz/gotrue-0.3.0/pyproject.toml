@@ -1,0 +1,47 @@
+[tool.poetry]
+name = "gotrue"
+version = "0.3.0"
+description = "Python Client Library for GoTrue"
+authors = ["Joel Lee <joel@joellee.org>"]
+homepage = "https://github.com/supabase-community/gotrue-py"
+repository = "https://github.com/supabase-community/gotrue-py"
+documentation = "https://github.com/supabase-community/gotrue-py"
+readme = "README.md"
+license = "MIT"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+httpx = ">=0.20,<0.22"
+pydantic = "^1.8.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+Sphinx = "^4.3.2"
+flake8 = "^4.0.1"
+black = "^21.12b0"
+isort = "^5.9.3"
+pre-commit = "^2.16.0"
+pytest-cov = "^3.0.0"
+pytest-depends = "^1.0.1"
+pytest-asyncio = "^0.16.0"
+Faker = "^10.0.0"
+unasync-cli = "^0.0.9"
+commitizen = "^2.20.3"
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "0.3.0"
+version_files = [
+    "gotrue/__init__.py",
+    "pyproject.toml:version"
+]
+tag_format = "v$version"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
