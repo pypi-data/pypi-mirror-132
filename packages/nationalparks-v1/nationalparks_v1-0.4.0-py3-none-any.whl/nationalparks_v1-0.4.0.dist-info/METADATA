@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: nationalparks-v1
+Version: 0.4.0
+Summary: An API package using US National Park Services API to gather data about US National Parks, such as which parks to go for certain activities, how far a park from a location or the latest alerts in that park. May require user to obatin a free API key from US National Parks website.
+Home-page: https://github.com/bengusuozcan/nationalparks_v1
+License: MIT
+Author: Bengusu Ozcan
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Jinja2 (>=3.0.3,<4.0.0)
+Requires-Dist: geopy (>=2.2.0,<3.0.0)
+Requires-Dist: importlib (>=1.0.4,<2.0.0)
+Requires-Dist: lxml (>=4.7.1,<5.0.0)
+Requires-Dist: pandas (>=1.3.5,<2.0.0)
+Requires-Dist: regex (>=2021.11.10,<2022.0.0)
+Requires-Dist: requests (>=2.26.0,<3.0.0)
+Requires-Dist: setuptools (>=59.6.0,<60.0.0)
+Project-URL: Documentation, https://nationalparks_v1.readthedocs.io
+Project-URL: Repository, https://github.com/bengusuozcan/nationalparks_v1
+Description-Content-Type: text/markdown
+
+Author: Bengusu Ozcan
+# nationalparks_v1
+
+An API package using US National Park Services API to gather data about US National Parks, such as which parks to go for certain activities, how far a park from a location or the latest alerts in that park. May require user to obatin a free API key from US National Parks website.
+
+Some functions and testing will depend on US National Parks API key. You may obtain one for free via https://www.nps.gov/subjects/developer/get-started.htm
+
+## Testing
+
+## Data
+
+## Installation
+
+```bash
+$ pip install nationalparks_v1
+```
+
+## Usage
+
+- TODO
+
+## Contributing
+
+Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
+
+## License
+
+`nationalparks_v1` was created by Bengusu Ozcan. It is licensed under the terms of the MIT license.
+
+## Credits
+
+`nationalparks_v1` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+
