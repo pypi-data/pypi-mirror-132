@@ -1,0 +1,7 @@
+sqlalchemy
+pandas
+numpy
+pytz
+clickhouse-driver
+matplotlib
+plotly
