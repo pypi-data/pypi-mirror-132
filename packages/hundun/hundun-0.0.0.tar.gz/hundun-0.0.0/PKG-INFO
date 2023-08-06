@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: hundun
+Version: 0.0.0
+Summary: hundun is a python library for the exploration of chaos.
+Home-page: http://github.com/llbxg/hundun
+Author: kosh
+Author-email: llllbxg@gmial.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Topic :: Scientific/Engineering :: Physics
+Requires-Python: >=3.8
+License-File: LICENSE.txt
+
+# hundun
+
+hundun is a python library for the exploration of chaos.
+Please note that this library is in beta phase.
+
