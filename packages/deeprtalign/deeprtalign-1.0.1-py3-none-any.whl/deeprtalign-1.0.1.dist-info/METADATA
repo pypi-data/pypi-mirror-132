@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: deeprtalign
+Version: 1.0.1
+Summary: retention time alignment tool for large cohort LC-MS data analysis
+Home-page: UNKNOWN
+Author: Yi Liu
+Author-email: leoicarus@163.com
+License: GPLv3
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: xlrd (==1.2.0)
+Requires-Dist: pandas (>=0.24)
+
+UNKNOWN
+
