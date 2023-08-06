@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+requirements.txt
+setup.cfg
+src/BEETools.egg-info/PKG-INFO
+src/BEETools.egg-info/SOURCES.txt
+src/BEETools.egg-info/dependency_links.txt
+src/BEETools.egg-info/requires.txt
+src/BEETools.egg-info/top_level.txt
+src/beetools/__init__.py
+src/beetools/beearchiver.py
+src/beetools/beescript.py
+src/beetools/beeutils.py
+src/beetools/beevenv.py
