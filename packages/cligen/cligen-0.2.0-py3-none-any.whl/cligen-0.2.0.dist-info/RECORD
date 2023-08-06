@@ -1,0 +1,15 @@
+cligen/__init__.py,sha256=VgpsQMqXlufUd9TJup0OywAtk6DHXvg2LzS2T96ur1A,3261
+cligen/__main__.py,sha256=2wBBpijfVS0HJgCMjcnJJ4JcmHTrm2vX5qTDhV8S6Pk,9316
+cligen/cligen.py,sha256=cYVW3_KvzanHjHoHt30nJnfhZcxeclBnbciPUkApwZE,50253
+cligen/scanner.py,sha256=DrHgGWqYSY8trR8KNVYG9bvug4kFcsEsnxOCpuhK2Es,1709
+cligen/_action/checksinglestore.py,sha256=guhZSg002Uq9w9jRj9WfH6tz18ddO2ecwbgtUJiz4vU,662
+cligen/_action/count.py,sha256=QCCuRH2G0vlVVHRb0yXrLftCEf15rbDG5K1AzS8HR5Q,859
+cligen/_action/date.py,sha256=guNZqoifAFyWVv6855jChiLezGJBUNNUUGsF4arIo9Q,1568
+cligen/_action/splitappend.py,sha256=sDTszYf3AgD5lu3MLnoibnVANM2Bs8e2KgSvxsLym_c,778
+cligen-0.2.0.dist-info/LICENSE,sha256=yY3OeTvkMDSF2pPp56ZXjFJLGyDDgXQdfnvHAlwJ1RE,1116
+cligen-0.2.0.dist-info/METADATA,sha256=ebaqmLTg41yVSI3tAd90BwYB_lPwEELLi2qV3lWHn_c,10724
+cligen-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+cligen-0.2.0.dist-info/entry_points.txt,sha256=TSY9of1ZEubQbRUlmLnvbZfmBc_aNmB-G5fCKAqUQNQ,49
+cligen-0.2.0.dist-info/namespace_packages.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+cligen-0.2.0.dist-info/top_level.txt,sha256=12D-ToBHnyqlOwWSjKbm_k2PXuSTiFff9ODk2ppdyHs,7
+cligen-0.2.0.dist-info/RECORD,,
