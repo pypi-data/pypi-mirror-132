@@ -1,0 +1,8 @@
+generic/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+generic/bucket.py,sha256=_LfaNlX4h3zaj6ll9_8XqPL2nMqnP68X4OFQM7nqmys,2557
+generic/ccloud_lib.py,sha256=-pr-heCt5ZypdFWBC-E4u8lslH4M9p4relg9M9C1V_Y,2615
+generic/query.py,sha256=4e6MTJlD1tsIi-iq2Ogs_0yNAG_Kh6kJLRGNWBY98TY,17854
+datalibsbf-0.3.dist-info/METADATA,sha256=DOZp1IzIyH46tlyqj0i9X7A-R_z7Qkqj1lqkWyWlIq4,412
+datalibsbf-0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+datalibsbf-0.3.dist-info/top_level.txt,sha256=SP7D9wwmWU1Ni5O_SB_TUZsED29xGYEQgggglGxMiX8,8
+datalibsbf-0.3.dist-info/RECORD,,
