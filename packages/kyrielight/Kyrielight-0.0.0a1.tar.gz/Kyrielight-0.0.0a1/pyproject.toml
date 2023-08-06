@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "Kyrielight"
+version = "0.0.0a1"
+description = "A WIP app for some random api."
+authors = ["mooncell07 <mooncell07@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
