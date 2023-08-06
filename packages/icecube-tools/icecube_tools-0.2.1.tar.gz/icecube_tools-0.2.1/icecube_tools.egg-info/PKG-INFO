@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: icecube-tools
+Version: 0.2.1
+Summary: Python tools
+Home-page: https://github.com/cescalara/icecube_tools
+Author: Francesca Capel
+Author-email: capel.francesca@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/cescalara/icecube_tools/issues
+Project-URL: Source Code, https://github.com/cescalara/icecube_tools
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# icecube_tools
+
+![CI](https://github.com/cescalara/icecube_tools/actions/workflows/tests.yml/badge.svg)
+[![Docs](https://github.com/cescalara/icecube_tools/actions/workflows/docs.yml/badge.svg)](https://francescacapel.com/icecube_tools/)
+[![codecov](https://codecov.io/gh/cescalara/icecube_tools/branch/master/graph/badge.svg?token=QL01QQPMBJ)](https://codecov.io/gh/cescalara/icecube_tools)
+
+Python tools for working with the IceCube public data - check out the docs for examples.
+
+

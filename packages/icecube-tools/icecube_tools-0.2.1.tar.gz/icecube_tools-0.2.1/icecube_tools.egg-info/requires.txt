@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+astropy
+iminuit<2
+jupytext
+requests_cache
+requests
+bs4
+tqdm
+versioneer
+vMF
+pandas
+h5py
