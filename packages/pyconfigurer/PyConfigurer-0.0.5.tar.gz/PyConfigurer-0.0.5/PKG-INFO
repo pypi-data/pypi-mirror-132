@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: PyConfigurer
+Version: 0.0.5
+Summary: A GUI configuration library for python programs.
+Home-page: https://github.com/ArjixWasTaken/PyConfigurer
+Author: ArjixWasTaken
+Author-email: arjixg53@gmail.com
+License: MIT
+Description: # PyConfigurer
+        
+        A GUI configuration library for python programs.
+        
+        # Usage
+        
+        ```python
+        from PyConfigurer import Configurer, ConfigTemplate, Token, FieldType
+        
+        
+        default_config = {
+            "user": "Arjix",
+            "age": 18
+        }
+        
+        
+        config_template = ConfigTemplate([
+            Token(FieldType.text_input, "user", "Enter your name:", default_config["user"]),
+            Token(FieldType.int_input, "age", "Enter your age:", default_config["age"])
+        ])
+        config = Configurer(config_template)
+        new_config = config.run()
+        
+        
+        print("Old config", default_config)
+        print("New config", new_config)
+        ```
+        
+Keywords: configuration,gui
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
