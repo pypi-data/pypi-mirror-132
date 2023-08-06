@@ -1,0 +1,15 @@
+databasemodels/__init__.py,sha256=pFGPEsP9gBWYe2XiAFb4viL56aunmA5ebvPM81HXJ4s,286
+databasemodels/columns.py,sha256=9zcUdQx7kP1Ct2KuZozMV6aWcS9DHmWezNVHyj9AS_s,2838
+databasemodels/connection.py,sha256=S2VxWpQwo8fLOIJGzm186vP_R_1aaYnZFK0AZqLLs5g,2330
+databasemodels/datatypes.py,sha256=i-QuoDZLT0nPxaKXvXmfSQXeld-9lGNj8DVGcbtyPZU,14547
+databasemodels/exceptions.py,sha256=21joArKBYab3S7CiY6L6-EvMp6RW_9DXZ-AmCp-WdsI,549
+databasemodels/helper.py,sha256=9LFNscFsXbpa-lNv3mDwZWly2jE742GpfkgvVJmSE0U,2047
+databasemodels/protocols.py,sha256=PASa8BXQF3BE9WdatgfMLRliQrQBysXjz-TmL0Hp4YU,7063
+databasemodels/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+databasemodels/version.py,sha256=yxfpeLu4bPVw6H7Co2Vf5cnLIdKRsSFoixwS8vKM_Jo,728
+databasemodels/wrapper.py,sha256=C8NX8KCG-8rHN5dhEcpxapZ_H2u63XmvJ0WuXgLADwI,14429
+databasemodels-1.3.7.dist-info/LICENSE.txt,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+databasemodels-1.3.7.dist-info/METADATA,sha256=U52pRTw0B1C2XoZPb5sMSZZevUZvT3kd14727K8BI_E,2313
+databasemodels-1.3.7.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+databasemodels-1.3.7.dist-info/top_level.txt,sha256=EvzfGHUF-MWg_2IHStGGKaMeKnqjWuwQ50ysuVQg83s,15
+databasemodels-1.3.7.dist-info/RECORD,,
