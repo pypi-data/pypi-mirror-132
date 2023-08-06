@@ -1,0 +1,89 @@
+Metadata-Version: 2.1
+Name: fastack
+Version: 2.0.0
+Summary: Fastack is a blah blah blah framework!!!
+Home-page: https://github.com/fastack-dev/fastack
+License: MIT
+Author: aprilahijriyan
+Author-email: 37798612+aprilahijriyan@users.noreply.github.com
+Maintainer: aprilahijriyan
+Maintainer-email: 37798612+aprilahijriyan@users.noreply.github.com
+Requires-Python: >=3.7,<4.0.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides-Extra: nosql
+Provides-Extra: redis
+Provides-Extra: sql
+Requires-Dist: aioredis (>=2.0.0,<3.0.0); extra == "redis"
+Requires-Dist: asgi-lifespan (>=1.0.1,<2.0.0)
+Requires-Dist: fastapi (>=0.70.1,<0.71.0)
+Requires-Dist: mongoengine (>=0.23.1,<0.24.0); extra == "nosql"
+Requires-Dist: sqlmodel (>=0.0.5,<0.0.6); extra == "sql"
+Requires-Dist: typer[all] (>=0.4.0,<0.5.0)
+Requires-Dist: uvicorn (>=0.16.0,<0.17.0)
+Project-URL: Bug Tracker, https://github.com/fastack-dev/fastack/issues
+Project-URL: Repository, https://github.com/fastack-dev/fastack
+Description-Content-Type: text/markdown
+
+# Fastack
+
+fastack is a blah blah blah framework, for creating clean and easy-to-manage REST API project structures. It's built for FastAPI framework ❤️
+
+The goals of this project are:
+
+* Create a clean and easy-to-manage REST API project structure
+* Create a REST API with our ``Controller`` class
+* Include pagination
+* Support adding own commands using the ``typer`` library
+* Integrated with docker & docker-compose
+* Integrated with pre-commit tool
+
+
+# Installation
+
+```
+pip install fastack
+```
+
+# Example
+
+create project structure
+
+```
+fastack new awesome-project
+cd awesome-project
+```
+
+install pipenv & create virtual environment
+
+```
+pip install pipenv && pipenv install && pipenv shell
+```
+
+run app
+
+```
+fastack runserver
+```
+
+# Documentation
+
+Sorry in advance, for the documentation I haven't had time to make it 🙏
+
