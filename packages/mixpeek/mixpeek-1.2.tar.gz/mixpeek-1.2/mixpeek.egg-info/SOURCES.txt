@@ -1,0 +1,8 @@
+README.md
+setup.py
+mixpeek/__init__.py
+mixpeek.egg-info/PKG-INFO
+mixpeek.egg-info/SOURCES.txt
+mixpeek.egg-info/dependency_links.txt
+mixpeek.egg-info/requires.txt
+mixpeek.egg-info/top_level.txt
