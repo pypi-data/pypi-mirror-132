@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+BnpInstaller/BnpInstaller.py
+BnpInstaller/__init__.py
+BnpInstaller.egg-info/PKG-INFO
+BnpInstaller.egg-info/SOURCES.txt
+BnpInstaller.egg-info/dependency_links.txt
+BnpInstaller.egg-info/entry_points.txt
+BnpInstaller.egg-info/requires.txt
+BnpInstaller.egg-info/top_level.txt
