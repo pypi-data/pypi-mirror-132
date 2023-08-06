@@ -1,0 +1,8 @@
+pytorch_clip_bbox/__init__.py,sha256=2t27Eeg8PdNo0NIy8l_e1NcpPdT1Nrjp1318nZ1yOIc,592
+pytorch_clip_bbox/clip_bbox.py,sha256=1fEAcgeg_XfETufKlUssTBcYydf1IctNoXLleVO3SYE,6585
+pytorch_clip_bbox-2021.12.24.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pytorch_clip_bbox-2021.12.24.1.dist-info/METADATA,sha256=uUcKm01GFxaJdXG-Xl03gBKe183y8bQQ3y9OUCb3fhw,4324
+pytorch_clip_bbox-2021.12.24.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+pytorch_clip_bbox-2021.12.24.1.dist-info/top_level.txt,sha256=MAnsWboHJN5St1NkDbzqBppcvbzjY44n6eBrCBhK5PU,18
+pytorch_clip_bbox-2021.12.24.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+pytorch_clip_bbox-2021.12.24.1.dist-info/RECORD,,
