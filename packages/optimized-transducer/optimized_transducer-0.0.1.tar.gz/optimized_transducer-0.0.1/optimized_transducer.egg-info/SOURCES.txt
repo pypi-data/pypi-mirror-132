@@ -1,0 +1,8 @@
+README.md
+setup.py
+optimized_transducer.egg-info/PKG-INFO
+optimized_transducer.egg-info/SOURCES.txt
+optimized_transducer.egg-info/dependency_links.txt
+optimized_transducer.egg-info/not-zip-safe
+optimized_transducer.egg-info/top_level.txt
+optimized_transducer/python/optimized_transducer/__init__.py

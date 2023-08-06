@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: optimized-transducer
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/csukuangfj/optimized_transducer
+Author: Fangjun Kuang
+Author-email: csukuangfj@gmail.com
+License: Apache licensed, as found in the LICENSE file
+Description: ## Introduction
+        
+        Still working in progress.
+        
+        This repo implements the optimization techniques proposed in
+        [Improving RNN Transducer Modeling for End-to-End Speech Recognition](https://arxiv.org/abs/1909.12415)
+        to reduce the memory consumption for computing transducer loss,
+        based on the transducer loss from [torchaudio](https://github.com/pytorch/audio).
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
