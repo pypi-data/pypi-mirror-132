@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-htmlrender
+Version: 0.0.2
+Summary: 
+License: MIT
+Author: kexue
+Author-email: xana278@foxmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: jinja2 (>=3.0.3,<4.0.0)
+Requires-Dist: markdown (>=3.3.6,<4.0.0)
+Requires-Dist: nonebot-adapter-cqhttp (>=2.0.0-alpha.16,<3.0.0)
+Requires-Dist: nonebot2 (>=2.0.0-alpha.16,<3.0.0)
+Requires-Dist: playwright (>=1.17.2,<2.0.0)
+Description-Content-Type: text/markdown
+
+# nonebot-plugin-htmlrender
+
+* 通过浏览器渲染图片
+* 可通过查看`example`参考使用实例
+* ~~文档还没写~~
