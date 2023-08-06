@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: certbot-dns-hotline
+Version: 0.4.0
+Summary: Certbot DNS plugin for Hotline
+Home-page: https://github.com/captainGeech42/certbot-dns-hotline
+Author: Zander Work
+Author-email: pypi@zanderwork.com
+License: MIT
+Description: # certbot-dns-hotline
+        Certbot DNS plugin for Hotline
+        
+        Based on https://github.com/schleuss/certbot_dns_freedns and https://github.com/m42e/certbot-dns-ispconfig
+        
+        This is used in conjunction with [Hotline](https://github.com/captainGeech42/hotline) for issuing SSL certificates for the callback domain.
+        
+        ## Usage
+        
+        Change the domains to match your callback domain, along with the `--dns-hotline-path` to the directory shared with the DNS callback service
+        
+        ```
+        $ certbot certonly \
+            --authenticator dns-hotline \
+            --dns-hotline-path /hotline/acme \
+            --server https://acme-v02.api.letsencrypt.org/directory \
+            --agree-tos \
+            --rsa-key-size 4096 \
+            -d 'hotlinecallback.net' \
+            -d '*.hotlinecallback.net'
+        ```
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
