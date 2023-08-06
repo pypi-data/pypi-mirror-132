@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: uboxadmin
+Version: 0.1.0
+Summary: 
+Author: heweitao
+Author-email: 675428202@qq.com
+Requires-Python: >=3.6,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Django (>=1.11.8,<2.0.0)
+Requires-Dist: captcha (>=0.3,<0.4)
+Requires-Dist: djangorestframework (==3.11.2)
+Requires-Dist: djangorestframework-camel-case (>=1.2.0,<2.0.0)
+Requires-Dist: djangorestframework-simplejwt (==4.3.0)
+Requires-Dist: typing-extensions (>=3.10.0,<4.0.0)
