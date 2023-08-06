@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+hello_world_tasd/HelloWorld.py
+hello_world_tasd/__init__.py
+hello_world_tasd.egg-info/PKG-INFO
+hello_world_tasd.egg-info/SOURCES.txt
+hello_world_tasd.egg-info/dependency_links.txt
+hello_world_tasd.egg-info/not-zip-safe
+hello_world_tasd.egg-info/top_level.txt
