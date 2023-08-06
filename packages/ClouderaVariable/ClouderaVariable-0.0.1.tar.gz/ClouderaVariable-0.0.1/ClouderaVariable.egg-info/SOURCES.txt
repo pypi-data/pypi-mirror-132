@@ -1,0 +1,5 @@
+setup.py
+ClouderaVariable.egg-info/PKG-INFO
+ClouderaVariable.egg-info/SOURCES.txt
+ClouderaVariable.egg-info/dependency_links.txt
+ClouderaVariable.egg-info/top_level.txt
