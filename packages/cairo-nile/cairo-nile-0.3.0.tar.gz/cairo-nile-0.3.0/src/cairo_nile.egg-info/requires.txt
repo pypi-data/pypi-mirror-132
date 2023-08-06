@@ -1,0 +1,10 @@
+click<9.0,>=8.0
+importlib-metadata>=4.0
+python-dotenv>=0.19.2
+
+[testing]
+setuptools
+tox
+twine
+pytest
+pytest-cov
