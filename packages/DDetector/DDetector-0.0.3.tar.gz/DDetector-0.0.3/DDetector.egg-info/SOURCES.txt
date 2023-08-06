@@ -1,0 +1,8 @@
+setup.py
+DDetector/__init__.py
+DDetector/detector.py
+DDetector.egg-info/PKG-INFO
+DDetector.egg-info/SOURCES.txt
+DDetector.egg-info/dependency_links.txt
+DDetector.egg-info/requires.txt
+DDetector.egg-info/top_level.txt
