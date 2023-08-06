@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: chessplotlib
+Version: 0.0.1
+Summary: Chess plots with matplotlib
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# chessplotlib
+ Chess Visualizations with matplotlib
+
+
