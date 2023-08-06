@@ -1,0 +1,7 @@
+comon_crawler/__init__.py,sha256=N4wLqSgFxZHAuWebunkDLgC-vkNvjyzPccuFaVdx85c,33
+comon_crawler/core.py,sha256=qgcLWzfH3gNd5AcslNxt24viFFo6tWVbuDkvBojpMKU,5295
+comon_crawler/crawler.py,sha256=qoBUOBPA8AbQ948S82ibmx-h8lti9FH8_Pg3tgl5Yuk,8813
+comon_crawler/schemas.py,sha256=XvaKjbI42R1O8pd29W3IDnRYHjjMNprGZazFLg45HVc,2937
+comon_crawler-0.9.8.dist-info/WHEEL,sha256=N0LZrBtofpkS5mJXgVHTCEy52Sam4D6PHQWC8HnMeTs,83
+comon_crawler-0.9.8.dist-info/METADATA,sha256=ciYRhvyCdoFqAyNrhPgsjLxQc6CM0xTsZPICBSpyToU,418
+comon_crawler-0.9.8.dist-info/RECORD,,
