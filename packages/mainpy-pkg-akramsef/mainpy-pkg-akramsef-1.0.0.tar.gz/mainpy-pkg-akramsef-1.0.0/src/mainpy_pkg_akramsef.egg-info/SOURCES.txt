@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/mainpy_package/__init__.py
+src/mainpy_package/mainpy.py
+src/mainpy_pkg_akramsef.egg-info/PKG-INFO
+src/mainpy_pkg_akramsef.egg-info/SOURCES.txt
+src/mainpy_pkg_akramsef.egg-info/dependency_links.txt
+src/mainpy_pkg_akramsef.egg-info/top_level.txt
