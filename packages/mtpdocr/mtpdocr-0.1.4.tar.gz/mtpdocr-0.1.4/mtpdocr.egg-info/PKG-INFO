@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: mtpdocr
+Version: 0.1.4
+Summary: OCR
+Home-page: https://github.com/AllenCall/paddleOCRDemo
+Author: allen
+Author-email: 310315734@qq.com
+License: MIT
+Description: just enjoy
+Keywords: python OCR base on paddleOCR
+Platform: UNKNOWN
