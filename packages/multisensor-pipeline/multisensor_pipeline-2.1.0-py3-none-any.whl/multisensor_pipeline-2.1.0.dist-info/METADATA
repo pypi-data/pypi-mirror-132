@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: multisensor-pipeline
+Version: 2.1.0
+Summary: The core library of the DFKI multisensor pipeline framework.
+Home-page: https://github.com/DFKI-Interactive-Machine-Learning/multisensor-pipeline
+Author: Michael Barz
+Author-email: michael.barz@dfki.de
+License: CC BY-NC-SA 4.0
+Keywords: multimodality,streaming,multisensor,sensors,multimodal interaction,pipeline,stream processing,multiprocessing
+Platform: UNKNOWN
+Requires-Python: >=3.6.0
+Requires-Dist: decorator (<5.0.0)
+Requires-Dist: networkx (>=2.5)
+Requires-Dist: numpy (>1.7.0)
+Requires-Dist: Pillow (>=8.3.2)
+Requires-Dist: pynput (>=1.7.3)
+Requires-Dist: pyzmq (>=20.0.0)
+Requires-Dist: av (>=8.0.1)
+Requires-Dist: sounddevice (>=0.4.3)
+Requires-Dist: soundfile (>=0.10.3)
+Requires-Dist: msgpack (>1.0.0)
+Requires-Dist: windows-capture-devices ; platform_system == "Windows"
+
+UNKNOWN
+
+
