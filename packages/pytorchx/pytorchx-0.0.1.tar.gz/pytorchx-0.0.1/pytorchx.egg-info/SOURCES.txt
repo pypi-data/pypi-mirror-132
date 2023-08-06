@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pytorchx/__init__.py
+pytorchx/hello.py
+pytorchx.egg-info/PKG-INFO
+pytorchx.egg-info/SOURCES.txt
+pytorchx.egg-info/dependency_links.txt
+pytorchx.egg-info/top_level.txt
