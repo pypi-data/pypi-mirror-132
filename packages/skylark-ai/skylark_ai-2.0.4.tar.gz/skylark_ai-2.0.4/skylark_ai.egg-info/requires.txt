@@ -1,0 +1,8 @@
+websockets
+sockets
+asyncio
+threaded
+opencv-python
+numpy
+pymitter
+websocket-client
