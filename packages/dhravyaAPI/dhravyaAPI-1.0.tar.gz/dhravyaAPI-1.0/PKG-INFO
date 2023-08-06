@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: dhravyaAPI
+Version: 1.0
+Summary: This is an API that I made while learning and it does a lot of cool things like OCR and QR code generation
+Home-page: https://github.com/dhravya
+Author: Dhravya Shah
+Author-email: dhravyashah@gmail.com
+License: MIT
+Download-URL: https://github.com/Dhravya/dhravyaAPI/archive/refs/tags/1.0.tar.gz
+Description: Check https://github.com/dhravya/dhravyaapi for more information
+Keywords: API wrapper,qrcode,ocr,dhravya
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
