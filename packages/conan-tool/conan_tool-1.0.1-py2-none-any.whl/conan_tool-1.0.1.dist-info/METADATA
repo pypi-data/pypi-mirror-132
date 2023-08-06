@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: conan-tool
+Version: 1.0.1
+Summary: conan: cpu & memory profiler tool
+Home-page: https://github.com/vlean/conan
+Author: vlean
+Author-email: vlean@qq.com
+Maintainer: vlean
+License: UNKNOWN
+Keywords: conan,profiler
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Security
+Classifier: Topic :: Security :: Cryptography
+Requires-Dist: wrapt (==1.13.2)
+Requires-Dist: gprof2dot (==2021.2.21)
+Requires-Dist: line-profiler (==3.3.1)
+
+## 问题排查
+
+绘制图形
+[gprof2dot](https://github.com/jrfonseca/gprof2dot)
+
+```bash
+#安装依赖
+yum install -y graphviz
+#绘制图形
+gprof2dot -f pstats cp.prof |dot -Tpng -o cp.png
+```
+
+
+
