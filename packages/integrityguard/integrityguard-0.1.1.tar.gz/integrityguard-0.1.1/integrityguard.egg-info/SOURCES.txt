@@ -1,0 +1,14 @@
+AUTHORS.rst
+HISTORY.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+integrityguard.egg-info/PKG-INFO
+integrityguard.egg-info/SOURCES.txt
+integrityguard.egg-info/dependency_links.txt
+integrityguard.egg-info/entry_points.txt
+integrityguard.egg-info/not-zip-safe
+integrityguard.egg-info/requires.txt
+integrityguard.egg-info/top_level.txt
