@@ -1,0 +1,3 @@
+exclude src/puckdns/driver.pyinclude versioneer.py
+include src/puckdns/_version.py
+include versioneer.py

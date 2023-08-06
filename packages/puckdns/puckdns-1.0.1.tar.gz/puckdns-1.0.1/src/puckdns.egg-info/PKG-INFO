@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: puckdns
+Version: 1.0.1
+Summary: Python API for the great free DNS Service "PUCK" from Daniel J. Luke (http://puck.nether.net/dns)
+Home-page: https://github.com/Snake-Whisper/puckdns
+Author: Snake-Whisper
+Author-email: snake-whisper@web-utils.eu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# puckdns
+[![codecov](https://codecov.io/gh/Snake-Whisper/puckdns/branch/master/graph/badge.svg?token=7R83F1FHXO)](https://codecov.io/gh/Snake-Whisper/puckdns)
+
+Python API for the great free DNS Service "PUCK" (http://puck.nether.net/dns)
+
+---
+ 
+ ## Documentation
+ Please read the documentation at https://puckdns.readthedocs.io
+
