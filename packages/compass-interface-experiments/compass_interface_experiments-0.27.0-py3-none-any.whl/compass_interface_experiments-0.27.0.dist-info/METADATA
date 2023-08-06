@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: compass_interface_experiments
+Version: 0.27.0
+Summary: The unofficial API to the Scouts' national membership system, Compass
+Keywords: API,scouts
+Author: Adam Turner
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development
+Classifier: Topic :: Utilities
+Requires-Dist: compass_interface_core>=0.27.0
+Requires-Dist: pandas
+Requires-Dist: pyarrow
+Requires-Dist: uvicorn ; extra == "deploy"
+Requires-Dist: uvloop ; extra == "deploy"
+Requires-Dist: httptools ; extra == "deploy"
+Project-URL: Homepage, https://github.com/the-scouts/compass-interface
+Project-URL: Source, https://github.com/the-scouts/compass-interface
+Provides-Extra: deploy
+
+See the [README](https://github.com/the-scouts/compass-interface/blob/master/README.md)
