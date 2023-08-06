@@ -1,0 +1,10 @@
+click
+docker
+rich
+dockerpty
+pytest
+
+[test]
+coverage
+pytest
+pytest-cov
