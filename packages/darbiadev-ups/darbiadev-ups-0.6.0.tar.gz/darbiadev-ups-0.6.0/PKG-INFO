@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: darbiadev-ups
+Version: 0.6.0
+Summary: darbiadev-ups
+License: MIT
+Author-email: Bradley Reynolds <bradley.reynolds@darbia.dev>
+Requires-Python: >=3.10
+Project-URL: documentation, https://darbiadev.github.io/darbiadev-ups/
+Project-URL: repository, https://github.com/darbiadev/darbiadev-ups/
