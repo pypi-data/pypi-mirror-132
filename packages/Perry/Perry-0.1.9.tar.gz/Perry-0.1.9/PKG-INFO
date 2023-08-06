@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: Perry
+Version: 0.1.9
+Summary:  A framework that let's you compose websites in Python with ease!   
+Home-page: http://pypi.python.org/pypi/Perry/
+Author: HUSKI3
+Author-email: ignispy@protonmail.com
+License: UNKNOWN
+Description: Perry works similar to Qt and Flutter, allowing you to create component collections.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
