@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: aiShelModule
+Version: 0.1.0
+Summary: Useful functions for statistics.
+Home-page: https://github.com/Alex-like/modul-alex1.git
+Author: Alex Shchelochkov
+Author-email: email@email.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.6

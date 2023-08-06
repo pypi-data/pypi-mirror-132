@@ -1,0 +1,8 @@
+setup.py
+aiShelModule/__init__.py
+aiShelModule/aiShelModule.py
+aiShelModule.egg-info/PKG-INFO
+aiShelModule.egg-info/SOURCES.txt
+aiShelModule.egg-info/dependency_links.txt
+aiShelModule.egg-info/requires.txt
+aiShelModule.egg-info/top_level.txt
