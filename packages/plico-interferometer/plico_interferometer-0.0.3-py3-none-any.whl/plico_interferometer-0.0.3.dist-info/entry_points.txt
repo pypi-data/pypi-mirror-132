@@ -1,0 +1,3 @@
+[gui_scripts]
+plico_interferometer_gui = plico_interferometer.gui.plico_interferometer_gui:main
+
