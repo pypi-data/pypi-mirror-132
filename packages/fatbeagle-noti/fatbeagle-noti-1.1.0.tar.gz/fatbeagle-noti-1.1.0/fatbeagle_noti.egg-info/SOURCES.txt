@@ -1,0 +1,9 @@
+README.md
+setup.py
+fatbeagle_noti.egg-info/PKG-INFO
+fatbeagle_noti.egg-info/SOURCES.txt
+fatbeagle_noti.egg-info/dependency_links.txt
+fatbeagle_noti.egg-info/top_level.txt
+fatbeaglenoti/__init__.py
+fatbeaglenoti/__main__.py
+fatbeaglenoti/notify.py

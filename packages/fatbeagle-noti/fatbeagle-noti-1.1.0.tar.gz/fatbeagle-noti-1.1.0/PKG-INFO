@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: fatbeagle-noti
+Version: 1.1.0
+Summary: Fat Beagle notification system
+Home-page: https://github.com/Fat-Beagles/fatbeagles-noti
+Author: Fat Beagles
+Author-email: alohanvasu@gmail.com
+License: MIT
+Description: ### Fat Beagles Notification system
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
