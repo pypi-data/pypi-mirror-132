@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: MatSense
+Version: 0.1.0
+Summary: A toolkit for matrix sensor data processing 阵列传感器数据处理工具库
+Home-page: https://github.com/atomiechen/MatSense
+Author: Atomie CHEN
+Author-email: atomic_cwh@163.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/atomiechen/MatSense/issues
+Project-URL: Source Code, https://github.com/atomiechen/MatSense
+Keywords: matrix sensor,signal processing,3D visualization
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+
+# MatSense
+
+A toolkit for matrix sensor data processing.
+
+
+
+## Features
+
+- Matrix data processing
+  - Server side:
+    - spatial filter
+    - temporal filter
+    - calibration
+  - Client side:
+    - interpolation
+    - blob filter
+    - touch detection
+- 3D Visualization of matrix data
+
+
+
+## Contact
+
+Atomie CHEN, atomic_cwh@163.com
+
+
+
