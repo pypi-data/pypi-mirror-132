@@ -1,0 +1,11 @@
+README.md
+setup.py
+modate/__init__.py
+modate/mac.py
+modate/win.py
+modate.egg-info/PKG-INFO
+modate.egg-info/SOURCES.txt
+modate.egg-info/dependency_links.txt
+modate.egg-info/entry_points.txt
+modate.egg-info/requires.txt
+modate.egg-info/top_level.txt
