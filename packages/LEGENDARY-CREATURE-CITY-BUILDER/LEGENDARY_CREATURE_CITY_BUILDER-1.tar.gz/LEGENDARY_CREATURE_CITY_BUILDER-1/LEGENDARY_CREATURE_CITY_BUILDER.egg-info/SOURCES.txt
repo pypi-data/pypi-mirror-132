@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+LEGENDARY_CREATURE_CITY_BUILDER/legendary_creature_city_builder.py
+LEGENDARY_CREATURE_CITY_BUILDER/legendary_creature_city_builder_tests.py
+LEGENDARY_CREATURE_CITY_BUILDER.egg-info/PKG-INFO
+LEGENDARY_CREATURE_CITY_BUILDER.egg-info/SOURCES.txt
+LEGENDARY_CREATURE_CITY_BUILDER.egg-info/dependency_links.txt
+LEGENDARY_CREATURE_CITY_BUILDER.egg-info/entry_points.txt
+LEGENDARY_CREATURE_CITY_BUILDER.egg-info/top_level.txt
