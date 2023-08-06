@@ -1,0 +1,13 @@
+missingno
+pandas
+sidetable
+tqdm
+
+[doc]
+sphinx
+sphinx_rtd_theme
+towncrier
+
+[test]
+coverage
+pytest
