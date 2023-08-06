@@ -1,0 +1,11 @@
+verox/__init__.py,sha256=YJUOAiYTkjDIhl99Mc_CFcL5VU0Wl6N4B6_SFswn1dY,158
+verox/_about.py,sha256=fPYJdyBdq6I0A687v_wxsWP7PcPhY8-qPcF9lqjMe4c,149
+verox/base.py,sha256=vZKvJUj0NurFNN5LsJs-AEkJVu-nMAm1OQQ9fTJ7DG8,1796
+verox/client.py,sha256=OeRKHkiC4Xatj0feCWSbAWRwr8ZjrydYcR1gu2iMUTE,1489
+verox/server.py,sha256=FT6DhnsDyxYsAaWU8nMtzM1ZzNbJt7PYluRWv7NgVYY,3381
+verox/ux.py,sha256=ol1tsxp6iHt2ODqIOjGGdgW1pEls44fFlpEgBY_J2PA,2246
+verox-0.0.10.dist-info/LICENSE,sha256=UkQZwZyEzDc7jC9zksaUCOS6IjxR8XbXKe78sU5nhjU,1082
+verox-0.0.10.dist-info/METADATA,sha256=a_KGdnq1nrSfYM_GvaDfM1VOBY3c_ex5GH33V--X3bQ,2816
+verox-0.0.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+verox-0.0.10.dist-info/top_level.txt,sha256=igmAWqAuT7KVTDi07LH4IaLVaqJHUW5vJbWV3UD2V3w,6
+verox-0.0.10.dist-info/RECORD,,
