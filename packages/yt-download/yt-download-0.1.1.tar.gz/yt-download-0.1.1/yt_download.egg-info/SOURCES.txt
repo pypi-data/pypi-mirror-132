@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+yt_download/__init__.py
+yt_download/config.py
+yt_download/yt_download.py
+yt_download.egg-info/PKG-INFO
+yt_download.egg-info/SOURCES.txt
+yt_download.egg-info/dependency_links.txt
+yt_download.egg-info/entry_points.txt
+yt_download.egg-info/requires.txt
+yt_download.egg-info/top_level.txt

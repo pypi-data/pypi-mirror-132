@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: yt-download
+Version: 0.1.1
+Summary: A wrapper for pytube3 that makes it easier to download videos and playlists as mp3 or mp4.
+Home-page: https://github.com/lauren-martini/yt-download
+Author: lauren-martini
+Author-email: lmartini@cs.washington.edu
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
