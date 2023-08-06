@@ -1,0 +1,10 @@
+COPYING
+README.rst
+setup.py
+evtx2pandas/__init__.py
+evtx2pandas/json_to_csv.py
+evtx2pandas.egg-info/PKG-INFO
+evtx2pandas.egg-info/SOURCES.txt
+evtx2pandas.egg-info/dependency_links.txt
+evtx2pandas.egg-info/requires.txt
+evtx2pandas.egg-info/top_level.txt
