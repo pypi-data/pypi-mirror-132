@@ -1,0 +1,15 @@
+Orange3 DynamiKontrol Add-on
+======================
+
+Control DynamiKontrol motor modules on Orange3.
+
+https://dk.m47rix.com
+
+| DK Angle | DK Speed |
+| --- | --- |
+| <img src="https://dk.m47rix.com/static/assets/img/dynamikontrol/angle_07.png" width="400px"> | <img src="https://dk.m47rix.com/static/assets/img/dynamikontrol/speed_01.png" width="400px"> |
+
+Installation
+------------
+
+```Orange3-DK```
