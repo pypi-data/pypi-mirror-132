@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+wudaoAI/__init__.py
+wudaoAI.egg-info/PKG-INFO
+wudaoAI.egg-info/SOURCES.txt
+wudaoAI.egg-info/dependency_links.txt
+wudaoAI.egg-info/requires.txt
+wudaoAI.egg-info/top_level.txt
