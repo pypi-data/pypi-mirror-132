@@ -1,0 +1,74 @@
+# NQGCS
+
+This package offers a pleasant interface to Google Cloud Storage. 
+
+Usage: 
+
+# Create an NQGCS object 
+
+There are three ways.  On Appengine, you can do simply:
+
+```python
+from nqgcs import NQGCS
+
+nqgcs = NQGCS()
+```
+
+You can do the above also if you use: 
+
+```commandline
+export GOOGLE_APPLICATION_CREDENTIALS="[PATH]"
+```
+
+Otherwise, you can use a json key file.  You can either pass the 
+path to the file: 
+
+```python
+from nqgcs import NQGCS
+
+nqgcs = NQGCS(json_key_path="your json key to gcs")
+```
+
+Or you can pass the file content, read via json:
+
+```python
+from nqgcs import NQGCS
+
+nqgcs = NQGCS(keys=keys)
+```
+
+# Access GCS
+
+## Upload a file
+
+```python
+with open("myfile", "r") as f:
+    nqgcs.upload("bucket name", "file name", f, type="text/plain")
+```
+
+## Write a string to GCS
+
+```python
+nqgcs.write("bucket name", "file name", "my content string", type="text/plain")
+```
+
+## Read a string from GCS
+
+```python
+s = nqgcs.read("bucket name", "file name")
+```
+
+## Download a file from GCS
+
+```python
+nqgcs.download("bucket name", "file name")
+```
+
+## Delete a file, list files
+
+```python
+nqgcs.delete("bucket name", "file name")
+
+for f in nqgcs.listfiles("bucket_name", maximum=200):
+    print("The file name is:", f)
+```
