@@ -1,0 +1,8 @@
+README.md
+setup.py
+core/__init__.py
+core/hw.py
+example_pkg_chakshuahuja.egg-info/PKG-INFO
+example_pkg_chakshuahuja.egg-info/SOURCES.txt
+example_pkg_chakshuahuja.egg-info/dependency_links.txt
+example_pkg_chakshuahuja.egg-info/top_level.txt
