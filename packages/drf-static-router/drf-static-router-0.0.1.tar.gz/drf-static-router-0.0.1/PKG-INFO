@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: drf-static-router
+Version: 0.0.1
+Summary: A DRF router that doesn't generated dynamicly default routes for create/list/retrieve/... actions.
+License: MIT
+Author: Aymeric Derbois
+Author-email: aymeric@kenlodin.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Django (>=4.0,<5.0)
+Requires-Dist: djangorestframework (>=3.13.1,<4.0.0)

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "drf-static-router"
+version = "0.0.1"
+description = "A DRF router that doesn't generated dynamicly default routes for create/list/retrieve/... actions."
+authors = ["Aymeric Derbois <aymeric@kenlodin.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^4.0"
+djangorestframework = "^3.13.1"
+
+[tool.poetry.dev-dependencies]
+black = "^21.12b0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
