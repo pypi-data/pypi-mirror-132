@@ -1,0 +1,12 @@
+gph/__init__.py,sha256=HmQTSsXVNzn_4uZdkKn8zJc9X7tVzuBbtwM4FIBoUTY,149
+gph/_version.py,sha256=cekN75IqorE0RkjILcCHVJO9JPO5K8z04m5zu1XdyYo,620
+gph/modules/gph_collapser.cp38-win_amd64.pyd,sha256=8F1LAORy3kQBEWJReffhiQAj1U5zD7HPbyIj820Hf3A,125440
+gph/modules/gph_ripser.cp38-win_amd64.pyd,sha256=Tmjc4t-qt1jtcHACrUWmgtXiTw2PFlGcTbVPOjQGXF4,321536
+gph/modules/gph_ripser_coeff.cp38-win_amd64.pyd,sha256=RZNGDzxPEJiQr1as-GElGhQOGLypY8vBLeWGqcvuvUA,326144
+gph/python/__init__.py,sha256=WtwHCYEMYScWKy4oHKM8euZr76_DLGCazX6ayf9n9tg,89
+gph/python/ripser_interface.py,sha256=g9slA628ILYiod2xqrEmRTq1k1b9603ZhQtULDtIcA8,28817
+giotto_ph-0.2.1.dist-info/LICENSE,sha256=K2mHDYGGPDF90WsUydGOBt1SVUHUJRX3U460v8e5HnM,35868
+giotto_ph-0.2.1.dist-info/METADATA,sha256=d1acFCP5N201oBUQP85iwcOVl_XQMlqPq73cVYWu_qI,2904
+giotto_ph-0.2.1.dist-info/WHEEL,sha256=P24hRDQapckAvHvgBBzlH5uw6rQ_oZQtKbG6drGrqOM,100
+giotto_ph-0.2.1.dist-info/top_level.txt,sha256=VY7JNFK1ziu4gNFeDEd7UqJthhMsYdylwSXFxf4CX6U,4
+giotto_ph-0.2.1.dist-info/RECORD,,
