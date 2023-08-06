@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: zmtools
+Version: 2.0.0
+Summary: Various tools used across Zeke Marffy's programs
+Home-page: https://github.com/zmarffy/zmtools
+Author: Zeke Marffy
+Author-email: zmarffy@yahoo.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/plain
+Requires-Dist: packaging
+Requires-Dist: getch ; platform_system != "Windows"
+
+HEADS UP: This was the first public thing I ever wrote, and it is *trash*. I will be phasing this out and yanking it from PyPI when I get around to that.
+
+A conglomeration of functions reused in my program; maybe they can help you too. The docstrings should explain all you need to know. This will grow as my projects multiply.
+
+
