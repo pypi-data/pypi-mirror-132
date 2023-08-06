@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: opencv-webcam-script
+Version: 0.1
+Summary: webcam opencv script
+Home-page: https://gitee.com/CV_Lab/opencv-webcam
+Author: Yifu Zeng
+Author-email: zyfiy1314@163.com
+License: GPL-3.0 Licence
+Keywords: opencv,webcam
+Platform: any
+License-File: LICENSE
+Requires-Dist: opencv-python
+
+This is a webcam opencv script, this script can be used to capture video frames.
+
