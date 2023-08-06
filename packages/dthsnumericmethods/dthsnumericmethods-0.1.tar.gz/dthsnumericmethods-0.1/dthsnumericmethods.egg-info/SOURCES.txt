@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+apprinterp/__init__.py
+diff/__init__.py
+diffequations/__init__.py
+dthsnumericmethods.egg-info/PKG-INFO
+dthsnumericmethods.egg-info/SOURCES.txt
+dthsnumericmethods.egg-info/dependency_links.txt
+dthsnumericmethods.egg-info/not-zip-safe
+dthsnumericmethods.egg-info/top_level.txt
+fft/__init__.py
+matrix/__init__.py
+optimization/__init__.py
+slau/__init__.py

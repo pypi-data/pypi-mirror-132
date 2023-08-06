@@ -1,0 +1,7 @@
+apprinterp
+diff
+diffequations
+fft
+matrix
+optimization
+slau
