@@ -1,0 +1,103 @@
+Metadata-Version: 2.1
+Name: autotyping
+Version: 21.12.0
+Summary: A tool for autoadding simple type annotations.
+Home-page: https://github.com/JelleZijlstra/autotyping
+Author: Jelle Zijlstra
+Author-email: jelle.zijlstra@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/JelleZijlstra/autotyping/issues
+Keywords: typing annotations
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: libcst
+
+When I refactor code I often find myself tediously adding type
+annotations that are obvious from context: functions that don't
+return anything, boolean flags, etcetera. That's where autotyping
+comes in: it automatically adds those types and inserts the right
+annotations.
+
+It is built as a LibCST codemod; see the
+[LibCST documentation](https://libcst.readthedocs.io/en/latest/codemods_tutorial.html)
+for more information on how to use codemods.
+
+Here's how to use it:
+
+- `pip install autotyping`
+- Make sure you have a `.libcst.codemod.yaml` with `'autotyper'` in the `modules` list.
+  For an example, see the `.libcst.codemod.yaml` in this repo.
+- Run `python -m libcst.tool codemod autotyping.AutotypeCommand /path/to/my/code`
+
+By default it does nothing; you have to add flags to make it do
+more transformations. The following are supported:
+
+- Annotating return types:
+  - `--none-return`: add a `-> None` return type to functions without any
+    return, yield, or raise in their body
+  - `--scalar-return`: add a return annotation to functions that only return
+    literal bool, str, bytes, int, or float objects.
+- Annotationg parameter types:
+  - `--bool-param`: add a `: bool` annotation to any function
+    parameter with a default of `True` or `False`
+  - `--int-param`, `--float-param`, `--str-param`, `--bytes-param`: add
+    an annotation to any parameter for which the default is a literal int,
+    float, str, or bytes object
+  - `--annotate-optional foo:bar.Baz`: for any parameter of the form
+    `foo=None`, add `Baz`, imported from `bar`, as the type. For example,
+    use `--annotate-optional uid:my_types.Uid` to annotate any `uid` in your
+    codebase with a `None` default as `Optional[my_types.Uid]`.
+  - `--annotate-named-param foo:bar.Baz`: annotate any parameter with no
+    default that is named `foo` with `bar.Baz`. For example, use
+    `--annotate-named-param uid:my_types.Uid` to annotate any `uid`
+    parameter in your codebase with no default as `my_types.Uid`.
+- Annotating magical methods:
+  - `--annotate-magics`: add type annotation to certain magic methods.
+    Currently this does the following:
+    - `__str__` returns `str`
+    - `__repr__` returns `str`
+    - `__len__` returns `int`
+    - `__init__` returns `None`
+    - `__del__` returns `None`
+    - `__bool__` returns `bool`
+    - `__bytes__` returns `bytes`
+    - `__format__` returns `str`
+    - `__contains__` returns `bool`
+    - `__complex__` returns `complex`
+    - `__int__` returns `int`
+    - `__float__` returns `float`
+    - `__index__` returns `int`
+    - `__exit__`: the three parameters are `Optional[Type[BaseException]]`,
+      `Optional[BaseException]`, and `Optional[TracebackType]`
+    - `__aexit__`: same as `__exit__`
+  - `--annotate-imprecise-magics`: add imprecise type annotations for
+    some additional magic methods. Currently this adds `typing.Iterator`
+    return annotations to `__iter__`, `__await__`, and `__reversed__`.
+    These annotations should have a generic parameter to indicate what
+    you're iterating over, but that's too hard for autotyping to figure
+    out.
+
+Things to add:
+
+- Infer `-> bool` as the return type if all return statements are
+  boolean expressions like `==`.
+
+# Changelog
+
+21.12.0 (December 21, 2021)
+
+- Initial PyPI release
+
+
