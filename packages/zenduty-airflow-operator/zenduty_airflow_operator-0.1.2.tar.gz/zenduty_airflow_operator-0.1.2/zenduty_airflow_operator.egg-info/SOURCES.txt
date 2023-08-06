@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+zenduty_airflow_operator.py
+zenduty_airflow_operator.egg-info/PKG-INFO
+zenduty_airflow_operator.egg-info/SOURCES.txt
+zenduty_airflow_operator.egg-info/dependency_links.txt
+zenduty_airflow_operator.egg-info/requires.txt
+zenduty_airflow_operator.egg-info/top_level.txt
