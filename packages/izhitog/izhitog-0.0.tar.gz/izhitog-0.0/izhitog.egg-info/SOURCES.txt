@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+izhitog/__init__.py
+izhitog/itogicoboki.py
+izhitog.egg-info/PKG-INFO
+izhitog.egg-info/SOURCES.txt
+izhitog.egg-info/dependency_links.txt
+izhitog.egg-info/not-zip-safe
+izhitog.egg-info/top_level.txt
