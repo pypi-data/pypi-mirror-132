@@ -1,0 +1,6 @@
+setup.py
+GoWork.egg-info/PKG-INFO
+GoWork.egg-info/SOURCES.txt
+GoWork.egg-info/dependency_links.txt
+GoWork.egg-info/requires.txt
+GoWork.egg-info/top_level.txt
