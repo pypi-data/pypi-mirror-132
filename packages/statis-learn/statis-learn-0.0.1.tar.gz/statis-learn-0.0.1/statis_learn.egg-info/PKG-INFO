@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: statis-learn
+Version: 0.0.1
+Summary: Statistics in Python
+Home-page: https://github.com/axfbh/statis-learn
+Author: Jim Chen
+Author-email: axfbh119@gmail.com
+License: UNKNOWN
+Platform: linux
+Platform: windows
+Platform: macos
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# stat-learn
+ 
+
+
