@@ -1,0 +1,8 @@
+pyfreetts/__init__.py,sha256=JXLEvLHhTnOzJuF-Ufub2UBTa6K5jOlcl1XvCeNsmvw,84
+pyfreetts/client.py,sha256=bRsqR722iTqlobQ2PUrpUu9YlJoZWoqb9p9YKfAsh88,6213
+pyfreetts/const.py,sha256=_-Sxak3VDUfduQjfL2oDpT2EJDYQ09vYn8Ve6l3SUYU,10821
+pyfreetts/tts.py,sha256=5CiPpNfGVag7L-set675mXQvGcRRQOQpofP27TNn-ys,2115
+pyfreetts-0.1.1.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+pyfreetts-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+pyfreetts-0.1.1.dist-info/METADATA,sha256=NhveqsIa5y6NDWA_EmuWv5afNI1wB-QMLH8XYkhn8qE,2533
+pyfreetts-0.1.1.dist-info/RECORD,,
