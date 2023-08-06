@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: mlfs
+Version: 0.1.2
+Summary: A package for maximum likelihood density fitting and simulation.
+Home-page: https://github.com/romanov360/mlfs
+Author: Tristan Romanov
+Author-email: romanov360@gmail.com
+License: BSD 2-clause
+Description: A package for maximum likelihood density fitting and simulation.
+        
+        This package is still in the planning phase. At the moment, two stages are planned.
+        
+        In the first stage, users will be able to fit common distributions to their data by the maximum likelihood estimation technique. Users will also be able to simulate sampling from these fitted distributions.
+        
+        In the second stage, users will be able to input custom distributional forms by pasting LaTeX code. At first, only continuous distributions will be allowed. Piecewise functions will be incorporated later.
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
