@@ -1,0 +1,14 @@
+nsaproxy/__init__.py,sha256=wOs0XnMwIcQOOfIhi7a0t33lqMvBb2gy2W1R6upL2mY,44
+nsaproxy/classes/__init__.py,sha256=nzSc1TXqJ3b8xm93wnXZSwBBD9-M998iiYYu9pdWdBs,984
+nsaproxy/classes/apis.py,sha256=t9nFJj2rQOC-LI8Qfr9d1jzcXiY3izwquU9CjnjGFzI,4457
+nsaproxy/modules/__init__.py,sha256=nzSc1TXqJ3b8xm93wnXZSwBBD9-M998iiYYu9pdWdBs,984
+nsaproxy/modules/pdns.py,sha256=XeHWPGvh6ahIvwNiiijRGWOg1WYnRmoQxYVkS3Xb2us,13512
+nsaproxy/plugins/__init__.py,sha256=nzSc1TXqJ3b8xm93wnXZSwBBD9-M998iiYYu9pdWdBs,984
+nsaproxy/plugins/cdns.py,sha256=125nn38IAv4QxZRF50dpKA-5Q04auq0mCC88O9AWNzg,7475
+nsaproxy/plugins/r53.py,sha256=4GqIZfm5pHbfqxc28FXi9plOjKtH_kDywPiNAo86_mQ,11150
+nsaproxy-0.1.40.data/scripts/nsaproxy,sha256=hzFN6X_IFzowxLL3YeWBVfdwA3lAD-JPKResZ5vU1s4,5683
+nsaproxy-0.1.40.dist-info/LICENSE,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+nsaproxy-0.1.40.dist-info/METADATA,sha256=vA4YxwTMLG_PkTalvR_rX1bMFYOim3C3hes81t1-mic,1462
+nsaproxy-0.1.40.dist-info/WHEEL,sha256=bK8TJl-oUKFDa18qkB68zwTZhIBCifqi4qjS_NS4aFQ,92
+nsaproxy-0.1.40.dist-info/top_level.txt,sha256=y2HZCiYW26XzsCOcylo1oXmyHNlw_aJy7MB1lAytiq8,9
+nsaproxy-0.1.40.dist-info/RECORD,,
