@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: resetmigrations
+Version: 0.0.4
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Juan Cruz Maciel Henning
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: click
+Requires-Dist: rich
+
+UNKNOWN
+

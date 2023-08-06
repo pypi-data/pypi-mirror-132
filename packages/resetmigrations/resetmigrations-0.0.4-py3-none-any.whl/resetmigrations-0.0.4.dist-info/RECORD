@@ -1,0 +1,17 @@
+sample-files/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sample-files/no_delete.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sample-files/pycache.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sample-files/migrations/0001_initial.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sample-files/migrations/0002_other.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sample-files/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/__init__.py,sha256=WrnsZrV_gvMbkST4TeiEnWzQdBSRyW-LTCb5nkCPS5A,43
+tests/resetmigrations_clean_test.py,sha256=AMuJBoMcX9ZCGgrm60629HTfq6StcyAcUbqVPpsxxRg,1233
+tests/sample-files/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/sample-files/no_delete.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/sample-files/pycache.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/sample-files/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+resetmigrations-0.0.4.dist-info/METADATA,sha256=368m-OdsHNLPJb7yb7y-6mcU_TY-wmAVrnG38ZBMC0M,214
+resetmigrations-0.0.4.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+resetmigrations-0.0.4.dist-info/entry_points.txt,sha256=lTCF6jRBmj-PHyDZSwHt0eLVcuxZx5kgEAZYT4pVMXY,79
+resetmigrations-0.0.4.dist-info/top_level.txt,sha256=0pQhe9RRHxhUj_Ni-dF7Y_hqQZpChJlPf_zJYV0WHYo,19
+resetmigrations-0.0.4.dist-info/RECORD,,
