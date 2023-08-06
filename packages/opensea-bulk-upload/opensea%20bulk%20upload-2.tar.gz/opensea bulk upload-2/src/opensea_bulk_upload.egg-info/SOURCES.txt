@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/opensea_bulk_upload.egg-info/PKG-INFO
+src/opensea_bulk_upload.egg-info/SOURCES.txt
+src/opensea_bulk_upload.egg-info/dependency_links.txt
+src/opensea_bulk_upload.egg-info/top_level.txt
