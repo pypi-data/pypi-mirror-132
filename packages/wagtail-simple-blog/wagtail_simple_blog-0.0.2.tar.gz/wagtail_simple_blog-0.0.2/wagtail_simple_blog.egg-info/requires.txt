@@ -1,0 +1,3 @@
+wagtail<2.16,>=2.15
+django-mptt>=0.13.4
+django-social-share>=2.2.1
