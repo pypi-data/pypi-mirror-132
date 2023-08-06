@@ -1,0 +1,13 @@
+README.md
+setup.py
+fgfw/__init__.py
+fgfw/config.py
+fgfw/core.py
+fgfw/data.py
+fgfw.egg-info/PKG-INFO
+fgfw.egg-info/SOURCES.txt
+fgfw.egg-info/dependency_links.txt
+fgfw.egg-info/entry_points.txt
+fgfw.egg-info/requires.txt
+fgfw.egg-info/top_level.txt
+fgfw/bin/libexec
