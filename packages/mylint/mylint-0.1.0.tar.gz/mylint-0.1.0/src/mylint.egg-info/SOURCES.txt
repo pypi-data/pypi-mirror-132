@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/mylint/__init__.py
+src/mylint/__main__.py
+src/mylint.egg-info/PKG-INFO
+src/mylint.egg-info/SOURCES.txt
+src/mylint.egg-info/dependency_links.txt
+src/mylint.egg-info/entry_points.txt
+src/mylint.egg-info/requires.txt
+src/mylint.egg-info/top_level.txt
