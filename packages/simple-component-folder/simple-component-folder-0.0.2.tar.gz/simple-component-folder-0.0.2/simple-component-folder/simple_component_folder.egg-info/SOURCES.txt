@@ -1,0 +1,9 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+simple-component-folder/simple_component_folder.egg-info/PKG-INFO
+simple-component-folder/simple_component_folder.egg-info/SOURCES.txt
+simple-component-folder/simple_component_folder.egg-info/dependency_links.txt
+simple-component-folder/simple_component_folder.egg-info/requires.txt
+simple-component-folder/simple_component_folder.egg-info/top_level.txt
