@@ -1,0 +1,12 @@
+mock_cli/__about__.py,sha256=rv8l8nbNJXuPcA-sIOfEKCUlUcy2NKUW4T14CZ-Sz-g,541
+mock_cli/__init__.py,sha256=wsCfPHPUOgR3V6TexLfVnrOFRIvxB3UPYuaKYQ8EZL4,411
+mock_cli/about.py,sha256=RQ_wW3YjRJTJo6NRM22-N8TsoxOK0Ans1diKD5dvxbM,147
+mock_cli/argv_conversion.py,sha256=oMfpy6uPenmExrpuBO47a-yZFdYQd_lhGmdb54Jmj0E,759
+mock_cli/mock_cmd.py,sha256=XXbQ9C0EMGbKce6_8OOKy1wt5re5dckRCr1BpMlxjHU,744
+mock_cli/path.py,sha256=ALMPEK_pBRvS5Q3LchmrALqa6rrMOe0TaxoAUPqlWpQ,1013
+mock_cli/responses.py,sha256=FkCY3qQON3dZGjyhbomW0OUMq_RhqAJGU2q_II1sAuA,6419
+mock_cli_framework-0.1.2.dist-info/LICENSE,sha256=y3jgiNz7COPUnHCozvv3NEA8Oh3RzLqGILXJs6vErFQ,1071
+mock_cli_framework-0.1.2.dist-info/METADATA,sha256=On9_9ecWQLwghg4tRvEV6ylgG3PD6Qcc9J6MxVTi0gE,9601
+mock_cli_framework-0.1.2.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+mock_cli_framework-0.1.2.dist-info/top_level.txt,sha256=Rx3CYRT2NbKi_nEyFcO-znLmlhEN_g6Q8vwxkuy1urk,9
+mock_cli_framework-0.1.2.dist-info/RECORD,,
