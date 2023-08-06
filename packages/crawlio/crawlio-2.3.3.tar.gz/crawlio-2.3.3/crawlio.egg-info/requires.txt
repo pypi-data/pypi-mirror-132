@@ -1,0 +1,4 @@
+aiohttp
+click
+fastapi
+parsel
