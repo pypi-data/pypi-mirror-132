@@ -1,0 +1,7 @@
+README.md
+setup.py
+rednit.py.egg-info/PKG-INFO
+rednit.py.egg-info/SOURCES.txt
+rednit.py.egg-info/dependency_links.txt
+rednit.py.egg-info/requires.txt
+rednit.py.egg-info/top_level.txt
