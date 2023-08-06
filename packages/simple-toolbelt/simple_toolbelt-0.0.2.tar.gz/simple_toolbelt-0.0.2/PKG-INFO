@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: simple_toolbelt
+Version: 0.0.2
+Summary: A growing collection of simple utilities functions for Python
+Home-page: https://github.com/mbiemann/python-simple-toolbelt
+Author: Marcell Biemann
+Author-email: mbiemann@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/mbiemann/python-simple-toolbelt/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# python-simple-toolbelt
+
+A growing collection of simple utilities functions for Python
+
+## Installation
+
+```bash
+pip install simple-toolbelt
+```
+
+## Functions
+
+- [path.ensure_dir](#pathensure_dir)
+
+___
+
+#### path.ensure_dir
+
+Create the directories, include subs, if don't exist.
+
+```python
+from simple_toolbath.path import ensure_dir
+
+with open(ensure_dir('this/path/to/file.txt'), 'w') as f:
+    ...
+```
+
+___
+Check on GitHub: 
+https://github.com/mbiemann/python-simple-toolbelt
+
