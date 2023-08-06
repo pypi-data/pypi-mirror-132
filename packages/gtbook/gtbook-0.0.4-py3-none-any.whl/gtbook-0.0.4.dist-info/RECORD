@@ -1,0 +1,11 @@
+gtbook/__init__.py,sha256=1mptEzQihbdyqqzMgdns_j5ZGK9gz7hR2bsgA_TnjO4,22
+gtbook/_nbdev.py,sha256=vOe3OdvEnlWuVb3zmQxhSS2WrS7p3R7XR4Zj65X8tWk,565
+gtbook/core.py,sha256=SWNWbaF-dCYhUOCLOWXxfKWgaPWuxA-rHX-15hKAMTg,427
+gtbook/discrete.py,sha256=nbwjBBj80sPqc3Pg0FAuKeIfZpAPMw2O36D_xzwu_JY,3372
+gtbook/display.py,sha256=8a9NBLfhMf9zMlVtFVMS920Y-83VajmP1r4xS2gfZcY,1338
+gtbook-0.0.4.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+gtbook-0.0.4.dist-info/METADATA,sha256=Mu1U55l8jElqS6KrQlTZAigpkFTbxV5StmpQ4QQ1_lQ,1747
+gtbook-0.0.4.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+gtbook-0.0.4.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+gtbook-0.0.4.dist-info/top_level.txt,sha256=PLMDM7nxqa329fUuvQQ3m5VilmvvlWsEUDUhcptP0mM,7
+gtbook-0.0.4.dist-info/RECORD,,
