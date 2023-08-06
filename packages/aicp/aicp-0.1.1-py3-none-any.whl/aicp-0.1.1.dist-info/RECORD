@@ -1,0 +1,9 @@
+aicp/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+aicp/lib.py,sha256=7n3RP8OGZH0w1XrVK-9YztOG4b2ykIrDFyBGOBpvjyo,437
+aicp/main.py,sha256=Tc5NcLf2ZpmYPwaS_rjP-cYIVRcBYGtcnt98GbAZ1m0,270
+aicp/service.py,sha256=V3wCH32YEOAbKuFma9_UCVh1FcpPSWQ_SlPecQ76whg,773
+aicp/solution.py,sha256=hF4MgYCgFql4J6qi3lguqc6HQdP2gm6PpvtSxKBSjZc,34
+aicp-0.1.1.dist-info/entry_points.txt,sha256=I4TLqjW5ExTGLWVezSJjiJ2JHR6pgsYcjMhRwKFrZkQ,38
+aicp-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+aicp-0.1.1.dist-info/METADATA,sha256=E--js1IfKM6RAyWh7ZAkB3H_ZzKQUMkuA8gavG8cpQI,415
+aicp-0.1.1.dist-info/RECORD,,
