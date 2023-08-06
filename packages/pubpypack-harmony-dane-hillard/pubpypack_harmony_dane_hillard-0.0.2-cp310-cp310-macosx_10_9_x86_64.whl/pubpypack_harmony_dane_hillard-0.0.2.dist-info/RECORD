@@ -1,0 +1,12 @@
+imppkg/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+imppkg/data.json,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+imppkg/harmonic_mean.c,sha256=Lyqiz0aFV4-xWyr49MggXegnn9hIwgn6TGJuKT1UffU,194903
+imppkg/harmonic_mean.cpython-310-darwin.so,sha256=YhHBUajFVoIkqYrG4CCE_OjjxyT33VOLPHkivoo4s8M,68024
+imppkg/harmonic_mean.pyx,sha256=OKVlWbzxkAIrdBBY5Gj6PWLGjSJu0l3Q_HyxSYvPtXI,77
+imppkg/harmony.py,sha256=LA_E6F73SHQR-O3uzf4SubCcrtyaCDSkep6pl-uF3SQ,611
+pubpypack_harmony_dane_hillard-0.0.2.dist-info/LICENSE,sha256=Zn2p0do0gn2Rafg1ZxtEibKRML0aEkAmb7fzk3AdOgI,1070
+pubpypack_harmony_dane_hillard-0.0.2.dist-info/METADATA,sha256=inmuGk1IUABNyMjT-AvTsXQhMo-CLBtjhYc8sG-4PDM,598
+pubpypack_harmony_dane_hillard-0.0.2.dist-info/WHEEL,sha256=wHXPjcF1PbvralrZAZffaBRfMW8u_7d-L-q3slIS7Go,111
+pubpypack_harmony_dane_hillard-0.0.2.dist-info/entry_points.txt,sha256=M7APNjLhQ86Qhj70pGi91lMuAqj7zs9ysAfDvVH-0hM,49
+pubpypack_harmony_dane_hillard-0.0.2.dist-info/top_level.txt,sha256=I91hjGcw_F0H8zGbV0bRxPlcQJVwYHLtIyAPaQ9x-hE,7
+pubpypack_harmony_dane_hillard-0.0.2.dist-info/RECORD,,
