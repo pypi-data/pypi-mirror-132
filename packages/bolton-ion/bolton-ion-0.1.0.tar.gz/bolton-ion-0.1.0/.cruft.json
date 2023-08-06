@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/python-boltons/cc-python",
+  "commit": "d93c9f24d9b2ed7b05e18da95ffc3086e540e721",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author": "Bryan M Bugyi",
+      "email": "bryanbugyi34@gmail.com",
+      "github_username": "bbugyi200",
+      "git_org_name": "python-boltons",
+      "git_repo_name": "ion",
+      "package_name": "ion",
+      "pypi_package_name": "bolton-ion",
+      "read_the_docs_domain": "bolton-ion",
+      "package_description": "I/O ninja (ION)... Utilities related to I/O that we find useful.",
+      "package_type": "library",
+      "_template": "https://github.com/python-boltons/cc-python",
+      "package_path": "ion",
+      "package_module": "ion"
+    }
+  },
+  "directory": null
+}
