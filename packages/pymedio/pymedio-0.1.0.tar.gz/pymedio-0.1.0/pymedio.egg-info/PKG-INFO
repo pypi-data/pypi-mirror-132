@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: pymedio
+Version: 0.1.0
+Summary: read arbitrary medical images in python
+Home-page: https://github.com/jcreinhold/pymedio
+Author: Jacob Reinhold
+Author-email: jcreinhold@gmail.com
+License: MIT license
+Project-URL: Bug Tracker, https://github.com/jcreinhold/pymedio/issues
+Project-URL: Documentation, https://pymedio.readthedocs.io/
+Keywords: medio
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Typing :: Typed
+Requires-Python: >=3.8
+Description-Content-Type: text/x-rst
+Provides-Extra: all
+License-File: LICENSE
+License-File: AUTHORS.rst
+
+=====
+medio
+=====
+
+.. image:: https://img.shields.io/pypi/v/pymedio.svg
+        :target: https://pypi.python.org/pypi/pymedio
+
+.. image:: https://readthedocs.org/projects/medio/badge/?version=latest
+        :target: https://medio.readthedocs.io/en/latest/?version=latest
+        :alt: Documentation Status
+
+read arbitrary medical images in python; heavily inspired by `torchio <https://github.com/fepegar/torchio>`_
+
+* Free software: MIT license
+* Documentation: https://medio.readthedocs.io.
+
+=======
+History
+=======
+
+0.1.0 (2021-12-21)
+------------------
+
+* First release on PyPI.
+
+
