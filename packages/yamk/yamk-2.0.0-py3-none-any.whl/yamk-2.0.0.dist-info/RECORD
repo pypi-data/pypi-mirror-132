@@ -1,0 +1,12 @@
+CHANGELOG.rst,sha256=bSxYLlZbch8c2yhVSvoatn9R1tOFG5DDDQjGUu8weZQ,6936
+yamk/__init__.py,sha256=-ypEJktJToAL9by62JJKWEzDo_KPCQtmE5kwFgX24z4,22
+yamk/functions.py,sha256=FbTEmWHPuuB51ihiOYHPRHsZslXVNnHxWAciSP5Vt1M,3234
+yamk/lib.py,sha256=U_6ZWMJ7v4cHrqQE-iJmrpGCnLLWBdMvL6hn2JeiHF0,8959
+yamk/main.py,sha256=Sl8F1rbTE5ooOfDbUkCUX5XSJBm5om0_mQXEpbK5aNs,1765
+yamk/make.py,sha256=5jPSjn-9Z3fGtmMDbiM_1INkp-QAbdb1-KwGMPIpJQs,8131
+yamk/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+yamk-2.0.0.dist-info/entry_points.txt,sha256=1BTfTxuXgVP3q50A1vFEzlKTf7pbumGIIFwa1h8TAzY,58
+yamk-2.0.0.dist-info/LICENSE.txt,sha256=46mU2C5kSwOnkqkw9XQAJlhBL2JAf1_uCD8lVcXyMRg,7652
+yamk-2.0.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+yamk-2.0.0.dist-info/METADATA,sha256=vRr1ildrzRZq1ZhoeLPSOPzuIkFClYrfdkBQPkUgOcY,2821
+yamk-2.0.0.dist-info/RECORD,,
