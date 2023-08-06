@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "python3",
+  "-m",
+  "pyemr.utils.ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 - s3Mock",
+ "language": "python"
+}
