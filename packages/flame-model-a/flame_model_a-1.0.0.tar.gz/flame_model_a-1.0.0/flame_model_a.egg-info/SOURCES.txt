@@ -1,0 +1,14 @@
+README.md
+setup.py
+flame_model_a.egg-info/PKG-INFO
+flame_model_a.egg-info/SOURCES.txt
+flame_model_a.egg-info/dependency_links.txt
+flame_model_a.egg-info/requires.txt
+flame_model_a.egg-info/top_level.txt
+flame_models/__init__.py
+flame_models/apriori.py
+flame_models/gaussian_mixture_model.py
+flame_models/genetic_algorithm.py
+flame_models/k_means.py
+flame_models/partitioning_around_medoids.py
+flame_models/principal_component_analysis.py
