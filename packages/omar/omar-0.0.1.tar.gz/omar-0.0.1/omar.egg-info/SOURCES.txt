@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+joshbasiccalculator/__init__.py
+omar.egg-info/PKG-INFO
+omar.egg-info/SOURCES.txt
+omar.egg-info/dependency_links.txt
+omar.egg-info/top_level.txt
