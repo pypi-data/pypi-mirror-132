@@ -1,0 +1,8 @@
+numpy<2.0,>=1.16
+
+[dask]
+numpy<2.0,>=1.16
+dask[array]>=1.0
+
+[scipy]
+scipy>=1.2.0
