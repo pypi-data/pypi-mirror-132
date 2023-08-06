@@ -1,0 +1,5 @@
+aiohttp
+argon2-cffi
+pynacl
+jsonschema
+requests
