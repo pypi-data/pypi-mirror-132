@@ -1,0 +1,2 @@
+splinter==0.16.0
+pytest>=6.2.4
