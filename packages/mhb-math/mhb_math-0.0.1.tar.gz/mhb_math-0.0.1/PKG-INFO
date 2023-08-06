@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: mhb_math
+Version: 0.0.1
+Summary: A small mathematical package
+Home-page: https://github.com/Mouhib-Khemiri/
+Author: Mouhib Khemiri
+Author-email: khemiri.mouhib43@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Mouhib-Khemiri/
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Mhb_Math
+
+This is a simple small mathematical package. You can use
+
+## Module Equations
+Not yet implemented
+
+## Module Functions
+Not yet implemented
+
