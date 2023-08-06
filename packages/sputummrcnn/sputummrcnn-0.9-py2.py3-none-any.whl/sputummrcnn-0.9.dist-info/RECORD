@@ -1,0 +1,15 @@
+sginnovate/Preprocessing_opt.py,sha256=H1rzkHJPk1F1j93DndV54206Ojbn3yWjpWtlDa3Fjag,1183
+sginnovate/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sginnovate/main.py,sha256=LWWLllvzDFy6HCfKBoeISV6dxnNRHgk65z0Lw5fluqE,22361
+sginnovate/mask_saving.py,sha256=1bGDaB-Hx_H_1118e_FuEptD7t3D7evc2ApU5Ed6Wig,6218
+sginnovate/mrcnn/__init__.py,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+sginnovate/mrcnn/config.py,sha256=QyXCm0EQHh8LL3gp-MlspG6fILsyZ3JnWtXOkgtjP60,9632
+sginnovate/mrcnn/model.py,sha256=70ka0w55c2q8cRJ-1qnmqyUpgUrfOhoEjHyLTAudiJo,130317
+sginnovate/mrcnn/parallel_model.py,sha256=2LwhJDLaDUvbleZhTaNAOCNElNAt98nKsuL6pbdAuys,7197
+sginnovate/mrcnn/utils.py,sha256=8keWERO_bFWqBV4irvPSmWyc1F3buQgsfSMJrmvelfo,35169
+sginnovate/mrcnn/visualize.py,sha256=tHnQv8E-RocgKcrHAG1SNVH0_MA4U_4gusauC7ayido,19462
+sputummrcnn-0.9.dist-info/LICENSE.txt,sha256=5sb1VdJsWxakSz2BN_Xyx1ebRPIykGYl3tZgO3IallI,1082
+sputummrcnn-0.9.dist-info/METADATA,sha256=05AGH2bzakTuEZE-MIg6Gfw6DsCioHHvTT9wgoPxk14,1672
+sputummrcnn-0.9.dist-info/WHEEL,sha256=WzZ8cwjh8l0jtULNjYq1Hpr-WCqCRgPr--TX4P5I1Wo,110
+sputummrcnn-0.9.dist-info/top_level.txt,sha256=zaykD_2BWJcHwcrGQv_ZNdR2IiOFsKaMtMFKvusXZmk,11
+sputummrcnn-0.9.dist-info/RECORD,,

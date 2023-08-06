@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: sputummrcnn
+Version: 0.9
+Summary: Custom Mask RCNN
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: Pillow
+Requires-Dist: cython
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: scikit-image
+Requires-Dist: tensorflow (==1.15.0)
+Requires-Dist: keras (==2.2.4)
+Requires-Dist: opencv-python
+Requires-Dist: h5py (==2.10.0)
+Requires-Dist: imgaug
+Requires-Dist: theano
+Requires-Dist: IPython[all]
+
+Sputum MaskRCNN
+================
+
+A Custom Python Package for Implementing MaskRCNN. This is a private package intended 
+for implementing Mask RCNN Algorithm on Sputum Project, its ML Model generation 
+and related resources. 
+
+Installing
+----------
+.. note::
+	It is advised to install in a virtual enviroment
+
+run : pip install sputummrcnn
+
+Features
+--------
+* Mask RCNN Implementation on Sputum Files.
+	Given the set of images and the annotation files the package trains the models 
+	as per user requirements. The Images can then be predicted or cropped using 
+	the other features in the package.
+
+* Feature Extraction.
+	Based on the Cropped Images, certain features are extracted by the package,
+	and then saved as a parquet file which can be used as training dataset for
+	the Machine Learning model.
+
+* Machine Learning Model & Analysis
+	After Feature files are generated, based on Random Forest or K Nearest Neighbour
+	Algorithm a Machine Learning Model is trained based on user preference. It's
+	accuracy and confusion is also shown so as to select the best one.
+
+Credits
+-------
+
+https://github.com/matterport/Mask_RCNN
+
