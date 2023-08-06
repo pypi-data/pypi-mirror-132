@@ -1,0 +1,11 @@
+setup.py
+scrape/__init__.py
+scrape/main.py
+scrape/scrape.py
+scrape_easy.egg-info/PKG-INFO
+scrape_easy.egg-info/SOURCES.txt
+scrape_easy.egg-info/dependency_links.txt
+scrape_easy.egg-info/requires.txt
+scrape_easy.egg-info/top_level.txt
+tests/__init__.py
+tests/test_scrape.py
