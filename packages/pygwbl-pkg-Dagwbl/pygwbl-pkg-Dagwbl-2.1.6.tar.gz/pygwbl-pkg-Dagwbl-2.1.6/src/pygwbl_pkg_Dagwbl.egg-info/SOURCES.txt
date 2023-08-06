@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pygwbl.py
+src/pygwbl_pkg_Dagwbl.egg-info/PKG-INFO
+src/pygwbl_pkg_Dagwbl.egg-info/SOURCES.txt
+src/pygwbl_pkg_Dagwbl.egg-info/dependency_links.txt
+src/pygwbl_pkg_Dagwbl.egg-info/top_level.txt
