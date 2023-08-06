@@ -1,0 +1,8 @@
+package/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+package/example.txt,sha256=ZEhBBDY5nhS2ZgbPRQvs4-ldqdeCqBggLBQ5OoDeizk,79
+package/main.py,sha256=ZI24n3X1b2c5KuKvu5T38IkGNFueH3llFhQ4O709CTU,203
+flame_package_d-0.0.1.dist-info/LICENSE,sha256=JGBdjy0xdMsaKoMZu46JwHzLnG4nLm5NhNgctGpd2aY,1088
+flame_package_d-0.0.1.dist-info/METADATA,sha256=04NrXd9XOJxDsAvgZyd9H_oMKnGfyJ5xQ1CofrZKBEc,554
+flame_package_d-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+flame_package_d-0.0.1.dist-info/top_level.txt,sha256=TpQW7893uEAT8mPh-QCMZWhhKYvlqryC9Fjm5Hxg2f8,8
+flame_package_d-0.0.1.dist-info/RECORD,,
