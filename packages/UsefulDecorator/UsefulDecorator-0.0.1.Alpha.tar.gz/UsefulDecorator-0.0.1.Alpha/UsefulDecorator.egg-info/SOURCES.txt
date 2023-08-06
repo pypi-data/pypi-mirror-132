@@ -1,0 +1,7 @@
+setup.py
+UsefulDecorator/NotNone.py
+UsefulDecorator/__init__.py
+UsefulDecorator.egg-info/PKG-INFO
+UsefulDecorator.egg-info/SOURCES.txt
+UsefulDecorator.egg-info/dependency_links.txt
+UsefulDecorator.egg-info/top_level.txt
