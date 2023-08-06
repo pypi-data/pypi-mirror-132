@@ -1,0 +1,9 @@
+coco_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+coco_utils/coco.py,sha256=xj4B_cZxbpP8yXnsTQ-CfkRlR2J5m1ebInAWUBgGL-0,2202
+coco_utils/plots.py,sha256=N2bMIrbzYpE3HyVGPBT89ci8wMFsFLrKzhi-QNcwDAc,4156
+coco_utils/schema.py,sha256=_kyzFNbyfvcjpRN4gfMKJCXEY_2rgOT1vKWL8F3QBiA,1272
+coco_utils/utils.py,sha256=AJZNVqtkc5vrbMrbKX8TPgkBhLxcCWhpYMGikdQZByc,437
+coco_utils-0.0.3.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+coco_utils-0.0.3.dist-info/WHEEL,sha256=N0LZrBtofpkS5mJXgVHTCEy52Sam4D6PHQWC8HnMeTs,83
+coco_utils-0.0.3.dist-info/METADATA,sha256=chKZ7fgMNlGdntozafRjUKjxzmvTdlwKQ0MwUgoyxds,1861
+coco_utils-0.0.3.dist-info/RECORD,,
