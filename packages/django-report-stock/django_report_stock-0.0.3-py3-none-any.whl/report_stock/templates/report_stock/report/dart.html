@@ -1,0 +1,21 @@
+<div class="container-fluid my-3">
+  <h5>Dart</h5>
+  <table class="table">
+    <thead>
+    <tr>
+      <th scope="col">rcept_dt</th>
+      <th scope="col">report_nm</th>
+      <th scope="col">is_noti</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for dart in darts %}
+    <tr>
+      <th scope="row">{{ dart.rcept_dt }}</th>
+      <td><a href="http://dart.fss.or.kr/dsaf001/main.do?rcpNo={{ dart.rcept_no }}" target="_blank">{{ dart.report_nm }}</a></td>
+      <td>{{ dart.is_noti }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>

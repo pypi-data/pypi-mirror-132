@@ -1,0 +1,20 @@
+<!-- for using intcomma -->
+{% load humanize %}
+
+<div class="card my-3">
+  <!-- red_s : (괴리율을 기반으로한 포인트, 주가와 red price 비교한 괴리율) -->
+  <div class="card-header">
+    Red Price - Point : {{ red_s.0 }} / 괴리율 : {{ red_s.1 }} % / {{red.date}}
+  </div>
+  <div class="card-body">
+    <div class="row">
+      <div class="col-3">
+        <h5>{{ red.red_price|intcomma }} 원</h5>
+      </div>
+      <div class="col">
+        사업가치({{ red.사업가치|intcomma }} 억) + 재산가치({{ red.재산가치|intcomma }} 억)
+        - 부채({{ red.부채평가|intcomma }} 억) / 발행주식({{ red.발행주식수|intcomma }} 주)
+      </div>
+    </div>
+  </div>
+</div>
