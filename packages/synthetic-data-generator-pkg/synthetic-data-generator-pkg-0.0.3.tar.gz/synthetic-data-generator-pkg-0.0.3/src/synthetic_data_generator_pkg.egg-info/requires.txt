@@ -1,0 +1,7 @@
+barnum
+Faker
+future
+names
+python-dateutil
+six
+text-unidecode
