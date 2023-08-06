@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: econx
+Version: 0.0.1
+Summary: Advanced Financial Econometrics
+Home-page: https://github.com/michaelnowotny/econx
+Author: Michael Christoph Nowotny
+Author-email: nowotnym@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: arviz
+Requires-Dist: jupyter
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: pyjags
+Requires-Dist: scipy
+Requires-Dist: seaborn
+Requires-Dist: sympy
+Requires-Dist: pytest
+
+
+# EconX - Advanced Financial Econometrics
+EconX is a collection of statistical procedures for financial applications.
+
+
