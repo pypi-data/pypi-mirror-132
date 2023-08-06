@@ -1,0 +1,14 @@
+pkman/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pkman/clitools/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pkman/clitools/apis.py,sha256=m89hyp2ij1htt4KyJjYWEuvdgRnrkevJT79MxAcO3Tc,2158
+pkman/clitools/cli.py,sha256=VKV8BdfoLcafk2pjb7JqfC0UP9b6zLBKITeJinR84lE,1434
+pkman/clitools/config.py,sha256=LcOZVzbFafZX8aeHzkJQhrooAWR4FOFxVhVfe36Pp04,38
+pkman/clitools/utils/CmdUtil.py,sha256=cw_uzeyGMSPfXu23toEm3UpCGG6-Tzs2qBIpvwaoebM,301
+pkman/clitools/utils/IoUtil.py,sha256=NWaRkN1Q7v89AxGBFdOqlrQqIqgu_wG06PUjep7f054,1160
+pkman/clitools/utils/__init__.py,sha256=Y0HhB-NY01W3i2d4MheNpBoM3ivWi6ZnLRpGQQG5HvU,28
+pkman-0.0.0.7.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+pkman-0.0.0.7.dist-info/METADATA,sha256=iIMjrEYSouulXV9-4NYvHlaUbkqF6fdt87eXtczvRoA,600
+pkman-0.0.0.7.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+pkman-0.0.0.7.dist-info/entry_points.txt,sha256=Hh8Wr0wlynP0cdTih3lk5iAE8faVd3BZw0Pu6OAO_PE,51
+pkman-0.0.0.7.dist-info/top_level.txt,sha256=d-1tMPMiOHMN9w2XOYj3Z1M05XiLGx2PmwJskssRSMY,6
+pkman-0.0.0.7.dist-info/RECORD,,
