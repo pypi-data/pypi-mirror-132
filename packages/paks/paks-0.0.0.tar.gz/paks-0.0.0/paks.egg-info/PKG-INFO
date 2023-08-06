@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: paks
+Version: 0.0.0
+Summary: GitHub packages package manager.
+Home-page: https://github.com/syspack/paks
+Author: Vanessa Sochat, Alec Scott
+Maintainer: Vanessa Sochat, Alec Scott
+License: LICENSE
+Description: # Paks
+        
+        > Paks is a package manager optimized for community contributions and containers 📦️
+        
+        ## Goals
+        
+        We want a package manager that is optimized to help people build packages from source,
+        and distribute the binaries via GitHub packages and also provide robust metadata
+        and an organization scheme that works well for containers. We want a focus on that
+        and then testing and automatically updating the individual packages provided.
+        
+        🚧️ **under development** 🚧️
+        
+        
+Keywords: software,GitHub packages.
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+Provides-Extra: all
