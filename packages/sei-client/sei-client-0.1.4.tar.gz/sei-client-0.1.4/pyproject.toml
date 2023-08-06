@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sei-client"
+version = "0.1.4"
+description = ""
+authors = ["Julio Cezar Riffel <julioriffel@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.26.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+flake8 = "^4.0.1"
+black = "^21.12b0"
+pre-commit = "^2.16.0"
+pytest-coverage = "^0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
