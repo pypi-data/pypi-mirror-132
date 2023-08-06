@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+libpythonpro/__init__.py
+libpythonpro/github_api.py
+pytools_serlus.egg-info/PKG-INFO
+pytools_serlus.egg-info/SOURCES.txt
+pytools_serlus.egg-info/dependency_links.txt
+pytools_serlus.egg-info/not-zip-safe
+pytools_serlus.egg-info/requires.txt
+pytools_serlus.egg-info/top_level.txt
