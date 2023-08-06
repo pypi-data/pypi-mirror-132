@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: mathbox
+Version: 0.0.5
+Summary: A math toolbox.
+Home-page: https://github.com/freedeaths/mathbox-py.git
+Author: freedeaths
+Author-email: register917@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: math,data-processing
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.8.0
