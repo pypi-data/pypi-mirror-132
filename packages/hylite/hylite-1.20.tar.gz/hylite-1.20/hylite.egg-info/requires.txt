@@ -1,0 +1,17 @@
+scipy>=1.4
+matplotlib>=3
+numpy
+imageio
+opencv-python
+opencv-contrib-python
+scikit-image
+tqdm
+roipoly
+spectral
+utm
+laspy
+plyfile
+astral
+piexif
+gfit
+numba
