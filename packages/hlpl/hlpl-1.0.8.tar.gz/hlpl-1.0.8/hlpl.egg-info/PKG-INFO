@@ -1,0 +1,40 @@
+Metadata-Version: 1.2
+Name: hlpl
+Version: 1.0.8
+Summary: A Programming Language for Human Life 
+Home-page: https://hlpl.net
+Author: Ahmida Bendjoudi
+Author-email: email@hlpl.com
+License: MIT
+Download-URL: https://hlpl.net/download/
+Project-URL: url, https://hlpl.net
+Project-URL: composer, https://composer.hlpl.net
+Project-URL: templater, https://templater.hlpl.net
+Project-URL: transcriber, https://transcriber.hlpl.net
+Project-URL: press, https://press.hlpl.net
+Project-URL: character, https://character.hlpl.net
+Project-URL: photographer, https://photographer.hlpl.net
+Project-URL: graphics, https://graphics.hlpl.net
+Project-URL: docs, https://docs.hlpl.net
+Project-URL: forum, https://forum.hlpl.net
+Project-URL: resource, https://graphics.hlpl.net
+Description: 
+        # Human Life Programming Language (HLPL)
+        
+        HLPL is a programming language for human life. HLPL is composed from seven sofwtare:
+        > **Composer:** composes texts
+        > **templater:** templates texts 
+        > **transcriber:** transcribes texts
+        > **press:** designes web sites 
+        > **character:** simulates human life 
+        > **photographer:** simulates nature 
+        > **graphics:** makes graphics (movies, anime, games ...)
+        
+Keywords: hlpl,hlpl.docs,hlpl.composer,hlpl.templater,hlpl.transcriber,hlpl.press,hlpl.character,hlpl.photographer,hlpl.graphis
+Platform: UNKNOWN
+Classifier: Framework :: Robot Framework
+Classifier: Framework :: Robot Framework :: Library
+Classifier: Framework :: Robot Framework :: Tool
+Classifier: Natural Language :: Arabic
+Classifier: Natural Language :: English
+Requires-Python: >=3, <=3.8
