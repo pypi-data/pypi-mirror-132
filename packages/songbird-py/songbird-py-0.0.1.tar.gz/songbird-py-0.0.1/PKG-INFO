@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: songbird-py
+Version: 0.0.1
+Summary: A Discord voice library using Python Songbird bindings.
+Home-page: https://github.com/Lunarmagpie/Songbird-Py
+Author: Lunarmagpie
+License: UNKNOWN
+Project-URL: GitHub, https://github.com/Lunarmagpie/Songbird-Py
+Project-URL: Bug Tracker, https://github.com/Lunarmagpie/Songbird-Py/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Rust
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+UNKNOWN
+
