@@ -1,0 +1,10 @@
+pyggui/__init__.py,sha256=Uq5oSCtb8jIkY9mbcvj6rDSCipSH9Qj1TFUb1l9QoK4,23
+pyggui/__main__.py,sha256=PoZ_ViT8zMHRASsncMQbsNHaLzLnXFxcEMo_ahLt6zU,397
+pyggui/cli.py,sha256=iUgVeaA0rZum7Q2IIfa1ObCZjUIMgibBZ14nrzVK8qg,838
+pyggui-0.0.0.dist-info/AUTHORS.rst,sha256=-LbzYlerVoy0TRLNPukymcZ5alX0a49RzaOpEJ2n6to,72
+pyggui-0.0.0.dist-info/LICENSE,sha256=64QcJYWFJqJVcioQVQTra1S_DqUIlQf7ee1YeOXI22o,1107
+pyggui-0.0.0.dist-info/METADATA,sha256=Icl7tyU_hRaVDF0d1rpcR7YQWKDZGM-19SdazsNWz9M,2248
+pyggui-0.0.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+pyggui-0.0.0.dist-info/entry_points.txt,sha256=uASQFj6ie2K5jwB-tpcBjUyLw5lxFVEfgKZHuQgB9EQ,44
+pyggui-0.0.0.dist-info/top_level.txt,sha256=9U92_n5VkQf3d6ontXlCKFUmQ22K3DEM71lBZv2cVh8,7
+pyggui-0.0.0.dist-info/RECORD,,
