@@ -1,0 +1,126 @@
+############# Testing pyRXPU=7F35C9655D50
+
+Parser keywords OK
+
+Parser().parse keywords OK
+
+Parser()=<pyRXPU.Parser object at 0x7f35c8e17820>
+Parser().__class__=<class 'pyRXPU.Parser'>
+type(Parser())=<class 'pyRXPU.Parser'>
+
+
+Parser().__class__ etc OK
+
+pyRXPU.Parser()('<a></a>')
+OK
+
+pyRXPU.Parser(ExpandEmpty=1)('<a></a>')
+OK
+
+pyRXPU.Parser(MakeMutableTree=1)('<a></a>')
+OK
+
+pyRXPU.Parser()('<a/>')
+OK
+
+pyRXPU.Parser(ExpandEmpty=1)('<a/>')
+OK
+
+pyRXPU.Parser(MakeMutableTree=1)('<a/>')
+OK
+
+pyRXPU.Parser(ExpandEmpty=1, MakeMutableTree=1)('<a/>')
+OK
+
+pyRXPU.Parser()('</a>')
+OK
+
+pyRXPU.Parser()('<a>A<!--comment--></a>')
+OK
+
+pyRXPU.Parser(ExpandEmpty=1)('<a>A<!--comment--></a>')
+OK
+
+pyRXPU.Parser(ReturnComments=1)('<a>A<!--comment--></a>')
+OK
+
+pyRXPU.Parser()('<a>A&lt;&amp;&gt;</a>')
+OK
+
+pyRXPU.Parser(MergePCData=0)('<a>A&lt;&amp;&gt;</a>')
+OK
+
+pyRXPU.Parser(ReturnComments=1)('<!--comment--><a/>')
+OK
+
+pyRXPU.Parser(ReturnComments=1, ReturnList=1)('<!--comment--><a/>')
+OK
+
+pyRXPU.Parser(ReturnComments=1)('<!--comment--><a/>')
+OK
+
+pyRXPU.Parser()('<?xml version="1.0" encoding="LATIN-1"?></a>')
+OK
+
+pyRXPU.Parser(IgnorePlacementErrors=1, ReturnList=1, ReturnProcessingInstructions=1, ReturnComments=1)('<?work version="1.0" encoding="utf-8"?><a/>')
+OK
+
+pyRXPU.Parser(fourth=recordLocation, srcName=aaa)('<a>\nHello\n<b>cruel\n</b>\nWorld\n</a>')
+OK
+
+pyRXPU.Parser(fourth=recordLocation, srcName=aaa)('<a aname="ANAME" aother="AOTHER">\nHello\n<b bname="BNAME" bother="BOTHER">cruel\n</b>\nWorld\n</a>')
+OK
+
+pyRXPU.Parser()('<a><![CDATA[<a>]]></a>')
+OK
+
+pyRXPU.Parser(ReturnCDATASectionsAsTuples=1)('<a><![CDATA[<a>]]></a>')
+OK
+
+pyRXPU.Parser(XMLNamespaces=1, ReturnNamespaceAttributes=1)('<foo:A xmlns:foo="http://www.foo.org/"><foo:B><foo:C xmlns:foo="http://www.bar.org/"><foo:D>abcd</foo:D></foo:C></foo:B><foo:B/><A>bare A<C>bare C</C><B>bare B</B></A><A xmlns="http://default.reportlab.com/" xmlns:bongo="http://bongo.reportlab.com/">default ns A<bongo:A>bongo A</bongo:A><B>default NS B</B></A></foo:A>')
+OK
+
+pyRXPU.Parser()('<tag257><tag256><tag255><tag254><tag253><tag252><tag251><tag250><tag249><tag248><tag247><tag246><tag245><tag244><tag243><tag242><tag241><tag240><tag239><tag238><tag237><tag236><tag235><tag234><tag233><tag232><tag231><tag230><tag229><tag228><tag227><tag226><tag225><tag224><tag223><tag222><tag221><tag220><tag219><tag218><tag217><tag216><tag215><tag214><tag213><tag212><tag211><tag210><tag209><tag208><tag207><tag206><tag205><tag204><tag203><tag202><tag201><tag200><tag199><tag198><tag197><tag196><tag195><tag194><tag193><tag192><tag191><tag190><tag189><tag188><tag187><tag186><tag185><tag184><tag183><tag182><tag181><tag180><tag179><tag178><tag177><tag176><tag175><tag174><tag173><tag172><tag171><tag170><tag169><tag168><tag167><tag166><tag165><tag164><tag163><tag162><tag161><tag160><tag159><tag158><tag157><tag156><tag155><tag154><tag153><tag152><tag151><tag150><tag149><tag148><tag147><tag146><tag145><tag144><tag143><tag142><tag141><tag140><tag139><tag138><tag137><tag136><tag135><tag134><tag133><tag132><tag131><tag130><tag129><tag128><tag127><tag126><tag125><tag124><tag123><tag122><tag121><tag120><tag119><tag118><tag117><tag116><tag115><tag114><tag113><tag112><tag111><tag110><tag109><tag108><tag107><tag106><tag105><tag104><tag103><tag102><tag101><tag100><tag99><tag98><tag97><tag96><tag95><tag94><tag93><tag92><tag91><tag90><tag89><tag88><tag87><tag86><tag85><tag84><tag83><tag82><tag81><tag80><tag79><tag78><tag77><tag76><tag75><tag74><tag73><tag72><tag71><tag70><tag69><tag68><tag67><tag66><tag65><tag64><tag63><tag62><tag61><tag60><tag59><tag58><tag57><tag56><tag55><tag54><tag53><tag52><tag51><tag50><tag49><tag48><tag47><tag46><tag45><tag44><tag43><tag42><tag41><tag40><tag39><tag38><tag37><tag36><tag35><tag34><tag33><tag32><tag31><tag30><tag29><tag28><tag27><tag26><tag25><tag24><tag23><tag22><tag21><tag20><tag19><tag18><tag17><tag16><tag15><tag14><tag13><tag12><tag11><tag10><tag9><tag8><tag7><tag6><tag5><tag4><tag3><tag2><tag1>middle</tag1></tag2></tag3></tag4></tag5></tag6></tag7></tag8></tag9></tag10></tag11></tag12></tag13></tag14></tag15></tag16></tag17></tag18></tag19></tag20></tag21></tag22></tag23></tag24></tag25></tag26></tag27></tag28></tag29></tag30></tag31></tag32></tag33></tag34></tag35></tag36></tag37></tag38></tag39></tag40></tag41></tag42></tag43></tag44></tag45></tag46></tag47></tag48></tag49></tag50></tag51></tag52></tag53></tag54></tag55></tag56></tag57></tag58></tag59></tag60></tag61></tag62></tag63></tag64></tag65></tag66></tag67></tag68></tag69></tag70></tag71></tag72></tag73></tag74></tag75></tag76></tag77></tag78></tag79></tag80></tag81></tag82></tag83></tag84></tag85></tag86></tag87></tag88></tag89></tag90></tag91></tag92></tag93></tag94></tag95></tag96></tag97></tag98></tag99></tag100></tag101></tag102></tag103></tag104></tag105></tag106></tag107></tag108></tag109></tag110></tag111></tag112></tag113></tag114></tag115></tag116></tag117></tag118></tag119></tag120></tag121></tag122></tag123></tag124></tag125></tag126></tag127></tag128></tag129></tag130></tag131></tag132></tag133></tag134></tag135></tag136></tag137></tag138></tag139></tag140></tag141></tag142></tag143></tag144></tag145></tag146></tag147></tag148></tag149></tag150></tag151></tag152></tag153></tag154></tag155></tag156></tag157></tag158></tag159></tag160></tag161></tag162></tag163></tag164></tag165></tag166></tag167></tag168></tag169></tag170></tag171></tag172></tag173></tag174></tag175></tag176></tag177></tag178></tag179></tag180></tag181></tag182></tag183></tag184></tag185></tag186></tag187></tag188></tag189></tag190></tag191></tag192></tag193></tag194></tag195></tag196></tag197></tag198></tag199></tag200></tag201></tag202></tag203></tag204></tag205></tag206></tag207></tag208></tag209></tag210></tag211></tag212></tag213></tag214></tag215></tag216></tag217></tag218></tag219></tag220></tag221></tag222></tag223></tag224></tag225></tag226></tag227></tag228></tag229></tag230></tag231></tag232></tag233></tag234></tag235></tag236></tag237></tag238></tag239></tag240></tag241></tag242></tag243></tag244></tag245></tag246></tag247></tag248></tag249></tag250></tag251></tag252></tag253></tag254></tag255></tag256></tag257>')
+OK
+
+pyRXPU.Parser()('<a>&Aacute;&aacute;</a>')
+OK
+
+pyRXPU.Parser(ugeCB=<function ugeCB at 0x7f35c9046840>)('<a>&Aacute;</a>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0)('<!DOCTYPE foo SYSTEM "not-there.dtd"><foo>foo<a>aaa</a>fum</foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0)('<!DOCTYPE foo SYSTEM "is-there.dtd"><foo><a>aaa</a></foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0)('<!DOCTYPE foo SYSTEM "is-there.dtd"><foo><a>aaa</a><b>bbbb</b></foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0, eoCB=<function eoDTD at 0x7f35c9046ca0>)('<!DOCTYPE foo SYSTEM "is-there.dtd"><foo><a>aaa</a></foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0, eoCB=<function eoDTD at 0x7f35c9046ca0>)('<!DOCTYPE foo SYSTEM "is-there.dtd"><foo><a>aaa</a><b>bbbb</b></foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0, eoCB=<function eoDTD at 0x7f35c9046ca0>)('<!DOCTYPE foo SYSTEM "have-utf8-content.dtd"><foo><a>aaa</a><b>bbbb</b></foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0, eoCB=<function eoDTD at 0x7f35c9046ca0>)('<!DOCTYPE foo SYSTEM "have-unicode-content.dtd"><foo><a>aaa</a><b>bbbb</b></foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0, eoCB=<function eoDTD at 0x7f35c9046ca0>)('<!DOCTYPE foo SYSTEM "not-there.dtd"><foo>foo<a>aaa</a>fum</foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0, eoCB=<function eoDTD at 0x7f35c9046ca0>)('<!DOCTYPE foo SYSTEM "badt-have-utf8-content.dtd"><foo><a>aaa</a><b>bbbb</b></foo>')
+OK
+
+pyRXPU.Parser(NoNoDTDWarning=0, eoCB=<function eoDTD at 0x7f35c9046ca0>)('<!DOCTYPE foo SYSTEM "badt-have-unicode-content.dtd"><foo><a>aaa</a><b>bbbb</b></foo>')
+OK
+
+
+39 tests
+
+OK
+
