@@ -1,0 +1,1743 @@
+<!DOCTYPE html>
+<html class="writer-html4" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Soccer value bets &mdash; sports-betting 0.1.3 documentation</title><link rel="stylesheet" href="../../_static/css/sports-betting.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sg_gallery.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sg_gallery-binder.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sg_gallery-dataframe.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/sg_gallery-rendered-html.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../../_static/jquery.js"></script>
+        <script type="text/javascript" src="../../_static/underscore.js"></script>
+        <script type="text/javascript" src="../../_static/doctools.js"></script>
+        <script type="text/javascript" src="../../_static/language_data.js"></script>
+        <script type="text/javascript" src="../../_static/js/copybutton.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Release History" href="../../release_history.html" />
+    <link rel="prev" title="Model evaluation" href="evaluate_soccer_model.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> sports-betting
+          </a>
+              <div class="version">
+                0.1.3
+              </div>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption"><span class="caption-text">Getting Started</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../test.html">Testing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../contribute.html">Contribute</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Documentation</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../user_guide.html">User Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../api.html">API</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Examples</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Data Extraction</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html#machine-learning">Machine Learning</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="evaluate_soccer_model.html">Model evaluation</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Soccer value bets</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#extracting-the-training-data">Extracting the training data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#training-a-multi-output-classifier">Training a multi-output classifier</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#extracting-the-fixtures-data">Extracting the fixtures data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#estimating-the-value-bets">Estimating the value bets</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p class="caption"><span class="caption-text">Additional Information</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../release_history.html">Release History</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">sports-betting</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../index.html">Data Extraction</a> &raquo;</li>
+      <li>Soccer value bets</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../../_sources/auto_examples/machine-learning/estimate_soccer_value_bets.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="sphx-glr-download-link-note admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Click <a class="reference internal" href="#sphx-glr-download-auto-examples-machine-learning-estimate-soccer-value-bets-py"><span class="std std-ref">here</span></a>
+to download the full example code</p>
+</div>
+<div class="sphx-glr-example-title section" id="soccer-value-bets">
+<span id="sphx-glr-auto-examples-machine-learning-estimate-soccer-value-bets-py"></span><h1>Soccer value bets<a class="headerlink" href="#soccer-value-bets" title="Permalink to this headline">¶</a></h1>
+<p>This example illustrates how to estimate value bets for soccer fixtures by
+training a machine learning multi-output classifier.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Author: Georgios Douzas &lt;gdouzas@icloud.com&gt;</span>
+<span class="c1"># Licence: MIT</span>
+
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">from</span> <span class="nn">sportsbet.datasets</span> <span class="kn">import</span> <a href="../../generated/sportsbet.datasets.SoccerDataLoader.html#sportsbet.datasets.SoccerDataLoader" title="sportsbet.datasets.SoccerDataLoader" class="sphx-glr-backref-module-sportsbet-datasets sphx-glr-backref-type-py-class"><span class="n">SoccerDataLoader</span></a>
+<span class="kn">from</span> <span class="nn">sklearn.neighbors</span> <span class="kn">import</span> <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier" title="sklearn.neighbors.KNeighborsClassifier" class="sphx-glr-backref-module-sklearn-neighbors sphx-glr-backref-type-py-class"><span class="n">KNeighborsClassifier</span></a>
+</pre></div>
+</div>
+<div class="section" id="extracting-the-training-data">
+<h2>Extracting the training data<a class="headerlink" href="#extracting-the-training-data" title="Permalink to this headline">¶</a></h2>
+<p>We extract the training data for the spanish league. We also remove any
+missing values and select the market average odds.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><a href="../../generated/sportsbet.datasets.SoccerDataLoader.html#sportsbet.datasets.SoccerDataLoader" title="sportsbet.datasets.SoccerDataLoader" class="sphx-glr-backref-module-sportsbet-datasets sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">dataloader</span></a> <span class="o">=</span> <a href="../../generated/sportsbet.datasets.SoccerDataLoader.html#sportsbet.datasets.SoccerDataLoader" title="sportsbet.datasets.SoccerDataLoader" class="sphx-glr-backref-module-sportsbet-datasets sphx-glr-backref-type-py-class"><span class="n">SoccerDataLoader</span></a><span class="p">(</span><span class="n">param_grid</span><span class="o">=</span><span class="p">{</span><span class="s1">&#39;league&#39;</span><span class="p">:</span> <span class="p">[</span><span class="s1">&#39;Spain&#39;</span><span class="p">]})</span>
+<span class="n">X_train</span><span class="p">,</span> <span class="n">Y_train</span><span class="p">,</span> <span class="n">_</span> <span class="o">=</span> <a href="../../generated/sportsbet.datasets.SoccerDataLoader.html#sportsbet.datasets.SoccerDataLoader.extract_train_data" title="sportsbet.datasets.SoccerDataLoader.extract_train_data" class="sphx-glr-backref-module-sportsbet-datasets sphx-glr-backref-type-py-method"><span class="n">dataloader</span><span class="o">.</span><span class="n">extract_train_data</span></a><span class="p">(</span>
+    <span class="n">drop_na_thres</span><span class="o">=</span><span class="mf">1.0</span><span class="p">,</span> <span class="n">odds_type</span><span class="o">=</span><span class="s1">&#39;market_average&#39;</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<p class="sphx-glr-script-out">Out:</p>
+<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>Football-Data.co.uk: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00
+</pre></div>
+</div>
+<p>The input data:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">X_train</span>
+</pre></div>
+</div>
+<div class="output_subarea output_html rendered_html output_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>home_team</th>
+      <th>away_team</th>
+      <th>league</th>
+      <th>division</th>
+      <th>year</th>
+      <th>home_team_soccer_power_index</th>
+      <th>away_team_soccer_power_index</th>
+      <th>home_team_probability_win</th>
+      <th>away_team_probability_win</th>
+      <th>probability_draw</th>
+      <th>home_team_projected_score</th>
+      <th>away_team_projected_score</th>
+      <th>match_quality</th>
+    </tr>
+    <tr>
+      <th>date</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2016-08-19</th>
+      <td>La Coruna</td>
+      <td>Eibar</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2017</td>
+      <td>66.52</td>
+      <td>62.29</td>
+      <td>0.5003</td>
+      <td>0.2260</td>
+      <td>0.2738</td>
+      <td>1.47</td>
+      <td>0.79</td>
+      <td>64.335545</td>
+    </tr>
+    <tr>
+      <th>2016-08-19</th>
+      <td>Malaga</td>
+      <td>Osasuna</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2017</td>
+      <td>72.57</td>
+      <td>56.93</td>
+      <td>0.5475</td>
+      <td>0.1897</td>
+      <td>0.2628</td>
+      <td>1.56</td>
+      <td>0.70</td>
+      <td>63.805561</td>
+    </tr>
+    <tr>
+      <th>2016-08-19</th>
+      <td>La Coruna</td>
+      <td>Eibar</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2017</td>
+      <td>66.52</td>
+      <td>62.29</td>
+      <td>0.5003</td>
+      <td>0.2260</td>
+      <td>0.2738</td>
+      <td>1.47</td>
+      <td>0.79</td>
+      <td>64.335545</td>
+    </tr>
+    <tr>
+      <th>2016-08-19</th>
+      <td>Malaga</td>
+      <td>Osasuna</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2017</td>
+      <td>72.57</td>
+      <td>56.93</td>
+      <td>0.5475</td>
+      <td>0.1897</td>
+      <td>0.2628</td>
+      <td>1.56</td>
+      <td>0.70</td>
+      <td>63.805561</td>
+    </tr>
+    <tr>
+      <th>2016-08-20</th>
+      <td>Barcelona</td>
+      <td>Betis</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2017</td>
+      <td>96.35</td>
+      <td>69.95</td>
+      <td>0.9591</td>
+      <td>0.0071</td>
+      <td>0.0337</td>
+      <td>3.40</td>
+      <td>0.42</td>
+      <td>81.054510</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>2021-10-28</th>
+      <td>Granada</td>
+      <td>Getafe</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>58.45</td>
+      <td>65.57</td>
+      <td>0.3631</td>
+      <td>0.3127</td>
+      <td>0.3242</td>
+      <td>1.05</td>
+      <td>0.95</td>
+      <td>61.805620</td>
+    </tr>
+    <tr>
+      <th>2021-10-28</th>
+      <td>Celta</td>
+      <td>Sociedad</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>71.68</td>
+      <td>78.29</td>
+      <td>0.3206</td>
+      <td>0.3957</td>
+      <td>0.2837</td>
+      <td>1.17</td>
+      <td>1.34</td>
+      <td>74.839331</td>
+    </tr>
+    <tr>
+      <th>2021-10-28</th>
+      <td>Levante</td>
+      <td>Ath Madrid</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>63.23</td>
+      <td>84.94</td>
+      <td>0.1873</td>
+      <td>0.5664</td>
+      <td>0.2463</td>
+      <td>0.91</td>
+      <td>1.77</td>
+      <td>72.494516</td>
+    </tr>
+    <tr>
+      <th>2021-10-28</th>
+      <td>Granada</td>
+      <td>Getafe</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>58.45</td>
+      <td>65.57</td>
+      <td>0.3631</td>
+      <td>0.3127</td>
+      <td>0.3242</td>
+      <td>1.05</td>
+      <td>0.95</td>
+      <td>61.805620</td>
+    </tr>
+    <tr>
+      <th>2021-12-20</th>
+      <td>Levante</td>
+      <td>Valencia</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>60.85</td>
+      <td>72.40</td>
+      <td>0.3228</td>
+      <td>0.4059</td>
+      <td>0.2713</td>
+      <td>1.26</td>
+      <td>1.45</td>
+      <td>66.124428</td>
+    </tr>
+  </tbody>
+</table>
+<p>18815 rows × 13 columns</p>
+</div>
+</div>
+<br />
+<br /><p>The targets:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Y_train</span>
+</pre></div>
+</div>
+<div class="output_subarea output_html rendered_html output_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>away_win__full_time_goals</th>
+      <th>draw__full_time_goals</th>
+      <th>home_win__full_time_goals</th>
+      <th>over_2.5__full_time_goals</th>
+      <th>under_2.5__full_time_goals</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>18810</th>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>18811</th>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>18812</th>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>18813</th>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>18814</th>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+  </tbody>
+</table>
+<p>18815 rows × 5 columns</p>
+</div>
+</div>
+<br />
+<br /></div>
+<div class="section" id="training-a-multi-output-classifier">
+<h2>Training a multi-output classifier<a class="headerlink" href="#training-a-multi-output-classifier" title="Permalink to this headline">¶</a></h2>
+<p>We train a <a class="reference external" href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier" title="(in scikit-learn v1.0)"><code class="xref py py-class docutils literal notranslate"><span class="pre">KNeighborsClassifier</span></code></a> using only numerical
+features from the input data. We also use the extracted targets.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><a href="https://docs.python.org/3/library/stdtypes.html#list" title="builtins.list" class="sphx-glr-backref-module-builtins sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">num_features</span></a> <span class="o">=</span> <span class="p">[</span>
+    <span class="n">col</span>
+    <span class="k">for</span> <span class="n">col</span> <span class="ow">in</span> <span class="n">X_train</span><span class="o">.</span><span class="n">columns</span>
+    <span class="k">if</span> <span class="n">X_train</span><span class="p">[</span><span class="n">col</span><span class="p">]</span><span class="o">.</span><span class="n">dtype</span> <span class="ow">in</span> <span class="p">(</span><a href="https://numpy.org/doc/stable/reference/generated/numpy.dtype.html#numpy.dtype" title="numpy.dtype" class="sphx-glr-backref-module-numpy sphx-glr-backref-type-py-class"><span class="n">np</span><span class="o">.</span><span class="n">dtype</span></a><span class="p">(</span><span class="nb">int</span><span class="p">),</span> <a href="https://numpy.org/doc/stable/reference/generated/numpy.dtype.html#numpy.dtype" title="numpy.dtype" class="sphx-glr-backref-module-numpy sphx-glr-backref-type-py-class"><span class="n">np</span><span class="o">.</span><span class="n">dtype</span></a><span class="p">(</span><span class="nb">float</span><span class="p">))</span>
+<span class="p">]</span>
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier" title="sklearn.neighbors.KNeighborsClassifier" class="sphx-glr-backref-module-sklearn-neighbors sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">clf</span></a> <span class="o">=</span> <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier" title="sklearn.neighbors.KNeighborsClassifier" class="sphx-glr-backref-module-sklearn-neighbors sphx-glr-backref-type-py-class"><span class="n">KNeighborsClassifier</span></a><span class="p">()</span>
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier.fit" title="sklearn.neighbors.KNeighborsClassifier.fit" class="sphx-glr-backref-module-sklearn-neighbors sphx-glr-backref-type-py-method"><span class="n">clf</span><span class="o">.</span><span class="n">fit</span></a><span class="p">(</span><span class="n">X_train</span><span class="p">[</span><a href="https://docs.python.org/3/library/stdtypes.html#list" title="builtins.list" class="sphx-glr-backref-module-builtins sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">num_features</span></a><span class="p">],</span> <span class="n">Y_train</span><span class="p">)</span>
+</pre></div>
+</div>
+<p class="sphx-glr-script-out">Out:</p>
+<div class="sphx-glr-script-out highlight-none notranslate"><div class="highlight"><pre><span></span>KNeighborsClassifier()
+</pre></div>
+</div>
+</div>
+<div class="section" id="extracting-the-fixtures-data">
+<h2>Extracting the fixtures data<a class="headerlink" href="#extracting-the-fixtures-data" title="Permalink to this headline">¶</a></h2>
+<p>We extract the fixtures data. The columns by default match the columns of the
+training data.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">X_fix</span><span class="p">,</span> <span class="n">_</span><span class="p">,</span> <span class="n">Odds_fix</span> <span class="o">=</span> <a href="../../generated/sportsbet.datasets.SoccerDataLoader.html#sportsbet.datasets.SoccerDataLoader.extract_fixtures_data" title="sportsbet.datasets.SoccerDataLoader.extract_fixtures_data" class="sphx-glr-backref-module-sportsbet-datasets sphx-glr-backref-type-py-method"><span class="n">dataloader</span><span class="o">.</span><span class="n">extract_fixtures_data</span></a><span class="p">()</span>
+</pre></div>
+</div>
+<p>The input data:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">X_fix</span>
+</pre></div>
+</div>
+<div class="output_subarea output_html rendered_html output_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>home_team</th>
+      <th>away_team</th>
+      <th>league</th>
+      <th>division</th>
+      <th>year</th>
+      <th>home_team_soccer_power_index</th>
+      <th>away_team_soccer_power_index</th>
+      <th>home_team_probability_win</th>
+      <th>away_team_probability_win</th>
+      <th>probability_draw</th>
+      <th>home_team_projected_score</th>
+      <th>away_team_projected_score</th>
+      <th>match_quality</th>
+    </tr>
+    <tr>
+      <th>date</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Heracles</td>
+      <td>Cambuur</td>
+      <td>Netherlands</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>46.71</td>
+      <td>40.26</td>
+      <td>0.5205</td>
+      <td>0.2328</td>
+      <td>0.2467</td>
+      <td>1.74</td>
+      <td>1.09</td>
+      <td>43.245823</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Willem II</td>
+      <td>Nijmegen</td>
+      <td>Netherlands</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>38.74</td>
+      <td>44.15</td>
+      <td>0.4051</td>
+      <td>0.3270</td>
+      <td>0.2679</td>
+      <td>1.44</td>
+      <td>1.26</td>
+      <td>41.268452</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Heerenveen</td>
+      <td>Feyenoord</td>
+      <td>Netherlands</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>46.16</td>
+      <td>70.41</td>
+      <td>0.1798</td>
+      <td>0.5946</td>
+      <td>0.2256</td>
+      <td>0.97</td>
+      <td>1.95</td>
+      <td>55.762642</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Napoli</td>
+      <td>Spezia</td>
+      <td>Italy</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>78.97</td>
+      <td>48.96</td>
+      <td>0.7386</td>
+      <td>0.0900</td>
+      <td>0.1714</td>
+      <td>2.30</td>
+      <td>0.66</td>
+      <td>60.445106</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Empoli</td>
+      <td>Milan</td>
+      <td>Italy</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>55.62</td>
+      <td>75.96</td>
+      <td>0.1797</td>
+      <td>0.6030</td>
+      <td>0.2173</td>
+      <td>1.00</td>
+      <td>2.01</td>
+      <td>64.217893</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Verona</td>
+      <td>Fiorentina</td>
+      <td>Italy</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>63.03</td>
+      <td>69.60</td>
+      <td>0.3125</td>
+      <td>0.4226</td>
+      <td>0.2649</td>
+      <td>1.22</td>
+      <td>1.46</td>
+      <td>66.152273</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Ajax</td>
+      <td>For Sittard</td>
+      <td>Netherlands</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>88.91</td>
+      <td>35.23</td>
+      <td>0.9383</td>
+      <td>0.0124</td>
+      <td>0.0493</td>
+      <td>3.76</td>
+      <td>0.36</td>
+      <td>50.463981</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Roma</td>
+      <td>Sampdoria</td>
+      <td>Italy</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>73.22</td>
+      <td>58.23</td>
+      <td>0.6161</td>
+      <td>0.1725</td>
+      <td>0.2114</td>
+      <td>2.07</td>
+      <td>1.00</td>
+      <td>64.870302</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Inter</td>
+      <td>Torino</td>
+      <td>Italy</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>86.52</td>
+      <td>65.47</td>
+      <td>0.7361</td>
+      <td>0.0884</td>
+      <td>0.1755</td>
+      <td>2.24</td>
+      <td>0.63</td>
+      <td>74.537330</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Venezia</td>
+      <td>Lazio</td>
+      <td>Italy</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>48.78</td>
+      <td>67.64</td>
+      <td>0.2422</td>
+      <td>0.5123</td>
+      <td>0.2455</td>
+      <td>1.11</td>
+      <td>1.72</td>
+      <td>56.682343</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Sassuolo</td>
+      <td>Bologna</td>
+      <td>Italy</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>66.22</td>
+      <td>62.26</td>
+      <td>0.4690</td>
+      <td>0.2872</td>
+      <td>0.2438</td>
+      <td>1.72</td>
+      <td>1.29</td>
+      <td>64.178973</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Troyes</td>
+      <td>Brest</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>51.80</td>
+      <td>58.17</td>
+      <td>0.3913</td>
+      <td>0.3345</td>
+      <td>0.2742</td>
+      <td>1.34</td>
+      <td>1.22</td>
+      <td>54.800509</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>St Etienne</td>
+      <td>Nantes</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>47.29</td>
+      <td>58.99</td>
+      <td>0.3502</td>
+      <td>0.3690</td>
+      <td>0.2807</td>
+      <td>1.21</td>
+      <td>1.25</td>
+      <td>52.495994</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Clermont</td>
+      <td>Strasbourg</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>53.40</td>
+      <td>66.23</td>
+      <td>0.3004</td>
+      <td>0.4410</td>
+      <td>0.2586</td>
+      <td>1.23</td>
+      <td>1.55</td>
+      <td>59.127008</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Montpellier</td>
+      <td>Angers</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>58.37</td>
+      <td>57.60</td>
+      <td>0.4522</td>
+      <td>0.2760</td>
+      <td>0.2718</td>
+      <td>1.45</td>
+      <td>1.07</td>
+      <td>57.982444</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Monaco</td>
+      <td>Rennes</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>72.15</td>
+      <td>71.16</td>
+      <td>0.4255</td>
+      <td>0.3071</td>
+      <td>0.2674</td>
+      <td>1.45</td>
+      <td>1.19</td>
+      <td>71.651580</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Marseille</td>
+      <td>Reims</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>66.33</td>
+      <td>55.58</td>
+      <td>0.5956</td>
+      <td>0.1437</td>
+      <td>0.2608</td>
+      <td>1.55</td>
+      <td>0.61</td>
+      <td>60.481034</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Lyon</td>
+      <td>Metz</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>67.70</td>
+      <td>46.64</td>
+      <td>0.6598</td>
+      <td>0.1421</td>
+      <td>0.1981</td>
+      <td>2.18</td>
+      <td>0.90</td>
+      <td>55.230506</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Lorient</td>
+      <td>Paris SG</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>48.68</td>
+      <td>83.02</td>
+      <td>0.1287</td>
+      <td>0.6864</td>
+      <td>0.1849</td>
+      <td>0.90</td>
+      <td>2.32</td>
+      <td>61.373024</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Ath Bilbao</td>
+      <td>Real Madrid</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>75.99</td>
+      <td>85.38</td>
+      <td>0.2709</td>
+      <td>0.4673</td>
+      <td>0.2618</td>
+      <td>1.16</td>
+      <td>1.61</td>
+      <td>80.411801</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Bordeaux</td>
+      <td>Lille</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>50.54</td>
+      <td>72.56</td>
+      <td>0.2261</td>
+      <td>0.5287</td>
+      <td>0.2452</td>
+      <td>1.05</td>
+      <td>1.73</td>
+      <td>59.580543</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Gaziantep</td>
+      <td>Alanyaspor</td>
+      <td>Turkey</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>37.78</td>
+      <td>39.46</td>
+      <td>0.4252</td>
+      <td>0.3291</td>
+      <td>0.2457</td>
+      <td>1.66</td>
+      <td>1.44</td>
+      <td>38.601730</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Sivasspor</td>
+      <td>Rizespor</td>
+      <td>Turkey</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>49.52</td>
+      <td>27.33</td>
+      <td>0.6486</td>
+      <td>0.1383</td>
+      <td>0.2131</td>
+      <td>1.99</td>
+      <td>0.79</td>
+      <td>35.221382</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Hatayspor</td>
+      <td>Konyaspor</td>
+      <td>Turkey</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>40.65</td>
+      <td>46.33</td>
+      <td>0.3272</td>
+      <td>0.3898</td>
+      <td>0.2829</td>
+      <td>1.15</td>
+      <td>1.29</td>
+      <td>43.304541</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Karagumruk</td>
+      <td>Fenerbahce</td>
+      <td>Turkey</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>37.99</td>
+      <td>52.76</td>
+      <td>0.2553</td>
+      <td>0.5074</td>
+      <td>0.2373</td>
+      <td>1.24</td>
+      <td>1.84</td>
+      <td>44.173056</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Utrecht</td>
+      <td>Twente</td>
+      <td>Netherlands</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>60.97</td>
+      <td>52.88</td>
+      <td>0.5129</td>
+      <td>0.2331</td>
+      <td>0.2541</td>
+      <td>1.67</td>
+      <td>1.04</td>
+      <td>56.637569</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Nice</td>
+      <td>Lens</td>
+      <td>France</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>63.61</td>
+      <td>61.16</td>
+      <td>0.4798</td>
+      <td>0.2643</td>
+      <td>0.2560</td>
+      <td>1.61</td>
+      <td>1.13</td>
+      <td>62.360946</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Granada</td>
+      <td>Ath Madrid</td>
+      <td>Spain</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>61.19</td>
+      <td>83.46</td>
+      <td>0.1711</td>
+      <td>0.6003</td>
+      <td>0.2286</td>
+      <td>0.93</td>
+      <td>1.94</td>
+      <td>70.610680</td>
+    </tr>
+    <tr>
+      <th>2021-12-23</th>
+      <td>Yeni Malatyaspor</td>
+      <td>Kayserispor</td>
+      <td>Turkey</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>26.13</td>
+      <td>32.94</td>
+      <td>0.3460</td>
+      <td>0.3717</td>
+      <td>0.2823</td>
+      <td>1.20</td>
+      <td>1.26</td>
+      <td>29.142448</td>
+    </tr>
+    <tr>
+      <th>2021-12-23</th>
+      <td>Besiktas</td>
+      <td>Goztep</td>
+      <td>Turkey</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>46.31</td>
+      <td>30.75</td>
+      <td>0.5722</td>
+      <td>0.2136</td>
+      <td>0.2141</td>
+      <td>2.13</td>
+      <td>1.24</td>
+      <td>36.959058</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+<br />
+<br /><p>The market average odds:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Odds_fix</span>
+</pre></div>
+</div>
+<div class="output_subarea output_html rendered_html output_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>market_average__away_win__odds</th>
+      <th>market_average__draw__odds</th>
+      <th>market_average__home_win__odds</th>
+      <th>market_average__over_2.5__odds</th>
+      <th>market_average__under_2.5__odds</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>3.37</td>
+      <td>3.76</td>
+      <td>2.03</td>
+      <td>1.65</td>
+      <td>2.23</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2.85</td>
+      <td>3.26</td>
+      <td>2.51</td>
+      <td>1.91</td>
+      <td>1.89</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>1.53</td>
+      <td>4.34</td>
+      <td>5.84</td>
+      <td>1.65</td>
+      <td>2.25</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>12.17</td>
+      <td>6.27</td>
+      <td>1.25</td>
+      <td>1.47</td>
+      <td>2.68</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>1.76</td>
+      <td>3.99</td>
+      <td>4.46</td>
+      <td>1.57</td>
+      <td>2.40</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>2.43</td>
+      <td>3.45</td>
+      <td>2.89</td>
+      <td>1.70</td>
+      <td>2.16</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>41.22</td>
+      <td>16.43</td>
+      <td>1.04</td>
+      <td>1.16</td>
+      <td>4.93</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>5.62</td>
+      <td>4.32</td>
+      <td>1.57</td>
+      <td>1.63</td>
+      <td>2.30</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>9.50</td>
+      <td>5.41</td>
+      <td>1.33</td>
+      <td>1.62</td>
+      <td>2.34</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>1.90</td>
+      <td>3.63</td>
+      <td>4.13</td>
+      <td>1.81</td>
+      <td>2.02</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>3.55</td>
+      <td>3.68</td>
+      <td>2.03</td>
+      <td>1.60</td>
+      <td>2.35</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>2.86</td>
+      <td>3.34</td>
+      <td>2.50</td>
+      <td>1.90</td>
+      <td>1.92</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>2.79</td>
+      <td>3.32</td>
+      <td>2.58</td>
+      <td>2.02</td>
+      <td>1.81</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>2.43</td>
+      <td>3.38</td>
+      <td>2.94</td>
+      <td>1.93</td>
+      <td>1.89</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>3.42</td>
+      <td>3.30</td>
+      <td>2.21</td>
+      <td>1.97</td>
+      <td>1.85</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>3.20</td>
+      <td>3.49</td>
+      <td>2.23</td>
+      <td>1.87</td>
+      <td>1.96</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>5.44</td>
+      <td>3.74</td>
+      <td>1.68</td>
+      <td>2.17</td>
+      <td>1.70</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>8.12</td>
+      <td>5.41</td>
+      <td>1.35</td>
+      <td>1.46</td>
+      <td>2.69</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>1.38</td>
+      <td>5.15</td>
+      <td>7.88</td>
+      <td>1.54</td>
+      <td>2.47</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>2.17</td>
+      <td>3.49</td>
+      <td>3.37</td>
+      <td>1.99</td>
+      <td>1.84</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>1.81</td>
+      <td>3.82</td>
+      <td>4.29</td>
+      <td>1.79</td>
+      <td>2.04</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>2.90</td>
+      <td>3.42</td>
+      <td>2.34</td>
+      <td>1.83</td>
+      <td>1.97</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>5.48</td>
+      <td>4.00</td>
+      <td>1.59</td>
+      <td>1.86</td>
+      <td>1.93</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>3.00</td>
+      <td>3.35</td>
+      <td>2.33</td>
+      <td>1.99</td>
+      <td>1.82</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>2.13</td>
+      <td>3.49</td>
+      <td>3.27</td>
+      <td>1.82</td>
+      <td>1.98</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>4.25</td>
+      <td>3.87</td>
+      <td>1.78</td>
+      <td>1.78</td>
+      <td>2.04</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>3.53</td>
+      <td>3.45</td>
+      <td>2.11</td>
+      <td>1.85</td>
+      <td>1.97</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>1.61</td>
+      <td>3.77</td>
+      <td>6.28</td>
+      <td>2.14</td>
+      <td>1.73</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>2.99</td>
+      <td>3.32</td>
+      <td>2.34</td>
+      <td>1.94</td>
+      <td>1.85</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>4.98</td>
+      <td>4.11</td>
+      <td>1.62</td>
+      <td>1.64</td>
+      <td>2.23</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+<br />
+<br /></div>
+<div class="section" id="estimating-the-value-bets">
+<h2>Estimating the value bets<a class="headerlink" href="#estimating-the-value-bets" title="Permalink to this headline">¶</a></h2>
+<p>We can estimate the value bets by using the fitted classifier.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><a href="https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html#numpy.ndarray" title="numpy.ndarray" class="sphx-glr-backref-module-numpy sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">Y_pred_prob</span></a> <span class="o">=</span> <a href="https://numpy.org/doc/stable/reference/generated/numpy.concatenate.html#numpy.concatenate" title="numpy.concatenate" class="sphx-glr-backref-module-numpy sphx-glr-backref-type-py-function"><span class="n">np</span><span class="o">.</span><span class="n">concatenate</span></a><span class="p">(</span>
+    <span class="p">[</span><span class="n">prob</span><span class="p">[:,</span> <span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span> <span class="k">for</span> <span class="n">prob</span> <span class="ow">in</span> <a href="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier.predict_proba" title="sklearn.neighbors.KNeighborsClassifier.predict_proba" class="sphx-glr-backref-module-sklearn-neighbors sphx-glr-backref-type-py-method"><span class="n">clf</span><span class="o">.</span><span class="n">predict_proba</span></a><span class="p">(</span><span class="n">X_fix</span><span class="p">[</span><a href="https://docs.python.org/3/library/stdtypes.html#list" title="builtins.list" class="sphx-glr-backref-module-builtins sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">num_features</span></a><span class="p">])],</span>
+    <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="n">X_fix_info</span> <span class="o">=</span> <span class="n">X_fix</span><span class="p">[[</span><span class="s1">&#39;home_team&#39;</span><span class="p">,</span> <span class="s1">&#39;away_team&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
+<span class="n">value_bets</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">X_fix_info</span><span class="p">,</span> <a href="https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html#numpy.ndarray" title="numpy.ndarray" class="sphx-glr-backref-module-numpy sphx-glr-backref-type-py-class sphx-glr-backref-instance"><span class="n">Y_pred_prob</span></a> <span class="o">*</span> <span class="n">Odds_fix</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">set_index</span><span class="p">(</span>
+    <span class="s1">&#39;date&#39;</span>
+<span class="p">)</span>
+<span class="n">value_bets</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span>
+    <span class="n">columns</span><span class="o">=</span><span class="p">{</span>
+        <span class="n">col</span><span class="p">:</span> <span class="n">col</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;__&#39;</span><span class="p">)[</span><span class="mi">1</span><span class="p">]</span> <span class="k">for</span> <span class="n">col</span> <span class="ow">in</span> <span class="n">value_bets</span><span class="o">.</span><span class="n">columns</span> <span class="k">if</span> <span class="n">col</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s1">&#39;odds&#39;</span><span class="p">)</span>
+    <span class="p">}</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<div class="output_subarea output_html rendered_html output_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>home_team</th>
+      <th>away_team</th>
+      <th>away_win</th>
+      <th>draw</th>
+      <th>home_win</th>
+      <th>over_2.5</th>
+      <th>under_2.5</th>
+    </tr>
+    <tr>
+      <th>date</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Heracles</td>
+      <td>Cambuur</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Willem II</td>
+      <td>Nijmegen</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Heerenveen</td>
+      <td>Feyenoord</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Napoli</td>
+      <td>Spezia</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Empoli</td>
+      <td>Milan</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Verona</td>
+      <td>Fiorentina</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Ajax</td>
+      <td>For Sittard</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Roma</td>
+      <td>Sampdoria</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Inter</td>
+      <td>Torino</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Venezia</td>
+      <td>Lazio</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Sassuolo</td>
+      <td>Bologna</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Troyes</td>
+      <td>Brest</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>St Etienne</td>
+      <td>Nantes</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Clermont</td>
+      <td>Strasbourg</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Montpellier</td>
+      <td>Angers</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Monaco</td>
+      <td>Rennes</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Marseille</td>
+      <td>Reims</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Lyon</td>
+      <td>Metz</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Lorient</td>
+      <td>Paris SG</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Ath Bilbao</td>
+      <td>Real Madrid</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Bordeaux</td>
+      <td>Lille</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Gaziantep</td>
+      <td>Alanyaspor</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Sivasspor</td>
+      <td>Rizespor</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Hatayspor</td>
+      <td>Konyaspor</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Karagumruk</td>
+      <td>Fenerbahce</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Utrecht</td>
+      <td>Twente</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Nice</td>
+      <td>Lens</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-22</th>
+      <td>Granada</td>
+      <td>Ath Madrid</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+      <td>True</td>
+    </tr>
+    <tr>
+      <th>2021-12-23</th>
+      <td>Yeni Malatyaspor</td>
+      <td>Kayserispor</td>
+      <td>True</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+    <tr>
+      <th>2021-12-23</th>
+      <td>Besiktas</td>
+      <td>Goztep</td>
+      <td>False</td>
+      <td>False</td>
+      <td>True</td>
+      <td>True</td>
+      <td>False</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+<br />
+<br /><p class="sphx-glr-timing"><strong>Total running time of the script:</strong> ( 0 minutes  39.046 seconds)</p>
+<div class="sphx-glr-footer class sphx-glr-footer-example docutils container" id="sphx-glr-download-auto-examples-machine-learning-estimate-soccer-value-bets-py">
+<div class="sphx-glr-download sphx-glr-download-python docutils container">
+<a class="reference download internal" download="" href="../../_downloads/d736fc0d325e1748bdf5875b3a0cad54/estimate_soccer_value_bets.py"><code class="xref download docutils literal notranslate"><span class="pre">Download</span> <span class="pre">Python</span> <span class="pre">source</span> <span class="pre">code:</span> <span class="pre">estimate_soccer_value_bets.py</span></code></a></div>
+<div class="sphx-glr-download sphx-glr-download-jupyter docutils container">
+<a class="reference download internal" download="" href="../../_downloads/ccd6ea2731b4995e5f9e607292b91dac/estimate_soccer_value_bets.ipynb"><code class="xref download docutils literal notranslate"><span class="pre">Download</span> <span class="pre">Jupyter</span> <span class="pre">notebook:</span> <span class="pre">estimate_soccer_value_bets.ipynb</span></code></a></div>
+</div>
+<p class="sphx-glr-signature"><a class="reference external" href="https://sphinx-gallery.github.io">Gallery generated by Sphinx-Gallery</a></p>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="evaluate_soccer_model.html" class="btn btn-neutral float-left" title="Model evaluation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../../release_history.html" class="btn btn-neutral float-right" title="Release History" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2019, Georgios Douzas.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
