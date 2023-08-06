@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: mkpp
+Version: 1.0.3
+Summary: Simple tool for creating Python packages. For lazies.
+License: MIT
+Keywords: packages
+Author-email: jieggii <jieggii.contact@gmail.com>
+Requires-Python: >=3.6
+Project-URL: Bug tracker, https://github.com/jieggii/mkpp/issues
+Project-URL: Homepage, https://github.com/jieggii/mkpp
+Description-Content-Type: text/markdown
+
+# mkpp
+Simple tool for creating Python packages. For lazies.
+[![asciicast](https://asciinema.org/a/XDgcUhOMcB2WQZnmnc0HLD70u.svg)](https://asciinema.org/a/XDgcUhOMcB2WQZnmnc0HLD70u)
+
+## Installation
+**mkpp** can be easily installed via **pip**:
+
+`pip install mkpp`
+
+## Usage
+`mkpp [--help] [--verbose] [--version] [--parents] [--no-pep8] [--include [FILES]] [--executable] packages [PACKAGES]`
+
+## Examples
+* `mkpp --executable mypackage1 ~/code/projects/mypackage2 some-dir/mypackage3 --include config`
+* `mkpp app --executable`
+* `mkpp --executable prog --include utils cli`
+
