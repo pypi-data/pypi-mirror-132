@@ -1,0 +1,10 @@
+pyifc/__init__.py,sha256=f4XMGJ0b_HSg42MZSQrWlKG6a2VdAE_NlML8MQ02rB4,207
+pyifc/compare/__init__.py,sha256=NZ4dMnFivf3rZ74Xufw1GPGv_Y60bASjHTfCfewpxfo,56
+pyifc/compress/__init__.py,sha256=fjHLxVLtk9Ik7oYKCb_PTNbC4AMzk8jxhZuA0jMnuo0,58
+pyifc/count/__init__.py,sha256=eAxp35RSsdghkPgk85ji7MPRNDF-BNWmlyT80J1jnA0,66
+pyifc/modify/__init__.py,sha256=wsCcHWF8QAT6LfkNdNh5bhQ-_F-b0gwDTaajz8DMQbQ,62
+pyifc-0.0.0.dist-info/LICENSE,sha256=H3Rde8zTRpDUt2VXjAIF87DjijvPQ8BFu7JNRgNcOzc,1061
+pyifc-0.0.0.dist-info/METADATA,sha256=nODJlo0vnMhEV3bKQXImgdJCVKU-h2-VxdpqmX9GdlI,4752
+pyifc-0.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyifc-0.0.0.dist-info/top_level.txt,sha256=7zeCikUFgzXGmVuNKYCZm5WczNN1bgzzGuiLbw3CRlY,6
+pyifc-0.0.0.dist-info/RECORD,,
