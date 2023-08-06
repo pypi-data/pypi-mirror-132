@@ -1,0 +1,7 @@
+torch
+tsai
+gdown
+numpy
+pandas
+fastai
+IPython
