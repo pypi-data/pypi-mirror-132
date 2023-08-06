@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+quotesx/__init__.py
+quotesx/quotesx.py
+quotesx.egg-info/PKG-INFO
+quotesx.egg-info/SOURCES.txt
+quotesx.egg-info/dependency_links.txt
+quotesx.egg-info/top_level.txt
