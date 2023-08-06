@@ -1,0 +1,9 @@
+yeouia/__init__.py,sha256=MrbI0C4KWnJaQsUb_RQAyT2xCnh6GDHbHuEUAz79fvc,73
+yeouia/apps.py,sha256=OWE9FrJ3TnT6L0ehc20IC5JW4sJ9CPYKuqxITI-KflA,160
+yeouia/backends.py,sha256=jU53H_lnb7gjhsIWBTvBV9imH-PWBcti7PI8U6ojuWc,1570
+yeouia/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+yeouia/tests.py,sha256=Y2xNtUzl9vg5onkD3ADlXcu82uqp2O2oP5_366ezjSA,1586
+yeouia-3.0.0.dist-info/LICENSE,sha256=9oMp_ZTPxCLcYkNuzZB0ryqu2U82-qoLvKsGncEKgog,1319
+yeouia-3.0.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+yeouia-3.0.0.dist-info/METADATA,sha256=_8Ik2mMntUJ931raXxjJy-DSxHn4Og2Ub9gU2ryrbNs,2543
+yeouia-3.0.0.dist-info/RECORD,,
