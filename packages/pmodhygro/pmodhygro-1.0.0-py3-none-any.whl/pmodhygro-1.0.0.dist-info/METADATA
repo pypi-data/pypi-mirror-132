@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pmodhygro
+Version: 1.0.0
+Summary: pmodhygro is python library to read PmodHYGRO that is relative humidity sensor with integrated temperature sensor on a Raspberry Pi
+Home-page: https://github.com/devpola/pmodhygro
+Author: devpola
+Author-email: sonamoo9771@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: smbus2
+
+UNKNOWN
+
+
