@@ -1,0 +1,15 @@
+README.txt
+setup.py
+latypov_amelin_zueva_babayan/__init__.py
+latypov_amelin_zueva_babayan/pract1.py
+latypov_amelin_zueva_babayan/pract2.py
+latypov_amelin_zueva_babayan/pract3.py
+latypov_amelin_zueva_babayan/pract4.py
+latypov_amelin_zueva_babayan/pract5.py
+latypov_amelin_zueva_babayan/pract6.py
+latypov_amelin_zueva_babayan/pract7_8.py
+latypov_amelin_zueva_babayan.egg-info/PKG-INFO
+latypov_amelin_zueva_babayan.egg-info/SOURCES.txt
+latypov_amelin_zueva_babayan.egg-info/dependency_links.txt
+latypov_amelin_zueva_babayan.egg-info/not-zip-safe
+latypov_amelin_zueva_babayan.egg-info/top_level.txt
