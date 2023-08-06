@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+PyMyOracle.egg-info/PKG-INFO
+PyMyOracle.egg-info/SOURCES.txt
+PyMyOracle.egg-info/dependency_links.txt
+PyMyOracle.egg-info/requires.txt
+PyMyOracle.egg-info/top_level.txt
