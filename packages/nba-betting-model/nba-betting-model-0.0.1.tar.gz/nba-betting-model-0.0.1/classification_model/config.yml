@@ -1,0 +1,69 @@
+package_name: classification_model
+
+training_data_file: df_train.csv
+test_data_file: df_test.csv
+
+target: improved_score
+
+pipeline_name: classification_model
+pipeline_save_file: classification_model_output_v
+
+features:
+  - q1_diff
+  - q2_diff
+  - q3_diff
+  - q1_first
+  - q1_second
+  - q2_first
+  - q2_second
+  - q3_first
+  - q3_second
+  - avg_score_diff
+  - max_score_diff_pos
+  - max_score_diff_neg
+  - pct_3p
+  - pct_fg
+  - pct_3p_reg
+  - pct_fg_reg
+  - underdog_odds
+  - p1_plays
+  - p2_plays
+  - p3_plays
+
+
+test_size: 0.1
+
+random_state: 77
+
+c_value: 10
+
+bool_vars:
+  - q1_first
+  - q1_second
+  - q2_first
+  - q2_second
+  - q3_first
+  - q3_second
+  - p1_plays
+  - p2_plays
+  - p3_plays
+
+numerical_vars:
+  - q1_diff
+  - q2_diff
+  - q3_diff
+  - avg_score_diff
+  - max_score_diff_pos
+  - max_score_diff_neg
+  - pct_3p
+  - pct_fg
+  - pct_3p_reg
+  - pct_fg_reg
+  - underdog_odds
+
+features_to_drop:
+  - mid
+  - improved_score
+  - score_change
+  - pct_ft
+  - pct_ft_reg
