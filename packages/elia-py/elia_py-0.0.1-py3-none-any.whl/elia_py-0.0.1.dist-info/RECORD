@@ -1,0 +1,9 @@
+elia/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+elia/constants.py,sha256=0azxqiktXBOMsedtX028dTezrWjGxxOl5bSJmpBjvSQ,1068
+elia/elia.py,sha256=pyZ2LCmtw4CIVLID9cU8begUjwC29ldflanjFRt8q48,5376
+elia/parsers.py,sha256=T2rm_pT03_oe_p8QBpaffvLdeZAiB5LbA3arh_pdd48,3883
+elia_py-0.0.1.dist-info/LICENSE.txt,sha256=p0aokH3BcVGioG2NV_gy6LWSz7O8EcEnOgpvn-SW-5Q,1071
+elia_py-0.0.1.dist-info/METADATA,sha256=L5eZWSs0vBN47-UPR3KerM2QkdoQ5MsU4QF6i-4SG_w,1165
+elia_py-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+elia_py-0.0.1.dist-info/top_level.txt,sha256=L6bLFhVPaa2NsRQxMMkeKvVVnkvhqYsz6sd2sB0_E-w,5
+elia_py-0.0.1.dist-info/RECORD,,
