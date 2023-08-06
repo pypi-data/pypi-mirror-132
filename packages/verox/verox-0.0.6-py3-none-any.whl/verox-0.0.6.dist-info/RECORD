@@ -1,0 +1,11 @@
+verox/__init__.py,sha256=YJUOAiYTkjDIhl99Mc_CFcL5VU0Wl6N4B6_SFswn1dY,158
+verox/_about.py,sha256=Xfwqf6aaMEAt-2aNgzch0CFgN4TBf1fwSOQ5dcMYXAw,152
+verox/base.py,sha256=JaoxiM08JwsshWD7ltxUGeFdv5XWj-7wMhfsCtML0zk,1980
+verox/client.py,sha256=702BdsoABU-rG8xcG-fPsvZREsardjWfCipxgAlgaRA,1137
+verox/server.py,sha256=CsBqszK42KFATne-_2r9Njx_GvbeBwVAiasBzU8dxCM,2759
+verox/ux.py,sha256=sao5d2Xigd-FS-VnT6l5jfs86zQn1fJy5EBgKk2OTqw,2263
+verox-0.0.6.dist-info/LICENSE,sha256=UkQZwZyEzDc7jC9zksaUCOS6IjxR8XbXKe78sU5nhjU,1082
+verox-0.0.6.dist-info/METADATA,sha256=UOFqT2w0RUm083EuTNgm9qpjb73yyv0m8PJDHDGy43w,2585
+verox-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+verox-0.0.6.dist-info/top_level.txt,sha256=igmAWqAuT7KVTDi07LH4IaLVaqJHUW5vJbWV3UD2V3w,6
+verox-0.0.6.dist-info/RECORD,,
