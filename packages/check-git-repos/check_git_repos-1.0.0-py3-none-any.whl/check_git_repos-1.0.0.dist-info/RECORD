@@ -1,0 +1,5 @@
+check_git_repos/__init__.py,sha256=hUcjUeufP3v9fFq0AEpjbQb43ckSrIHhkPh6I9tzg3s,2527
+check_git_repos-1.0.0.dist-info/entry_points.txt,sha256=WdvZ0uH_KTvS1CZKokn5WN8BvG_aEqRm14mLHXOhwaI,56
+check_git_repos-1.0.0.dist-info/WHEEL,sha256=DRf8A_Psd1SF2kVqTQOOFU1Xzl3-A2qljAxBMTOusUs,83
+check_git_repos-1.0.0.dist-info/METADATA,sha256=2XT82PoNOWs-A3fRzTjdqqlicOTxvS22OwtISKFZK18,2048
+check_git_repos-1.0.0.dist-info/RECORD,,
