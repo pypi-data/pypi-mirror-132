@@ -1,0 +1,3 @@
+[console_scripts]
+tmux-schmooze=tmux_schmooze.__main__:entry_point
+
