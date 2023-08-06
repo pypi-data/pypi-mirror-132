@@ -1,0 +1,14 @@
+[run]
+branch = True
+source = qeschema/
+
+[report]
+exclude_lines =
+    # Exclude not implemented features
+    pragma: no cover
+    raise NotImplementedError()
+
+    # Exclude lines where yaml library is not installed
+    except ImportError\:
+    yaml = None
+    raise RuntimeError\(\"PyYAML library is not installed\!\"\)

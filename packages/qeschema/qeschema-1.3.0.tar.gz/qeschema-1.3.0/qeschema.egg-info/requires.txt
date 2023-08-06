@@ -1,0 +1,4 @@
+xmlschema>=1.6.4
+pyyaml
+numpy
+h5py
