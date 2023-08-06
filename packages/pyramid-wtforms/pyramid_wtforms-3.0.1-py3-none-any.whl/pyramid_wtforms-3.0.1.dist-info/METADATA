@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: pyramid-wtforms
+Version: 3.0.1
+Summary: pyramid_wtforms provides bindings for the Pyramid web framework to the WTForms library.
+Home-page: https://github.com/pylabs/pyramid-wtforms
+Author: PyLabs
+Author-email: contact@pylabs.org
+License: MIT
+Project-URL: Bug Tracker, https://github.com/pylabs/pyramid-wtforms/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Framework :: Pyramid
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+License-File: LICENSE.txt
+Requires-Dist: pyramid
+Requires-Dist: WTForms (<4.0.0,>=3.0.0)
+Requires-Dist: MarkupSafe (<3.0.0,>=2.0.0)
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+
+UNKNOWN
+
