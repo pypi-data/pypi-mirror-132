@@ -1,0 +1,3 @@
+[certbot.plugins]
+dns-innovativity = certbot_dns_innovativity.dns_innovativity:Authenticator
+

@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+certbot_dns_innovativity/__init__.py
+certbot_dns_innovativity/dns_innovativity.py
+certbot_dns_innovativity.egg-info/PKG-INFO
+certbot_dns_innovativity.egg-info/SOURCES.txt
+certbot_dns_innovativity.egg-info/dependency_links.txt
+certbot_dns_innovativity.egg-info/entry_points.txt
+certbot_dns_innovativity.egg-info/requires.txt
+certbot_dns_innovativity.egg-info/top_level.txt
