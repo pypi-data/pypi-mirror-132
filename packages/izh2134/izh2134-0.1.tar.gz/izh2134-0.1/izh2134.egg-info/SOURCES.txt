@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+izh2134/__init__.py
+izh2134/zachet101.py
+izh2134.egg-info/PKG-INFO
+izh2134.egg-info/SOURCES.txt
+izh2134.egg-info/dependency_links.txt
+izh2134.egg-info/not-zip-safe
+izh2134.egg-info/top_level.txt
