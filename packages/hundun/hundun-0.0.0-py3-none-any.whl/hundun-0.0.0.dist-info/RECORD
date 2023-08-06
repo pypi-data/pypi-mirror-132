@@ -1,0 +1,17 @@
+hundun/__init__.py,sha256=iONDt9F70E4GezAjjSTWOHhk4dNm3Mlu_DicT0McSBY,148
+hundun/__version__.py,sha256=vonTVaxirGgFyYRi0WRO57ZIwcrE6olwhZNWDdq9TIY,72
+hundun/equations/__init__.py,sha256=r3A5y-EXaVFyOEaIT3BdYamoj5m3q6_wrxPQRSu_tUk,27
+hundun/equations/lorenz.py,sha256=PqwtD4MMHVqiwv6k66WoItctzdv84GYKXdAAxWaC-kc,416
+hundun/systems/__init__.py,sha256=ulmwfVdVaGOSUv42uchpvoAVKN0UK_C2ZkFlUgvk2Vg,60
+hundun/systems/_difference.py,sha256=uNgZSiEYYowyyGxH_b9JZG8qWu3yAVooVtVb8P4rXzQ,268
+hundun/systems/_differential.py,sha256=_1X3zwHuZQUwB3O94L0LceaaIR9tk94bndLnnSTi3Lo,399
+hundun/systems/_solver.py,sha256=nrvzsKdUZoO04uQdTGiry8yNBcA1E4dmibQyn2_YlTY,1516
+hundun/systems/_systems.py,sha256=RMKzuCVt9V3em3Q_Pgf9Li5_XPKFiK23lROdIdo1Q9M,2669
+hundun/systems/_tu.py,sha256=-zNYuJF14CC1tBIAH8HcLh6Iw62dTw9Ge0aFuVz6g7Q,123
+hundun/utils/__init__.py,sha256=CDKbtY9NtwCZ8QvAO2XcBJ2Xa0-bMkELRgMR4u222zU,27
+hundun/utils/_draw.py,sha256=5PC-YXJz9czhctwHrcQIpDo7H27KNhMmTYIBPzEzpl8,2442
+hundun-0.0.0.dist-info/LICENSE.txt,sha256=ctlVQXJ4AG3ixFtZImuxrobrpaD5IsJgBV-sTkGDPuE,1061
+hundun-0.0.0.dist-info/METADATA,sha256=wCEuw91cL6upDtu40Dk84VztinFjDzFD0gT4MIccy5M,523
+hundun-0.0.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+hundun-0.0.0.dist-info/top_level.txt,sha256=aMeX4n3FV_AXgO1e6iFS28QvYyjB4JOLoH5uE7mtMwE,7
+hundun-0.0.0.dist-info/RECORD,,
