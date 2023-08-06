@@ -1,0 +1,42 @@
+    <div class="container mx-auto justify-content-center">
+        <div class="row d-none d-md-block">
+            {% if banner_top %}
+
+                    {% comment %}Desktop{% endcomment %}
+                     {% if banner_top.has_extra_urls %}
+                     <div class="col-12 text-center mb-2 rounded banner-box mx-auto panorama-ad-div px-0 d-none d-md-block"
+                     banner-id="{{ banner_top.id }}" >
+                        <a href="/kampnajer/r/42/kiliaro-google-play?bid=6" target="_blank" title="Gogole Play Store" style="position: absolute; left: 56.32%; top: 70%; width: 15%; height: 21.67%; z-index: 2;"></a>
+                        <a href="/kampnajer/r/41/kiliaro-app-store?bid=6" target="_blank"  title="Apple App Store" style="position: absolute; left: 73.51%; top: 70%; width: 15%; height: 21.67%; z-index: 2;"></a>
+                     {% else %}
+                        <div class="col-12 text-center mb-2 rounded banner-box mx-auto panorama-ad-div px-0"
+                        banner-idd="{{ banner_top.id }}" banner-url="{{ banner_top.image_url }}">
+                     {% endif %}
+
+                    <img class=" rounded mx-auto m-0 panorama-ad-image" type="image/webp"
+                         src="{{ banner_top.image.url }}">
+                </div>
+            {% endif %}
+        </div>
+        {% comment %} Mobile banner format {% endcomment %}
+        <div class="row d-md-none">
+            {% if banner_top and banner_top.mobile_image.url %}
+
+                    {% comment %}Mobile{% endcomment %}
+                     {% if banner_top.has_extra_urls %}
+                     <div class="col-12 text-center mb-2 rounded banner-box mx-auto px-0 d-md-none" 
+                     banner-id="{{ banner_top.id }}" >
+                         <a href="/kampnajer/r/42/kiliaro-google-play?bid=6" target="_blank" title="Google Play Store" style="position: absolute; left: 3.13%; top: 80.94%; width: 46.56%; height: 12.5%; z-index: 2;"></a>
+                         <a href="/kampnajer/r/41/kiliaro-app-store?bid=6" target="_blank" title="Apple App Store" style="position: absolute; left: 51.88%; top: 81.88%; width: 46.56%; height: 12.5%; z-index: 2;"></a>
+                     {% else %}
+                        <div class="col-12 text-center mb-2 rounded banner-box mx-auto px-0"
+                        banner-id="{{ banner_top.id }}" banner-url="{{ banner_top.image_url }}">
+
+                     {% endif %}
+
+                    <img class=" rounded mx-auto m-0"  type="image/webp"
+                         src="{{ banner_top.mobile_image.url }}">
+                </div>
+            {% endif %}
+        </div>
+    </div>

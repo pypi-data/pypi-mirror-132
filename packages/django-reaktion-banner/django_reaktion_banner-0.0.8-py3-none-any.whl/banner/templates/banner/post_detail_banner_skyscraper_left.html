@@ -1,0 +1,13 @@
+{% if banner_sidebar_left and post.random_ads_left %}
+    <div class="d-none d-xl-inline float-left sticky-top-alt mr-2 banner-box skyscraper-ad-left-div"
+         banner-id="{{ banner_sidebar_left.id }}" banner-url="{{ banner_sidebar_left.image_url }}">
+        <img class="rounded skyscraper-ad-left-image" type="image/webp"
+             src="{{ banner_sidebar_left.image.url }}">
+    </div>
+{% elif post.sidebar_left_banner != None and post.sidebar_left_banner in banner_list_sidebar_left %}
+    <div class="d-none d-xl-inline float-left sticky-top-alt mr-2 banner-box skyscraper-ad-left-div"
+         banner-id="{{ post.sidebar_left_banner.id }}" banner-url="{{ post.sidebar_left_banner.image_url }}">
+        <img class="rounded skyscraper-ad-left-image" type="image/webp"
+             src="{{ post.sidebar_left_banner.image.url }}">
+    </div>
+{% endif %}
