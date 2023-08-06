@@ -1,0 +1,9 @@
+eph_py/__init__.py,sha256=EcbzjdkNjNohq2r9G7nGhCiCjYntDn3xULZoSN-sJP4,54
+eph_py/compute_poverty.py,sha256=Zuga-a-K-5FiO684WSj6kclZVszYCGcAAPXUWXqyMNc,1671
+eph_py/csv_data/adulto_equivalente.csv,sha256=Gnhco54ffAl949H_VQVFF7nMarjrdgDmCT3d9cxhZM8,2205
+eph_py/ephpy.py,sha256=ZW4tFTuStIwUSHOJzB8EjEELKQTgUv8C0EzaitkglUA,425
+eph_py/get_micro_data.py,sha256=j2biScFnmOuUxovpJQIZpHlBk-lpXZV422MEoXILul8,5423
+eph_py/get_poverty_lines.py,sha256=g31ZM-AwTa2LXXBei066nw6ceW6zOUi6Hg1Og_YjUkA,570
+eph_py-0.2.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+eph_py-0.2.0.dist-info/METADATA,sha256=pjcrajXtENeZfwk7LRnkGtDP4cG5pKEHSMFq1ZOO9DY,439
+eph_py-0.2.0.dist-info/RECORD,,
