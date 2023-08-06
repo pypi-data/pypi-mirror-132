@@ -1,0 +1,10 @@
+ml_indie_tools/ALU_Dataset.py,sha256=yCzHb2MlAHPMa_g8u1WhE9DeLv3bP5dqgAHoSbyicl4,22181
+ml_indie_tools/Gutenberg_Dataset.py,sha256=g-SkTHUhQ_nh_A9HLaAhsR3FGn8V0MBWahPbnqbFxDA,30673
+ml_indie_tools/Text_Dataset.py,sha256=eq4F97lWXqxoJNbpDWNErRAy2gK_ymRiqw14XTi6Trw,13328
+ml_indie_tools/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ml_indie_tools/env_tools.py,sha256=vZ25rIMgpCPWFLIypLocUUCu1RXomY75EmOIHDghonk,17268
+ml_indie_tools-0.0.14.dist-info/LICENSE,sha256=pzLmyOL_dkvjoA9eLAGC7tEkbtAF28uBVsdUhQE8Adg,1075
+ml_indie_tools-0.0.14.dist-info/METADATA,sha256=miF7V_uw5jrmRw8qIKlG4OjOU1ws-4AxQKDj8Od13Oo,1517
+ml_indie_tools-0.0.14.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ml_indie_tools-0.0.14.dist-info/top_level.txt,sha256=z2pfDFUT2LrV59C7KH3k2XqcKMbXXPuFG5IoqnPtu0o,15
+ml_indie_tools-0.0.14.dist-info/RECORD,,
