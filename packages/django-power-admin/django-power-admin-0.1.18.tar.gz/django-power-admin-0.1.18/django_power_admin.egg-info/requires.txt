@@ -1,0 +1,5 @@
+magic-import
+django
+django-middleware-global-request
+django-static-fontawesome
+django-app-requires
