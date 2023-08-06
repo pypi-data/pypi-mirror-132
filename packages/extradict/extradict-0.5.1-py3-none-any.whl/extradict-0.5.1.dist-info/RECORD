@@ -1,0 +1,17 @@
+extradict/__init__.py,sha256=IVQ76ymkTFfcU0YQrKeDuTcV-cEmIP-jqoMXxnsgTcg,512
+extradict/binary_tree_dict.py,sha256=tJn9sfPErZDBDcKmjRhUVqtx4Cyhqq7IjtBWKIgmWrk,13653
+extradict/extratuple.py,sha256=dhEwliBgFXZ7SfWSW1XB2XQgoRJX8RNLfUriMrnqX78,5124
+extradict/fallback.py,sha256=0XxDQBD_Ozsuigrm5hfw3limRJMX5_xtS8lMyCPl0jo,701
+extradict/grouper.py,sha256=vgnYnU2QUbWXfiBFZ9wF2qfO7fjFRR2rZpUZvd-MJwo,7042
+extradict/map_getter.py,sha256=a8co6OjJjwpaKf4aVJlu0yuNbWF29M6n0YqQOzstEaY,4033
+extradict/misc.py,sha256=vDI4A_j-20Eex9Zgz6popHF3FkJl1_h2n6GS1pnYHdQ,735
+extradict/nested_dict.py,sha256=jBJ2tYQ7_KnSeIeahv1lqRyTH-1m24BG_ehuaIwOm_Q,1400
+extradict/normalized_dict.py,sha256=lP-UN5cBgTTl7S1kNEo5X_LyClQIY3gwE_smgBCG4uE,3710
+extradict/reciprocal_dict.py,sha256=B7NHXXqCG7OI_BVJV9IwljTbgSQ-zrOoIYIiWR2yi7o,4335
+extradict/version_dict.py,sha256=LR1ROaGSrAoWdQgwUZviIs4uq6lepL3Ou10SdpQAqtk,5826
+extradict-0.5.1.dist-info/COPYING,sha256=qFPC_-wXBXhyNA7uJCrk2Wy_K1IK4n2QPhsv7xpfnRw,7639
+extradict-0.5.1.dist-info/LICENSE,sha256=qFPC_-wXBXhyNA7uJCrk2Wy_K1IK4n2QPhsv7xpfnRw,7639
+extradict-0.5.1.dist-info/METADATA,sha256=y76HIvYc3PURCnGDMCZDJmc5pCsSd1QAwSPeqjfGkUo,12368
+extradict-0.5.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+extradict-0.5.1.dist-info/top_level.txt,sha256=onj3CtJRNQz1N0fcHt9hmVELgj05B4q_zLHy40_V4WA,10
+extradict-0.5.1.dist-info/RECORD,,
