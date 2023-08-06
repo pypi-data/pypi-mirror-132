@@ -1,0 +1,12 @@
+[aiida.calculations]
+CHAMP = aiida_champ.calculations:CHAMPCalculation
+
+[aiida.cmdline.data]
+CHAMP = aiida_champ.cli:data_cli
+
+[aiida.data]
+CHAMP = aiida_champ.data:CHAMPParameters
+
+[aiida.parsers]
+CHAMP = aiida_champ.parsers:CHAMPParser
+
