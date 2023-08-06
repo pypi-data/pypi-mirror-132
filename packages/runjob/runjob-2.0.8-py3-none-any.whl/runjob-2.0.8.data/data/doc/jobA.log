@@ -1,0 +1,23 @@
+fdjsfsdf
+[2021-12-28 14:49:01] Your job ("jobA") has been submitted in localhost
+[2021-12-28 14:49:01] RUNNING...
+/bin/sh: fdjsfsdf: command not found
+[2021-12-28 14:49:01] ERROR
+
+fdjsfsdf
+[2021-12-28 14:49:03] Your job ("jobA") has been submitted in localhost
+[2021-12-28 14:49:05] RUNNING (re-submit)...
+/bin/sh: fdjsfsdf: command not found
+[2021-12-28 14:49:05] ERROR
+
+fdjsfsdf
+[2021-12-28 14:49:07] Your job ("jobA") has been submitted in localhost
+[2021-12-28 14:49:09] RUNNING (re-submit)...
+/bin/sh: fdjsfsdf: command not found
+[2021-12-28 14:49:09] ERROR
+
+fdjsfsdf
+[2021-12-28 14:49:11] Your job ("jobA") has been submitted in localhost
+[2021-12-28 14:49:13] RUNNING (re-submit)...
+/bin/sh: fdjsfsdf: command not found
+[2021-12-28 14:49:13] ERROR
