@@ -1,0 +1,8 @@
+
+2021-12-21
+----------
+ver 0.0.3: initial version. singly_linked_list node: class "sll_node", with some properties:
+
+1. middle
+2. reversed
+
