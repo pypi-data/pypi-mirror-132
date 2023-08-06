@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: dsa-buddy
+Version: 2.0.4
+Summary: dsa_buddy client for DSA preparation and code submission utlity
+Home-page: UNKNOWN
+Author: Botoservices
+Author-email: botoservices@gmail.com
+License: MIT
+Description: DSA buddy client
+        @Copyright 2021-22 [Botoservices]
+Keywords: dsa buddy coding python
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
