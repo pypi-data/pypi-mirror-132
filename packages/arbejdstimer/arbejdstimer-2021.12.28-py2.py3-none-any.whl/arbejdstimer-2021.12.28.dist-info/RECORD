@@ -1,0 +1,17 @@
+arbejdstimer/__init__.py,sha256=GvUIDO3ieG7QBX3isQyrDBtfQjx0m7swhztpDEKZKcA,77
+arbejdstimer/__main__.py,sha256=TnYhKlLZbVf7JThCqP3zOqqR155FSyAPGdYUuXEA_W4,242
+arbejdstimer/api.py,sha256=AzS8Xa3D8-MGzQqfDevNNf0_k0V-OXMKZJakwY-DItc,2442
+arbejdstimer/arbejdstimer.py,sha256=amMfeR6Y2sy792EhE6ba5YdGTZHvx71JDj7Xhcv0Z6c,4994
+arbejdstimer/cli.py,sha256=jOoqG1UkdDTi4J5o8UjNc5QeNQk8xG8tDUV-XyvUPTk,3163
+tests/__init__.py,sha256=cr5ndc-DX09ICrY-63xcVD11f5aX7I-Q7X40M8aflRc,130
+tests/conftest.py,sha256=R8IEiaakqu1PWTN_XXjUSWkBfq1EeFnBTv9QQa8RmhQ,2075
+tests/context.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_api.py,sha256=tzlFg_uLpKIqL0F5y_oz1l8mihvcoT1N8taWELk4oe4,4083
+tests/test_arbejdstimer.py,sha256=uFwN_Zj9aq45k4fqyY1mBbi_FyLR-UXUCE3RcloWHdQ,8318
+tests/test_cli.py,sha256=ygto-VH4BnTM4poDUfOmYgFXUdyloDZlWebEFOPkaUY,2699
+arbejdstimer-2021.12.28.dist-info/LICENSE,sha256=NpMdbXDPQfOKFkp3mpaePQrBhcjltWWrjBt9lkJSBQQ,1069
+arbejdstimer-2021.12.28.dist-info/METADATA,sha256=_tFdWHBdjnZvG591HtsrW7gJ0BLmz9OtYPKppS_N7lA,2223
+arbejdstimer-2021.12.28.dist-info/WHEEL,sha256=WzZ8cwjh8l0jtULNjYq1Hpr-WCqCRgPr--TX4P5I1Wo,110
+arbejdstimer-2021.12.28.dist-info/entry_points.txt,sha256=NtM_Hf43TMFWqjtYbHiCK7uKlOFC9YczgCWnAkDEX0A,55
+arbejdstimer-2021.12.28.dist-info/top_level.txt,sha256=-ns7kYTiZMuk4vFoEK4G9lR0OLsXg-LB-wSbBR5shag,19
+arbejdstimer-2021.12.28.dist-info/RECORD,,
