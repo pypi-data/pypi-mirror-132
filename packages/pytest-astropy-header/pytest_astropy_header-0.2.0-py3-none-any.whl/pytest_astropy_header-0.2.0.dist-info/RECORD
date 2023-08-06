@@ -1,0 +1,9 @@
+pytest_astropy_header/__init__.py,sha256=ICVlMfJSyUfBfTrbT0iaRCQuzdTOdpNCGyxVOwgxXzQ,117
+pytest_astropy_header/display.py,sha256=bnKabeni74XVPt59dBgvsXosh9JQ78IVDUwOmzTnxcM,4582
+pytest_astropy_header/version.py,sha256=g0RU_Fiae76hPEUjU6lGnapa9IZoqGcB4oFcTnsoMbM,142
+pytest_astropy_header-0.2.0.dist-info/LICENSE.rst,sha256=lSsNzyAHuErngixulSTXtGiUb3ZOiS0xWX0vKlLksi4,1491
+pytest_astropy_header-0.2.0.dist-info/METADATA,sha256=T1gSNz0wzbOZn1SqVDkt77r1KvIRvV1ZpHKGEJ9fKps,8377
+pytest_astropy_header-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pytest_astropy_header-0.2.0.dist-info/entry_points.txt,sha256=yXNO_3xsZ_7C9CJ8lVg9zxs35lOwcqHhlgSgd1nqE1o,66
+pytest_astropy_header-0.2.0.dist-info/top_level.txt,sha256=enqMNs_iscTrDOE3iUjcYH6B9nFDHbZrXQB1-77xApQ,22
+pytest_astropy_header-0.2.0.dist-info/RECORD,,
