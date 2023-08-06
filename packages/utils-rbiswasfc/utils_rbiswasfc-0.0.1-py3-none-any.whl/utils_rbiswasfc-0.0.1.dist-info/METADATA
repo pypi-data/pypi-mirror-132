@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: utils-rbiswasfc
+Version: 0.0.1
+Summary: A collection of utility functions
+Home-page: https://github.com/rbiswasfc/utils
+Author: Raja Biswas
+Author-email: rajabiswas92@outlook.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/rbiswasfc/utils/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## Installation
+
+Run the following to install
+
+```python
+pip install rb-utils
+```
+
+## Developing the utils
+To install the package, along with the tolls you need to develop and run tests, run the following in your virtualenv:
+
+```bash
+pip install -e .[dev]
+```
+## Usage
+A collection of re-usable utilities
+

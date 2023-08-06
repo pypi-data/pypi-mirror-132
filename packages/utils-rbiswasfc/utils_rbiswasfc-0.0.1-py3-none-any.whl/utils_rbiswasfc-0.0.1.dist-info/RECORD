@@ -1,0 +1,9 @@
+core_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+core_utils/user_collection.py,sha256=a586I4m_WBhyFafgm2LD2AtyC7xEZtNrb53dlmI4anc,38
+dummy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dummy/say_hello.py,sha256=wlJcGtj3S8_nRuF1dKBrq8H05KSd6bK6pCSOpY1lz1s,39
+utils_rbiswasfc-0.0.1.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+utils_rbiswasfc-0.0.1.dist-info/METADATA,sha256=Ss2-oVb67S8A--65GDSbwK0JxDfOLGty8CS3ytSqlAM,874
+utils_rbiswasfc-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+utils_rbiswasfc-0.0.1.dist-info/top_level.txt,sha256=jWjG47kY51OXFABasJIQ-TGGW1GimqJFXTYvQEUzbi0,17
+utils_rbiswasfc-0.0.1.dist-info/RECORD,,
