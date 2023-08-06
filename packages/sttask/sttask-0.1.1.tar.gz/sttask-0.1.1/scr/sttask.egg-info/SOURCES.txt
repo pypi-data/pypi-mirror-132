@@ -1,0 +1,11 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+scr/sttask/SUPERSECRETMODULE.py
+scr/sttask/__init__.py
+scr/sttask/utils.py
+scr/sttask.egg-info/PKG-INFO
+scr/sttask.egg-info/SOURCES.txt
+scr/sttask.egg-info/dependency_links.txt
+scr/sttask.egg-info/top_level.txt
