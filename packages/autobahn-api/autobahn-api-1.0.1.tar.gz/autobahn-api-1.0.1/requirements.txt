@@ -1,0 +1,4 @@
+requests~=2.26.0
+responses~=0.16.0
+pytest~=6.2.5
+setuptools~=57.4.0
