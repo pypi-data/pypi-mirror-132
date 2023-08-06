@@ -1,0 +1,6 @@
+README.md
+setup.py
+calcman.egg-info/PKG-INFO
+calcman.egg-info/SOURCES.txt
+calcman.egg-info/dependency_links.txt
+calcman.egg-info/top_level.txt
