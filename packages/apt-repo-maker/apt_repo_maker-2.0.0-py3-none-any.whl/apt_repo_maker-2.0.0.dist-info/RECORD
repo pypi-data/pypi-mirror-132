@@ -1,0 +1,17 @@
+apt_repo_maker/__init__.py,sha256=Tkgv4-sNVgR2Tzl-nKWN5fFtbYP9masboYOlFTwBffU,38
+apt_repo_maker/__main__.py,sha256=bziFf17FB0LLpv_ZtjY0KOc6hXizSohqGpHX2vRpucw,16752
+apt_repo_maker/helpers.py,sha256=67ZbcBijdgyOMIy-jbDTd7XFsGrEVg4_badmhVOmyGQ,1897
+apt_repo_maker/docker_images/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+apt_repo_maker/docker_images/apt-repo/Dockerfile,sha256=ZGuu0i8DtRhuF_baEbM4uydDkDgjqyc3ZBMJ0zgv4ck,192
+apt_repo_maker/docker_images/apt-repo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+apt_repo_maker/docker_images/apt-repo/configs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+apt_repo_maker/docker_images/apt-repo/configs/httpd_auth.conf,sha256=UhH42jPzz2kMOL3SkaydhaM_suZW979EyduG9FqD754,20938
+apt_repo_maker/docker_images/apt-repo/scripts/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+apt_repo_maker/docker_images/apt-repo/scripts/start.sh,sha256=1KrzwVXqgo6qMxQze-nwEpWY38vCLjCsnagOLkT73-w,1385
+apt_repo_maker/install_directives/__init__.py,sha256=AYhAbePoS5w4oq7pRM9SBdsCx7dGqoVNTxMqBqRG01Y,1073
+apt_repo_maker-2.0.0.dist-info/LICENSE,sha256=ctcRA0Qm9AISGR7KHrLV8PcccM3IxCyDnJX6MHA_E5M,1068
+apt_repo_maker-2.0.0.dist-info/METADATA,sha256=-zdppHuneCO1MxLATosurrE0U38oTE_Yaq9XcGq6wdc,4661
+apt_repo_maker-2.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+apt_repo_maker-2.0.0.dist-info/entry_points.txt,sha256=hA4E_ib9eYUlbr3taqlBGL76N1fynEDrQavl5owNxNg,59
+apt_repo_maker-2.0.0.dist-info/top_level.txt,sha256=QlRzxUV5YY3rX8UC4qXFZD9Pwq8gMh93XwPusCdPhtM,15
+apt_repo_maker-2.0.0.dist-info/RECORD,,
