@@ -1,0 +1,142 @@
+Metadata-Version: 2.1
+Name: mcbews
+Version: 0.0.1b4
+Summary: A Bot for Minecraft: Bedrock Edition programmed in python using websocket
+Home-page: UNKNOWN
+Author: phoenixR
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: websockets
+
+Quickstart
+==========
+
+Installation
+------------
+
+Install with `pip install mcbews` and import it.
+
+```python
+from mcbews import ws
+from mcbews.chat import Color, Style
+```
+
+
+Contents
+--------
+1. Create a simple bot
+2. Minecraft Events
+3. Advanced bot options
+
+
+Create a simple bot
+-------------------
+
+*Credits to discord.py for the awesome syntax
+inspiration.*
+
+```python
+bot = ws.Bot(
+    name = "My Bot",
+    prefix = "!"
+)
+
+
+@bot.event
+# this is the only event that is not async
+def on_ready(ctx):
+    print(f"Ready @ {ctx.host}:{ctx.port}")
+
+@bot.event
+async def on_connect(ctx):
+    print("Connected!")
+    ctx.msg("Hello World.")
+
+@bot.event
+async def on_disconnect(ctx):
+    print("Disconnected!")
+
+@bot.command()
+async def ping(ctx):
+    ctx.msg("Pong")
+    ctx.cmd("title @a actionbar Welcome")
+
+
+bot.run("localhost", 6464)
+```
+
+We will go with `6464` as the port but you can
+choose any other four-digit number.
+
+Now type `/connect localhost:6464` in the Minecraft
+Chat and wait for a response.
+
+You may have to disable "*Require Encrypted
+Websockets*" for it to work.
+
+Most of the time the *ctx* argument has methods
+for sending messages in the game. These are:
+
+- `cmd(command)`
+> Executes a minecraft command.
+> The slash prefix is optional.
+> Also accessable with `command(...)` and `execute(...)`
+
+- `raw(message, target = "@a")`
+> Sends a raw message to the specified target.
+
+- `msg(message, target = "@a")`
+> Sends a message to the specified target.
+> Also accessable with `message(...)`
+
+- `debug(message, target = "@a")`
+> Sends a debug message to the specified target.
+> The logging level must be set to `debug` or higher.
+
+- `info(message, targt = "@a")`
+> Sends an info message to the specified target.
+> The logging level must be set to `info` or higher.
+
+- `err(message, target = "@a")`
+> Sends a error message to the specified target.
+> The logging level must be set to `error` or higher.
+> Also accessable with `error(...)`
+
+- `warning(message, target = "@a")`
+> Sends a warning to the specified target.
+> The logging level must be set to `warning` or higher.
+> Also accessable with `warn(...)`
+
+- `critical(message, target = "@a")`
+> Sends a critical message to the specified target.
+> The logging level must be set to `critical`.
+> Also accessable with `fatal(...)`
+
+
+Minecraft Events
+----------------
+
+Minecraft sends several events to the bot.
+You can react on them with the `minectaftevent`
+decorator:
+
+```python
+@bot.minecraftevent
+async def block_broken(ctx):
+    ctx.info(f"{ctx.block_name} has been broken.")
+```
+
+This will display a message which block got
+broken.
+
+Some events have supported methods (e.g. in
+this case `block_name`) but some don't.
+You can access the data with
+`ctx.data["<name>"]` where name could be
+`"name"`.
+
+Keep in mind that you have to change the
+event name into snakecase format. That means
+that `BlockBroken` becomes `block_broken`.
+
