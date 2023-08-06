@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: komoranPi
+Version: 0.0.1
+Summary: KOMORAN의 native python 버전입니다.
+Home-page: https://github.com/shineware/komoranpy
+Author: Junsoo Shin
+Author-email: ceo@shineware.co.kr
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# KOMORANPy
+
+KOMORANPy는 KOMORAN을 native python으로 구현하였습니다.
+
