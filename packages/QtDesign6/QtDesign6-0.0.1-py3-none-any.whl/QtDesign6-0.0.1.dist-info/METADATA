@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: QtDesign6
+Version: 0.0.1
+Summary: Custom widgets and utilities for PySide6
+Home-page: https://github.com/JevexEndo/qtdesign6
+Author: Jevex
+Author-email: jevex.endo@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/JevexEndo/qtdesign6/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta 
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# QtDesign6
+Custom widgets and utilities for PySide6
+
