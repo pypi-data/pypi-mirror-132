@@ -1,0 +1,6 @@
+[console_scripts]
+monosi = monosi.__main__:main
+
+[monosi_drivers]
+snowflake = monosi_drivers.snowflake
+
