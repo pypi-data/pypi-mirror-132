@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: droppy-bv
+Version: 1.0.2
+Summary: DR open library, related to waves and sea-keeping
+Home-page: https://github.com/BV-DR/droppy
+Author: DR
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: matplotlib (>=1.5)
+Requires-Dist: numpy
+Requires-Dist: pandas (>=0.20)
+Requires-Dist: scipy
+
+|Build Status|
+
+DR OPen PYthon library (DROPPY)
+===============================
+
+This git repository contains some python routines dedicated to frequency
+and time domain analysis, mostly related to wave and sea-keeping
+analysis.
+
+Documentation on
+
+https://bv-dr.gitlab.io/droppy/
+
+Installing
+----------
+
+droppy can be simply installed using
+
+   pip install git+https://gitlab.com/bv-dr/droppy
+
+Optional, soft, dependencies can be install using :
+
+   pip install -f requirements_all.txt
+
+or, preferably if anaconda distribution is used :
+
+   conda install –file requirements_all.txt
+
+requirements_all.txt being found at :
+https://gitlab.com/bv-dr/droppy/doc/requirements_all.txt
+
+.. |Build Status| image:: https://gitlab.com/bv-dr/droppy/badges/master/pipeline.svg?branch=master
+   :target: https://gitlab.com/bv-dr/droppy/badges/master/pipeline.svg
+
+
