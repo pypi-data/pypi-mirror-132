@@ -1,0 +1,9 @@
+LICENSE.txt
+README.rst
+setup.py
+sip_hash_format/__init__.py
+sip_hash_format/transform.py
+sip_hash_format.egg-info/PKG-INFO
+sip_hash_format.egg-info/SOURCES.txt
+sip_hash_format.egg-info/dependency_links.txt
+sip_hash_format.egg-info/top_level.txt
