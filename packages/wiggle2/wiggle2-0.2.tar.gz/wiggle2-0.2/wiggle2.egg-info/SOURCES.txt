@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+wiggle2/__init__.py
+wiggle2/wiggle.py
+wiggle2.egg-info/PKG-INFO
+wiggle2.egg-info/SOURCES.txt
+wiggle2.egg-info/dependency_links.txt
+wiggle2.egg-info/requires.txt
+wiggle2.egg-info/top_level.txt
