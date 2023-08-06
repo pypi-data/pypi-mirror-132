@@ -1,0 +1,1 @@
+Clien-karjakak>=0.1.0
