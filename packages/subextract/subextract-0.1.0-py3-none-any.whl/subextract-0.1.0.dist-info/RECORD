@@ -1,0 +1,7 @@
+subextract/__init__.py,sha256=8uuhxLrf_DAOyXnOHKrdYjHVFGQd4qLJY-p6XJVG9EA,100
+subextract/cli.py,sha256=cMGI6CWrnl1rflFhH_DmhqHKXP-sIeTmvFqNh1h6ym0,2972
+subextract/language.py,sha256=ZO5Q6272J7LjwKaKgE7wH4uECCgvqMZkkgb-ri7d6Bg,313
+subextract-0.1.0.dist-info/entry_points.txt,sha256=uWPnXNUEpKqy53pZrz04olkOEXXutT6DUKwdEgby0eE,50
+subextract-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+subextract-0.1.0.dist-info/METADATA,sha256=39fsKGm_DwhZ0EANMFk4F48hbi81fBMCP6py8k5miq8,513
+subextract-0.1.0.dist-info/RECORD,,
