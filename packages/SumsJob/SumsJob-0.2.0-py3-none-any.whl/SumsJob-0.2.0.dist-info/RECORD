@@ -1,0 +1,12 @@
+sumsjob/__about__.py,sha256=Zn1KFblwuFHiDRdRAiRnDBRkbPttWh44jKa5zG2ov0E,22
+sumsjob/__init__.py,sha256=ydOBoCM-p949AAQbwl1Q1ALKGYmSrtS66GGkIWWdLDg,83
+sumsjob/cancel.py,sha256=chG3GNX2BBDTWIuSVfZUJ_YF_ZVBSoel2d_AN0OChS0,6
+sumsjob/config.py,sha256=lYwYhE02DNlkf_k6BsCR3EmbxqNUC-jAJ78AR4vg178,1320
+sumsjob/gpuresource.py,sha256=cGfwro7qEEvLis7uTPe0tDjZiN3Yno2tC_n4cocutls,1688
+sumsjob/submit.py,sha256=nPLGNe620GHq1g7w2TiG0WFnvNGhHcaPTAv5FB7wIu0,6512
+SumsJob-0.2.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+SumsJob-0.2.0.dist-info/METADATA,sha256=Iq2pLabD543AxvhgXRMRpD5zKkCj3w9vY6p7nORrkSc,4251
+SumsJob-0.2.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+SumsJob-0.2.0.dist-info/entry_points.txt,sha256=xkbnePZ99OMjOWQ8DzxlN64R78AFEo2CKfAVgfFz-Hk,87
+SumsJob-0.2.0.dist-info/top_level.txt,sha256=sryDCuP9rGPwpqT9BhFw9q6b15WdcvL-fuFlONTxGqM,8
+SumsJob-0.2.0.dist-info/RECORD,,
