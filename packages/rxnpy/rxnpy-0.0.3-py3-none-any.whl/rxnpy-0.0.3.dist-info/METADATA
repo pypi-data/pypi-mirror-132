@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: rxnpy
+Version: 0.0.3
+Summary: Chemistry stuff
+Home-page: https://github.com/dylanwal/rxnpy
+Author: Dylan Walsh
+License: BSD
+Platform: any
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: unitpy (>=0.0.1)
+Requires-Dist: dictpy (>=0.0.5)
+Provides-Extra: testing
+Requires-Dist: pytest (>=6.0) ; extra == 'testing'
+Requires-Dist: pytest-cov (>=2.0) ; extra == 'testing'
+Requires-Dist: mypy (>=0.910) ; extra == 'testing'
+Requires-Dist: flake8 (>=3.9) ; extra == 'testing'
+Requires-Dist: tox (>=3.24) ; extra == 'testing'
+
+# RxnPy
+![PyPI](https://img.shields.io/pypi/v/rxnpy)
+![tests](https://raw.githubusercontent.com/dylanwal/rxnpy/master/tests/badges/tests-badge.svg)
+![coverage](https://raw.githubusercontent.com/dylanwal/rxnpy/master/tests/badges/coverage.svg)
+![flake8](https://raw.githubusercontent.com/dylanwal/rxnpy/master/tests/badges/flake8-badge.svg)
+![downloads](https://img.shields.io/pypi/dm/rxnpy)
+![license](https://img.shields.io/github/license/dylanwal/rxnpy)
+
+This python package does everything chemistry.
+
+
