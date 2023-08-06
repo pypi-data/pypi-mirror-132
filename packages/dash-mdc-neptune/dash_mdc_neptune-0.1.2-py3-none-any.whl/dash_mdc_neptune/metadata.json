@@ -1,0 +1,502 @@
+{
+  "src/components/Dashboard.jsx": {
+    "description": "Main dasboard component, initializing a Material UI theme\nhttps://mui.com/customization/theming/",
+    "displayName": "Dashboard",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Used to identify dash components in callbacks",
+        "defaultValue": {
+          "value": "'dashboard'",
+          "computed": false
+        }
+      },
+      "children": {
+        "type": {
+          "name": "node"
+        },
+        "required": false,
+        "description": "Used to render elements inside the component"
+      },
+      "height": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Dashboard window height",
+        "defaultValue": {
+          "value": "'100vh'",
+          "computed": false
+        }
+      }
+    }
+  },
+  "src/components/display/Box.jsx": {
+    "description": "Box component from Material UI\nhttps://mui.com/components/box/",
+    "displayName": "Box",
+    "methods": [],
+    "props": {
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Used to enable Dash-assigned component callback"
+      },
+      "children": {
+        "type": {
+          "name": "node"
+        },
+        "required": false,
+        "description": "Can be used to render elements inside the component"
+      },
+      "sx": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "All Material system properties are available via the `sx prop`\nAllow additional css styles to be applied to the component",
+        "defaultValue": {
+          "value": "{}",
+          "computed": false
+        }
+      }
+    }
+  },
+  "src/components/display/Tab.jsx": {
+    "description": "Tab component\nDashboard > Page > Section > Card > Tab\nhttps://github.com/danielfrg/jupyter-flex/blob/main/js/src/Section/index.js",
+    "displayName": "Tab",
+    "methods": [
+      {
+        "name": "handleTabChange",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "event",
+            "type": null
+          },
+          {
+            "name": "value",
+            "type": null
+          }
+        ],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Used to identify dash components in callbacks",
+        "defaultValue": {
+          "value": "'tab'",
+          "computed": false
+        }
+      },
+      "children": {
+        "type": {
+          "name": "node"
+        },
+        "required": false,
+        "description": "Used to render elements inside the component"
+      },
+      "tabs": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "exact",
+            "value": {
+              "label": {
+                "name": "string",
+                "description": "Element label",
+                "required": false
+              }
+            }
+          }
+        },
+        "required": false,
+        "description": "Array of tabs to render as component children"
+      }
+    }
+  },
+  "src/components/display/Table.jsx": {
+    "description": "Table component",
+    "displayName": "NewTable",
+    "methods": [
+      {
+        "name": "handlePageChange",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "event",
+            "type": null
+          },
+          {
+            "name": "value",
+            "type": null
+          }
+        ],
+        "returns": null
+      },
+      {
+        "name": "handleRowsPerPageChange",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "event",
+            "type": null
+          }
+        ],
+        "returns": null
+      },
+      {
+        "name": "UNSAFE_componentWillReceiveProps",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "nextProps",
+            "type": null
+          },
+          {
+            "name": "nextContent",
+            "type": null
+          }
+        ],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Used to identify dash components in callbacks",
+        "defaultValue": {
+          "value": "'table'",
+          "computed": false
+        }
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Used to enable Dash-assigned component callback"
+      },
+      "columns": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "exact",
+            "value": {
+              "field": {
+                "name": "string",
+                "description": "Column field",
+                "required": false
+              },
+              "width": {
+                "name": "number",
+                "description": "Column width",
+                "required": false
+              }
+            }
+          }
+        },
+        "required": false,
+        "description": "Array of table columns to render"
+      },
+      "rows": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "object"
+          }
+        },
+        "required": false,
+        "description": "Array of table rows to render"
+      },
+      "rowsPerPageOptions": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "number"
+          }
+        },
+        "required": false,
+        "description": "Table pagination setting",
+        "defaultValue": {
+          "value": "[10, 25, 50]",
+          "computed": false
+        }
+      }
+    }
+  },
+  "src/components/display/Toggle.jsx": {
+    "description": "Toggle component",
+    "displayName": "Toggle",
+    "methods": [
+      {
+        "name": "handleToggleChange",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "event",
+            "type": null
+          },
+          {
+            "name": "value",
+            "type": null
+          }
+        ],
+        "returns": null
+      },
+      {
+        "name": "UNSAFE_componentWillReceiveProps",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "nextProps",
+            "type": null
+          },
+          {
+            "name": "nextContent",
+            "type": null
+          }
+        ],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Used to identify dash components in callbacks",
+        "defaultValue": {
+          "value": "'table'",
+          "computed": false
+        }
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Used to enable Dash-assigned component callback"
+      },
+      "options": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "exact",
+            "value": {
+              "label": {
+                "name": "string",
+                "description": "Toggle label",
+                "required": false
+              }
+            }
+          }
+        },
+        "required": false,
+        "description": "Array of toggle options to render"
+      },
+      "selected": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Selected toggle label"
+      }
+    }
+  },
+  "src/components/display/Typography.jsx": {
+    "description": "Typography component from Material UI\nhttps://mui.com/components/typography/",
+    "displayName": "Typography",
+    "methods": [],
+    "props": {
+      "component": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Typography HTML node type",
+        "defaultValue": {
+          "value": "'h6'",
+          "computed": false
+        }
+      },
+      "variant": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Typography MUI style type",
+        "defaultValue": {
+          "value": "'h6'",
+          "computed": false
+        }
+      },
+      "text": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Typography text content"
+      }
+    }
+  },
+  "src/components/layout/NavBar.jsx": {
+    "description": "Dashboard navigation bar component\nhttps://mui.com/components/app-bar/",
+    "displayName": "NavBar",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Used to identify dash components in callbacks",
+        "defaultValue": {
+          "value": "'navbar'",
+          "computed": false
+        }
+      },
+      "title": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Dashboard navigation bar title"
+      }
+    }
+  },
+  "src/components/layout/Page.jsx": {
+    "description": "Page component, used to wrap section and card components\nDashboard > Page",
+    "displayName": "Page",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "custom",
+          "raw": "PropTypes.string"
+        },
+        "required": false,
+        "description": "Used to identify dash components in callbacks",
+        "defaultValue": {
+          "value": "'page'",
+          "computed": false
+        }
+      },
+      "children": {
+        "type": {
+          "name": "custom",
+          "raw": "PropTypes.node"
+        },
+        "required": false,
+        "description": "Used to render elements inside the component"
+      },
+      "orientation": {
+        "type": {
+          "name": "custom",
+          "raw": "PropTypes.oneOf(['columns', 'rows'])"
+        },
+        "required": false,
+        "description": "Page general orientation (rows or columns)",
+        "defaultValue": {
+          "value": "'columns'",
+          "computed": false
+        }
+      }
+    }
+  },
+  "src/components/layout/Section.jsx": {
+    "description": "Section component\nDashboard > Page > Section",
+    "displayName": "Section",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Used to identify dash components in callbacks",
+        "defaultValue": {
+          "value": "'section'",
+          "computed": false
+        }
+      },
+      "children": {
+        "type": {
+          "name": "node"
+        },
+        "required": false,
+        "description": "Used to render elements inside the component"
+      },
+      "cards": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "exact",
+            "value": {
+              "title": {
+                "name": "string",
+                "description": "Card title",
+                "required": false
+              },
+              "size": {
+                "name": "number",
+                "description": "Card size (0 < size <= 12)",
+                "required": false
+              }
+            }
+          }
+        },
+        "required": false,
+        "description": "Array of cards to render as component children"
+      },
+      "orientation": {
+        "type": {
+          "name": "enum",
+          "value": [
+            {
+              "value": "'columns'",
+              "computed": false
+            },
+            {
+              "value": "'rows'",
+              "computed": false
+            }
+          ]
+        },
+        "required": false,
+        "description": "Section general orientation (rows or columns)",
+        "defaultValue": {
+          "value": "'rows'",
+          "computed": false
+        }
+      },
+      "size": {
+        "type": {
+          "name": "number"
+        },
+        "required": false,
+        "description": "Section container size (0 < size <= 12)"
+      }
+    }
+  }
+}
