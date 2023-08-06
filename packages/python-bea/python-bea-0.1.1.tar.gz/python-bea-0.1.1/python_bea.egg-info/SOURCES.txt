@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pybea/__init__.py
+pybea/client.py
+python_bea.egg-info/PKG-INFO
+python_bea.egg-info/SOURCES.txt
+python_bea.egg-info/dependency_links.txt
+python_bea.egg-info/requires.txt
+python_bea.egg-info/top_level.txt
