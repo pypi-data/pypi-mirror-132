@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: strawberry-sqlalchemy
+Version: 0.1.1
+Summary: A helper library to integrate sqlalchemy models with strawberry-graphql
+Author-email: Ambro17 <ambro17.1@gmail.com>
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+
+# Strawberry-Sqlalchemy
