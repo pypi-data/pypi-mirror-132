@@ -1,0 +1,9 @@
+asyncio_dgram/__init__.py,sha256=UkWntWTUSDmcNQy5SQ8jZCrCxMqQCgOFGfJDFDxZD0I,27
+asyncio_dgram/aio.py,sha256=pNEF1fpBev6LlbbilKysx5_azACfwwfVUdeV6J9yvfQ,9769
+asyncio_dgram/aio.pyi,sha256=GFQfFsf_IUVSAVAuulyVnORofyz5I4OcU7BJbehyJXQ,1756
+asyncio_dgram/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+asyncio_dgram-2.1.1.dist-info/LICENSE,sha256=8QluGVYvSjH2KxV9s0fkcELVhteMO1TGF0prEWlxus4,1071
+asyncio_dgram-2.1.1.dist-info/METADATA,sha256=1r56dY_6eXX23JBzsFLD7ddVUzo_LqhR6iJ7wpE50fo,3678
+asyncio_dgram-2.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+asyncio_dgram-2.1.1.dist-info/top_level.txt,sha256=I7qyH95HXXgtqKdUEwWuCFWhndoMCGT1bxJrPhuNSlA,14
+asyncio_dgram-2.1.1.dist-info/RECORD,,
