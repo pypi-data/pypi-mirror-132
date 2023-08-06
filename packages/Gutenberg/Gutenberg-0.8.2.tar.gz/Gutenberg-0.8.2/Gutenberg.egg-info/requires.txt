@@ -1,0 +1,9 @@
+SPARQLWrapper>=1.8.2
+bsddb3>=6.1.0
+future>=0.15.2
+pyparsing<3.0.0
+rdflib-sqlalchemy>=0.3.8
+rdflib<5.0.0,>=4.2.0
+requests>=2.5.1
+setuptools>=18.5
+six>=1.10.0
