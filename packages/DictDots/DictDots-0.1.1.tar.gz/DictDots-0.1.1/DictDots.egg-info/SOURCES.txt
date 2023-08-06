@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+DictDots.egg-info/PKG-INFO
+DictDots.egg-info/SOURCES.txt
+DictDots.egg-info/dependency_links.txt
+DictDots.egg-info/top_level.txt
+dictdots/__init__.py
+dictdots/constants.py
+dictdots/exceptions.py
+dictdots/types.py

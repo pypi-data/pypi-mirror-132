@@ -1,0 +1,90 @@
+Metadata-Version: 2.1
+Name: DictDots
+Version: 0.1.1
+Summary: DictDots is a tool to access nested dictionaries without long if-else chains.
+Home-page: https://github.com/alexlambson/python-dict-dots/
+Author: Alex Lambson
+Author-email: support@alexlambson.com
+License: GPLv3
+Description: # Python Dict Dots
+        
+        ---
+        
+        A way access values in nested key-value dicts using dot notation, e.g.
+        
+        Before:
+        
+        ```python
+        data = None
+        if needle in haystack:
+            if nested_needle in haystack[needle]:
+                data = haystack[needle][nested_needle]
+        
+        if not data:
+            data = default_data
+        ```
+        
+        After:
+        
+        ```python
+        from dictdots import DictDots
+        
+        data = DictDots.get(
+            "needle.nested_needle", haystack, default=default_data
+        )
+        ```
+        
+        # How to
+        
+        ---
+        
+        - Run `pip install DictDots`
+        - `from dictdots import DictDots`
+        - `DictDots.get("needle", haystack_dict, default=default_value)`
+        
+        DictDots supports `List` and `Dict`.
+        
+        For example
+        
+        ```python
+        from dictdots import DictDots
+        haystack = [
+            {
+                "needle": {
+                    "nested": "you found me",
+                },
+            },
+        ]
+        
+        value = DictDots.get(haystack, "0.needle.nested")
+        
+        print(value)
+        ```
+        
+        Would output `you found me`.
+        
+        A valid query string is a string of keys and/or indicies, separated by periods.
+        Strings can only contain alphanumeric characters, periods, and underscores.
+        Strings can not contain double-or-more dots.
+        Strings can not begin or end with a dot.
+        Each period in the string will tell DictDots to dig another layer into your nested data structure.
+        Dict dots does not hold your hand, if you give it a bad string, e.g `_hello...world`, 
+        then it will just raise an `InvalidQueryString`.
+        
+        # Future
+        
+        ---
+        
+        [Query Language wishlist](docs/ddql.md)
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
