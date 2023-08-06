@@ -1,0 +1,3 @@
+[pandora.libsgm]
+python_libsgm = pandora_plugin_libsgm.sgm_python:run_sgm
+
