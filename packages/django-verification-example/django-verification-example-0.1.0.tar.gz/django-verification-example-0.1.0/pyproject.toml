@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "django-verification-example"
+version = "0.1.0"
+description = "A project that includes an application that demonstrates how you can organize work with security tokens."
+authors = ["Michael Might"]
+license = "MIT"
+repository = "https://github.com/mikemight/django-tokens-example/"
+packages = [
+    { include = "tokens_example" },
+]
+
+
+[tool.poetry.dependencies]
+python = "^3.6"
+Django = "^3"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
