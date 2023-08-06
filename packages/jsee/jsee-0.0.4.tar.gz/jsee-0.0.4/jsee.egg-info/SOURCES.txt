@@ -1,0 +1,12 @@
+.gitignore
+README.md
+example.py
+setup.py
+bin/jsee
+jsee/__init__.py
+jsee/jsee.py
+jsee.egg-info/PKG-INFO
+jsee.egg-info/SOURCES.txt
+jsee.egg-info/dependency_links.txt
+jsee.egg-info/requires.txt
+jsee.egg-info/top_level.txt
