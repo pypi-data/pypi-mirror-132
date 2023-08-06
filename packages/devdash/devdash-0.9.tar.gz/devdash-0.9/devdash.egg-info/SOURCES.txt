@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+devdash/__init__.py
+devdash.egg-info/PKG-INFO
+devdash.egg-info/SOURCES.txt
+devdash.egg-info/dependency_links.txt
+devdash.egg-info/requires.txt
+devdash.egg-info/top_level.txt
+test/__init__.py
+test/test_flake8.py
+test/test_mypy.py
+test/test_observe.py
+test/test_update_once.py
+test/test_util.py
