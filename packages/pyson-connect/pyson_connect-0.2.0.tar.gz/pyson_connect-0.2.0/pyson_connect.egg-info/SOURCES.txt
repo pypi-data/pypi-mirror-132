@@ -1,0 +1,7 @@
+MANIFEST.in
+setup.py
+pyson_connect.egg-info/PKG-INFO
+pyson_connect.egg-info/SOURCES.txt
+pyson_connect.egg-info/dependency_links.txt
+pyson_connect.egg-info/requires.txt
+pyson_connect.egg-info/top_level.txt
