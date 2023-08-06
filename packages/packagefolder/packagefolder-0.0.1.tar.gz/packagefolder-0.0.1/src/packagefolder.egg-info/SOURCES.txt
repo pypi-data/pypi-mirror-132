@@ -1,0 +1,14 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+pyproject.toml
+setup.cfg
+setup.py
+src/packagefolder/__init__.py
+src/packagefolder/__main__.py
+src/packagefolder/simplecomponent.py
+src/packagefolder.egg-info/PKG-INFO
+src/packagefolder.egg-info/SOURCES.txt
+src/packagefolder.egg-info/dependency_links.txt
+src/packagefolder.egg-info/requires.txt
+src/packagefolder.egg-info/top_level.txt
