@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+aliwaddah.egg-info/PKG-INFO
+aliwaddah.egg-info/SOURCES.txt
+aliwaddah.egg-info/dependency_links.txt
+aliwaddah.egg-info/top_level.txt
+joshbasiccalculator/__init__.py
