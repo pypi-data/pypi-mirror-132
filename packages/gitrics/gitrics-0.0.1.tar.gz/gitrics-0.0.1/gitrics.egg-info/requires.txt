@@ -1,0 +1,6 @@
+colorgram.py
+glapi
+
+[test]
+pytest
+pytest-cov
