@@ -1,0 +1,6 @@
+cython
+numpy
+pytest
+setuptools
+virtualenv
+wheel
