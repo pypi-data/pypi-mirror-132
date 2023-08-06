@@ -1,0 +1,10 @@
+paddle_sparse_dense/__init__.py,sha256=uyG6nwA8BKizdKgWHuTLzcI95HMpgryDN9rT-GBTRkc,82
+paddle_sparse_dense/batching.py,sha256=J8eTtCXqeWTl43kkcfzCep8h4qwWM3TzP2WmdDhXGvM,2294
+paddle_sparse_dense/sparse.py,sha256=zquqMfrMGo2aEYO71t13PhG8cm4KOA-PdWLOr7yAKG8,5949
+paddle_sparse_dense/spgemm.py,sha256=woZFME1XB2KGldHorLXUAZYQQarHgQWIRECeJaeKvAk,1439
+paddle_sparse_dense/utils.py,sha256=D_-wxScP9_49WC7urVhSBmpiYkMbHq5BTsEvwrD2BIs,1191
+paddle_sparse_dense-0.0.4.dist-info/LICENSE,sha256=ZO2KC7ZimF5zuC6sQcZoO3hSq4S75yvamPbzRz8ZbHk,11538
+paddle_sparse_dense-0.0.4.dist-info/METADATA,sha256=oWQXTNKXkkfPyAJH-mUG3smv7ZUl7fe77GV7c9VAw0s,2787
+paddle_sparse_dense-0.0.4.dist-info/WHEEL,sha256=D1Wh14kWDxPnrM-5t_6UCB-UuQNrEODtRa3vF4OsvQY,97
+paddle_sparse_dense-0.0.4.dist-info/top_level.txt,sha256=EjqwVka9G9b28Zwuo_JXuj0Sk8c7KDELeQfVWAmst8g,20
+paddle_sparse_dense-0.0.4.dist-info/RECORD,,
