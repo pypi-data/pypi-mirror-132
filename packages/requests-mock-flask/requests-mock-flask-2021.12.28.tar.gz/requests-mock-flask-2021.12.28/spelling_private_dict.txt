@@ -1,0 +1,17 @@
+admin
+app
+autodoc
+changelog
+hasattr
+keyring
+linting
+macOS
+pragma
+pytest
+reqs
+RequestsMock
+todo
+tuple
+typehints
+ubuntu
+uuid
