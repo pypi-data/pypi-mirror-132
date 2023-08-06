@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+py_sensor_filters/kalman_filter/gyro.py
+py_sensor_filters/py_sensor_filters.egg-info/PKG-INFO
+py_sensor_filters/py_sensor_filters.egg-info/SOURCES.txt
+py_sensor_filters/py_sensor_filters.egg-info/dependency_links.txt
+py_sensor_filters/py_sensor_filters.egg-info/not-zip-safe
+py_sensor_filters/py_sensor_filters.egg-info/top_level.txt
