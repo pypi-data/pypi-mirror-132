@@ -1,0 +1,15 @@
+clickable/__init__.py,sha256=uGilDWWEtHN5Sj8h1caV1XlWHdwXHUHFR6cmWFbHS90,20
+clickable/click/__init__.py,sha256=j2xpG6KiX6ZS6ZTHFNA9d7RPml4HdRHMrwE-Zc_vDAE,4831
+clickable/coloredlogs/__init__.py,sha256=XIYxsqf_A_wdUnazFndcSH2Ix3SvxrGveViUkol1pfA,612
+clickable/sphinx/__init__.py,sha256=jsQ6BCbXBtsmVuf5h8wW6dovZFVCIJLNEAiR85x1rL8,5658
+clickable/syncing/__init__.py,sha256=nCHSUeJjpv3xMQP91AvrMTjcOgyXIJ6YbmjaSgc0mS4,1368
+clickable/utils/__init__.py,sha256=2voj35BOTg0kcrHhXDYnyiJ3G7cFBcShdJNQBr0OkLU,1582
+clickable/virtualenv/__init__.py,sha256=kP5yjENkKN7gCPQ5G2qqFzTEGdqtmi4BMUFE_DUiSvQ,207
+clickable/virtualenv/commands.py,sha256=lv-jXqSBIVeuoG8Eb2KTCunqIvrZ7id8mBTKWk_vOxs,596
+clickable/virtualenv/virtualenv.py,sha256=kjlu9z1FvoTYX8IAakEiBxwc2ltchA8D-esJEzZ4zyE,8742
+clickable-1.5.dist-info/LICENSE,sha256=Z_x4vJNSMWgO8fpEUI3z5wMAAD0Pt06ERkvNr9C75nM,1508
+clickable-1.5.dist-info/METADATA,sha256=0h7SumMwbykfmHmGsN1-7MZcy-UJfCT705tHL6MpDaU,4408
+clickable-1.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+clickable-1.5.dist-info/entry_points.txt,sha256=szm-BM74soQgtwKajXdiDjzdfDljM6YuvabirCAZsTs,52
+clickable-1.5.dist-info/top_level.txt,sha256=7B3JRcSi1y2Yb6Z6-zMGjjlzx6jm9zypkwvRlhTWAKo,10
+clickable-1.5.dist-info/RECORD,,
