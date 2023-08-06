@@ -1,0 +1,28 @@
+{% load fav_stock_custom_tags %}
+<div class="container-fluid my-3">
+  <div class="row">
+    {# 코드 종목명 #}
+    <div class="col">
+      <h4>{{ c101.코드 }} {{ c101.종목명 }}</h4>
+    </div>
+    {# 업종 #}
+    <div class="col">
+      <h6>{{ c101.업종 }}</h6>
+    </div>
+    {# Intro / Add(Edit) / Del 버튼 #}
+    <div class="col">
+      <button type="button" class="btn btn-primary btn-sm"
+              data-bs-toggle="collapse" data-bs-target="#intro" role="button" aria-expanded="false" aria-controls="intro">
+        Intro
+      </button>
+      {% add_n_edit_fav code=code %}
+      {% del_fav code=code %}
+    </div>
+    {# Intro 버튼을 눌렀을때 c101에서 intro 펼쳐 보이기 #}
+    <div class="p-3 collapse" id="intro">
+      <div class="card card-body">
+        <p>{{ c101.intro }}</p>
+      </div>
+    </div>
+  </div>
+</div>

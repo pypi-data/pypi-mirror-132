@@ -1,0 +1,52 @@
+
+
+  <div class="container-fluid">
+    {# 코드 종목명 업종 버튼3개 #}
+    {% include 'report_stock/report/title_n_buttons.html' %}
+
+    {# 좌측 기본정보 우측 그래프 #}
+    <div class="row row-cols-1 row-cols-sm-2">
+      <div class="col">
+        {% include 'report_stock/report/intro_table.html' %}
+      </div>
+      <div class="col">
+        {{ graph_price_div | safe }}
+        {{ graph_per_div | safe }}
+        {{ graph_pbr_div | safe }}
+      </div>
+    </div>
+
+    {# Red #}
+    {% include 'report_stock/report/red.html' %}
+
+    {# Mil #}
+    {% include 'report_stock/report/mil.html' %}
+
+    {# Blue #}
+    {% include 'report_stock/report/blue.html' %}
+
+    {# Growth #}
+    {% include 'report_stock/report/growth.html' %}
+
+    {# C108 #}
+    {% include 'report_stock/report/c108.html' %}
+
+    {# Dart #}
+    {% include 'report_stock/report/dart.html' %}
+  </div>
+
+  <!-- for execute bokeh graph -->
+  <!-- user guide https://docs.bokeh.org/en/latest/docs/user_guide/embed.html#userguide-embed -->
+  <script src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.0.min.js"
+          crossorigin="anonymous"></script>
+  <script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.0.min.js"
+          crossorigin="anonymous"></script>
+  <script src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.0.min.js"
+          crossorigin="anonymous"></script>
+  <script src="https://cdn.bokeh.org/bokeh/release/bokeh-gl-2.4.0.min.js"
+          crossorigin="anonymous"></script>
+  <script src="https://cdn.bokeh.org/bokeh/release/bokeh-mathjax-2.4.0.min.js"
+          crossorigin="anonymous"></script>
+  {{ graph_price_script | safe}}
+  {{ graph_per_script | safe}}
+  {{ graph_pbr_script | safe}}

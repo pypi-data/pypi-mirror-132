@@ -1,0 +1,6 @@
+Django==3.2.9
+bokeh_hj3415>=0.1.1
+db-hj3415>=0.5.3
+eval-hj3415>=0.2.4
+util-hj3415>=0.2.11
+django-fav_stock>=0.0.2

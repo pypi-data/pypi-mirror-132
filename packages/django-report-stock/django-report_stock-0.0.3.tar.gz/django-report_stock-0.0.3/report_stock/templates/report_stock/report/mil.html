@@ -1,0 +1,87 @@
+<div class="card my-3">
+  <!-- mil_s : (주주수익률, 이익지표, 투자수익률, PFCF 포인트) -->
+  <div class="card-header">
+    Millenial money {{mil.date}}
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="재무활동현금흐름이 음수라는 것은 배당급 지급했거나, 자사주 매입했거나, 부채를 상환한 상태임. 반대는 채권자로 자금을 조달했거나 신주를 발행했다는 의미. 주주수익률 = 재무활동현금흐름/시가총액 => 5%이상인가?">
+      <div class="row">
+        <div class="col-2">
+          주주수익률 ({{mil_s.0}})
+        </div>
+        <div class="col">
+          {{ mil.주주수익률 }} %
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="투하자본수익률(ROIC)가 30%이상인가. ROE(자기자본이익률) 20%이상이면 아주 우수. 다른 투자이익률과 비교해 볼 것 10%미만이면 별로...단, 부채비율을 확인해야함.">
+      <div class="row">
+        <div class="col-2">
+          투자수익률 ({{mil_s.2}})
+        </div>
+        <div class="col">
+          4분기합 ROIC: <b>{{ mil.투자수익률.ROIC }} %</b>, 최근 ROE: <b>{{ mil.투자수익률.ROE }} %</b>
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="이익지표 ...영업현금흐름이 순이익보다 많은가 - 결과값이 음수인가..">
+      <div class="row">
+        <div class="col-2">
+          영업활동평가 ({{mil_s.1}})
+        </div>
+        <div class="col">
+          {{ mil.이익지표 }}
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="pcr보다 정확하게 주식의 가치를 평가할수 있음. pfcf 10배 이하 추천">
+      <p>가치지표평가</p>
+      <div class="row">
+        <div class="col-2">
+          PFCF ({{mil_s.3}})
+        </div>
+        <div class="col">
+          <div class="row">
+            {% for k, v in mil.가치지표.PFCF.items reversed %}
+            <div class="col">
+              {{ k }} : {{ v }}
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-2">
+          FCF
+        </div>
+        <div class="col">
+          <div class="row">
+            {% for k, v in mil.가치지표.FCF.items reversed %}
+            <div class="col">
+              {{ k }} : {{ v }}
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-2">
+          PCR
+        </div>
+        <div class="col">
+          <div class="row">
+            {% for k, v in mil.가치지표.PCR.items reversed %}
+            <div class="col">
+              {{ k }} : {{ v }}
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,59 @@
+<!-- for using intcomma -->
+{% load humanize %}
+
+<table class="table">
+  <caption>{{ c101.date }}</caption>
+  <tbody>
+    <tr class="table-warning">
+      <th scope="row">주가</th>
+      {# 현재가 & 전일비 #}
+      {% if price_now_tuple.2 == 'up' %}
+      <td class="text-danger">
+        {{ price_now_tuple.0 | intcomma }} 원
+        <small>({{ price_now_tuple.1 }}<i class="fas fa-angle-up"></i>)</small></td>
+      {% elif price_now_tuple.2 == 'down' %}
+      <td class="text-primary">
+        {{ price_now_tuple.0 | intcomma }} 원
+        <small>({{ price_now_tuple.1 }}<i class="fas fa-angle-down"></i>)</small></td>
+      {% else %}
+      <td>{{ price_now_tuple.0 | intcomma }} 원</td>
+      {% endif %}
+    </tr>
+    <tr>
+      <th scope="row">PER</th><td>{{ c101.PER }}</td>
+    </tr>
+    <tr>
+      <th scope="row">업종PER</th><td>{{ c101.업종PER }}</td>
+    </tr>
+    <tr>
+      <th scope="row">PBR</th><td>{{ c101.PBR }}</td>
+    </tr>
+    <tr>
+      <th scope="row">배당수익률</th><td>{{ c101.배당수익률 }}%</td>
+    </tr>
+    <tr>
+      <th scope="row">52주최고</th><td>{{ c101.최고52주|intcomma }}원</td>
+    </tr>
+    <tr>
+      <th scope="row">52주최저</th><td>{{ c101.최저52주|intcomma }}원</td>
+    </tr>
+    <tr>
+      <th scope="row">52주베타</th><td>{{ c101.베타52주}}</td>
+    </tr>
+    <tr>
+      <th scope="row">발행주식</th><td>{{ c101.발행주식|intcomma }}주</td>
+    </tr>
+    <tr>
+      <th scope="row">유통비율</th><td>{{ c101.유통비율 }}</td>
+    </tr>
+    <tr>
+      <th scope="row">시가총액</th><td>{{ c101.시가총액|intcomma }}원</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://m.stock.naver.com/index.html#/domestic/stock/{{ c101.코드 }}/total"
+                         target="_blank" class="card-link">네이버 증권</a></th>
+      <td><a href="https://navercomp.wisereport.co.kr/v2/company/c1010001.aspx?cmp_cd={{ c101.코드 }}"
+             target="_blank" class="card-link">Wise Report</a></td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,23 @@
+<div class="container-fluid my-3">
+  <h5>C108</h5>
+  <div class="accordion" id="accordionC108">
+    {% for report in c108 %}
+    <div class="accordion-item">
+      <h2 class="accordion-header"
+          id="heading{% cycle 'One' 'Two' 'Three' 'Four' 'Five' 'Six' 'Seven' 'Eight' 'Nine' 'Ten' 'Eleven' 'Twelve'
+          'Thirteen' 'Fourteen' 'Fifteen' 'Sixteen' 'Seventeen' 'Eighteen' 'Nineteen' 'Twenty' as mycounter %}">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapse{{ mycounter }}" aria-expanded="true" aria-controls="collapse{{ mycounter }}">
+          {{ report.날짜 }} | {{ report.제목 }} | {{ report.목표가 }}
+        </button>
+      </h2>
+      <div id="collapse{{ mycounter }}" class="accordion-collapse collapse"
+           aria-labelledby="heading{{ mycounter }}" data-bs-parent="#accordionC108">
+        <div class="accordion-body">
+          {{ report.내용 | linebreaks }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
