@@ -1,0 +1,16 @@
+yapic_io/__init__.py,sha256=fcSOS7ZK5H-wZtr8HaQryYMGrfUQBxiku2e7fGUUzD0,191
+yapic_io/connector.py,sha256=f6SMaBGFCPyQMbmidJm31lwUcPLAZ55f4ilMHfCM5o8,5363
+yapic_io/coordinate_connector.py,sha256=MjOu4LNoVKIvlOVH-DF95s-a665ixHy2C-TGaA6i0Yk,1428
+yapic_io/dataset.py,sha256=rwtWWlgqU-SvGmBm4CqLqeTbmcOhtOXH1KZFpiDk5OA,27060
+yapic_io/minibatch.py,sha256=C1hFKZhykYDE0XO_17y_R2J_8qglbUwKcBwiu6hdcj0,6965
+yapic_io/napari_connector.py,sha256=UibE4YRLAZm3G9q4oOCf4QUsob6smriG_mYx21Dk_0g,14186
+yapic_io/prediction_batch.py,sha256=zrg0GN3RsZEL5wt-8TBMRn1kw0kmfAQrqp5BSxv61-8,7377
+yapic_io/tiff_connector.py,sha256=jCZEH88BxUQMqJVkfOSogNAb0x9kecYGGFBPr441Kfg,20448
+yapic_io/training_batch.py,sha256=EGCIYzHqW-r9VMd0T--CtEt_j3v7FaXDeIoQVpb9l7E,15060
+yapic_io/transformations.py,sha256=ub6zCWBJFIrEz7PMaBtUgPtSmyKUF9bwXLZhyvuiXM8,3607
+yapic_io/utils.py,sha256=CuNPTjmECm6ejB9kM_FVIXUm6GNN7KWo2Vx4TA2cz5w,6336
+yapic_io-0.2.7.dist-info/LICENSE,sha256=YF6QR6Vjxcg5b_sYIyqkME7FZYau5TfEUGTG-0JeRK0,35129
+yapic_io-0.2.7.dist-info/METADATA,sha256=s8XYin9nH1f8-QKX0PH0Vmj4_bwSQWY332CHDqIJs-g,4889
+yapic_io-0.2.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+yapic_io-0.2.7.dist-info/top_level.txt,sha256=AO9gN5VEJpVSmZmfq70fxA_4JSMrjZmeIUN5zdiKc2o,9
+yapic_io-0.2.7.dist-info/RECORD,,
