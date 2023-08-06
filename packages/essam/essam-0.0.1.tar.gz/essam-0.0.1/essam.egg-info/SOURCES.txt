@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+essam.egg-info/PKG-INFO
+essam.egg-info/SOURCES.txt
+essam.egg-info/dependency_links.txt
+essam.egg-info/top_level.txt
+joshbasiccalculator/__init__.py
