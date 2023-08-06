@@ -1,0 +1,16 @@
+numpy
+negspy
+pysam
+dask==2021.12.0
+requests
+h5py>=3.0.0
+pandas==1.0.4
+slugid
+sortedcontainers
+nose
+cooler>=0.8.5
+pybbi>=0.2.0
+Click>=7
+pydantic
+pyfaidx
+tqdm==4.62.3
