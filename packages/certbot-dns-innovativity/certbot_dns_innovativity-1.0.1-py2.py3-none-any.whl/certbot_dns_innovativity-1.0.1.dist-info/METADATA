@@ -1,0 +1,93 @@
+Metadata-Version: 2.1
+Name: certbot-dns-innovativity
+Version: 1.0.1
+Summary: Innovativity DNS Manager Authenticator plugin for Certbot
+Home-page: https://github.com/innovativity/
+Author: Innovativity S.r.l.
+Author-email: support@innovativity.it
+License: MIT License
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Security
+Classifier: Topic :: System :: Installation/Setup
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: setuptools (>=39.0.1)
+Requires-Dist: acme (>=1.0.1)
+Requires-Dist: certbot (>=1.0.1)
+
+# certbot-dns-innovativity
+
+An Authenticator plugin for Certbot DNS-01 ACME that uses Innovativity's DNS Manager module.
+
+## Overview
+
+[Innovativity](https://innovativity.io) is a cloud/devops consulting company based in Italy. We offer many
+IT-related services to our customers, including a centralized panel for ACME DNS authentication for multiple
+providers (CloudFlare, DigitalOcean, Hetzner, and more).
+
+This package is currently meant for Innovativity customers, although plans are on the way to opensource the whole
+project.
+
+The API called by this authenticator provides a way to create/delete DNS ACME challenges. The API verifies the
+credentials and their permission on the requested domain/subdomain and creates a TXT record on success for a
+DNS-01 challenge. The cleanup allows deletion of that record only.
+This provides more granularity of most providers' API tokens, such as CloudFlare's Zone Token or DigitalOcean's API Key.
+
+
+## Installation
+
+Install using pip:
+
+```
+pip install certbot-dns-innovativity
+```
+
+
+## Usage
+
+Create a credentials file with strict permissions:
+
+```
+touch ~/.secrets/certbot/innovativity.ini
+chmod 600 ~/.secrets/certbot/innovativity.ini
+```
+
+Configure API url and token:
+
+```ini
+# DNS Manager credentials used by Certbot
+dns_innovativity_dashboard_url = http://localhost:8000/
+dns_innovativity_api_token = 1234567890asdfghjkl1234567890asdfghjkl
+```
+
+The path to this file can be provided interactively or using the `--dns-innovativity-credentials` command-line argument.
+
+This file will be used again by Certbot during renewal, so it shouldn't be deleted nor moved without changing renew configurations.
+
+To acquire a new certificate, run:
+
+```
+certbot certonly \
+   --authenticator dns-innovativity \
+   --dns-innovativity-credentials ~/.secrets/certbot/innovativity.ini \
+   -d domain.example.com
+```
+
+
