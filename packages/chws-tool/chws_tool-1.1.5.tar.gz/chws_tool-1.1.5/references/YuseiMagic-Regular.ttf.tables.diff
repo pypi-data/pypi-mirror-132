@@ -1,0 +1,20 @@
+@@ -1,7 +1,7 @@
+ Font 0: "Yusei Magic" "Regular" PS="YuseiMagic-Regular"
+ Tag  Size      
+ GDEF        226 [0]
+-GPOS      7,584 [0]
++GPOS      7,890 [0]
+ GSUB      6,786 [0]
+ OS/2         96 [0]
+ cmap     90,984 [0]
+@@ -16,7 +16,7 @@
+ post     81,673 [0]
+ vhea         36 [0]
+ vmtx     32,280 [0]
+-Total: 3,134,816
+-Data: 3,134,535
+-Gap: 281
++Total: 3,135,124
++Data: 3,134,841
++Gap: 283
+ Tables: 16
