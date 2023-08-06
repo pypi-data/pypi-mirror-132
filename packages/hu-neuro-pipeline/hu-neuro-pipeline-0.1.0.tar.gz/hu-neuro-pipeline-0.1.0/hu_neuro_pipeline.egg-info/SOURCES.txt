@@ -1,0 +1,17 @@
+.gitignore
+LICENSE
+README.md
+pyproject.toml
+setup.py
+.github/workflows/publish-to-test-pypi.yml
+hu_neuro_pipeline.egg-info/PKG-INFO
+hu_neuro_pipeline.egg-info/SOURCES.txt
+hu_neuro_pipeline.egg-info/dependency_links.txt
+hu_neuro_pipeline.egg-info/requires.txt
+hu_neuro_pipeline.egg-info/top_level.txt
+pipeline/__init__.py
+pipeline/boilerplate.py
+pipeline/group.py
+pipeline/helpers.py
+pipeline/participant.py
+pipeline/savers.py
