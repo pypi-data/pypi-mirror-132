@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: kiboko-shortcodes
+Version: 0.1.1
+Summary: Python Shorcodes
+Home-page: UNKNOWN
+Author: Bob Handzhiev
+Author-email: <handzhiev@gmail.com>
+License: UNKNOWN
+Keywords: python,shortcodes
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
+Create and use WordPress-style shortcodes in your Python based app.
+
+
