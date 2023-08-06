@@ -1,0 +1,9 @@
+LICENSE.txt
+README.txt
+pyproject.toml
+setup.cfg
+pyramid_wtforms.egg-info/PKG-INFO
+pyramid_wtforms.egg-info/SOURCES.txt
+pyramid_wtforms.egg-info/dependency_links.txt
+pyramid_wtforms.egg-info/requires.txt
+pyramid_wtforms.egg-info/top_level.txt
