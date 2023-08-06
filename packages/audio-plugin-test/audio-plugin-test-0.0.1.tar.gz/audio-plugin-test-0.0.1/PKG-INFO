@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: audio-plugin-test
+Version: 0.0.1
+Summary: Test VST effects in python
+Home-page: https://github.com/galchinsky/audio-plugin-test
+Author: Dmitry Galchinsky
+Author-email: galchinsky@gmail.com
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+License-File: LICENSE
+
+UNKNOWN
+
