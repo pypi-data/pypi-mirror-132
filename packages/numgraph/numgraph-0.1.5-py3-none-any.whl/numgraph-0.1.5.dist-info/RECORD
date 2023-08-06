@@ -1,0 +1,11 @@
+numgraph/__init__.py,sha256=fRXMt29F5A4ltN2tv6X3Cit9qRAV9EsNfbVw1wysfMo,131
+numgraph/distributions.py,sha256=Sm3U-AG7Mc0KVs2XteX_N0XPTSannVRjnuObze_-ql4,9240
+numgraph/temporal/__init__.py,sha256=cThWb3uEYyaqUer_ztGzrvP2L7jPINiYLrRBViiFa0U,57
+numgraph/temporal/temporal_distributions.py,sha256=jl2n8nZJ7o8etVbeibSHtIzeZhfoPbrndy6ETtoFdy0,3641
+numgraph/utils/__init__.py,sha256=_0lf-MQfNCONGdKbeTsBaeWe_v5suaPAccMoN2FJX_w,100
+numgraph/utils/utils.py,sha256=5rVQL8Zu9y3IloOCuMX7XySBTIoqBsS1fBiRTzCNT9A,4877
+numgraph-0.1.5.dist-info/LICENSE,sha256=9dsPV5-yI_FX31LMVlm0630XJMIQXzCEvh9zOD3lYdw,1089
+numgraph-0.1.5.dist-info/METADATA,sha256=FGlHymsUKx95l3FvUtxrxr8uXHsy1tDUJ2cM19iAc2E,1243
+numgraph-0.1.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+numgraph-0.1.5.dist-info/top_level.txt,sha256=NtHOU-TQisAYDHvr8dFSePS185MqdoDew8jcps6mrl8,9
+numgraph-0.1.5.dist-info/RECORD,,
