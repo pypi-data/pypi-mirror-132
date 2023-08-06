@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: layertuber
+Version: 0.0.3
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: colons
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Requires-Dist: Pillow (==8.3.2)
+Requires-Dist: numpy (>=1.21.3)
+Requires-Dist: onnxruntime (>=1.9.0)
+Requires-Dist: opencv-python (>=4.5.4)
+Requires-Dist: pycairo (>=1.20.1)
+Requires-Dist: PyGObject (<4,>=3.42.0)
+Requires-Dist: pydantic (<2.0,>=1.8.2)
+Requires-Dist: pyora (<0.4,>=0.3.11)
+Requires-Dist: pygame (>=2.0.0)
+Requires-Dist: pyyaml (>=6.0)
+Requires-Dist: scipy (>=1.7.3)
+Provides-Extra: dev
+Requires-Dist: flake8 ; extra == 'dev'
+Requires-Dist: flake8-bugbear ; extra == 'dev'
+Requires-Dist: flake8-class-attributes-order ; extra == 'dev'
+Requires-Dist: flake8-import-order ; extra == 'dev'
+Requires-Dist: mypy ; extra == 'dev'
+Requires-Dist: types-pillow (>=8.3.8) ; extra == 'dev'
+Requires-Dist: types-pyyaml (>=6.0) ; extra == 'dev'
+Requires-Dist: flake8-literal ; extra == 'dev'
+
+``layertuber``
+--------------
+
+``layertuber`` is a vtuber puppet application with a focus on allowing anyone to very quickly create a simple but lively avatar for themselves, using `OpenSeeFace <https://github.com/emilianavt/OpenSeeFace>`_ to track your face with a webcam.
+
+A ``layertuber`` rig is a combination of an `OpenRaster <https://www.openraster.org/>`_ drawing and a set of instructions tying each layer to some output of the OpenSeeFace process. Once stuff has settled down a bit, I'll lay out the options in this README; for now, the `examples <examples/>`_ and `config schema <src/layertuber/rig/config.py>`_ will hopefully point you in the right direction.
+
+
