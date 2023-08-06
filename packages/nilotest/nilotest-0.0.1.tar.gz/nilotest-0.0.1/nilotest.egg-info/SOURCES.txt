@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+lookups.bin
+setup.py
+nilotest.egg-info/PKG-INFO
+nilotest.egg-info/SOURCES.txt
+nilotest.egg-info/dependency_links.txt
+nilotest.egg-info/top_level.txt
