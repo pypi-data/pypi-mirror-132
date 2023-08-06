@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: ngflask
+Version: 1.0.0
+Summary: File-sharing tool
+Home-page: https://github.com/cyberhexe/ngflask
+Author: totekuh
+Author-email: totekuh@protonmail.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/cyberhexe/revshell-generator/issues
+Project-URL: Source, https://github.com/cyberhexe/revshell-generator
+Keywords: file-sharing,ngrok,flask
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Other Audience
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: flask
+Requires-Dist: pyngrok
+
+# ngflask
+Serving static files and directories from your local machine over the Internet with just one command.
+
+The script first binds a flask server to the given address and starts sharing files from the specified directory.
+
+It then creates a tunnel through the Ngrok network and gives you the public URL tunneled to the local flask server.
+
+Useful for transferring the files when you compromised a host inside an internal network and outgoing Internet connections aren't forbidden.
+
+## Installation
+
+```bash
+sudo apt install python3 python3-pip
+git clone https://github.com/derstolz/ngflask
+cd ngflask
+pip3 install -r requirements.txt
+sudo link flask-ngrok.py /usr/bin/ngflask
+```
+## Usage
+
+### Serve files and folder from the current working directory
+`ngflask`
+
+### Serve files and folders from the /tmp directory
+`ngflask --directory /tmp`
+
+### Bind the server to a specific address
+`ngflask --ip 10.10.10.10 --port 5050`
+
+### Print the banner
+`ngflask -h`
+
+
