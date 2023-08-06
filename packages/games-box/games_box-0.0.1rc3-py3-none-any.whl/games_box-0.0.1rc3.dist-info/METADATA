@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: games-box
+Version: 0.0.1rc3
+Summary: Various games tools
+Home-page: UNKNOWN
+Author: Adam Chester
+Author-email: achester.dev@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: click8 (~=8.0.1)
+
+# Games Box
+
+## Build and Install
+### Standalone Executable
+```commandline
+pip install -r requirements-dev.txt
+pyinstaller game_box.py --onefile
+```
+### Build & Install Library Locally
+```commandline
+python setup.py sdist
+pip install /dist/games-box-VERSION.tar.gz
+```
+### Install Library via pip
+```commandline
+pip install games-box
+```
+
+## Usage
+### Standalone Executable
+#### Dice
+A simple interface for rolling dice. Each die is given a random, human-readable name. You may also give your own names to improve readability with large dice pools.
+
+Roll a single die giving the number of sides and an optional name.
+```commandline
+game_box.exe roll-die --sides=6
+>> d6-PINK-FOX: 3
+```
+
+Roll multiple dice giving a semi-colon separated list of dice.
+```commandline
+game_box.exe roll-dice --dice="4;6"
+>> d4-WHITE-MOUSE: 3
+>> d6-BLUE-RABBIT: 1
+>> Total: 4
+```
+
+Optionally, include your own name with each die.
+```commandline
+game_box.exe roll-dice --dice="4-My d4;6-My d6"
+>> My d4: 1
+>> My d6: 2
+>> Total: 3
+```
+
+### Library
+
+```python
+from games_box.dice import Die, DicePool
+
+my_d4 = Die(4, "My d4")
+my_d6 = Die(6, "My d6")
+
+my_dice_pool = DicePool([my_d4, my_d6])
+print(my_dice_pool.roll())
+```
+
+
