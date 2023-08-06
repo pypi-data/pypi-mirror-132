@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+latindictionary_io/__init__.py
+latindictionary_io/client.py
+latindictionary_io/exceptions.py
+latindictionary_io.egg-info/PKG-INFO
+latindictionary_io.egg-info/SOURCES.txt
+latindictionary_io.egg-info/dependency_links.txt
+latindictionary_io.egg-info/requires.txt
+latindictionary_io.egg-info/top_level.txt
