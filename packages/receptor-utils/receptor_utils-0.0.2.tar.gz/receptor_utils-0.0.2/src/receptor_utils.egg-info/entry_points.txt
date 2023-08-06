@@ -1,0 +1,5 @@
+[console_scripts]
+extract_refs = receptor_utils.extract_refs
+gap_inferred = receptor_utils.gap_inferred
+identical_seqs = receptor_utils.identical_seqs
+
