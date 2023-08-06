@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: analogistics
+Version: 0.2.0
+Summary: Analytical Tools for Logistics System Design and Operations Management
+Home-page: https://github.com/aletuf93/analogistics
+Author: Alessandro Tufano
+Author-email: aletuf@gmail.com
+License: MIT
+Download-URL: https://github.com/aletuf93/analogistics/archive/refs/tags/v0.2.0.tar.gz
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >= 3.6
+License-File: LICENSE
+
+# analogistics
+
+## Analytical Tools for Logistics System Design and Operations Management
+This packages is developed for analysts and researchers in the field of Supply Chain Managements. Several methods are developed to support decisions regarding the design and control of three types of Supply Chain systems:
+* Distribution Network
+* Storage Systems (i.e. warehouses)
+* Production Systems
+
+
+The subfolder *examples* contains useful implementation of the methods using sample data.
+
+## Setup
+
+To install the package, use Python >= 3.6, and run
+
+```sh
+pip install analogistics
+```
+
+Using window operating system, it is possible you are required to have Microsoft Visual C++ 14.0 or greater. Please download it from https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+
+## License
+MIT
+

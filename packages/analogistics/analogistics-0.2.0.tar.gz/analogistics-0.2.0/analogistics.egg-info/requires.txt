@@ -1,0 +1,11 @@
+osmnx
+matplotlib
+plotly
+pandas
+numpy
+scipy
+networkx
+scikit-learn
+seaborn
+statsmodels
+geocoder
