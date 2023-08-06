@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: basicTools
+Version: 0.0.1
+Summary: A very basic tool
+Home-page: UNKNOWN
+Author: Jenifar
+Author-email: jenifar200227@gmail.com
+License: MIT
+Keywords: basicTools
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+Requires-Dist: regex
+
+A module to do basic problems
+
+
+0.0.1 (27/12/2021)
+
+
+First Release
+
