@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<registry
+    xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+    i18n:domain="manuelamador.policy">
+
+  <records prefix="plone.resources/iframehandling"
+           interface='Products.CMFPlone.interfaces.IResourceRegistry' remove="true">
+  </records>
+
+  <records prefix="plone.bundles/iframehandling"
+           interface='Products.CMFPlone.interfaces.IBundleRegistry' remove="true">
+  </records>
+
+</registry>

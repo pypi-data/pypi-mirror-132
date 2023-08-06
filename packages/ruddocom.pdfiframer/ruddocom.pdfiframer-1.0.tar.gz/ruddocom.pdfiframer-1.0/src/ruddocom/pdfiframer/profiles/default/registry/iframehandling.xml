@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<registry
+    xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+    i18n:domain="manuelamador.policy">
+
+  <records prefix="plone.resources/iframehandling"
+           interface='Products.CMFPlone.interfaces.IResourceRegistry'>
+    <value key="js">++resource++iframehandling/iframehandling-compiled.js</value>
+    <value key="init"></value>
+  </records>
+
+  <records prefix="plone.bundles/iframehandling"
+           interface='Products.CMFPlone.interfaces.IBundleRegistry'>
+    <value key="resources" purge="false">
+      <element>iframehandling</element>
+    </value>
+    <value key="depends">plone</value>
+    <value key="jscompilation">++resource++iframehandling/iframehandling-compiled.js</value>
+  </records>
+
+</registry>
