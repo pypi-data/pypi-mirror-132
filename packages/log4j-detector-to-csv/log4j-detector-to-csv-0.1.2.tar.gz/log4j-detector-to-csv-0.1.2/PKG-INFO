@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: log4j-detector-to-csv
+Version: 0.1.2
+Summary: Combines all host specific json outputs from log4j-detector into one single csv file.
+Home-page: https://github.com/richardbischof/log4j-detector-to-csv
+License: GNU GPLv3
+Author: Richard Bischof
+Author-email: richard.bischof@lgln.niedersachsen.de>, Maik Fischer <maik.fischer@lgln.niedersachsen.de
+Requires-Python: >=3.9,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/richardbischof/log4j-detector-to-csv
