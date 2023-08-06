@@ -1,0 +1,3 @@
+[console_scripts]
+cdn-test=cdn_test.cli:entrypoint
+
