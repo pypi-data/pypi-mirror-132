@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: woodchipper
+Version: 0.3
+Summary: Woodchipper is a support library for plugging structured logging into a Python project.
+Home-page: https://github.com/Quidge/woodchipper
+Author: Jonathan Demirgian
+Author-email: jd@tackle.io
+License: LGPLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Environment :: Console
+Classifier: Topic :: System :: Logging
+Requires-Python: >=3.6
+License-File: COPYING
+License-File: AUTHORS
+
+UNKNOWN
+
