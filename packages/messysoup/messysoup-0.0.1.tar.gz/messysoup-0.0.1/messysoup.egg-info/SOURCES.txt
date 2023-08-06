@@ -1,0 +1,15 @@
+LICENSE
+setup.py
+messysoup/__init__.py
+messysoup/attributes.py
+messysoup/messysoup.py
+messysoup.egg-info/PKG-INFO
+messysoup.egg-info/SOURCES.txt
+messysoup.egg-info/dependency_links.txt
+messysoup.egg-info/top_level.txt
+messysoup/table/__init__.py
+messysoup/table/table.py
+messysoup/table/table_helpers.py
+tests/__init__.py
+tests/messysoup_test.py
+tests/table_test.py
