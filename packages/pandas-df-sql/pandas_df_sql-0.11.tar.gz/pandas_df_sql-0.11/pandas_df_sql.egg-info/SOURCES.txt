@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+pandas_df_sql.egg-info/PKG-INFO
+pandas_df_sql.egg-info/SOURCES.txt
+pandas_df_sql.egg-info/dependency_links.txt
+pandas_df_sql.egg-info/requires.txt
+pandas_df_sql.egg-info/top_level.txt
+pdsql/__init__.py
+pdsql/_main.py
+pdsql/test_query.py
