@@ -1,0 +1,6 @@
+aiofix
+setup.py
+aiofix.egg-info/PKG-INFO
+aiofix.egg-info/SOURCES.txt
+aiofix.egg-info/dependency_links.txt
+aiofix.egg-info/top_level.txt
