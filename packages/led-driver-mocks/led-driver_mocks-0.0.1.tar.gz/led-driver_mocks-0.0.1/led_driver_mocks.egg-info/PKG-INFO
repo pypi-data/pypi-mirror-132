@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: led-driver-mocks
+Version: 0.0.1
+Summary: A collection of led strip driver_mocks mocks, which are sending the input values to a server for further processing
+Home-page: UNKNOWN
+Author: Firecrush
+Author-email: luggi.edi@gmx.de
+License: UNKNOWN
+Description: # LED Mocks
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
