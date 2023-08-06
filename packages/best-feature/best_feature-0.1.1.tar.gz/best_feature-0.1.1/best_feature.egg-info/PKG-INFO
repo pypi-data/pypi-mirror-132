@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: best-feature
+Version: 0.1.1
+Summary: python package containing multiple model selection tools: Best Subset Selection via MSE computed by a k-fold CV, Best Subset Selection via three measurements(AIC, BIC, adjR2), Forward-Stepwise Selection
+Home-page: UNKNOWN
+Author: SeungHeon Han
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
