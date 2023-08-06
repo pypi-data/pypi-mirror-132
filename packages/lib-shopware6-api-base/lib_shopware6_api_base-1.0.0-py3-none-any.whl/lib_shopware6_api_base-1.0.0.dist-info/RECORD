@@ -1,0 +1,13 @@
+lib_shopware6_api_base/__init__.py,sha256=R52tIlAJkoeGw4t_1wol-aEHMwKPzUg1x01UmfpnkqM,706
+lib_shopware6_api_base/__init__conf__.py,sha256=mYFKgL4x6EgV6Bdlz0-bPLGdfTgC075R9GcKnInrHhc,556
+lib_shopware6_api_base/conf_shopware6_api_base_classes.py,sha256=ZY-f7ZsehVJN2EzDuIjQ-TeJZlqd8zYAxgLat4YDzpI,1687
+lib_shopware6_api_base/conf_shopware6_api_base_docker_testcontainer.py,sha256=dWN-6wpDuac9wGf9aDP-8-pSpB2X_B1W4I7Y8zYqhAQ,2892
+lib_shopware6_api_base/lib_shopware6_api_base.py,sha256=KviGVYHvfW3Wdy-wPqpQGPffBWbXxUsyaQFdS0ZKGQw,36982
+lib_shopware6_api_base/lib_shopware6_api_base_cli.py,sha256=AQ0U-l19SBSmwgRlBAefhuhj3gG6YLrkc14CP2Byw7I,1518
+lib_shopware6_api_base/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lib_shopware6_api_base-1.0.0.dist-info/LICENSE,sha256=w_bnCCwX7aLLaw3L9PSWXvCRrhsEJmSIXzaPZgNYHQc,1076
+lib_shopware6_api_base-1.0.0.dist-info/METADATA,sha256=LP4YzLgqLyoNZOPq0RI9C-l_xVPbIoWYBUHZO03qtwg,19518
+lib_shopware6_api_base-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+lib_shopware6_api_base-1.0.0.dist-info/entry_points.txt,sha256=HHVgTU4BlRyQCWYh0l5W2ROlRz_IldPA68d0VtTTWck,103
+lib_shopware6_api_base-1.0.0.dist-info/top_level.txt,sha256=YoV6K-GF4omevf0B6QapFnBvVgcNv0Cx5_TlXVxcKwE,23
+lib_shopware6_api_base-1.0.0.dist-info/RECORD,,
