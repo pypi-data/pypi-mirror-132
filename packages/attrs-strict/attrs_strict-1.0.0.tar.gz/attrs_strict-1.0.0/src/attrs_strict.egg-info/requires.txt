@@ -1,0 +1,12 @@
+attrs>=19.1.0
+
+[:python_version < "3.8"]
+typing-extensions
+
+[docs]
+Sphinx>=3
+
+[test]
+covdefaults>=2
+pytest>=6
+pytest-cov>=3
