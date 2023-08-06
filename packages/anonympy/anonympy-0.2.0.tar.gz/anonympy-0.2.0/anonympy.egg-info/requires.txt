@@ -1,0 +1,11 @@
+faker
+scikit-learn
+texttable
+setuptools
+numpy
+pandas
+validators
+pycryptodome
+requests
+pyyaml
+rfc3339
