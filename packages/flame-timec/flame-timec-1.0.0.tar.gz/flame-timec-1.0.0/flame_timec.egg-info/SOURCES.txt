@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.py
+flame_time/__init__.py
+flame_time/datagen.py
+flame_time/dynamic_series.py
+flame_time/model.py
+flame_time/trainer.py
+flame_timec.egg-info/PKG-INFO
+flame_timec.egg-info/SOURCES.txt
+flame_timec.egg-info/dependency_links.txt
+flame_timec.egg-info/requires.txt
+flame_timec.egg-info/top_level.txt
