@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+epypackage/__init__.py
+epypackage/example.py
+epypackage.egg-info/PKG-INFO
+epypackage.egg-info/SOURCES.txt
+epypackage.egg-info/dependency_links.txt
+epypackage.egg-info/top_level.txt
