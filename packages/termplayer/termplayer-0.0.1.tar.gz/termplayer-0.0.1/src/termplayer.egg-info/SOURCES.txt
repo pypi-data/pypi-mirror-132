@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/termplayer/__init__.py
+src/termplayer/__main__.py
+src/termplayer.egg-info/PKG-INFO
+src/termplayer.egg-info/SOURCES.txt
+src/termplayer.egg-info/dependency_links.txt
+src/termplayer.egg-info/entry_points.txt
+src/termplayer.egg-info/top_level.txt
