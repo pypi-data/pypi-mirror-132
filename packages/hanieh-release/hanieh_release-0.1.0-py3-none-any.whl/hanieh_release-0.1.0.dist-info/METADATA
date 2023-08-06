@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: hanieh-release
+Version: 0.1.0
+Summary: SMC crawlers common library
+Author-email: Hanieh Salmantaheri <st.honeyeh@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: confluent-kafka==1.7.0 
+Requires-Dist: prometheus-client==0.11.0
+Requires-Dist: APScheduler==2.1.2
+Project-URL: Source, https://github.com/haniehst/hanieh-release
+
+# Skeleton
+
+Crawl commons library
