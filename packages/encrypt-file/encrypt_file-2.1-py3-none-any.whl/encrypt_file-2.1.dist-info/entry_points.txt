@@ -1,0 +1,3 @@
+[console_scripts]
+encrypt-file = encryptfile.__main__:main
+
