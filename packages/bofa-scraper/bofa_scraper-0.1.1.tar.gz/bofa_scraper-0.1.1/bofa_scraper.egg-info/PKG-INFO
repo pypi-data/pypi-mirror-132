@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: bofa-scraper
+Version: 0.1.1
+Summary: Simple Python web-scraper to get personal transaction data from BofA account.
+Home-page: https://github.com/Wllew4/bofa_scraper
+Author: Wllew4
+License: GPLv3
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
