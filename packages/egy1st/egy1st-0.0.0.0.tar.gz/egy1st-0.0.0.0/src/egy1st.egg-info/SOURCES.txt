@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/denmune/__init__.py
+src/denmune/denmune.py
+src/denmune/functions.py
+src/egy1st.egg-info/PKG-INFO
+src/egy1st.egg-info/SOURCES.txt
+src/egy1st.egg-info/dependency_links.txt
+src/egy1st.egg-info/top_level.txt
