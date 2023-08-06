@@ -1,0 +1,10 @@
+LICENSE,sha256=gBlYCG1yxb0vGlsmek0lMPVOK5YDxQope4F54jzeqoY,1069
+pydantic_avro/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pydantic_avro/__main__.py,sha256=O0GAVHLzCYv3rSNpOv6JQ0xXjIe0k_76ZWSw7YpAlvw,685
+pydantic_avro/avro_to_pydantic.py,sha256=Od6kbrDrkxz-IVq6SLf8hCgkELgqyOYxlhzCTqpcGyg,3873
+pydantic_avro/base.py,sha256=Bip3Ai7nYL-0inPeKRzBkRW6TV_cy1kXn0azMVH2zgA,4694
+pydantic_avro-0.2.0.dist-info/entry_points.txt,sha256=gwHiQfbGLO8Np2sa1bZ_bpxU7sEufx6IachViBE_Fnw,66
+pydantic_avro-0.2.0.dist-info/LICENSE,sha256=gBlYCG1yxb0vGlsmek0lMPVOK5YDxQope4F54jzeqoY,1069
+pydantic_avro-0.2.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+pydantic_avro-0.2.0.dist-info/METADATA,sha256=mIMOYXeBTpwtVZRF9fSwGC7k_7faGAua9jVSjHw4jMg,2615
+pydantic_avro-0.2.0.dist-info/RECORD,,
