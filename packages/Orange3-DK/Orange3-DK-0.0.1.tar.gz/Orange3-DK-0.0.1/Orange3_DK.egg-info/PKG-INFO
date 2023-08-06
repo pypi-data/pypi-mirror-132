@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: Orange3-DK
+Version: 0.0.1
+Summary: Add-on containing Orange3 DynamiKontrol widgets
+Home-page: https://dk.m47rix.com
+Author: The Matrix
+Author-email: matrix.ai.solution@gmail.com
+License: BSD
+Keywords: orange3 add-on,dynamikontrol,motor
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+Orange3 DynamiKontrol Add-on
+======================
+
+Control DynamiKontrol motor modules on Orange3.
+
+https://dk.m47rix.com
+
+| DK Angle | DK Speed |
+| --- | --- |
+| <img src="https://dk.m47rix.com/static/assets/img/dynamikontrol/angle_07.png" width="400px"> | <img src="https://dk.m47rix.com/static/assets/img/dynamikontrol/speed_01.png" width="400px"> |
+
+Installation
+------------
+
+```Orange3-DK```
+
+
