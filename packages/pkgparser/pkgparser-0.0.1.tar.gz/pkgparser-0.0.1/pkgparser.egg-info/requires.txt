@@ -1,0 +1,6 @@
+mkdpdf==0.0.2
+
+[test]
+mkdpdf
+pytest
+pytest-cov
