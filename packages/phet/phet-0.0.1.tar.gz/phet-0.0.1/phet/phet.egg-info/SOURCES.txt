@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+phet/phet.egg-info/PKG-INFO
+phet/phet.egg-info/SOURCES.txt
+phet/phet.egg-info/dependency_links.txt
+phet/phet.egg-info/top_level.txt
