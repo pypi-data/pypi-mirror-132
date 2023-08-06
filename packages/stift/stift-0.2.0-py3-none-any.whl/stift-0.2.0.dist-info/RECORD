@@ -1,0 +1,10 @@
+stift/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+stift/compiles.py,sha256=wl-kXi-HxsvMXKJk9J4f3gQIBocK3fOOqtdZJ6PeTeo,95
+stift/exceptions.py,sha256=3gPxkYBE9EoRNKosjvP1A3Ip0mD74rm65Q1gROIGhMo,127
+stift/parser.py,sha256=x-aDqVIMQehnsMW4-o6U4x79ureGgBWZHYjy_mb1FzI,7112
+stift/stift.py,sha256=rkRZesINtJpwjdNb3LOgxeOVKuPxK9rsRZ5VvlbUuGc,2852
+stift-0.2.0.dist-info/LICENSE,sha256=oavAGAEKm5cLeR1955feRlXsWItASOxRWlN756Cdqhw,1069
+stift-0.2.0.dist-info/METADATA,sha256=vwi3YCBH1-zq8WcJH-xC0MSf9LNdZVMPHnSm_WQ4sdc,2209
+stift-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+stift-0.2.0.dist-info/top_level.txt,sha256=xbvK8gqyhzGflGWfMsUznrhLGWTBgzWSGaM3ivY_cAY,6
+stift-0.2.0.dist-info/RECORD,,
