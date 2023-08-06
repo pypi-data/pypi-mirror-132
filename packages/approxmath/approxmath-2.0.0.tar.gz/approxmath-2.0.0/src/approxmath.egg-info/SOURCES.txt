@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/approxmath/__init__.py
+src/approxmath.egg-info/PKG-INFO
+src/approxmath.egg-info/SOURCES.txt
+src/approxmath.egg-info/dependency_links.txt
+src/approxmath.egg-info/top_level.txt
+src/approxmath/aesara/__init__.py
+src/approxmath/aesara/basic.py
+src/approxmath/aesara/trig.py
+src/approxmath/np/approxmath.c
