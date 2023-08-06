@@ -1,0 +1,9 @@
+greport/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+greport/greport.py,sha256=YMe2rMP2BtxcI_6sRydFsDCPugMfDR8p3bSt8KwfCIE,3606
+greport/template.html,sha256=DigLeaEic3H47GsT98UwY1gyjDSneFgkNFBvhIccp-o,11202
+greport-0.1.10.dist-info/LICENSE,sha256=Iri4zWZ_l0X6Uf6bISUOC-xZAaM0-7ruHplcap7dhvo,1085
+greport-0.1.10.dist-info/METADATA,sha256=YWhGOICBNFA9mAbYGyvtnMh1LC_E3YU0q23jBeB1fCc,497
+greport-0.1.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+greport-0.1.10.dist-info/entry_points.txt,sha256=ju906XppL4q2xM6E-IdhMcbMXB3PzynFr0-jAKwN1VE,51
+greport-0.1.10.dist-info/top_level.txt,sha256=520j3ltvKcnqoNVhJCvIEmOKxtcVZtasf7gLjYYKxGM,8
+greport-0.1.10.dist-info/RECORD,,
