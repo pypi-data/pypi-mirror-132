@@ -1,0 +1,13 @@
+.gitignore
+LICENSE.md
+README.md
+pyproject.toml
+requirements-dev.txt
+setup.cfg
+.github/workflows/cicd.yml
+automata/__init__.py
+automata/test_automata.egg-info/PKG-INFO
+automata/test_automata.egg-info/SOURCES.txt
+automata/test_automata.egg-info/dependency_links.txt
+automata/test_automata.egg-info/top_level.txt
+tests/unit/test_import.py
