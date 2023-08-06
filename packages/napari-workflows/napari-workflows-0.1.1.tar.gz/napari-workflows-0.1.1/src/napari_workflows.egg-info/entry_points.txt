@@ -1,0 +1,3 @@
+[napari.plugin]
+napari-workflows = napari_workflows
+
