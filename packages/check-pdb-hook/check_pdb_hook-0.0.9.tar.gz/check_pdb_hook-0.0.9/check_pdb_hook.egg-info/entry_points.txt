@@ -1,0 +1,3 @@
+[console_scripts]
+check_pdb_hook = pdb_hook_test.check_pdb_hook:main
+

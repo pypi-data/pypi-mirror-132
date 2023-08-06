@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: check_pdb_hook
+Version: 0.0.9
+Summary: Pre-commit hook to check exposed PDB statements in Python files.
+Home-page: https://github.com/conorfalvey/check_pdb_hook
+Author: Conor Falvey
+Author-email: conor@carta.healthcare
+License: MIT
+Download-URL: https://github.com/conorfalvey/check_pdb_hook/archive/refs/tags/0.0.9.tar.gz
+Description: # check_pdb_hook
+        Pre-commit hook to check for exposed PDB statements in Python files. Adds functionality to disable strict checking to allow for commenting of debug messages
+        
+        Add this to your `.pre-commit-config.yaml`
+        
+        ```yaml
+        -   repo: https://github.com/conorfalvey/check_pdb_hook
+            rev: v0.0.2
+            hooks:
+            -   id: check_pdb_hook
+        ```
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6.1
+Description-Content-Type: text/markdown

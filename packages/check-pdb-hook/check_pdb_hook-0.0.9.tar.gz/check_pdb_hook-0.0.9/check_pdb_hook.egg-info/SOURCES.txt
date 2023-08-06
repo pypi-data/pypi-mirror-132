@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+check_pdb_hook.egg-info/PKG-INFO
+check_pdb_hook.egg-info/SOURCES.txt
+check_pdb_hook.egg-info/dependency_links.txt
+check_pdb_hook.egg-info/entry_points.txt
+check_pdb_hook.egg-info/requires.txt
+check_pdb_hook.egg-info/top_level.txt
+pdb_hook_test/__init__.py
+pdb_hook_test/check_pdb_hook.py
+tests/__init__.py
+tests/conftest.py
+tests/pdb_hook_test.py
