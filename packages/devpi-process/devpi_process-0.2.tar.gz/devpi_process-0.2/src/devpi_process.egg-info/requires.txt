@@ -1,0 +1,8 @@
+devpi-client>=5.2
+devpi-server>=6
+
+[test]
+covdefaults>=2
+httpx>=0.18
+pytest>=6
+pytest-cov>=3
