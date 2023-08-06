@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+fitseq/evo_simulator.py
+fitseq/fitseq.py
+fitseq.egg-info/PKG-INFO
+fitseq.egg-info/SOURCES.txt
+fitseq.egg-info/dependency_links.txt
+fitseq.egg-info/requires.txt
+fitseq.egg-info/top_level.txt
