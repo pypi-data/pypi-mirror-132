@@ -1,0 +1,5 @@
+setup.py
+workstation_cli.egg-info/PKG-INFO
+workstation_cli.egg-info/SOURCES.txt
+workstation_cli.egg-info/dependency_links.txt
+workstation_cli.egg-info/top_level.txt
