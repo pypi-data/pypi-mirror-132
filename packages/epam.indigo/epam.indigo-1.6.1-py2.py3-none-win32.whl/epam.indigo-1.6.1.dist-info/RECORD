@@ -1,0 +1,15 @@
+indigo/__init__.py,sha256=whfESE1ffPGFM0Py-jL4IiH367J-mhk38bgOkrA2OWY,210999
+indigo/bingo.py,sha256=UdNeW3DfRW0udf_v1WrTMc4ZFfVIzhnThLCSDnbP9TE,17095
+indigo/inchi.py,sha256=uBV4jvv_a0YlP7awiDKINvgpO7YqWpKyKi07A0Kd9sk,5246
+indigo/renderer.py,sha256=VCN0Vlia7UnaoSh7IohZDfHuuFJq7twfGURqm7jirNo,5844
+indigo/salts.py,sha256=44Ea4Qv1tFBETn2NoTwFGgql0vpacBN90ld4TgmxmEA,3580
+indigo/lib/windows-i386/bingo-nosql.dll,sha256=LbHjT2LscFY5XwTo0llAylA5ohca_1Yf5eEx6IaHJfQ,338432
+indigo/lib/windows-i386/indigo-inchi.dll,sha256=dlqqyUeY4O7TiaVqpija2Uvy4wJpYma2ULvBPNoNabI,96768
+indigo/lib/windows-i386/indigo-renderer.dll,sha256=j8Fl5ktH1VIGFCY849XjTvZmYc9E1z4EFFOILZVGSz0,3958272
+indigo/lib/windows-i386/indigo.dll,sha256=yuglrLhJuQukMXIQGgcewLBk2y6J8ta1kpQ0dHtw_qs,4433408
+indigo/lib/windows-i386/msvcp140.dll,sha256=QZDwoTBiV87Ul1RIeU4dQr4xLjNP_M-0kQpKOc3p31c,436616
+indigo/lib/windows-i386/vcruntime140.dll,sha256=RN6NDcmZS_81c0TETxLov_-BUEQvfKMTKYuY5sI6WI4,76152
+epam.indigo-1.6.1.dist-info/METADATA,sha256=bHQITtLbcJZk2IIVaZ1J2DrbN9dmkhwTM74Upf3hRXQ,2035
+epam.indigo-1.6.1.dist-info/WHEEL,sha256=UJQIhpGo3JOQHrxLpS-ak9DT_0SOSueveijhftjXrVk,114
+epam.indigo-1.6.1.dist-info/top_level.txt,sha256=UgW0PXeSu4w7YR-JkL4f9Yt_fQfJreKO9DsH1S16M0g,7
+epam.indigo-1.6.1.dist-info/RECORD,,
