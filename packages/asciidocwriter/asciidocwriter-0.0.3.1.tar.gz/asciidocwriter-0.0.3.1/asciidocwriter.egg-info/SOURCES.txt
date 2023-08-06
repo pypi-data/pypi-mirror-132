@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+AsciidocWriter/__init__.py
+AsciidocWriter/asciidoc_writer_utils.py
+AsciidocWriter/document.py
+AsciidocWriter/plot.py
+AsciidocWriter/section.py
+AsciidocWriter/table.py
+asciidocwriter.egg-info/PKG-INFO
+asciidocwriter.egg-info/SOURCES.txt
+asciidocwriter.egg-info/dependency_links.txt
+asciidocwriter.egg-info/requires.txt
+asciidocwriter.egg-info/top_level.txt
