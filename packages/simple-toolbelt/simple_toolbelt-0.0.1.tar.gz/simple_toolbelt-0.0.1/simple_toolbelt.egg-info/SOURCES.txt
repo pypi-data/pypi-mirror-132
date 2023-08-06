@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+simple_toolbelt/__init__.py
+simple_toolbelt/path.py
+simple_toolbelt.egg-info/PKG-INFO
+simple_toolbelt.egg-info/SOURCES.txt
+simple_toolbelt.egg-info/dependency_links.txt
+simple_toolbelt.egg-info/top_level.txt
