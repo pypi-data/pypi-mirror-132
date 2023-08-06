@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: nepali-address-system
+Version: 0.0.2
+Summary: Package to work with nepali address system
+Home-page: https://github.com/Rashik-raj/nepali-address-system
+Author: Rashikraj Shrestha
+Author-email: rashik123.rs@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Rashik-raj/nepali-address-system/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# nepali-address-system
+Work with nepali address system
+
+

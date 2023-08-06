@@ -1,0 +1,11 @@
+nepali_address_system/__init__.py,sha256=2AEJ7F-OvCtp1VvNLs-IoyHKYsda_OoyO7RhxCWXg6k,100
+nepali_address_system/addresses.py,sha256=pcN8xttIFobwK-Dsw7AF5PPiyICLwW2b-5P0z7-t8ww,244
+nepali_address_system/data.py,sha256=m44vuILlSknRiQO55DQzMx8KiGAPWsTfX6UMKfd8uXg,29069
+nepali_address_system/districts.py,sha256=aCWiJ_8Sp8dvlzAzmliHw9sSBncdKU9sVdO2qR5RyTI,2072
+nepali_address_system/municipalities.py,sha256=tK3SX3xmBujjGeBH6FY1MUSJejxbVXkFDticSAcUUeU,2545
+nepali_address_system/provinces.py,sha256=JoUVFr5tOmh5MGCJHsUkw9ttTotVEBlkFSvsMi2SVSQ,1758
+nepali_address_system-0.0.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+nepali_address_system-0.0.2.dist-info/METADATA,sha256=JgH3G6mP50bUAM0atR8dDmsjaFMKgQ9FLUoRUPFEydc,654
+nepali_address_system-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+nepali_address_system-0.0.2.dist-info/top_level.txt,sha256=Qr8pEtenAAVHWryenBQy8J11ESGXeBMjRLzMb9kVZvQ,22
+nepali_address_system-0.0.2.dist-info/RECORD,,
