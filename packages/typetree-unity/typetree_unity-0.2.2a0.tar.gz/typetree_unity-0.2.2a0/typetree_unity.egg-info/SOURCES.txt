@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+typetree_unity/__init__.py
+typetree_unity/__main__.py
+typetree_unity/generator.py
+typetree_unity.egg-info/PKG-INFO
+typetree_unity.egg-info/SOURCES.txt
+typetree_unity.egg-info/dependency_links.txt
+typetree_unity.egg-info/requires.txt
+typetree_unity.egg-info/top_level.txt
+typetree_unity/libs/TypeTreeGenerator/TypeTreeGenerator.dll
+typetree_unity/libs/TypeTreeGenerator/TypeTreeGenerator.runtimeconfig.json
