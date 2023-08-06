@@ -1,0 +1,169 @@
+Metadata-Version: 2.1
+Name: django_reaktion_banner
+Version: 0.0.8
+Summary: A Django app to manage Reaktion banners.
+Home-page: https://www.reaktion.se
+Author: Lukasz Oleksak, Trevor Adams
+Author-email: lukasz.oleksak@reaktion.se
+License: BSD-3-Clause
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 3.2
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# Banner
+
+Reaktion's banner plugin for Django
+
+## Setup
+
+### Project requirements.txt
+- The following need to be installed in the environment & be in the requirements.txt:
+  - pytz
+  - djangorestframework
+  - pillow
+  - icecream
+### Project Settings
+
+- Add "banner" to your INSTALLED_APPS setting like this:
+
+```
+INSTALLED_APPS = [
+          ...
+   
+        'banner',
+   
+      ]
+```
+- Add the following context processors to your OPTIONS in TEMPLATE settings and add a banner endpoint variable:
+
+``` 
+'OPTIONS': {
+        'context_processors': [
+            ...
+            'banner.processors.banner_endpoint',
+            'banner.processors.banner_sidebar_right',
+            'banner.processors.banner_sidebar_left',
+            'banner.processors.banner_content',
+            'banner.processors.banner_bottom',
+            'banner.processors.banner_top'
+        ]
+    }
+
+BANNERS_ENDPOINT = os.environ['BANNERS_ENDPOINT']
+```  
+3. Include the banner URL conf in your project urls.py like this::
+```
+    path('banner/', include('banner.urls')),
+    path('api/', include('banner.api_urls', namespace='banner-api')),
+```
+### Project css/scss
+- Define the css styles in styles.scss
+```
+.sticky-top-alt {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}
+
+.label-over-ad {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 700;
+  font-size: 10px;
+  padding: 3px 10px 3px 10px;
+  background: #135776;
+  border-radius: 0 1px 1px 0;
+  opacity: 0.80;
+  color: white;
+  border-bottom: 0;
+  font-family: "Raleway";
+}
+
+.panorama-ad-div {
+  width: 100vw;
+  height:auto;
+  max-height: 240px;
+  object-fit: cover;
+  background: #135776;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.panorama-ad-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+  object-fit: cover;
+  aspect-ratio: 0;
+}
+
+.leaderboard-ad-div {
+  width: 100vw;
+  height:auto;
+  max-height: 90px;
+  object-fit: contain;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.leaderboard-ad-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 90px;
+  object-fit: contain;
+  aspect-ratio: 0;
+}
+
+.skyscraper-ad-left-div {
+  max-width: 160px;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.skyscraper-ad-left-image {
+  max-width: 160px;
+  aspect-ratio: auto!important;
+}
+
+.skyscraper-ad-right-div{
+  max-width: 160px;
+}
+
+.skyscraper-ad-right-image{
+  max-width: 160px;
+  aspect-ratio: auto!important;
+  &:hover {
+    cursor: pointer;
+  }
+}
+```
+
+Run ``python manage.py migrate`` to create the banner models.
+- For a docker environment run the following two commands:
+```
+   docker exec <container name> python cms/manage.py migrate
+   docker exec <container name> pip install -r requirements.txt 
+```
+
+
+
