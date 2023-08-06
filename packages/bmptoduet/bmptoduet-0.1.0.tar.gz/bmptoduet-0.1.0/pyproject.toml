@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "bmptoduet"
+version = "0.1.0"
+license = "MIT"
+description = "Convert Monochrome BMP to Duet3D Menu Image"
+authors = ["Kieran David Evans <keyz182@gmail.com>"]
+readme = "README.md"
+homepage = "https://github.com/keyz182/bmptoduet"
+repository = "https://github.com/keyz182/bmptoduet"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+Pillow = "^8.4.0"
+numpy = "^1.21.5"
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/keyz182/bmptoduet/issues"
+
+[tool.poetry.scripts]
+bmptoduet = 'bmptoduet.bmptoduet:cli'
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
