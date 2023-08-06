@@ -1,0 +1,10 @@
+brisque/__init__.py,sha256=oYJbt7rkl94Iuhjksnp8IwPUrBPj_G9PU56pFGgcTkM,59
+brisque/brisque.py,sha256=t5deQWoszYP6_pCEvjgIKMGcvEZdpJVBsLy8NmCqFXM,7437
+brisque/test_brisque.py,sha256=SytR1d_who7VRgveP7_E9VH0nkZN3qi_4dYiY3Wgyus,317
+brisque/models/__init__.py,sha256=0YJO3h7AZH7c4X0jX5SXV4ZBUOVSFUa-02HEMwQBY5I,66
+brisque/models/normalize.pickle,sha256=qRdT_nCI7-C0Dk0JExUgH9sGeWb8Z4XPRl4eqwYKzak,686
+brisque/models/svm.txt,sha256=GVJvt5nEx5kszBCfz-zdsll2ugJLGUzT7iddJ-iQnI0,351414
+brisque-0.0.12.dist-info/METADATA,sha256=_IyatSr9Z0uPFY-OZQjXJ7o1Wv6oDnavDdTIsqB611w,1664
+brisque-0.0.12.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+brisque-0.0.12.dist-info/top_level.txt,sha256=ygXA8DM1RBUGeC-jF7z9nKzjv-043pVuCCRpa-AwSfY,8
+brisque-0.0.12.dist-info/RECORD,,
