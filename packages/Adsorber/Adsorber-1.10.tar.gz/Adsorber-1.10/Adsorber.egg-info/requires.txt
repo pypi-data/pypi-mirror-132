@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+ase>=3.19.0
+openpyxl
+packaging
+networkx
+tqdm
