@@ -1,0 +1,6 @@
+pymongo==4.0.1
+tweepy==3.9.0
+
+[testing]
+pytest
+pytest-runner
