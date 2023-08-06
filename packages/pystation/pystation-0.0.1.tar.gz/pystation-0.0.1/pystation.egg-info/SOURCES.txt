@@ -1,0 +1,5 @@
+setup.py
+pystation.egg-info/PKG-INFO
+pystation.egg-info/SOURCES.txt
+pystation.egg-info/dependency_links.txt
+pystation.egg-info/top_level.txt
