@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: tubemp3
+Version: 0.0.1014
+Summary: Library for getting music in high quality from YouTube
+Home-page: https://github.com/perseu912/tubemp3
+Author: Reinan Br
+Author-email: slimchatuba@gmail.com
+License: MIT License
+Keywords: kit tools dev works
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: youtube-dl
+Requires-Dist: mp3-tagger
+Requires-Dist: stagger
+Requires-Dist: eyed3
+
+# tubemp3
+a lib for get music from youtube in high quality
+
+
