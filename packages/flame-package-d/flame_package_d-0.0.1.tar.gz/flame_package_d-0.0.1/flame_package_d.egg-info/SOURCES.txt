@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+flame_package_d.egg-info/PKG-INFO
+flame_package_d.egg-info/SOURCES.txt
+flame_package_d.egg-info/dependency_links.txt
+flame_package_d.egg-info/top_level.txt
+package/__init__.py
+package/example.txt
+package/main.py

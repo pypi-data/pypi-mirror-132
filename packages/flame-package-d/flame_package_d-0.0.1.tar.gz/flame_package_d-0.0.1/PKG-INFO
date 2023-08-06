@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: flame_package_d
+Version: 0.0.1
+Summary: Anomaly detection on scientific datasets
+Home-page: UNKNOWN
+Author: Urmila N
+Author-email: urmilaraj18@example.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# madana
+Anomaly detection on scientific datasets
+
+
