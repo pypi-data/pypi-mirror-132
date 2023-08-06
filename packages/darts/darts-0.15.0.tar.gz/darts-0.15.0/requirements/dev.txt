@@ -1,0 +1,8 @@
+# tests
+testfixtures==6.17.1
+# coverage==5.5
+pytest-cov
+
+# linters
+flake8
+black
