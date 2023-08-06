@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: simurgh
+Version: 0.0.2
+Summary: clusterlean client library
+Home-page: http://packages.python.org/simurgh
+Author: Clusterlean
+License: UNKNOWN
+Keywords: developmenttool
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Description-Content-Type: text/markdown
+Requires-Dist: orjson (>=3.6)
+Requires-Dist: requests (>=2.26)
+Requires-Dist: asyncio (>=3.4)
+Requires-Dist: uvicorn (>=0.16)
+
+Simurgh is the official client library to use clusterlean services.
+
+
