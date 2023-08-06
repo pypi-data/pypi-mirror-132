@@ -1,0 +1,10 @@
+README.md
+setup.py
+NaverSeries/BookInfo.py
+NaverSeries/__init__.py
+NaverSeries/search.py
+Naver_Series.egg-info/PKG-INFO
+Naver_Series.egg-info/SOURCES.txt
+Naver_Series.egg-info/dependency_links.txt
+Naver_Series.egg-info/requires.txt
+Naver_Series.egg-info/top_level.txt
