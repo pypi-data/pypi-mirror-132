@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: maxda
+Version: 0.0.1
+Summary: data process and analysis
+Home-page: http://gitlab.lavector.com/analysis/maxda-dev.git
+Author: lavector data_analysis
+Author-email: guodong.liu@lavector.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+
+UNKNOWN
+
