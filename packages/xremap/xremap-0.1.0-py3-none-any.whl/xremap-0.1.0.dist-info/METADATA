@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: xremap
+Version: 0.1.0
+Summary: Generate xremap config from Python
+Home-page: https://github.com/xremap/xremap-python
+Author: Takashi Kokubun
+Author-email: takashikkbn@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyyaml
+
+# xremap-python
+
+Generate an xremap config with a Python DSL.
+
+## Installation
+
+```bash
+$ pip install xremap
+```
+
+This will install `xremap-python` command.
+
+## Usage
+
+```bash
+$ xremap-python example/config.py > config.yml
+$ sudo xremap config.yml
+```
+
+## License
+
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
