@@ -1,0 +1,9 @@
+storage3/__init__.py,sha256=NDS-P6sNGezExq2xLVa5ZGSHwwMymTfl1sEfj1uMx5Q,100
+storage3/lib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+storage3/lib/storage_bucket_api.py,sha256=IN66Dni8Y65eCSJ_lZ9KiZsJWVosTM_hixt9HYBjWvM,5849
+storage3/lib/storage_file_api.py,sha256=z2gIRTeaB7BwKg6XSHSWM7-dnMgwSGcPzB7G_dTjZ2w,7018
+storage3/storage_client.py,sha256=cKpy4-u4dXw7tDd05xoOsia5wLRRQ__2ZlaoZt4QW1c,869
+storage3-0.1.1.dist-info/LICENSE,sha256=z1oJWhGxyWdRVl4FE2sIHbVFmHVOH5UaSOgMC-UVixI,1147
+storage3-0.1.1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+storage3-0.1.1.dist-info/METADATA,sha256=v8cJPFBT29U2wmDct6DxRGNUnpRiCLut3mIGpmk3MGM,842
+storage3-0.1.1.dist-info/RECORD,,
