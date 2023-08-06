@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+fese/__init__.py
+fese.egg-info/PKG-INFO
+fese.egg-info/SOURCES.txt
+fese.egg-info/dependency_links.txt
+fese.egg-info/requires.txt
+fese.egg-info/top_level.txt
