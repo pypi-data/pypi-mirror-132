@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/HkmCode_hkmConfig.egg-info/PKG-INFO
+src/HkmCode_hkmConfig.egg-info/SOURCES.txt
+src/HkmCode_hkmConfig.egg-info/dependency_links.txt
+src/HkmCode_hkmConfig.egg-info/top_level.txt
