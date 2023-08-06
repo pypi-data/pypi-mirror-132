@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: gief
+Version: 0.0.3
+Summary: Instant HTTP file uploading server 
+Home-page: https://github.com/jorgebg/gief
+Author: Jorge Barata
+Author-email: jorge.barata.gonzalez@gmail.com
+License: MIT
+Keywords: http,upload,server,file
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: flask (==0.11)
+Requires-Dist: werkzeug (==0.16.0)
+
+UNKNOWN
+
