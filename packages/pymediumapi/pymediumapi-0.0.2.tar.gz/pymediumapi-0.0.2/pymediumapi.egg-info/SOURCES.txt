@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+./pymediumapi/__init__.py
+pymediumapi.egg-info/PKG-INFO
+pymediumapi.egg-info/SOURCES.txt
+pymediumapi.egg-info/dependency_links.txt
+pymediumapi.egg-info/requires.txt
+pymediumapi.egg-info/top_level.txt
