@@ -1,0 +1,16 @@
+flare_pp/_C_flare.cpython-36m-darwin.so,sha256=jrSdmqHcXJyxM-0zjNnSaU7uTJOBuzIRP3WlHY_FMwY,1344048
+flare_pp/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flare_pp/parsers.py,sha256=2W5zX-rlDljF5ux1OtBxR2L-xssS6MGiBU3oUvVlwqM,7517
+flare_pp/sparse_gp.py,sha256=OVRUYR6z7K6xTxjXlL4AXnAOxaPGuZ7fKPhD8TV0Wik,22045
+flare_pp/sparse_gp_calculator.py,sha256=NMcSHN42kciczJ6y6nkriWyCllRqjP3XvbYvkuEW8JQ,5787
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/get_sgp.py,sha256=kTr0H_naKTdJIDTVIEklpQwY-i5tp_icWOHGII34V6w,2712
+tests/test_lammps.py,sha256=n3ePIw5VYaRbJwh5ggEOB3GLDGd3IqHhLAf1WMy9tdE,6293
+tests/test_parse.py,sha256=fhpYr-PSy18W5hUB5p3eo0hHbI05TRoBacPUlUzsdQg,563
+tests/test_sparse_gp.py,sha256=I1ftKcuIsAGSN_Zh7AFyGTUwgXo9QrKBGDHwcUZBGKk,3850
+tests/test_tutorial.py,sha256=OJiU3_esXZMLxxdSMGbcHcesFLU7zGAFOKQe7IfVaVM,118
+flare_pp-0.1.1.dist-info/LICENSE,sha256=DQDIga1kSOabv698Mfs4KbzWmvnIN4r5IPEOeVSFmZ4,1075
+flare_pp-0.1.1.dist-info/METADATA,sha256=hnkVmU0XGuW7ijVnqT3f_evTeERAnOlZ3GMty8xWozI,3236
+flare_pp-0.1.1.dist-info/WHEEL,sha256=dushfQTgksSU5ysvLIsWtFIpTHGocvpS502Xe3sbFWM,111
+flare_pp-0.1.1.dist-info/top_level.txt,sha256=98iG14pdvMOdhcS6iidibs4PnRb-ixZp0fr7sO87MvI,15
+flare_pp-0.1.1.dist-info/RECORD,,
