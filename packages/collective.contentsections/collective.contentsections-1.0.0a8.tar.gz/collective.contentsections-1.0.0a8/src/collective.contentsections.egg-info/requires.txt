@@ -1,0 +1,5 @@
+setuptools
+plone.api
+plone.app.dexterity
+collective.taxonomy
+collective.z3cform.datagridfield
