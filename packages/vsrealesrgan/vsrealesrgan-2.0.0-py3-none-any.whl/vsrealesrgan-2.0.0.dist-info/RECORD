@@ -1,0 +1,17 @@
+vsrealesrgan/RealESRGAN_x2plus.pth,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vsrealesrgan/RealESRGAN_x4plus.pth,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vsrealesrgan/RealESRGAN_x4plus_anime_6B.pth,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vsrealesrgan/RealESRGANv2-animevideo-xsx2.pth,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vsrealesrgan/RealESRGANv2-animevideo-xsx4.pth,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vsrealesrgan/__init__.py,sha256=NjrEp8a7BmC_HSArRMs2jVBPuJj6hD2ZecDEQF5Tytc,5024
+vsrealesrgan/__main__.py,sha256=yPHII4RGDfcatvBFFl_kxHLj8xIdi56a0VpTBV16TZA,1137
+vsrealesrgan/arch_util.py,sha256=X8U8Uhk1nL3em4iI44Qb9kt9EzgBK_CsNGpCULoxKm8,2399
+vsrealesrgan/registry.py,sha256=u8NQcUgQG7IC6PUvXMp10swh14De91fAVdgsuOa9WU4,2267
+vsrealesrgan/rrdbnet_arch.py,sha256=yAt3zKB7yvORdkmtVgcQ1zzfFgCgTNE5REBM_uEIH_M,4727
+vsrealesrgan/srvgg_arch.py,sha256=kMc9Fw1h3H1MhZ6Q9cy6AygQuNZMXmQ8cYYpIxudbFw,2778
+vsrealesrgan/utils.py,sha256=ncExdbLywrDlOhjUL_Z66SVIQuOkmRQEvL3Xo5_KKwU,6834
+vsrealesrgan-2.0.0.dist-info/LICENSE,sha256=YiWD6o4JK9vt8R_wcAQu_KfkdfbWU2_qZZjASwK8BY8,1543
+vsrealesrgan-2.0.0.dist-info/METADATA,sha256=NeeA1qiryyTyK50wpwM0SKpS5JHKV4gTuvmxZr6-PX0,1242
+vsrealesrgan-2.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+vsrealesrgan-2.0.0.dist-info/top_level.txt,sha256=XLzSoF9arfEAhCSGoqzTDfsJy6KvU2ZeJvueaGjacGw,13
+vsrealesrgan-2.0.0.dist-info/RECORD,,
