@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+install_ifcopenshell_python/__init__.py
+install_ifcopenshell_python/__main__.py
+install_ifcopenshell_python/_version.py
+install_ifcopenshell_python.egg-info/PKG-INFO
+install_ifcopenshell_python.egg-info/SOURCES.txt
+install_ifcopenshell_python.egg-info/dependency_links.txt
+install_ifcopenshell_python.egg-info/requires.txt
+install_ifcopenshell_python.egg-info/top_level.txt
