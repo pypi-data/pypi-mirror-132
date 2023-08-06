@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+setup.py
+hanzipy/__init__.py
+hanzipy/decomposer.py
+hanzipy/decomposer_ids.py
+hanzipy/dictionary.py
+hanzipy/exceptions.py
+hanzipy/util.py
+hanzipy.egg-info/PKG-INFO
+hanzipy.egg-info/SOURCES.txt
+hanzipy.egg-info/dependency_links.txt
+hanzipy.egg-info/requires.txt
+hanzipy.egg-info/top_level.txt
+tests/__init__.py
+tests/test_decomposer.py
+tests/test_dictionary.py
