@@ -1,0 +1,3 @@
+trzsz-libs>=0.1.5
+trzsz-svr>=0.1.5
+trzsz-iterm2>=0.1.5
