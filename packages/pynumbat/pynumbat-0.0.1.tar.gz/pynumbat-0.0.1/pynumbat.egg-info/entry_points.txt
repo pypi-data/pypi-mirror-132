@@ -1,0 +1,3 @@
+[console_scripts]
+pynumabt = pynumabt.__main__:main
+
