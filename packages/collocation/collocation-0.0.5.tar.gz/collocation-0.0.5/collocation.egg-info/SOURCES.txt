@@ -1,0 +1,11 @@
+README.md
+setup.py
+collocation/__init__.py
+collocation/association.py
+collocation/collocation.py
+collocation/fisher_exact.py
+collocation.egg-info/PKG-INFO
+collocation.egg-info/SOURCES.txt
+collocation.egg-info/dependency_links.txt
+collocation.egg-info/top_level.txt
+test/test.py
