@@ -1,0 +1,9 @@
+multiset_multicover-0.2.dist-info/METADATA,sha256=eAfw8Um2kBvP_fenWl70-48ztstmmbDr98z62tamvcI,435
+multiset_multicover-0.2.dist-info/WHEEL,sha256=QfIh88pe_a4XavUJbWU-Q1cSBdwHrw6YjGDGRvrZTuA,162
+multiset_multicover-0.2.dist-info/RECORD,,
+multiset_multicover-0.2.dist-info/LICENSE,sha256=odqD9JmTNT47O2EMWfYVAwZi5k0i6Qgo6_eTlHHyZ-4,1053
+multiset_multicover-0.2.dist-info/top_level.txt,sha256=GhY5mcuT5OpvUDeGGkAEOF7_CsAhDStQOAaBVDghWdo,20
+multiset_multicover/_c_multiset_multicover.cpython-37m-x86_64-linux-gnu.so,sha256=rRVk_Fdl73VpR7cW2DcG0hrdBu85feHeFQWw8IO1dzM,734904
+multiset_multicover/python_source.py,sha256=1UppyrIyjKGXBLz_-fRA7VCBVAkOqUmhcnXW-ANuozA,5983
+multiset_multicover/__init__.py,sha256=QTKBXHmbk7zjD6YiOgkzk7xKDR7E5JGMq9u7CSI1NAE,1752
+multiset_multicover/_c_multiset_multicover.pypy37-pp73-x86_64-linux-gnu.so,sha256=ieTqFEqdnpCqFzyAYQBQq3WSKHeeToNfDqFvGkD6xOw,70568
