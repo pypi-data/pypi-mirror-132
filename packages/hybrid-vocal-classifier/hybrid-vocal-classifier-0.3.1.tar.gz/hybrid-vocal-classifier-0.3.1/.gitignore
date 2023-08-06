@@ -1,0 +1,26 @@
+# IDE
+.idea/
+
+# python
+.pytest_cache/
+*.egg-info/
+build/*
+dist/*
+MANIFEST
+*.pyc
+
+# jupyter
+.ipynb_checkpoints
+
+# docs
+docs/_build
+
+# data for tests
+tests/data_for_tests/feature_files/
+tests/data_for_tests/model_files/
+
+# coverage
+.coverage
+coverage.xml
+
+.venv
