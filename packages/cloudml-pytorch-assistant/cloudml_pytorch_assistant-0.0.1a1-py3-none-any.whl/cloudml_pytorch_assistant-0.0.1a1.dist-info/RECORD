@@ -1,0 +1,15 @@
+cloudml/__init__.py,sha256=_krYCYsIu611N1SpCkNndwykARgYesnmAqyC1kluHBA,152
+cloudml/adrn_dataloader.py,sha256=SP-e2FoO7SRnzhzwFf1y6KRrndCsA3psavP0fvp6qq0,1860
+cloudml/adrn_dataset.py,sha256=qXifWIcfSVstbg_qpIj3nDCWaqrFICL04nw5Ki0p-u0,2550
+cloudml/adrn_parser.py,sha256=iAbUR6zmijUnd_HzKPYkOshpuDiHpcPD-KycJ1L02xY,1572
+cloudml/dataset_srv_stub.py,sha256=g1sTY7yEHQe6VB3GR0YnTHwcgYnELhY1uPtZPsg6K0g,4459
+cloudml/item_handler.py,sha256=tuE0_TvdUn0aK-MZ515FRwKnmjWGzz0i1NgsyGoBn1w,3443
+cloudml/settings.py,sha256=CMVgGX9vOg-XPJaHaO2Rto9NYuJ9uk0SCZ4-NugbSR8,513
+cloudml/test_code.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+cloudml/thetis_dataset.py,sha256=t0r6CEDYKwxWoLvLyX5-WvR7LjJEwuZB2OaDtYaOn80,935
+cloudml_pytorch_assistant-0.0.1a1.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HENFRh6jC6ego,10
+cloudml_pytorch_assistant-0.0.1a1.dist-info/METADATA,sha256=RIOgvhkPQ2u3DrmVX9PCnEXEa3E5ARnE1lP06_fj7to,273
+cloudml_pytorch_assistant-0.0.1a1.dist-info/RECORD,,
+cloudml_pytorch_assistant-0.0.1a1.dist-info/WHEEL,sha256=8Lm45v9gcYRm70DrgFGVe4WsUtUMi1_0Tso1hqPGMjA,92
+cloudml_pytorch_assistant-0.0.1a1.dist-info/metadata.json,sha256=sRiKUfL0rf_HFI6Cgk4GkI702CC_zl4M46-Pge1mMVc,428
+cloudml_pytorch_assistant-0.0.1a1.dist-info/top_level.txt,sha256=4Fl1pqUeU6Up3mKI3yEag9q0kkXE-OAtj6TPWiCK-wE,8

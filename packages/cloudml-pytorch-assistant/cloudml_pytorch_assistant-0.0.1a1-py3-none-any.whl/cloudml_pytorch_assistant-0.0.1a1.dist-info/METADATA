@@ -1,0 +1,14 @@
+Metadata-Version: 2.0
+Name: cloudml-pytorch-assistant
+Version: 0.0.1a1
+Summary: cloudml pytorch assistant
+Home-page: UNKNOWN
+Author: liuguoming@xiaomi.com
+Author-email: UNKNOWN
+License: xiaomi internal license
+Platform: UNKNOWN
+Requires-Dist: requests (>=2.6.0)
+
+UNKNOWN
+
+
