@@ -1,0 +1,11 @@
+aiofiles
+click
+fastapi
+httpx
+jinja2
+loguru
+phonenumbers
+pydantic
+random_user_agent
+uvicorn
+wheel
