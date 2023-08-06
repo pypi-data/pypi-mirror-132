@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+bulbeewipy/__init__.py
+bulbeewipy.egg-info/PKG-INFO
+bulbeewipy.egg-info/SOURCES.txt
+bulbeewipy.egg-info/dependency_links.txt
+bulbeewipy.egg-info/requires.txt
+bulbeewipy.egg-info/top_level.txt
