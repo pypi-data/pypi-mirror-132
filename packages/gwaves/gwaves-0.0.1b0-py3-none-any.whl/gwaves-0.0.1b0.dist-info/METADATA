@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: gwaves
+Version: 0.0.1b0
+Summary: Library for getting music in high quality from YouTube
+Home-page: https://github.com/perseu912/gwaves
+Author: Reinan Br
+Author-email: slimchatuba@gmail.com
+License: MIT License
+Keywords: kit tools dev works
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: scipy
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: bs4
+Requires-Dist: h5py
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: soundfile
+Requires-Dist: astropy
+Requires-Dist: openpyxl
+Requires-Dist: lxml
+
+# gwaves
+A lib from python for works with gravitational waves data
+
+
