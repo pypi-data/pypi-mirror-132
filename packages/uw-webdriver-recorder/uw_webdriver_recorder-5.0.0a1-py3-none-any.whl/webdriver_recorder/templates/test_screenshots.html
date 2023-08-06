@@ -1,0 +1,16 @@
+<div class="card-group">
+    {% for png in result.pngs %}
+        <div class="card text-center screenshot">
+            <img class="card-img-top img-thumbnail mx-auto"
+                 src="{{ png.url }}"
+                 alt='Screenshot #{{ loop.index }} for test "{{ result.test_name }}"'
+            >
+            <div class="card-title snap-context {% if png.is_error %}text-danger{% endif %}">
+                {{ png.context or " " }}
+            </div>
+            <div class="card-footer image-link">
+                <a href="{{ png.url }}" target="_blank">Open full image</a>
+            </div>
+        </div>
+    {% endfor %}
+</div>
