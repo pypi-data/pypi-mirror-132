@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/dj_pg_access_control/__init__.py
+src/dj_pg_access_control/context_managers.py
+src/dj_pg_access_control/utils.py
+src/django_postgres_access_control.egg-info/PKG-INFO
+src/django_postgres_access_control.egg-info/SOURCES.txt
+src/django_postgres_access_control.egg-info/dependency_links.txt
+src/django_postgres_access_control.egg-info/requires.txt
+src/django_postgres_access_control.egg-info/top_level.txt
