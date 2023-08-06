@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "caserunner"
+version = "0.1.1"
+description = ""
+authors = ["luweisen <luweisen@sina.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[tool.poetry.scripts]
+caserunner = "caserunner.caserunner:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
