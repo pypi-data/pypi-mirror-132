@@ -1,0 +1,10 @@
+mkpp/__init__.py,sha256=Y3LSfRioSl2xch70pq_ULlvyECXyEtN3krVaWeGyaxk,22
+mkpp/__main__.py,sha256=v6CR-0KV0WVaACOVpRDuGhIY13U5OhxcwRsNFn9nv-8,1790
+mkpp/cli/__init__.py,sha256=FkTgoszkLpyATftsGKG_OWFpGYfRaEkVHjywirJ2KxI,24
+mkpp/cli/args.py,sha256=HWDJSSLKFgdYy4coqzHEQoXXkkPtl8nU5ZjHc2KLq7c,1372
+mkpp/cli/log.py,sha256=AUXS-G4T9TTnHlks2ifBaejeOn-mT19OexzAmI4GK_g,257
+mkpp-1.0.2.dist-info/entry_points.txt,sha256=ltN_TUaAFTm5PqrypIfb5pL5CCASuH6wvb2TxovK0lE,43
+mkpp-1.0.2.dist-info/WHEEL,sha256=o3Jw1utMtG5Pldx6lEBo-y0Mg5DW9GsDzxTogu6yy2A,88
+mkpp-1.0.2.dist-info/METADATA,sha256=78Czrcl86RGIZD0228mBk6hIqDVb3dpXk36CMpfPOuE,955
+mkpp-1.0.2.dist-info/LICENSE,sha256=Yxt7b6ycx9ckK20GmyPwoA9quiMpNGUi2hY_pTsTIYk,1061
+mkpp-1.0.2.dist-info/RECORD,,
