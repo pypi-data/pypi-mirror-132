@@ -1,0 +1,11 @@
+filometro/__init__.py,sha256=OAlxrXGmETPMkrJVryTcYWrXBjQGv3iag6WxD-L0lBs,661
+filometro/convert.py,sha256=YDed5YrJ-A0mxOqrdZXW_9Ep1tl6GZ73L2YASnCezcU,1523
+filometro/dataclasses.py,sha256=lTNQbLNwIajz1kN4pXqwKknQXDc3pRsJmAQ0pLCsypQ,1297
+filometro/deolhonafila.py,sha256=ljvi8Z-yQQg6S0-kNg4VwzQ8u4M2G0VsO2Xtn9rmXFU,1976
+filometro/enums.py,sha256=Wx9ts5QcVNcamIbLm-iqf64gQM3xFbuu9GebD0ayrEs,3885
+filometro/filometro.py,sha256=vRhh5UFyMM46kPbinP23HQk3jZtkRCJY0upQ-GIKF8c,2474
+filometro-0.1.1.dist-info/LICENSE,sha256=YpiOoTSkOstQQf_h7nk8jVPie6h71xnFWrq2ay13dW8,1092
+filometro-0.1.1.dist-info/METADATA,sha256=bOy2WKQaSyvGebEtyqKzIXxr7jisy7QtKZT1rPkD_k0,9442
+filometro-0.1.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+filometro-0.1.1.dist-info/top_level.txt,sha256=I1p2ma6qPz45eMocVu_N7yu3w9v_du1HPweXQLqmBLQ,10
+filometro-0.1.1.dist-info/RECORD,,
