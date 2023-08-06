@@ -1,0 +1,13 @@
+SimpleWorkspace/ConsoleHelper.py,sha256=hIinSq5Ib6OK2AZtzYawWfBNXGMyjmorLwPHwSAKm5o,861
+SimpleWorkspace/Conversion.py,sha256=8mVkt-1AWZ-GouEgg_PxrePcVTouqWrHGLQZFvwHiYc,857
+SimpleWorkspace/Directory.py,sha256=X8hggCN_xwuuzqI2QZ8DWzx4U2_2kkSvaTN_Z0NDsJg,2351
+SimpleWorkspace/File.py,sha256=IihhDk0amebiAINPceY6rCg-23YDClWhUqgEcQqSEkw,3355
+SimpleWorkspace/Path.py,sha256=HEF8CLC4B_ZjUUxMwqIdoOXA7pJaGYbiS08vYJH6C40,417
+SimpleWorkspace/Settings.py,sha256=-EW7GBaPq6_9LNnl6O23jJPDtXEnDmHTxE6TF7sbWWY,5406
+SimpleWorkspace/Utility.py,sha256=CpDlBo3HVW56twHH-4eeDfj-leKsjXD_p0vVpBRkFl0,3234
+SimpleWorkspace/__init__.py,sha256=vBIl5-z1kHkyUueU3SZ8c2lktwB24M9mnS6RyiLGYq4,263
+SimpleWorkspace/_appdirs.py,sha256=Cve2bfMwcLWxd_5kfo80HRNHOQYCRotvTqcGMNZFUEQ,25328
+SimpleWorkspace-1.1.2.dist-info/METADATA,sha256=H2Ysafp_pnILgMKiuEMfKKY0SA_O5Efl7i3yjJ2xTV0,214
+SimpleWorkspace-1.1.2.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+SimpleWorkspace-1.1.2.dist-info/top_level.txt,sha256=Hgx8VNBk7tIlfgdZQ_jgOoUhdcV_hItg-E19HxGfXUU,16
+SimpleWorkspace-1.1.2.dist-info/RECORD,,
