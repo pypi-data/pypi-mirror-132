@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mkdpdf
+Version: 0.0.1
+Summary: Python package render engine for Markdown (Markdown) and PDF (Weasyprint).
+Home-page: https://gitlab.com/lgensinger/mkdpdf
+License: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: test
+
+UNKNOWN
+
