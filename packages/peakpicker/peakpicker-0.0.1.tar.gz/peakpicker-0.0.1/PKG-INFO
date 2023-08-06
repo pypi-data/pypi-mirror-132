@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: peakpicker
+Version: 0.0.1
+Summary: Find the peaks in 2D data (images)
+Home-page: https://github.com/dylanwal/peakpicker
+Author: Dylan Walsh
+License: BSD
+Platform: any
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: testing
+License-File: LICENSE.txt
+
+# Peak Picker / Peak Detection / Peak Finder
+
+Need to find peaks in your 2D data (or images)? 
+
+Here we have a few methods to get the job done.
+
+
+
+
+

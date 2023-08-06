@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/peakpicker/__init__.py
+src/peakpicker/max_intensity.py
+src/peakpicker.egg-info/PKG-INFO
+src/peakpicker.egg-info/SOURCES.txt
+src/peakpicker.egg-info/dependency_links.txt
+src/peakpicker.egg-info/not-zip-safe
+src/peakpicker.egg-info/requires.txt
+src/peakpicker.egg-info/top_level.txt
