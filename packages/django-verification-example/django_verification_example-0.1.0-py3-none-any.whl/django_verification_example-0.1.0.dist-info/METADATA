@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: django-verification-example
+Version: 0.1.0
+Summary: A project that includes an application that demonstrates how you can organize work with security tokens.
+Home-page: https://github.com/mikemight/django-tokens-example/
+License: MIT
+Author: Michael Might
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Django (>=3,<4)
+Project-URL: Repository, https://github.com/mikemight/django-tokens-example/
