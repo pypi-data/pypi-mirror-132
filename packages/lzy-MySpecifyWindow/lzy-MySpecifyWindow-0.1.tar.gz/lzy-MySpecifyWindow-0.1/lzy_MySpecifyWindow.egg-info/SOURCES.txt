@@ -1,0 +1,6 @@
+MySpecifyWindow.py
+setup.py
+lzy_MySpecifyWindow.egg-info/PKG-INFO
+lzy_MySpecifyWindow.egg-info/SOURCES.txt
+lzy_MySpecifyWindow.egg-info/dependency_links.txt
+lzy_MySpecifyWindow.egg-info/top_level.txt
