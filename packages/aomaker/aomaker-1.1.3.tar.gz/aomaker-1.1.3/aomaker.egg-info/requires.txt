@@ -1,0 +1,12 @@
+Faker
+Jinja2
+jsonpath
+loguru
+PyMySQL
+pytest
+pytest-tmreport
+PyYAML
+requests
+pytest-html
+allure-pytest
+pydantic
