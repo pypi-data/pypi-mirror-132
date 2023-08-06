@@ -1,0 +1,5 @@
+[console_scripts]
+matclient = matsense.client
+matdatautil = matsense.datautil
+matserver = matsense.server
+
