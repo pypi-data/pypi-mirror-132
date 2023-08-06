@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: slip39
+Version: 1.0.2
+Summary: The slip39 module implements SLIP39 recovery for Ethereum accounts
+Home-page: https://github.com/pjkundert/python-slip39
+Author: Perry Kundert
+Author-email: perry@dominionrnd.com
+License: Dual License; GPLv3 and Proprietary
+Project-URL: Bug Tracker, https://github.com/pjkundert/python-slip39/issues
+Keywords: Ethereum cryptocurrency SLIP39 BIP39 seed recovery
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Environment :: Console
+Classifier: Topic :: Security :: Cryptography
+Classifier: Topic :: Office/Business :: Financial
+Requires-Python: >=3.6
+License-File: LICENSE
+License-File: COPYING
+
+Securing and safely restoring access to cryptocurrency accounts is difficult.
+
+The SLIP39 seed backup format is useful.
+
+
