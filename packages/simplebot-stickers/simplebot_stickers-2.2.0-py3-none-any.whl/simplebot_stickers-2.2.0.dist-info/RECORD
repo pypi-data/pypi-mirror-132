@@ -1,0 +1,11 @@
+simplebot_stickers/__init__.py,sha256=K3aXScAYUeEEs9p8BfeOjuJVeBMLNdPTa352l5PDIJQ,3624
+simplebot_stickers/_version.py,sha256=uQRa7aBgJ-XwalH6CCTdqDBWvvsxLns-lAGlsJX939E,142
+simplebot_stickers/signal.py,sha256=igwXHySBZVkGo9qNsDWXFefJyq05fkgJ-TDSJoyNFew,5985
+simplebot_stickers/telegram.py,sha256=Oec8oOaJvJaEaL3hiobKwLEsEj3GTDdTmF8qZntPUMU,688
+simplebot_stickers/util.py,sha256=9uLcwupaPWsnQZCLOjunj99RrXakxiUaFXZrRFhquNA,1165
+simplebot_stickers-2.2.0.dist-info/LICENSE,sha256=-rPda9qyJvHAhjCx3ZF-Efy07F4eAg4sFvg6ChOGPoU,16726
+simplebot_stickers-2.2.0.dist-info/METADATA,sha256=xgtUqL8C6y91NYDb_7Whbfd-_9SaWox2PUM50BkrXFI,3687
+simplebot_stickers-2.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+simplebot_stickers-2.2.0.dist-info/entry_points.txt,sha256=fvogp9wdnkjURzV4HH5qSx5b3XHDZNzNkj0dwQLd5Dw,61
+simplebot_stickers-2.2.0.dist-info/top_level.txt,sha256=cn2JkOzA6-QduIykNuByWas11zEmAvLHWvGva0tjCq8,19
+simplebot_stickers-2.2.0.dist-info/RECORD,,
