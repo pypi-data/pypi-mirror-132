@@ -1,0 +1,10 @@
+setup.py
+bytecodes/__init__.py
+bytecodes/func.py
+bytecodes/insn.py
+bytecodes/test.py
+bytecodes.egg-info/PKG-INFO
+bytecodes.egg-info/SOURCES.txt
+bytecodes.egg-info/dependency_links.txt
+bytecodes.egg-info/top_level.txt
+sphinx/source/conf.py
