@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/annydict/__init__.py
+src/annydict/annydict.py
+src/annydict.egg-info/PKG-INFO
+src/annydict.egg-info/SOURCES.txt
+src/annydict.egg-info/dependency_links.txt
+src/annydict.egg-info/top_level.txt
