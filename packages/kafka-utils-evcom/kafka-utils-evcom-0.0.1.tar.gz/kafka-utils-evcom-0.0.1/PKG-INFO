@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: kafka-utils-evcom
+Version: 0.0.1
+Summary: Some utils class to use confluent-kafka
+Home-page: https://github.com/Evcom-Lab/kafka-utils
+Author: Matheus
+Author-email: matheus.fachinis@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Evcom-Lab/kafka-utils/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Kafka utils
+
+Implementantions to use confluent kafka creating new consumers and/or producers.
+
+In this project have two abstract classes BaseConsumer and BaseProducer
+
