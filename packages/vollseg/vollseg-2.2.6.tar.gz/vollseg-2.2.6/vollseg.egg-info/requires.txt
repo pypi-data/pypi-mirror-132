@@ -1,0 +1,11 @@
+pandas
+stardist>=0.7.0
+numpy==1.20.0
+scipy
+tifffile
+matplotlib
+imagecodecs
+n2v>=0.3.0
+napari
+diplib
+opencv-python
