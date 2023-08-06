@@ -1,0 +1,11 @@
+include LICENSE
+include README.md
+include setup.py
+include documentation/*
+include requirements.txt
+include r_requirements.txt
+include tests/*
+include tests/input/*
+include tests/output/*
+include src/gspractice/*
+include src/gspractice/data/*
