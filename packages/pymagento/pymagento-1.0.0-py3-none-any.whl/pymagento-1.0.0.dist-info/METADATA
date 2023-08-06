@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pymagento
+Version: 1.0.0
+Summary: Python client for the Magento 2 API
+Home-page: https://github.com/Bixoto/PyMagento
+License: MIT
+Author: Bixoto
+Author-email: info@bixoto.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: api-session (>=0.1.0,<0.2.0)
