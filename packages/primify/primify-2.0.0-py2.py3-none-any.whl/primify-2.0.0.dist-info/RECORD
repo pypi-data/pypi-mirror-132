@@ -1,0 +1,11 @@
+primify/__init__.py,sha256=8RFdhfWPj7eT3TDNqz3I48hT-rvZkUjA37-mNdLJ2Ok,543
+primify/base.py,sha256=2jyhRycF67sh3cbNkTV2VVx9WOs2KoxFR-SGAx0vZoo,6095
+primify/cli.py,sha256=xIoWhYRW8dHwh0Y3ru3cTn1tAXbhUnwgRxWtmNmcl-s,1743
+primify/prime_finder.py,sha256=KBUCTGu2UmVLw-tKVG4fM5cwqdzjFBAwL9HBlgpzZLw,2237
+primify-2.0.0.dist-info/AUTHORS.rst,sha256=Y4R_qqSUoUC-8deZ3yzBLyTUBMLrs9ERi1Y_T_Hj0pE,84
+primify-2.0.0.dist-info/LICENSE.txt,sha256=wG1swzMNIhqh-Ik6Qw46gWwxmHDc4beN3l5vAraYrbQ,1081
+primify-2.0.0.dist-info/METADATA,sha256=RfrfvBxVLOW63CYeVfj2sAkwJimYDewCh6PwxhvJqMU,3613
+primify-2.0.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+primify-2.0.0.dist-info/entry_points.txt,sha256=urudp_LwaI0IswgoFLSCE73SbF-EuhmCO5J2DsqgT6s,45
+primify-2.0.0.dist-info/top_level.txt,sha256=K0dnh30xupV4f6_KM-w5g9d25_cQSHYAN7nHDdXvW2c,8
+primify-2.0.0.dist-info/RECORD,,
