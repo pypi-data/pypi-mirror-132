@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: tbmp
+Version: 0.1.0
+Summary: A Python module for displaying bitmaps in the terminal as strings of block characters.
+Home-page: https://github.com/asweigart/tbmp
+Author: Al Sweigart
+Author-email: al@inventwithpython.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+License-File: LICENSE.txt
+
+tbmp
+======
+
+A Python module for displaying bitmaps in the terminal as strings of block characters.
+
+Installation
+------------
+
+To install with pip, run:
+
+    pip install tbmp
+
+Quickstart Guide
+----------------
+
+TODO - fill this in later
+
+Contribute
+----------
+
+If you'd like to contribute to tbmp, check out https://github.com/asweigart/tbmp
+
+
