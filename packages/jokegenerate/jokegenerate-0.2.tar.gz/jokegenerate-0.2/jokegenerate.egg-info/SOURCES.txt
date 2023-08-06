@@ -1,0 +1,7 @@
+license.txt
+setup.py
+jokegenerate/__init__.py
+jokegenerate.egg-info/PKG-INFO
+jokegenerate.egg-info/SOURCES.txt
+jokegenerate.egg-info/dependency_links.txt
+jokegenerate.egg-info/top_level.txt
