@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: integrityguard
+Version: 0.1.0
+Summary: Multiplatform agent for file integrity monitoring. Monitors, generate logs, and notify.
+Home-page: https://github.com/bruno-canada/integrityguard
+Author: Bruno Bueno
+Author-email: bbueno_python@fastmail.com
+License: MIT license
+Keywords: integrityguard
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+License-File: LICENSE
+License-File: AUTHORS.md
+Requires-Dist: Click (>=7.0)
+
+# IntegrityGuard
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
+Multiplatform agent for file integrity monitoring (FIM).
+
+The main motivation for this project is to offer all the minimum features required for a reliable FIM that is independent of any other big monitoring platform.
+
+<strong>IMPORTANT:</strong> This project is currently an ALPHA release. Not suitable for production environment, it is still a work in progress.
+
+# Features highlight
+
+- Simple and centralized configuration YAML file (`config.yml`)
+- Generate logs of any changes in real-time for future auditing
+- Push notifications to an API endpoint
+- Send email alerts
+- Supported hashing methods: "md5", "sha1", "sha224", "sha256", "sha384", "sha512"
+
+# Call for contributors
+
+This project is just at the begining of its development. We're currently looking for engaged and energized people to colaborate and make it awesome.
+
+
+
+
+=======
+History
+=======
+
+0.1.0 (2021-12-28)
+------------------
+
+* Alpha release on PyPI.
+
+
