@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+autobahn_api/__init__.py
+autobahn_api/cli.py
+autobahn_api/data.py
+autobahn_api/info.py
+autobahn_api.egg-info/PKG-INFO
+autobahn_api.egg-info/SOURCES.txt
+autobahn_api.egg-info/dependency_links.txt
+autobahn_api.egg-info/entry_points.txt
+autobahn_api.egg-info/not-zip-safe
+autobahn_api.egg-info/top_level.txt
