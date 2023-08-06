@@ -1,0 +1,6 @@
+[console_scripts]
+whackercmd = whackerhero:main
+
+[gui_scripts]
+whackerhero = whackerhero:gui [gui]
+
