@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: jsee
+Version: 0.0.1
+Summary: Simple GUI for processing tasks
+Home-page: https://github.com/jseeio/jsee-py
+Author: Anton Zemlyansky
+Author-email: anton@zemlyansky.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: flask
+Requires-Dist: waitress
+
+UNKNOWN
+
