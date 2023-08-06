@@ -1,0 +1,2 @@
+django>=3.2
+django-expression-index>=0.1.0
