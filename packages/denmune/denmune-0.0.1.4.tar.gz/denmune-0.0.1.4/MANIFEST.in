@@ -1,0 +1,3 @@
+recursive-include data *.txt *.csv
+recursive-include notebooks *.ipynb *.py *.png *.csv
+recursive-include examples *.ipynb *.py *.png *.csv
