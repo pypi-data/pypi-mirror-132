@@ -1,0 +1,16 @@
+datadelta/__init__.py,sha256=CsxDKF5ZkP0DymjBhnaEp4wWjK4ghEuLGuSiMCMpLXE,24
+datadelta/datadelta.py,sha256=Ap3jJGMDYRm-qJpH7kGP7ATs4zoSIESHCoWgTZta-3Y,43884
+datadelta/data/EqualDataFrames_new_df.csv,sha256=NJ7VK0bHGqvyPaXcIX9drIq3nAIWI8ClQl8b9Pqote4,1002
+datadelta/data/EqualDataFrames_old_df.csv,sha256=NJ7VK0bHGqvyPaXcIX9drIq3nAIWI8ClQl8b9Pqote4,1002
+datadelta/data/MainTestData_new_df.csv,sha256=CEGwaAoshQqv23WTlu9vC6J8djeYg0Kfdw02o_CxJjY,597
+datadelta/data/MainTestData_old_df.csv,sha256=IvoydVV-utj85hqVpM_Hf2BFANW6AnIXtL1hGq4WjuY,591
+datadelta/data/RemovedColumns_new_df.csv,sha256=h7tz4dUbzOvtCU7YukMMBsx61jZjj2n2m12rFRf3JKE,757
+datadelta/data/RemovedColumns_old_df.csv,sha256=NJ7VK0bHGqvyPaXcIX9drIq3nAIWI8ClQl8b9Pqote4,1002
+datadelta/data/correct_column_subset_report.pickle,sha256=vyx-NUsK7Ew6hG_OmKE7SNqYATbC4Hwv46lR8fQifF0,4839
+datadelta/data/correct_consolidated_report.pickle,sha256=MAYNoXuZi1sh7a-R3DqbQeAERQVPMBo7FCjTRx9gwXs,5979
+datadelta/data/datadelta_html_report.html,sha256=i9UUvuBmEIxcM-ZiNqrHLpvMSDADgu4kj06__h7lfM4,29901
+datadelta-0.0.2.dist-info/LICENSE.txt,sha256=gcuuhKKc5-dwvyvHsXjlC9oM6N5gZ6umYbC8ewW1Yvg,35821
+datadelta-0.0.2.dist-info/METADATA,sha256=yDn3ZQTerjWOSjyiOOqRskm70TKWk1Z2IaxnK_RHhyk,9058
+datadelta-0.0.2.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+datadelta-0.0.2.dist-info/top_level.txt,sha256=JFtTEfateWU8AyrG7p761VLc9AywsL3a-oG76saV-eE,10
+datadelta-0.0.2.dist-info/RECORD,,
