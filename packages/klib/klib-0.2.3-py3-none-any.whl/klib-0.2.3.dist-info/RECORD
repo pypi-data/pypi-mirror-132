@@ -1,0 +1,11 @@
+klib/__init__.py,sha256=YWMBN0BgquPCzPdYfP_x1raxIZdvFo0dzbiTUKVs1j0,959
+klib/_version.py,sha256=JF8cUYc9TNp7nlULwW9JpSNVF0zOKJcwUeNMuWeTqPg,52
+klib/clean.py,sha256=spiVa2oxPlL3KMoL-Qjmpzz3_-OD2v9OolcY2SResrM,28939
+klib/describe.py,sha256=Qec_MoBPpcukQ45a4JDvnKTamsSOWw2vbYCPlAvEtq8,26684
+klib/preprocess.py,sha256=PhGmzyUVmQEotMYLrrv7_OSI6b0s-xSYjRL-2aFJmKo,8716
+klib/scripts/performance.py,sha256=AP4Psunp9YQvd9cwu6vpFdEoHVaPYW2vLvW4v7KrepA,1761
+klib/utils.py,sha256=Zqicy_vXiqV0lYRRaxOXVD6Z4wwmEwCA7i_GkngFb-k,9348
+klib-0.2.3.dist-info/LICENSE,sha256=D2FkqMKafLW4lAmTPWlnOYv5hiF8Amckc9F_35v2HRg,1069
+klib-0.2.3.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+klib-0.2.3.dist-info/METADATA,sha256=pOu86OmZ6-VMQ4yEgIOe538txwGVVlT6QBnlElETbQg,6882
+klib-0.2.3.dist-info/RECORD,,
