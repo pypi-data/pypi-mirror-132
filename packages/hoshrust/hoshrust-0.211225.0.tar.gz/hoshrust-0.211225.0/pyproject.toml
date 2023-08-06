@@ -1,0 +1,19 @@
+[build-system]
+requires = ["maturin>=0.10,<0.11"]
+build-backend = "maturin"
+
+[tool.poetry]
+name = "hoshrust"
+version = "0.211225.0"
+description = "Fast operable 22-digit hash for few repetitions"
+authors = ["davips <dpsabc@gmail.com>"]
+license = "GPL"
+readme = 'README.md'
+
+[tool.poetry.dependencies]
+python = "^3.8"
+colored = "^1.4.2"
+
+[tool.poetry.dev-dependencies]
+autoreadme = "^0.2102.20"
+twine = "^3.7.1"
