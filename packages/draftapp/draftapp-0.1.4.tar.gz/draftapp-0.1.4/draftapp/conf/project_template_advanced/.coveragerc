@@ -1,0 +1,6 @@
+[report]
+fail_under = 50
+show_missing = True
+
+[run]
+omit = project_name/log.py

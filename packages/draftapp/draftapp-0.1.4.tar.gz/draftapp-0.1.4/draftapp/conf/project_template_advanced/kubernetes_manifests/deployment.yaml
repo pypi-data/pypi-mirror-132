@@ -1,0 +1,58 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: application-backend
+  labels:
+    app: application
+    component: application
+spec:
+  selector:
+    matchLabels:
+      app: application
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: application
+        component: application
+    spec:
+      volumes:
+      - name: app-config
+        configMap:
+          name: application-configmap
+          items:
+          - key: application.ini
+            path: application.ini
+      containers:
+      - env:
+        - name: SETTINGS
+          value: /project_name/configs/application.ini
+        image: <app_image_name_here>
+        imagePullPolicy: IfNotPresent
+        name: application
+        resources:
+          requests:
+            memory: "50Mi"
+            cpu: "50m"
+          limits:
+            memory: "2000Mi"
+            cpu: "2"
+        volumeMounts:
+          - name: app-config
+            mountPath: /project_name/configs/application.ini
+            subPath: application.ini
+        ports:
+        - containerPort: 5000
+          protocol: TCP
+        livenessProbe:
+          httpGet:
+            path: /application/api/v1/ping
+            port: 5000
+          initialDelaySeconds: 60
+          periodSeconds: 60
+        readinessProbe:
+          httpGet:
+            path: /application/api/v1/ping
+            port: 5000
+          initialDelaySeconds: 60
+          periodSeconds: 15

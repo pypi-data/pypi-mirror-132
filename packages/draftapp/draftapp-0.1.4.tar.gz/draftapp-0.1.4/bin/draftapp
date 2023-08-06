@@ -1,0 +1,38 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import click
+from draftapp.validations import validate_frameworks
+from draftapp.utils import build_app
+
+
+@click.group()
+def cli():
+    pass
+
+
+@cli.command()
+@click.option('--type', '-t', default='basic', help='type of the app (basic / advanced)')
+@click.option('--name', '-n', help='name of the app')
+@click.option('--directory', '-d', default=None, help='directory in which the project is to be created. defaults to current working directory')
+def flask(type, name, directory):
+    """
+    Python framework setup
+
+    Usage:
+            draftapp flask -t basic -n portfolio
+    """
+
+    try:
+
+        # Validating the framework and type
+        validate_frameworks('flask', type)
+        click.echo(click.style('O', fg='blue') + " Building your {} {} application...".format(type, 'flask'))
+        build_app(name, directory, 'flask', type)
+        click.echo(click.style(u'\u2713', fg='green') + " Application has been created successfully !")
+
+    except Exception as e:
+        click.echo(e)
+
+
+if __name__ == "__main__":
+    cli()
