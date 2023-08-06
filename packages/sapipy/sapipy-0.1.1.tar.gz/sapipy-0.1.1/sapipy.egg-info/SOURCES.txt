@@ -1,0 +1,8 @@
+README.md
+setup.py
+sapipy/__init__.py
+sapipy.egg-info/PKG-INFO
+sapipy.egg-info/SOURCES.txt
+sapipy.egg-info/dependency_links.txt
+sapipy.egg-info/requires.txt
+sapipy.egg-info/top_level.txt
