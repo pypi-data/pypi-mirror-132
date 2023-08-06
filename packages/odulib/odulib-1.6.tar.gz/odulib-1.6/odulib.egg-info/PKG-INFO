@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: odulib
+Version: 1.6
+Summary: Add static script_dir() method to Path
+Home-page: https://github.com/deaflurryth/odulib
+Author: deaflurryth
+Author-email: deaflurryth@icloud.com
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
