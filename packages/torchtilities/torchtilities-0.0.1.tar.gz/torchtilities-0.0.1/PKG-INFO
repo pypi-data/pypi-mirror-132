@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: torchtilities
+Version: 0.0.1
+Summary: Utilities for PyTorch and conversion functions
+Home-page: https://hutsons-hacks.info/
+Author: Gary Hutson
+Author-email: hutsons-hacks@outlook.com
+License: MIT
+Keywords: pytorch utilities python
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Unix
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENCE.txt
+
+Utilities for working and converting PyTorch objects.
+
+Change Log 
+==========
+0.01 (23/12/2020)
+------------------
+- First release of package with onnx_converter function under torchvert
+
+

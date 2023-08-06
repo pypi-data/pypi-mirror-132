@@ -1,0 +1,13 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+torchtilities.egg-info/PKG-INFO
+torchtilities.egg-info/SOURCES.txt
+torchtilities.egg-info/dependency_links.txt
+torchtilities.egg-info/requires.txt
+torchtilities.egg-info/top_level.txt
+torchvert/__init__.py
+torchvert/onnx_converter.py
