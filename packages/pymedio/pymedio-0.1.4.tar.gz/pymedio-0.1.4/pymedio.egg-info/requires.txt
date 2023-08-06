@@ -1,0 +1,6 @@
+numpy>=1.21
+pydicom>=2
+
+[all]
+nibabel>=3
+SimpleITK>=2.1.0
