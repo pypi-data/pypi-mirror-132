@@ -1,0 +1,8 @@
+earendil/__init__.py,sha256=9y-YuBg2KIJhtbUu0o6geB-LBbY14vP4iJ_XNUkbflA,192
+earendil/base_email.py,sha256=kkjj7Pca8WONw5q7go5-I7VjCXcjb5tsjF8Dp8G8JNk,655
+earendil/mailer.py,sha256=dJhUdHI-abVdHEFPr0MQjybJp4gItcEqzEPTLHEjEdc,1642
+earendil/markdown_email.py,sha256=xg7MGEkSr2Hyo3bq51bfHDGzxP3TpLNiu6uzTu58PCo,1262
+earendil/plaintext_renderer.py,sha256=tmUFQYLaqN5gVHmWQ1twS55yiLhp-sbs8gYBIYUDcS4,1557
+earendil_mail-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+earendil_mail-0.1.0.dist-info/METADATA,sha256=pfoT3ykLOzXGJyiZV5icloGDz90Xkcukh47jNtIbg8g,3419
+earendil_mail-0.1.0.dist-info/RECORD,,
