@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: sinuiMSP
+Version: 1.1
+Summary: none
+Home-page: UNKNOWN
+Author: SilverPage
+Author-email: SilverPage80@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: typing
+Requires-Dist: pywin32
+Requires-Dist: pyaudio
+Requires-Dist: keyboard
+Requires-Dist: clipboard
+Requires-Dist: speechrecognition
+Requires-Dist: googletrans
+Requires-Dist: playsound
+Requires-Dist: pipwin
+Requires-Dist: pygame
+Requires-Dist: datetime
+Requires-Dist: time
+Requires-Dist: gtts
+
+UNKNOWN
+
