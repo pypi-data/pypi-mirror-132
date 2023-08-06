@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+pyifc/__init__.py
+pyifc/_utils.py
+pyifc.egg-info/PKG-INFO
+pyifc.egg-info/SOURCES.txt
+pyifc.egg-info/dependency_links.txt
+pyifc.egg-info/requires.txt
+pyifc.egg-info/top_level.txt
+pyifc/compress/__init__.py
+pyifc/compress/_compress.py
+pyifc/compress/_exceptions.py
+pyifc/compress/_pack.py
+pyifc/compress/_validators.py
+typings/__init__.py
