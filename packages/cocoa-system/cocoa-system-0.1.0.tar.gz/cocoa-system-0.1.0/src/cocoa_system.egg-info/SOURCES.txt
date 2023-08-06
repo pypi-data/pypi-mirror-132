@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/cocoa_system/DataAugmentation.py
+src/cocoa_system/__init__.py
+src/cocoa_system.egg-info/PKG-INFO
+src/cocoa_system.egg-info/SOURCES.txt
+src/cocoa_system.egg-info/dependency_links.txt
+src/cocoa_system.egg-info/top_level.txt
