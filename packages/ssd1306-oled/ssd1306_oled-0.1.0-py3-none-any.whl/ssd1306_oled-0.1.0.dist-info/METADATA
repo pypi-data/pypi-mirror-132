@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ssd1306-oled
+Version: 0.1.0
+Summary: ssd1306 spi oled package.
+Home-page: https://github.com/themakerrobot/openpibo_models
+Author: circulus
+Author-email: leeyunjai@circul.us
+License: UNKNOWN
+Keywords: ssd1306
+Platform: UNKNOWN
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: pillow (==7.2.0)
+
+ssd1306_oled
+===============
+
+This package and files contains only used by ssd1306 oled spi
+
+
