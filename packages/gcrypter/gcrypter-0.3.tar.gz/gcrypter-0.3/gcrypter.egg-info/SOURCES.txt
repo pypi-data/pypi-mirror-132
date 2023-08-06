@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+gcrypter/__init__.py
+gcrypter/decrypt.py
+gcrypter/encrypt.py
+gcrypter.egg-info/PKG-INFO
+gcrypter.egg-info/SOURCES.txt
+gcrypter.egg-info/dependency_links.txt
+gcrypter.egg-info/top_level.txt
