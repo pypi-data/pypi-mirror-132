@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pikz/__init__.py
+src/pikz/compile.py
+src/pikz.egg-info/PKG-INFO
+src/pikz.egg-info/SOURCES.txt
+src/pikz.egg-info/dependency_links.txt
+src/pikz.egg-info/top_level.txt
