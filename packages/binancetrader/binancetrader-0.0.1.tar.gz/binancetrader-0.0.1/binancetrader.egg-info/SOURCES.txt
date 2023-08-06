@@ -1,0 +1,7 @@
+LICENCE
+README.md
+setup.py
+binancetrader.egg-info/PKG-INFO
+binancetrader.egg-info/SOURCES.txt
+binancetrader.egg-info/dependency_links.txt
+binancetrader.egg-info/top_level.txt
