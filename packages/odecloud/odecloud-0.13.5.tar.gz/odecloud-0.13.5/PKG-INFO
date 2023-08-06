@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: odecloud
+Version: 0.13.5
+Summary: Python client for https://server.odecloud.app
+Home-page: https://gitlab.com/odetech/python_odecloud
+License: MIT
+Author: Vanielle
+Author-email: vanielle@odecloud.com
+Maintainer: OdeCloud
+Maintainer-email: support@odecloud.com
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: certifi (==2021.10.8)
+Requires-Dist: charset-normalizer (==2.0.9)
+Requires-Dist: idna (==3.3)
+Requires-Dist: requests (==2.26.0)
+Requires-Dist: urllib3 (==1.26.7)
+Project-URL: Repository, https://gitlab.com/odetech/python_odecloud
