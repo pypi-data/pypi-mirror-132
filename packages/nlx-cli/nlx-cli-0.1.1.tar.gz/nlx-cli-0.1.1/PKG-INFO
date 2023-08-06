@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: nlx-cli
+Version: 0.1.1
+Summary: Python SDK for interacting with the NLx API and other affiliated tools
+License: NO_LICENSE
+Author: jjorissen52
+Author-email: jjorissen52@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: fire (>=0.4.0,<0.5.0)
+Requires-Dist: python-dateutil (>=2.8.2,<3.0.0)
+Requires-Dist: python-dotenv (>=0.19.2,<0.20.0)
+Requires-Dist: requests (>=2.26.0,<3.0.0)
+Requires-Dist: rich (>=10.16.1,<11.0.0)
