@@ -1,0 +1,3 @@
+[console_scripts]
+getmusic = tube.get_music_line:main
+
