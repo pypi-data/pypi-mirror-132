@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "bankreport"
+version = "0.1.1"
+description = "Parse and analyze csv files from online banking."
+authors = ["Heinrich Hartmann <heinrich@heinrichhartmann.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pandas = "^1.1.4"
+click = "^7.1.2"
+
+[tool.poetry.scripts]
+bankreport = 'bankreport:main'
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pyright]
+reportOptionalMemberAccess = false
