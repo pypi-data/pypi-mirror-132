@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+slovik/__init__.py
+slovik.egg-info/PKG-INFO
+slovik.egg-info/SOURCES.txt
+slovik.egg-info/dependency_links.txt
+slovik.egg-info/top_level.txt
