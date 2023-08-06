@@ -1,0 +1,10 @@
+smw_music/__init__.py,sha256=94KgEoaAqytRLeyNRsNLFrpDTJLM_EOSMDTJ78Y3Zew,242
+smw_music/music_xml.py,sha256=WGfb3pvncfR4dfVu27FOXMJuKmGpgt3_0q5S4GjCf34,14494
+smw_music/scripts/__init__.py,sha256=516ocMp0-5s4BYSUmt2CuV3LUHGepxaxazBJadYPypc,204
+smw_music/scripts/convert.py,sha256=CZ7O0PQzttFF_OWdDJ_9JU_bF7yNKvx89-bQKuLbAP8,1509
+smw_music-0.1.1.dist-info/entry_points.txt,sha256=4q5qFt8m7H__52fU3UNW-BNEjd-lFF9tfBw_4oIFXTI,71
+smw_music-0.1.1.dist-info/LICENSES/CC0-1.0.txt,sha256=ogEPNDSH0_dhiv_lT3ifVIdgIzHAqNA_SemnxUfPBJk,7048
+smw_music-0.1.1.dist-info/LICENSES/AGPL-3.0-only.txt,sha256=2KbMMavBa2dIx6IfIWEfWh7DP2fSLKI9faHBm5VJa-4,34020
+smw_music-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+smw_music-0.1.1.dist-info/METADATA,sha256=963h6LQxBXZZ-_aoQmC4IoAH4CEgcZnL1oTG1XHfR70,5183
+smw_music-0.1.1.dist-info/RECORD,,

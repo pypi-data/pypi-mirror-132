@@ -1,0 +1,3 @@
+[console_scripts]
+smw_music_xml_to_amk=smw_music.scripts.convert:main
+
