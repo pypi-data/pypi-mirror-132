@@ -1,0 +1,10 @@
+pyproject.toml
+pythonutilities/__init__.py
+pythonutilities/log.py
+pythonutilities/pinfo.py
+pythonutilities/setup.py
+pythonutilities/source.py
+pyutils_cr.egg-info/PKG-INFO
+pyutils_cr.egg-info/SOURCES.txt
+pyutils_cr.egg-info/dependency_links.txt
+pyutils_cr.egg-info/top_level.txt
