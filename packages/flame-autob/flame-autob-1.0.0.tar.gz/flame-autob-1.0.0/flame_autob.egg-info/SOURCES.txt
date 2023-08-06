@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+setup.py
+flame_auto/__init__.py
+flame_auto/cvae.py
+flame_auto/datat.py
+flame_auto/lstm.py
+flame_auto/model.py
+flame_auto/trainer.py
+flame_auto/utils.py
+flame_autob.egg-info/PKG-INFO
+flame_autob.egg-info/SOURCES.txt
+flame_autob.egg-info/dependency_links.txt
+flame_autob.egg-info/requires.txt
+flame_autob.egg-info/top_level.txt
