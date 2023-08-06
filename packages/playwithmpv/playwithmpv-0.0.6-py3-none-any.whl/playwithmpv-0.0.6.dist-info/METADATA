@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: playwithmpv
+Version: 0.0.6
+Summary: A server to support playing videos with mpv
+Home-page: https://github.com/playallwithmpv/playwithmpv
+Author: Wullic
+Author-email: wenliang.ouyang@outlook.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.8.2
+Description-Content-Type: text/markdown
+Requires-Dist: webargs (>=8.0.1)
+Requires-Dist: Flask (>=2.0.2)
+Requires-Dist: youtube-dl
+Requires-Dist: wheel
+
+
+# playinmpv
+Play videos in mpv, First support for bilibili.
+Mpv is so free to hack and to configure, mainly for no-download, free customization, amazing plugins and move enhacement.
+
+
