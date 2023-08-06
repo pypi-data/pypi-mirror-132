@@ -1,0 +1,9 @@
+calculate/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+calculate/calc.py,sha256=iGjCHJNzDUPfaADJ2SxRL3esrQfAxboLuSKG4y7kyLw,617
+calculate/temp_dir.py,sha256=2W2xwv8huf7Nqb2XIyq-XGejdB3BKD2unJLh7qzY7Ks,774
+calculate/unit_tests.py,sha256=INEPvv-P7PmIFbe_rm1_Br1-DR-5d1NaLcFWm3KabOU,800
+example_pkg_naturalett-1.4.data/scripts/calc.py,sha256=iGjCHJNzDUPfaADJ2SxRL3esrQfAxboLuSKG4y7kyLw,617
+example_pkg_naturalett-1.4.dist-info/METADATA,sha256=vGiAnmmCk15kWTD8bzrCa3nlhZpQ9gOqHMsvthZGgkU,271
+example_pkg_naturalett-1.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+example_pkg_naturalett-1.4.dist-info/top_level.txt,sha256=6ZTAowwBxlSEDS1GfMtlGDijN6BfDLe_m73jRe_oxrY,10
+example_pkg_naturalett-1.4.dist-info/RECORD,,
