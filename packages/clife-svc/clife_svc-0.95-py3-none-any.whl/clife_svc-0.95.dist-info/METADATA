@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: clife-svc
+Version: 0.95
+Summary: A module for service
+Home-page: UNKNOWN
+Author: andy.hu
+Author-email: hlp0@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: loguru (==0.5.3)
+Requires-Dist: aiohttp (==3.8.1)
+Requires-Dist: uvicorn (==0.13.4)
+Requires-Dist: requests (==2.25.1)
+Requires-Dist: aiofiles (==0.7.0)
+Requires-Dist: fastapi (==0.65.2)
+Requires-Dist: cos-python-sdk-v5 (==1.9.7)
+Requires-Dist: orjson (==3.6.1)
+Requires-Dist: contextvars (==2.4)
+
+#clife_svc
+
+
