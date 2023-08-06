@@ -1,0 +1,4 @@
+lxml
+h5py
+html5lib
+reportlab

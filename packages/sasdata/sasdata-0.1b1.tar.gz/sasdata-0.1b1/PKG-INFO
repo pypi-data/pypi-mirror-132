@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: sasdata
+Version: 0.1b1
+Summary: SasData Loader application
+Home-page: http://sasview.org
+Author: SasView Team
+Author-email: developers@sasview.org
+License: PSF
+Download-URL: https://github.com/SasView/sasdata.git
+Keywords: small-angle x-ray and neutron scattering data loading
+Platform: UNKNOWN
+
+UNKNOWN
+
