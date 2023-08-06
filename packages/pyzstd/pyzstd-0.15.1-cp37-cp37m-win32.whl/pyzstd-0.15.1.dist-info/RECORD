@@ -1,0 +1,10 @@
+pyzstd/__init__.py,sha256=x8qnUxbAEGofCQ5byfAnBG8Nn9d9kpmA9eOi8B5_CKQ,26506
+pyzstd/__init__.pyi,sha256=T4CNK1sI3BOpq_M-SPSiA-KI4D_puOjzaSVegrzwjHg,7719
+pyzstd/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyzstd/c/_zstd.cp37-win32.pyd,sha256=MeB8bBfngxZAV0R5R4RNq3A5t19KamAwUYSzfnXHA5s,458240
+pyzstd/c/c_pyzstd.py,sha256=2lu9dTa3bRASUfr7MyOTlPNNsGT-6AGbicp_a1QWQtk,4380
+pyzstd-0.15.1.dist-info/LICENSE,sha256=y5Cq45plzYbkP0wvi2bUcBhhY5kaaNw3hvdJhIO_ee4,1551
+pyzstd-0.15.1.dist-info/METADATA,sha256=IvcWVQJr7wC3Ah4PmbDa8jwWOVxx_H3Zu-6ACb4l4DY,4872
+pyzstd-0.15.1.dist-info/WHEEL,sha256=9OdCYMNQUOC_P9zHBse4QOXtlFK2lgCwV_yVRgNexF8,97
+pyzstd-0.15.1.dist-info/top_level.txt,sha256=9Sl3x1CXrPdyG5muunGLOQpJEbiwW6WW8Y46nZMgWsE,7
+pyzstd-0.15.1.dist-info/RECORD,,
