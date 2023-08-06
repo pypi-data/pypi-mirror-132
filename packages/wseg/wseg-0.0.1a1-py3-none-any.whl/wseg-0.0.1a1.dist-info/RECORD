@@ -1,0 +1,11 @@
+wseg/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wseg/dict_based.py,sha256=JGA2ch38Qf4KHX1fLzjbR7r8bVQ7GBlrSUj80C8Sblc,591
+wseg/__pycache__/__init__.cpython-36.pyc,sha256=VdfnS1YVrmRiooz7jaNvf6WcVR_YpnX2Eoo92ySQffI,154
+wseg/__pycache__/dict_based.cpython-36.pyc,sha256=wjtHxGz_0sGb2xHUQ-9AYudGumls8Z476Mtm9BMAdNI,996
+wseg/data/30wChinesesSeqDic_clean.txt,sha256=Oet6-37v8Q06LaBw_MIURLRgXZvoj4G6EkibsX4UbaU,3115128
+wseg/libs/BIMM.cp36-win_amd64.pyd,sha256=eplPjpOFcoWrPGQqWCT86Dx-jDbimDCHScPm6juoEJI,79360
+wseg-0.0.1a1.dist-info/LICENSE.txt,sha256=ceC9ZJOV9H6CtQDcYmHOS46NA3dHJ_WD4J9blH513pc,1081
+wseg-0.0.1a1.dist-info/METADATA,sha256=4gvxFCJ9XhJxpIoLjOzoehdM15b2lwxqaTVIRqBZTqc,1257
+wseg-0.0.1a1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+wseg-0.0.1a1.dist-info/top_level.txt,sha256=Aky3BVpoXSDkEcMFIjb5XPcy5yT-5UPoRkm-ogMLYUM,5
+wseg-0.0.1a1.dist-info/RECORD,,
