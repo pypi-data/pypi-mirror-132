@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: transcli
+Version: 0.1.1
+Summary: Command line translation tool (CN to EN)
+Home-page: https://github.com/louisyoungx/transcli
+Author: louisyoungx
+Author-email: 1462648167@qq.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/louisyoungx/transcli/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# transcli
+Command line translation tool (CN <---> EN)
+
+## Quick start in 1 second
+
+use pip to install `transcli`
+```shell
+pip install transcli
+```
+
+use command-line to run `transcli`
+```shell
+transcli apple
+```
+
+*result:*
+```shell
+英文 -> 中文
+apple
+结果:苹果
+英[ˈæp(ə)l]美[ˈæpl]
+词义:
+n. 苹果
+网络释义:
+Apple,苹果公司
+apple inc,苹果公司; 美国苹果公司; 苹果
+BIG APPLE,大苹果; 纽约; 大苹果城
+```
+
+
+
