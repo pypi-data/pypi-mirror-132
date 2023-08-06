@@ -1,0 +1,10 @@
+aws_cdk/aws_redshift/__init__.py,sha256=o1NivQepgwacUJrE3df4SNurp6J7ZP5yp3yvUTspXSg,349567
+aws_cdk/aws_redshift/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aws_cdk/aws_redshift/_jsii/__init__.py,sha256=yRzrGAq0WPaO4bMNKV-FZyVTdbFIgGLE_ZKDot8wO4g,600
+aws_cdk/aws_redshift/_jsii/aws-redshift@1.137.0.jsii.tgz,sha256=TcJ76IGBQUpYOdog2r-_iJgZXnUXJD04PP5GJ70oi40,153861
+aws_cdk.aws_redshift-1.137.0.dist-info/LICENSE,sha256=PPdRlpoLCV1CRrCV1eKpp3m0lNjchFAP4a9zfc8tRLo,11391
+aws_cdk.aws_redshift-1.137.0.dist-info/METADATA,sha256=a9q0T7z2l-8Z-mcv5TzrhhLbMwm3_sywbwvlwo9YHgY,11541
+aws_cdk.aws_redshift-1.137.0.dist-info/NOTICE,sha256=xo56krus2e5ShfXqz_B7vuvGcMn_D0F7TjjpfTz8YMw,113
+aws_cdk.aws_redshift-1.137.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+aws_cdk.aws_redshift-1.137.0.dist-info/top_level.txt,sha256=1TALAKbuUGsMSrfKWEf268lySCmcqSEO6cDYe_XlLHM,8
+aws_cdk.aws_redshift-1.137.0.dist-info/RECORD,,
