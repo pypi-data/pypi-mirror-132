@@ -1,0 +1,3 @@
+[console_scripts]
+selenium-webdriver-extender = selenium_webdriver_extender.cli:main
+
