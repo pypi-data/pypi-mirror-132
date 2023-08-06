@@ -1,0 +1,448 @@
+2021-12-30 19:16:30,856 INFO Interferometer Controller runner utils/base_runner.py:28: Interferometer controller is running.
+2021-12-30 19:16:30,861 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:30,862 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:30,887 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:30,888 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:30,911 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:30,912 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:30,934 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:30,935 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:30,959 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:30,959 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:30,981 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:30,981 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,005 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,006 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,031 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,032 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,053 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,054 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,075 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,076 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,098 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,099 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,122 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,123 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,147 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,148 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,172 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,173 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,198 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,199 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,224 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,225 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,251 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,252 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,276 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,276 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,302 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,302 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,327 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,328 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,354 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,354 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,381 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,381 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,407 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,408 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,431 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,432 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,457 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,458 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,481 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,482 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,508 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,508 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,531 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,532 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,555 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,556 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,581 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,582 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,605 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,605 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,628 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,629 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,651 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,652 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,678 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,678 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,704 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,705 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,727 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,727 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,751 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,751 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5400> (pickle size: 135)
+2021-12-30 19:16:31,777 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,777 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5460> (pickle size: 135)
+2021-12-30 19:16:31,802 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,803 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,827 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,828 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5460> (pickle size: 135)
+2021-12-30 19:16:31,853 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,853 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,854 INFO InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:45: Stepping at 40.93 Hz
+2021-12-30 19:16:31,879 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,880 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,905 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,906 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:31,931 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,932 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:31,957 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,958 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:31,984 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:31,985 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,009 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,010 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,035 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,036 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,060 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,060 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,082 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,082 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,104 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,105 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,127 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,128 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,151 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,152 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,176 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,177 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,203 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,204 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,227 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,228 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,251 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,251 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,277 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,277 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,302 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,303 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,327 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,328 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,349 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,350 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,373 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,374 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,398 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,399 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,422 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,423 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,448 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,449 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,472 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,473 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,499 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,499 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,522 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,522 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,548 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,549 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,572 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,573 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,598 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,599 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,622 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,623 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,648 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,648 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,670 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,671 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,694 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,694 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,719 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,720 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,745 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,746 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,767 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,768 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,789 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,789 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,814 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,814 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,838 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,839 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,864 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,865 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,866 INFO InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:45: Stepping at 40.53 Hz
+2021-12-30 19:16:32,887 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,888 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,914 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,914 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,940 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,940 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:32,963 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,963 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:32,986 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:32,987 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,011 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,012 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,036 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,036 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,062 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,063 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,085 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,085 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,110 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,110 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,136 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,137 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,163 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,164 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,189 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,190 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,215 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,215 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,241 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,242 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,265 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,266 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,288 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,289 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,315 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,315 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,341 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,342 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,366 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,367 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,393 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,393 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,415 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,416 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,439 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,440 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,464 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,465 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,489 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,490 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,515 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,516 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,540 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,541 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,565 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,566 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,588 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,589 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,615 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,615 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,636 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,637 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,660 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,660 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,683 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,683 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,706 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,707 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,731 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,732 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,758 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,758 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,781 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,782 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,806 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,807 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,831 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,832 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,857 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,857 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,881 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,882 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,883 INFO InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:45: Stepping at 40.31 Hz
+2021-12-30 19:16:33,905 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,906 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,927 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,928 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,950 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,950 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:33,973 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,973 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:33,998 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:33,999 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,020 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,021 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,045 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,045 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,071 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,072 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,098 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,099 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,124 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,125 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,147 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,148 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,172 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,172 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,198 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,199 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,223 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,224 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,248 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,249 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,275 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,276 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,298 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,299 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,324 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,325 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,350 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,351 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,376 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,376 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,402 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,403 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,426 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,426 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,449 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,450 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,473 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,473 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,498 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,499 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,523 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,524 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,547 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,548 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,569 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,570 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,595 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,596 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,619 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,620 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,646 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,647 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,673 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,673 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,697 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,698 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,724 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,725 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,751 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,752 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,777 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,777 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,798 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,799 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,821 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,821 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,844 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,844 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,870 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,871 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,892 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,893 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,893 INFO InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:45: Stepping at 40.58 Hz
+2021-12-30 19:16:34,915 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,916 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,936 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,937 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:34,961 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,962 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:34,983 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:34,984 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,006 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,007 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,031 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,032 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,053 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,054 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,076 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,077 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,099 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,100 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,122 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,123 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,148 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,149 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,175 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,175 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,198 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,198 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,224 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,225 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,248 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,249 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,273 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,274 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,299 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,299 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,323 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,324 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,348 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,349 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,370 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,371 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,397 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,398 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,424 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,425 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,447 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,448 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,472 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,472 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,498 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,499 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,524 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,525 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,551 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,552 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,576 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,577 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,598 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,599 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,623 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,624 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,648 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,649 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,673 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,674 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,698 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,699 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,723 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,724 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,749 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,750 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,772 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,773 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,797 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,798 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,819 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,819 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,842 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,843 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,865 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,866 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,889 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,889 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,910 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,911 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,912 INFO InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:45: Stepping at 41.24 Hz
+2021-12-30 19:16:35,936 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,937 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:35,959 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,960 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:35,983 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:35,983 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:36,005 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,005 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:36,028 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,029 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:36,051 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,052 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:36,073 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,074 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:36,098 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,099 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:36,123 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,124 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:36,149 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,150 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:36,176 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,177 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:36,198 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,198 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:36,223 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,224 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5280> (pickle size: 135)
+2021-12-30 19:16:36,249 DEBUG InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:70: get InterferometerStatus
+2021-12-30 19:16:36,249 DEBUG ZmqRPC rpc/zmq_remote_procedure_call.py:37: sending <plico_interferometer.types.interferometer_status.InterferometerStatus object at 0x7ffce01b5430> (pickle size: 135)
+2021-12-30 19:16:36,270 INFO InterferometerController ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/controller.py:53: Got request to terminate
+2021-12-30 19:16:36,270 INFO Interferometer Controller runner ../../../../../../../../git/plico_interferometer_server/plico_interferometer_server/controller/runner.py:89: Terminated

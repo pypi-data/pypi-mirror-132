@@ -1,0 +1,5 @@
+#!/bin/bash
+# Auto-generated on 2021-12-30 19:16:29.969272 
+
+export PYTHONPATH="/Users/lbusoni/git/plico_interferometer_server/test/integration/../..":$PYTHONPATH
+python '/Users/lbusoni/git/plico_interferometer_server/test/integration/../../plico_interferometer_server/process_monitor/plico_interferometer_run_process_monitor.py' 'test/integration/conffiles/plico_interferometer_server.conf' processMonitor

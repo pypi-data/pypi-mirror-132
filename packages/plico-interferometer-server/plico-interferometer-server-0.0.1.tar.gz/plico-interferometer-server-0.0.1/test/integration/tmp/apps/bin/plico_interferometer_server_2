@@ -1,0 +1,5 @@
+#!/bin/bash
+# Auto-generated on 2021-12-30 19:16:30.002196 
+
+export PYTHONPATH="/Users/lbusoni/git/plico_interferometer_server/test/integration/../..":$PYTHONPATH
+python '/Users/lbusoni/git/plico_interferometer_server/test/integration/../../plico_interferometer_server/controller/plico_interferometer_run_controller.py' 'test/integration/conffiles/plico_interferometer_server.conf' interferometer2

@@ -1,0 +1,6 @@
+argv: ['plico_interferometer_server/process_monitor/plico_interferometer_run_process_monitor.py', 'test/integration/conffiles/plico_interferometer_server.conf', 'processMonitor']
+Setting up logging in file test/integration/tmp/log/processMonitor.log level 10
+argv: ['/Users/lbusoni/git/plico_interferometer_server/test/integration/../../plico_interferometer_server/controller/plico_interferometer_run_controller.py', 'test/integration/conffiles/plico_interferometer_server.conf', 'interferometer1']
+Setting up logging in file test/integration/tmp/log/interferometer1.log level 10
+argv: ['/Users/lbusoni/git/plico_interferometer_server/test/integration/../../plico_interferometer_server/controller/plico_interferometer_run_controller.py', 'test/integration/conffiles/plico_interferometer_server.conf', 'interferometer2']
+Setting up logging in file test/integration/tmp/log/interferometer2.log level 10
