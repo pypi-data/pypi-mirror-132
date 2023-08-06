@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: feast-spark-offline-store
+Version: 0.0.2
+Summary: Spark support for Feast offline store
+Home-page: https://github.com/Adyen/feast-spark-offline-store
+Author: Thijs Brits
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+Requires-Dist: feast (==0.14.1)
+Requires-Dist: pyspark (>=3.0)
+Requires-Dist: pyarrow (>=1.0.0)
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pytz (>=2021.3)
+Requires-Dist: pydantic (>=1.6)
+Provides-Extra: dev
+Requires-Dist: feast (==0.14.1) ; extra == 'dev'
+Requires-Dist: pyspark (>=3.0) ; extra == 'dev'
+Requires-Dist: pyarrow (>=1.0.0) ; extra == 'dev'
+Requires-Dist: numpy ; extra == 'dev'
+Requires-Dist: pandas ; extra == 'dev'
+Requires-Dist: pytz (>=2021.3) ; extra == 'dev'
+Requires-Dist: pydantic (>=1.6) ; extra == 'dev'
+Requires-Dist: wheel ; extra == 'dev'
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: pytest (>=6.2.5) ; extra == 'dev'
+Requires-Dist: google ; extra == 'dev'
+Provides-Extra: test
+Requires-Dist: feast (==0.14.1) ; extra == 'test'
+Requires-Dist: pyspark (>=3.0) ; extra == 'test'
+Requires-Dist: pyarrow (>=1.0.0) ; extra == 'test'
+Requires-Dist: numpy ; extra == 'test'
+Requires-Dist: pandas ; extra == 'test'
+Requires-Dist: pytz (>=2021.3) ; extra == 'test'
+Requires-Dist: pydantic (>=1.6) ; extra == 'test'
+Requires-Dist: pytest (>=6.2.5) ; extra == 'test'
+Requires-Dist: google ; extra == 'test'
+
+# Feast Spark Offline Store
+
+Custom offline store for feast to interface with spark.
+
+Currently only support for feast `0.14.1`
+
+## Installation
+
+`pip install -e .` 
+
+Development:
+
+`pip install -e .[dev]` 
+
+Testing:
+
+`pip install -e .[test]`
+
+## Use with feast
+Install feast and `feast_spark_offline_store` and change feast configurations in `feature_store.yaml` or 
+`RepoConfig` to use `feast_spark_offline_store.SparkOfflineStore`
+
