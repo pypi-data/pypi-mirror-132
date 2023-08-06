@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: rammer
+Version: 1.0.0
+Summary: Make a RAM indicator \ print in your python code!
+Author: OwoNicoo
+Author-email: 86409467+DiscordBotML@users.noreply.github.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
