@@ -1,0 +1,12 @@
+lxml
+cssselect
+future
+six
+
+[test]
+repoze.xmliter
+WebOb
+
+[wsgi]
+repoze.xmliter
+WebOb
