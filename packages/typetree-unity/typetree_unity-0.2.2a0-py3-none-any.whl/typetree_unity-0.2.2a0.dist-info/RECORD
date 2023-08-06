@@ -1,0 +1,10 @@
+typetree_unity/__init__.py,sha256=M6gy7B1BHJ0pYa-mh3iswTYiBRtVZVOOtq8Yj0dUjK4,1590
+typetree_unity/__main__.py,sha256=hKP7K31c_Uxps5Pf6bfue6Gu7wzAgjN84RDgSbwFeUU,4274
+typetree_unity/generator.py,sha256=cmqfLb22mZDGLKcM--Pcs0q-8p90GHQYIn_bMbzOGUo,7500
+typetree_unity/libs/TypeTreeGenerator/TypeTreeGenerator.dll,sha256=buw4lKxJTqhsTHRskwdkuQ4Vh8r6wG6uLNgkgMtQvUg,558592
+typetree_unity/libs/TypeTreeGenerator/TypeTreeGenerator.runtimeconfig.json,sha256=-ogqKFaWmqJ5UJOPI23C6zAuQMFNE9aRny2cLNb_3JI,148
+typetree_unity-0.2.2a0.dist-info/LICENSE,sha256=7DDZnUW5doFxtIxFoCcifJmwDF1xv5fgbBxxJhSXW1Y,1092
+typetree_unity-0.2.2a0.dist-info/METADATA,sha256=xEa0Pp6wn6CLuK7wfUtxEUlTKlBSbQbqZ-Ne-_2T7mo,3772
+typetree_unity-0.2.2a0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+typetree_unity-0.2.2a0.dist-info/top_level.txt,sha256=mOII3CSxP80Z_TFqlCJ3cpLJvRTR7YS3lz0s7InfF2c,15
+typetree_unity-0.2.2a0.dist-info/RECORD,,
