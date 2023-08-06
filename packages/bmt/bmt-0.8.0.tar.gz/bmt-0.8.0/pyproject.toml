@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "bmt"
+version = "0.7.8"
+description = "Biolink Model Toolkit: A Python API for working with the Biolink Model"
+authors = ["Sierra Taylor Moxon <sierra.taylor@gmail.com>"]
+license = "BSD"
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+linkml-runtime = "^1.1.12"
+deprecation = "^2.1.0"
+stringcase = "^1.2.0"
+pytest = "^6.2.5"
+Sphinx = "^4.3.2"
+sphinx-rtd-theme = "^1.0.0"
+sphinxcontrib-napoleon = "^0.7"
+numpydoc = "^1.1.0"
+recommonmark = "^0.7.1"
+tox = "^3.24.4"
+flake8 = "^4.0.1"
+black = "^21.12b0"
+biothings-explorer = "^1.1.0"
+linkml = "^1.1.14"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
