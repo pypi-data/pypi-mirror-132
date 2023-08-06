@@ -1,0 +1,8 @@
+LICENSE
+README
+pat
+setup.py
+patcat.egg-info/PKG-INFO
+patcat.egg-info/SOURCES.txt
+patcat.egg-info/dependency_links.txt
+patcat.egg-info/top_level.txt
