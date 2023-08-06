@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: hw_bonus_point_api
+Version: 1.0.1
+Summary: Python module for writing scripts for project management platform Club House (clubhouse.io API wrapper)
+Home-page: https://github.com/EgorMozharov/hw_bonus_point
+Author: Runner
+Author-email: levintsov.v.v@gmail.com
+License: Apache License, Version 2.0, see LICENSE file
+Download-URL: https://github.com/EgorMozharov/hw_bonus_point/archive/v1.0.1.zip
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Description-Content-Type: text/markdown
