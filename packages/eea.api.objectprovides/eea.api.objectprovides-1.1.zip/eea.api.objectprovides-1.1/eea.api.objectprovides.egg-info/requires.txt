@@ -1,0 +1,5 @@
+plone.restapi
+setuptools
+
+[test]
+plone.app.testing

@@ -1,0 +1,22 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:zcml="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:plone="http://namespaces.plone.org/plone"
+    i18n_domain="eea.restapi">
+
+  <include file="profiles.zcml" />
+  <include package=".browser" />
+  <include package=".upgrades" />
+
+  <adapter factory=".object_provides.ObjectProvides" name="object_provides"/>
+
+  <plone:service
+    method="GET"
+    for="zope.interface.Interface"
+    factory=".object_provides.ObjectProvidesGet"
+    name="@object_provides"
+    permission="zope2.View"
+    />
+
+</configure>
