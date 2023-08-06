@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+extended_maths/__init__.py
+extended_maths/extended_maths.py
+extended_maths.egg-info/PKG-INFO
+extended_maths.egg-info/SOURCES.txt
+extended_maths.egg-info/dependency_links.txt
+extended_maths.egg-info/not-zip-safe
+extended_maths.egg-info/top_level.txt
