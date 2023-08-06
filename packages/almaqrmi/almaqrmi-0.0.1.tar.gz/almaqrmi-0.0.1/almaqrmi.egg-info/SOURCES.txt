@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+almaqrmi.egg-info/PKG-INFO
+almaqrmi.egg-info/SOURCES.txt
+almaqrmi.egg-info/dependency_links.txt
+almaqrmi.egg-info/top_level.txt
+joshbasiccalculator/__init__.py
