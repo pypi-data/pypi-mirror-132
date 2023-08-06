@@ -1,0 +1,8 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "airtest>=1.2.4",
+    "pyside6"
+]
+build-backend = "setuptools.build_meta"
