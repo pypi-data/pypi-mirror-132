@@ -1,0 +1,7 @@
+setup.py
+lib/__init__.py
+lib/crc.py
+shacrc.egg-info/PKG-INFO
+shacrc.egg-info/SOURCES.txt
+shacrc.egg-info/dependency_links.txt
+shacrc.egg-info/top_level.txt
