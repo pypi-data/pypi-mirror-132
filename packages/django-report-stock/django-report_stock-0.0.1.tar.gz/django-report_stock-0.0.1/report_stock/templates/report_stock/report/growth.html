@@ -1,0 +1,49 @@
+<div class="card my-3">
+  <!-- growth_s : (매출액증가율, 영업이익률 평가 포인트) -->
+  <div class="card-header">
+    Growth {{growth.date}}
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="매출액은 어떤경우에도 성장하는 기업이 좋다.매출이 20%씩 늘어나는 종목은 유망한 종목">
+      <div class="row">
+        <div class="col-2">
+          매출액증가율 ({{growth_s.0}})
+        </div>
+        <div class="col">
+          <div class="row">
+            <div class="col-2">
+              {{ growth.매출액증가율.0 }}
+            </div>
+            <div class="col">
+              <div class="row">
+                {% for k, v in growth.매출액증가율.1.items reversed %}
+                <div class="col">
+                  {{ k }} {{ v }}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item" data-bs-toggle="tooltip"
+        title="영업이익률은 기업의 경쟁력척도로 경쟁사에 비해 높으면 경제적해자를 갖춘셈">
+      <div class="row">
+        <div class="col-2">
+          영업이익률 ({{growth_s.1}})
+        </div>
+        <div class="col">
+          <div class="row">
+            {% for k, v in growth.영업이익률.items %}
+            <div class="col">
+              {{ k }} {{ v }}
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
