@@ -1,0 +1,7 @@
+setup.py
+scrapingtype/__init__.py
+scrapingtype.egg-info/PKG-INFO
+scrapingtype.egg-info/SOURCES.txt
+scrapingtype.egg-info/dependency_links.txt
+scrapingtype.egg-info/requires.txt
+scrapingtype.egg-info/top_level.txt
