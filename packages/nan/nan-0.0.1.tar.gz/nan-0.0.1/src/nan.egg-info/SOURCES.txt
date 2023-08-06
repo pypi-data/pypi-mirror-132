@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/nan/__init__.py
+src/nan/example.py
+src/nan.egg-info/PKG-INFO
+src/nan.egg-info/SOURCES.txt
+src/nan.egg-info/dependency_links.txt
+src/nan.egg-info/top_level.txt
