@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/ajtest/__init__.py
+src/ajtest/module1.py
+src/ajtest/module2.py
+src/ajtest.egg-info/PKG-INFO
+src/ajtest.egg-info/SOURCES.txt
+src/ajtest.egg-info/dependency_links.txt
+src/ajtest.egg-info/top_level.txt
