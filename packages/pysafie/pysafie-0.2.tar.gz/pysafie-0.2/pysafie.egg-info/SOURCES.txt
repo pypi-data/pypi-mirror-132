@@ -1,0 +1,8 @@
+README.md
+setup.py
+pysafie/__init__.py
+pysafie.egg-info/PKG-INFO
+pysafie.egg-info/SOURCES.txt
+pysafie.egg-info/dependency_links.txt
+pysafie.egg-info/requires.txt
+pysafie.egg-info/top_level.txt
