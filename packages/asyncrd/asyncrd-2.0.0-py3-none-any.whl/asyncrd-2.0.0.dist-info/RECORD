@@ -1,0 +1,9 @@
+asyncrd/__init__.py,sha256=E2Zew87zudpWexopkkwDkZoKCtCjOVBLSe4hCi1ufHA,71
+asyncrd/connection.py,sha256=91d-2Tudq0Gpwjyz1gBmj0GOhXxhF5u6h9VFNt639zM,731
+asyncrd/protocol.py,sha256=UJoRLJebYFbXRIWdazwbSOvs-SuADZC_OdpZawf_F28,194
+asyncrd/query.py,sha256=DwCEVoeGaOwavw_TwD2XQcNjFMLaC-BNew8sIaUIyOs,494
+asyncrd-2.0.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+asyncrd-2.0.0.dist-info/METADATA,sha256=dd9UFDnaD6cdQqnWRVXly-FJ6JhR4bFIn91q5RURKEE,602
+asyncrd-2.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+asyncrd-2.0.0.dist-info/top_level.txt,sha256=wNV1fRRUpNtd15GwFt9yX9vdEyM25o3i5VQj6qYcnRk,8
+asyncrd-2.0.0.dist-info/RECORD,,
