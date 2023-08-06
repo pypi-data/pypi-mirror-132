@@ -1,0 +1,4 @@
+[console_scripts]
+autodev=autodev.entrypoints.cli:cli
+pynbox=pynbox.entrypoints.cli:cli
+
