@@ -1,0 +1,10 @@
+pointy/__about__.py,sha256=FhdaDDLtx5_y2xfOKRX-1QLpbAwVFTs_U4gq-ygg1vU,280
+pointy/__init__.py,sha256=_7OlQdbVkK4jad0CLdpI0grT-zEAb-qgFmH5mFzDXiA,22
+pointy/api.py,sha256=vRJrvWzN_y5dbYdDE8CNqNXXLaZlWxAvonKDvvW7VGQ,2714
+pointy/core.py,sha256=0Eae4-RmIm0MjNcTySB_o_NR8uI5hp7TC8j77pSf5Ss,987
+pointy/marker.py,sha256=l6z3pGACkS1AGuUx750JzcD9WBNcQ3Uqg-OjXEpEP5Q,248
+pointy-2.0.0.dist-info/LICENSE,sha256=MaIX4llMZVvd8ZdbqsfxvRDtS9OFZP2-HNZocHjPhtU,11341
+pointy-2.0.0.dist-info/METADATA,sha256=K0eJEWc7i6F3amonfTacf5Nouspm9Y1vZLTiS-oNnKk,589
+pointy-2.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pointy-2.0.0.dist-info/top_level.txt,sha256=a2AUDkigFomsT5pyIWK1qC6wG8YPjqLNlY2RNKOrugQ,7
+pointy-2.0.0.dist-info/RECORD,,
