@@ -1,0 +1,8 @@
+README.md
+setup.py
+Test123321_21/__init__.py
+Test123321_21.egg-info/PKG-INFO
+Test123321_21.egg-info/SOURCES.txt
+Test123321_21.egg-info/dependency_links.txt
+Test123321_21.egg-info/entry_points.txt
+Test123321_21.egg-info/top_level.txt
