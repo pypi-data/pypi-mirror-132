@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: Flask-Easy
+Version: 0.0.2
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Joseph Maclean Arhin
+Author-email: me@josephmaclean.dev
+License: BSD
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: Flask (==2.0.2)
+Requires-Dist: Flask-SQLAlchemy (>=2.5.1)
+Requires-Dist: Flask-Migrate (>=3.1.0)
+Requires-Dist: flask-marshmallow (>=0.14.0)
+Requires-Dist: flasgger (>=0.9.5)
+
+UNKNOWN
+
