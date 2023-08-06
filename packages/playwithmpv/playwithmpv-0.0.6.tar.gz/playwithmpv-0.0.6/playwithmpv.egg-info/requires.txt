@@ -1,0 +1,4 @@
+webargs>=8.0.1
+Flask>=2.0.2
+youtube-dl
+wheel
