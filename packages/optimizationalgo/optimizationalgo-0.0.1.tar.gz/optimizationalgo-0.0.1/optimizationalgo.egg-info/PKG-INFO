@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: optimizationalgo
+Version: 0.0.1
+Summary: Ant simulation and simulated annealing algorithm
+Home-page: https://github.com/SMALA-comand/Optimization_algo
+Author: Mark Kozlov
+Author-email: mark.k.2012@yandex.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Optimization_algo
+
+Репозиторий содержит проекты №7 и №8 по дисциплине "Численные методы" - Метод имитации отжига и муравьиный алгоритм
+
+Подробности можно узнать в разделе Wiki данного репозитория ( ‾́ ◡ ‾́ )   
+
+
+<details><summary>Какие есть возможности:</summary>
+
+  1. Решение задачи коммивояжера алгоритмом имитации отжига
+  2. Решение задачи коммивояжера алгоритмом муравьиной колонии
+
+</details>
+
+
