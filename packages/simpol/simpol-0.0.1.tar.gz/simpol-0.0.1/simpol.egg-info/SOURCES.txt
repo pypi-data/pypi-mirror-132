@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+simpol/__init__.py
+simpol/math.py
+simpol.egg-info/PKG-INFO
+simpol.egg-info/SOURCES.txt
+simpol.egg-info/dependency_links.txt
+simpol.egg-info/top_level.txt
