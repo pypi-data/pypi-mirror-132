@@ -1,0 +1,9 @@
+README.md
+setup.py
+fachiipdf/__init__.py
+fachiipdf/pdf2image.py
+fachiipdf/pdf2text.py
+fachiipdf.egg-info/PKG-INFO
+fachiipdf.egg-info/SOURCES.txt
+fachiipdf.egg-info/dependency_links.txt
+fachiipdf.egg-info/top_level.txt
