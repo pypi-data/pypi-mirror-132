@@ -1,0 +1,10 @@
+flame_twoc/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flame_twoc/bayes.py,sha256=OOpw6kSzy8I1Hg2DSLl9z4BYhMRmaL4ANwqV5goZQkU,3416
+flame_twoc/neighbors.py,sha256=Ho-Xr46H17Ghsa04OBoCK2ryRfFwuXNdCnMyXH0rGag,1396
+flame_twoc/svm.py,sha256=IihKWY41_QuHI1XxRnc0PGprsivt7WAmhE3uEEcVwx4,4310
+flame_twoc/tree.py,sha256=-YZtEvx7RnZTBkJkg2ifkpJWpkilpUv8lObaDXuQRJU,11301
+flame_twoc_a-1.0.0.dist-info/LICENSE.txt,sha256=JGBdjy0xdMsaKoMZu46JwHzLnG4nLm5NhNgctGpd2aY,1088
+flame_twoc_a-1.0.0.dist-info/METADATA,sha256=0hgykHWrq4XhDYd73tA8rjZ0_MgCG-yZwcI7N-7nxo0,530
+flame_twoc_a-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+flame_twoc_a-1.0.0.dist-info/top_level.txt,sha256=9Qd-tT_793Lf_VY1ey_ESKc51B9CReMK1RcWBOHCsTE,11
+flame_twoc_a-1.0.0.dist-info/RECORD,,
