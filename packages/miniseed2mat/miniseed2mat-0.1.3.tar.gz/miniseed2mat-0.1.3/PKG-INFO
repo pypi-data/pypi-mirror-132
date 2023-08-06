@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: miniseed2mat
+Version: 0.1.3
+Summary: Analyzing MiniSEED seismic data in MATLAB
+Home-page: https://www.earthinversion.com/utilities/converting-mseed-data-to-mat-and-analyzing-in-matlab/
+Author: Utpal Kumar
+Author-email: utpalkumar50@gmail.com
+Requires-Python: >=3.9,<3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: obspy (>=1.2.2,<2.0.0)
+Requires-Dist: scipy (>=1.7.3,<2.0.0)
