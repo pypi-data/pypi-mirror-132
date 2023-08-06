@@ -1,0 +1,3 @@
+[console_scripts]
+pstatx = pstatx.pstatx:main
+
