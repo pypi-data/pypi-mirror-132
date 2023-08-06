@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/PyTron/__init__.py
+src/PyTron/perceptron.py
+src/PyTron_Randrita.egg-info/PKG-INFO
+src/PyTron_Randrita.egg-info/SOURCES.txt
+src/PyTron_Randrita.egg-info/dependency_links.txt
+src/PyTron_Randrita.egg-info/requires.txt
+src/PyTron_Randrita.egg-info/top_level.txt
