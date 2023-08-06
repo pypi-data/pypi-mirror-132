@@ -1,0 +1,5 @@
+[console_scripts]
+anyim=anyim.main:cli
+anyimage=anyim.main:cli
+getim=anyim.main:cli
+
