@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: tbcp-gitpy
+Version: 0.1.0
+Summary: 
+Author: John Ollhorn
+Author-email: john@ollhorn.de
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: GitPython (>=3.1.24,<4.0.0)
