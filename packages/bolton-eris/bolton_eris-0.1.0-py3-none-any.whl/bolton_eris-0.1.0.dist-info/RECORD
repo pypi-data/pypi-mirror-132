@@ -1,0 +1,9 @@
+eris/__init__.py,sha256=Je3H0_SMFN4wARja9wa5wWUjxY1qxWCprjBeLFbuY8Q,544
+eris/_core.py,sha256=iaqQQwkKQIIPwiIeKjXRePmEbde9XgZN82HgB2sel1I,180
+eris/_errors.py,sha256=tAMmBEHP6ski9M_eGsUycI0rpRAWnO9A3Rl65DMY6uE,4681
+eris/_result.py,sha256=hpHmDSK9m6_XvUlHXxKoyhQ6phNpu_xgLTV59I_80cY,7572
+eris/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bolton_eris-0.1.0.dist-info/METADATA,sha256=94z1JYyAz9sDKYHH-CCTIq1iWXFwDWY8SXL1PO0Rblo,3797
+bolton_eris-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bolton_eris-0.1.0.dist-info/top_level.txt,sha256=9TYLCjW4e632KgNMBEz-EKDnqSFQklM45HKmLpFPWfw,5
+bolton_eris-0.1.0.dist-info/RECORD,,
