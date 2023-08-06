@@ -1,0 +1,16 @@
+soomgogather/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+soomgogather/google/__init__.py,sha256=9eq2oaCU7DR-DUCDdaE1Q-QO_FKHhJPTf4SqLV8D1fg,74
+soomgogather/google/_googleclient.py,sha256=UqQnWzpZQxFpfsdyWqSQQzLf2Oy0vMfE9vrw4nBRFy4,867
+soomgogather/google/googleads.py,sha256=pA8lvyTDrN635gMAeYvrQ-KlfwuZOBiqVe25P9lmxdg,5256
+soomgogather/google/searchconsole.py,sha256=GJEPmz00Ny1OYQlXELh_djyKrfgdwL8zyPKYnX0-CS8,4930
+soomgogather/naver/__init__.py,sha256=RF-iY5UfmFQz8KCN9zT4bXIzdwooVAQBDXOZuXzItc4,140
+soomgogather/naver/_searchad.py,sha256=-miG9TyQ0Tk_MHibTXmD7d8CXl-wjhLSpsh4_Ln7Z-s,1675
+soomgogather/naver/bizmoney.py,sha256=RoxMoZn60gtRboIE-Le7Y_Fw7mt_Vm_sBe3boKiUqaQ,3811
+soomgogather/naver/masterreport.py,sha256=FUj7fi7Wtt8L3ezo06TcONc-dbxXjXXzynhmiYgpEKw,4078
+soomgogather/naver/relkwdstat.py,sha256=cz-jci249m-J44dCBO2N5toebLRWZJ4SpzXmD8lJVg8,3001
+soomgogather/naver/statreport.py,sha256=NMpVSchaBNimrM1OZyW5UWJYc2H-IVot6xfvHe0Eb64,3859
+Soomgo_gather-1.3.dist-info/LICENSE,sha256=rIERhyHQiTSKIw3JUb3FFuPEL29o-zROkvK3XRh4WzY,1072
+Soomgo_gather-1.3.dist-info/METADATA,sha256=2BB7iEiFyrpVw6O7yd7OR2ykm-HcHZTCvbk-FnwoOho,6431
+Soomgo_gather-1.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+Soomgo_gather-1.3.dist-info/top_level.txt,sha256=svriCS6TEsVyaDc1f3WBL8hMOytz-6l0AVcMtOlBYjU,13
+Soomgo_gather-1.3.dist-info/RECORD,,
