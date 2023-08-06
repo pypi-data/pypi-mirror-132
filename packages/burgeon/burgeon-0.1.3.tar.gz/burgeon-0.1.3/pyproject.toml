@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "burgeon"
+version = "0.1.3"
+description = ""
+authors = ["Uriel Mandujano <uriel.mandujano14@gmail.com>"]
+readme = "README.rst"
+license = "Apache-2.0"
+
+[tool.poetry.dependencies]
+python = "^3.6.2"
+watchgod = "^0.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^21.10b0"
+mypy = "^0.910"
+isort = "^5.10.1"
+scriv = {extras = ["toml"], version = "^0.12.0"}
+
+[tool.scriv]
+categories = ["Added", "Fixed", "Documentation", "Deprecated"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
