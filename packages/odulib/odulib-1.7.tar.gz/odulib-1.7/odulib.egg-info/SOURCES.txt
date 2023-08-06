@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+odulib.egg-info/PKG-INFO
+odulib.egg-info/SOURCES.txt
+odulib.egg-info/dependency_links.txt
+odulib.egg-info/not-zip-safe
+odulib.egg-info/top_level.txt
