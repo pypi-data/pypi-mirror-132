@@ -1,0 +1,10 @@
+colorama
+requests
+click
+rethread
+psutil
+rich
+distro
+aiofiles
+getch
+watchdog
