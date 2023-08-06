@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/the_oracle.py
+src/the_oracle.egg-info/PKG-INFO
+src/the_oracle.egg-info/SOURCES.txt
+src/the_oracle.egg-info/dependency_links.txt
+src/the_oracle.egg-info/requires.txt
+src/the_oracle.egg-info/top_level.txt
