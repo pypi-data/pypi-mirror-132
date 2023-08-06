@@ -1,0 +1,5 @@
+wg_utilities.egg-info/PKG-INFO
+wg_utilities.egg-info/SOURCES.txt
+wg_utilities.egg-info/dependency_links.txt
+wg_utilities.egg-info/requires.txt
+wg_utilities.egg-info/top_level.txt
