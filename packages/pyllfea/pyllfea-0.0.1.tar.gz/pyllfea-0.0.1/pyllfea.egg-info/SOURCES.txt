@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+pyllfea.egg-info/PKG-INFO
+pyllfea.egg-info/SOURCES.txt
+pyllfea.egg-info/dependency_links.txt
+pyllfea.egg-info/top_level.txt
+two_dimensional/Plane_Stresss.py
+two_dimensional/__init__.py
