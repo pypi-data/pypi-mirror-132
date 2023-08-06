@@ -1,0 +1,9 @@
+LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+pyfreetts/__init__.py,sha256=2pcMGKmbvNK8YfGKMe32qQHIyPIPgHAchSmFkdfd6-g,84
+pyfreetts/client.py,sha256=_n9fvXiD9cHmxv1UlMw1SATYiwHmX_wSz2cOr2uZemg,6221
+pyfreetts/const.py,sha256=_-Sxak3VDUfduQjfL2oDpT2EJDYQ09vYn8Ve6l3SUYU,10821
+pyfreetts/tts.py,sha256=5CiPpNfGVag7L-set675mXQvGcRRQOQpofP27TNn-ys,2115
+pyfreetts-0.1.0.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+pyfreetts-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+pyfreetts-0.1.0.dist-info/METADATA,sha256=pOmpXIFfqwI9Me12RwYAnnZSl5RnK9VrGiD6IWXrcB0,1114
+pyfreetts-0.1.0.dist-info/RECORD,,

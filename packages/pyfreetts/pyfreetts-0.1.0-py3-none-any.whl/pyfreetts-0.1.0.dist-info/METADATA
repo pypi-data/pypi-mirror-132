@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: pyfreetts
+Version: 0.1.0
+Summary: Convert text to speech with the pretty voices
+Home-page: https://github.com/tquangsdh20/pyfreetts
+License: MIT
+Keywords: text2speech,tts,freetts,text to speech,voice maker,pyttsx,pytts,text converter
+Author: Joseph Quang
+Author-email: tquangsdh20@fsob.win
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/tquangsdh20/pyfreetts
+Description-Content-Type: text/markdown
+
+# pyfreetts
+
+<p align="center"><a href="https://codecov.io/github/tquangsdh20/pyfreetts/commit/5d0da7ae595f845c64742d9d64260d7018453856"><img src="https://codecov.io/gh/tquangsdh20/pyfreetts/branch/master/graphs/badge.svg?branch=master"></a></p>
+
+Convert text to speech with the FreeTTS API &amp; VoiceMarker
+
+
