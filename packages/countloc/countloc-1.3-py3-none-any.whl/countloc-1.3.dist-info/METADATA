@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: countloc
+Version: 1.3
+Summary: countloc is a simple CLI to count the number of lines of code in your directory that you wrote.
+Home-page: UNKNOWN
+Author: Anish Lakkapragada
+Author-email: anish.lakkapragada@gmail.com
+License: MIT
+Keywords: LOC,SLOC,CLI
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# countloc
+
+Simple library to count the lines of code in a directory (excluding stuff like ```node_modules```)
+
+Simply just run: 
+```shell
+countloc node_modules <args>
+```
+
+to find the number of lines of code in the current directory (including subdirs), excluding 
+any args (in the example above, ```node_modules```)
+
