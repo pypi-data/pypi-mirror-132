@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cmdline-mini
+Version: 1.0.1
+Summary: Partial command line handler
+License: MIT
+Author: David Nugent
+Author-email: david.nugent@news.com.au
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
