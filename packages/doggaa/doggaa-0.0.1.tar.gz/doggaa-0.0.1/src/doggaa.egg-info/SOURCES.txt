@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/doggaa/__init__.py
+src/doggaa.egg-info/PKG-INFO
+src/doggaa.egg-info/SOURCES.txt
+src/doggaa.egg-info/dependency_links.txt
+src/doggaa.egg-info/top_level.txt
+src/doggaa/data/__init__.py
+src/doggaa/data/api.py
