@@ -1,0 +1,10 @@
+plyvel/__init__.py,sha256=NkKZfruyDYTFC87h0vpCJiJh-aNeXROXzSWZF9qSa3c,339
+plyvel/_plyvel.cpython-38-x86_64-linux-gnu.so,sha256=nWuyCTSOm66wB6RaEAY4vZngX4r-CsIGmZrvMmi0BWQ,1840480
+plyvel/_version.py,sha256=gPcgatZOV6vLJzPZo9mwymi3o5QaitK9oPSIYnXFkvk,190
+plyvel-1.4.0.dist-info/LICENSE.rst,sha256=dVsbjBeoXSZo2IWCcH5WpWE5BkP7J7oMkm7mciCXb0A,1567
+plyvel-1.4.0.dist-info/METADATA,sha256=dOXDyWcynlGQs-r_9AH7fClPK2pms7e0TenHtFARhNo,1709
+plyvel-1.4.0.dist-info/WHEEL,sha256=4jt3s2SccH6o2ToOLXWl8IJUftjHelTzKdBcGG27rIE,148
+plyvel-1.4.0.dist-info/top_level.txt,sha256=C6Ih_NMIyfUFXCY5FTNXqQvAXhGl2uyszVQ8INZNDis,7
+plyvel-1.4.0.dist-info/RECORD,,
+plyvel.libs/libsnappy-aa79ab9e.so.1.1.9,sha256=-GxwMTpJdplMEJ0j-M7t719ERnHIdX7qWLM_4zd6XW4,170176
+plyvel.libs/libleveldb-44f63a48.so.1.22.0,sha256=uSTMC09hL8xdp7Cj9w8lNKku24pA8l8w1NSxFjhGLJ8,500848
