@@ -1,0 +1,8 @@
+include LICENSE
+recursive-include skippy *.py
+recursive-include skippy .gitkeep
+recursive-exclude skippy *.pyc
+exclude nsis
+exclude img
+include README.md
+include requirements.txt
