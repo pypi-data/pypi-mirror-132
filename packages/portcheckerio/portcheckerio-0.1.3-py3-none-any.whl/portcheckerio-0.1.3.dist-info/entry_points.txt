@@ -1,0 +1,3 @@
+[console_scripts]
+portcheck=portchecker.port_checker:main
+
