@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+mloperations.egg-info/PKG-INFO
+mloperations.egg-info/SOURCES.txt
+mloperations.egg-info/dependency_links.txt
+mloperations.egg-info/requires.txt
+mloperations.egg-info/top_level.txt
+mlops/__init__.py
