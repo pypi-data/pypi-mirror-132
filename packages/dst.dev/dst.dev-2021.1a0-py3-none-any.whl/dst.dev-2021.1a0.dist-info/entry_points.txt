@@ -1,0 +1,3 @@
+[console_scripts]
+dst.dev = dst.dev.cli:main
+
