@@ -1,0 +1,9 @@
+twimer/__init__.py,sha256=nc2Jlv0oboXsfYjy-X6mAFkPbXJSel6yR7aU1_GRDZw,125
+twimer/database.py,sha256=zT3wyt37qEYz3ndaUmk-xGhq8zjeZOwYOK6v_wChLRs,971
+twimer/twimer.py,sha256=U4H8R66neDg0s96S7IyZAsfJHW55Ak61gs2xGqHVYuI,3933
+twimer/twitter_connection.py,sha256=qasG1PXgVE2wZzG6VNINomROEfrZlloIQTU2_g-fVDk,2542
+Twimer-0.0.5.dist-info/LICENSE,sha256=5NWsHVin8RLszdxKWsN72vp4V2EZpG2P9i_m65dq-FE,1077
+Twimer-0.0.5.dist-info/METADATA,sha256=BU9czD3bN1pf4Ujc_SaTiRGeh__sIRd5CEaPUbefcAk,3808
+Twimer-0.0.5.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+Twimer-0.0.5.dist-info/top_level.txt,sha256=vEYayDwJSDeDpMuh-knJYgYL11AvOg3YsTHZwxmcpHk,7
+Twimer-0.0.5.dist-info/RECORD,,
