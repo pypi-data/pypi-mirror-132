@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+funcgui/__init__.py
+funcgui/osys.py
+funcgui/tk.py
+funcgui.egg-info/PKG-INFO
+funcgui.egg-info/SOURCES.txt
+funcgui.egg-info/dependency_links.txt
+funcgui.egg-info/requires.txt
+funcgui.egg-info/top_level.txt
