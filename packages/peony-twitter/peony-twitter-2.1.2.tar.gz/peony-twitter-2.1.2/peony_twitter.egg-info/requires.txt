@@ -1,0 +1,34 @@
+aiohttp<4.0,>=2.0
+async-timeout
+
+[aiofiles]
+aiofiles
+
+[aiohttp]
+aiodns
+cchardet
+
+[all]
+aiodns
+aiofiles
+cchardet
+python-magic
+
+[all:platform_system == "Windows"]
+python-magic-bin
+
+[magic]
+python-magic
+
+[magic:platform_system == "Windows"]
+python-magic-bin
+
+[media]
+aiofiles
+python-magic
+
+[media:platform_system == "Windows"]
+python-magic-bin
+
+[tests]
+pytest
