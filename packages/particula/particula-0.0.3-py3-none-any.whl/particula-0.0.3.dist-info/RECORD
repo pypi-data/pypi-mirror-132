@@ -1,0 +1,15 @@
+particula/__init__.py,sha256=20TGKcq8clWqth96xPw468sC2fe_S98YzDhhxrB361M,708
+particula/aerosol_dynamics/__init__.py,sha256=cwHBfgb3-IaRGNRQ-S1ZIZYzV7snGrcgNudJamm6juc,405
+particula/aerosol_dynamics/environment.py,sha256=dAU8ft8sZ-2ri-kdZNiE3oJ4Hv5Biy5vT2C_G-_h1ao,2108
+particula/aerosol_dynamics/parcel.py,sha256=KUb1hqECgELpagFW72GallCoDYBMBEWid2oeJK8bFVE,4962
+particula/aerosol_dynamics/particle.py,sha256=MbVjpYmtacRQFl8karzQDRG6HQIht5t_brmTUUKgbJM,14878
+particula/aerosol_dynamics/physical_parameters.py,sha256=QimANgg55-G5nKEIOnf6_aZCdAqh7nslgONzTRAkf4E,886
+particula/aerosol_dynamics/tests/__init__.py,sha256=ilyJVY8qGkajPJKEqBux2YI-2oIvege3KYXsUfMtNgU,47
+particula/aerosol_dynamics/tests/environment_test.py,sha256=zjTeFqBKmknVw80U2Qi3AFwtCNSafJpQvZyLlyUUZPM,941
+particula/aerosol_dynamics/tests/parcel_test.py,sha256=m0RlQ_Rp1w260-DvimGOJjVqJwC7n5knUhiGvo-XFbE,2963
+particula/aerosol_dynamics/tests/particle_test.py,sha256=LPu6BOOzr9QFJHZIfBPlTNPP5rwee1vTdHMveZCsMPo,5469
+particula-0.0.3.dist-info/LICENSE,sha256=ac1ihuLX8kWCG9MvEEGD1cA8HkmqoWE5Li15EvDm-xI,1065
+particula-0.0.3.dist-info/METADATA,sha256=4vGK4ztQYmequ-OakTawn-UzpIh5MjkG_DE_U0KBzVI,2969
+particula-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+particula-0.0.3.dist-info/top_level.txt,sha256=bs8whbHiQjTk6GW7ADKlRIr5qjuUy6GhV2wmJtUdloE,10
+particula-0.0.3.dist-info/RECORD,,
