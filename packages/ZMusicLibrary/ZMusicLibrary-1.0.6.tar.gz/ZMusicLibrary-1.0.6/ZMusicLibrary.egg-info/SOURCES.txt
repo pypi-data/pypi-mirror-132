@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+ZMusicLibrary/UsefulFunctions.py
+ZMusicLibrary/__init__.py
+ZMusicLibrary/chord.py
+ZMusicLibrary/chord_types.py
+ZMusicLibrary/note.py
+ZMusicLibrary/scale.py
+ZMusicLibrary/scale_types.py
+ZMusicLibrary.egg-info/PKG-INFO
+ZMusicLibrary.egg-info/SOURCES.txt
+ZMusicLibrary.egg-info/dependency_links.txt
+ZMusicLibrary.egg-info/top_level.txt
