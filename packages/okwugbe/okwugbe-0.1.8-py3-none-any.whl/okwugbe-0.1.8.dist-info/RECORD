@@ -1,0 +1,15 @@
+okwugbe/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+okwugbe/commonvoice.py,sha256=yzsUs6LM8mNXopCXqYW06olGU3beZGMdEcuHyn3WdZM,2126
+okwugbe/decoder.py,sha256=2XEDYyrOxBshaNcrn4aFJoUQj9V-ZHPxJnzJKNis5hk,868
+okwugbe/earlystopping.py,sha256=6kaU2cktWx6FVlSD0tkMLFJ5OVfIItHNFIcW1SdbfaA,1332
+okwugbe/metrics.py,sha256=aHGYOrbYem5DzBEEiYIRuJdkAHOHOy-V4JoKBL3Nsnk,5058
+okwugbe/model.py,sha256=re8g9JsBHXjX8vHKct7U5FCLdJi6lG3RVq6eo3jEftk,7641
+okwugbe/okwugbe_asr.py,sha256=IJ0qrZOVd0rfdNeLdN2aNfSf3pbDmLFDccu7DRU5sHk,5159
+okwugbe/process.py,sha256=ZHJrIfGYB5j7R98UlkrZIrIOLtRVF28J6lAvHb-4068,3122
+okwugbe/texttransform.py,sha256=_Xt9pXyyhkhcI_g5FEgenolBaOpUCS1qZTVFUhQY6lg,3192
+okwugbe/train_eval.py,sha256=1oCaqYuyNnrXAie91mb1W3Vys93WV4klgBI8i0mTPKM,19774
+okwugbe-0.1.8.dist-info/LICENSE,sha256=eTAMrQxkyw6ApSsWH9vJdyVXchbASCr9kEPFfwQzv-c,1091
+okwugbe-0.1.8.dist-info/METADATA,sha256=oRlh2OeeyKgNjqpWgz6Ew5A9D0yyY3Hkn4ONeiDhhPY,7737
+okwugbe-0.1.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+okwugbe-0.1.8.dist-info/top_level.txt,sha256=2_PTDEYikR36s1mgLtOBTCk_RVZrXn2pO6ENWu33E4A,8
+okwugbe-0.1.8.dist-info/RECORD,,
