@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+getipynb.egg-info/PKG-INFO
+getipynb.egg-info/SOURCES.txt
+getipynb.egg-info/dependency_links.txt
+getipynb.egg-info/top_level.txt
+ipack/__init__.py
+ipack/getipynb.py
