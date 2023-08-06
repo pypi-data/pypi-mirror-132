@@ -1,0 +1,16 @@
+CHANGELOG.md
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+clickable_ansible/__init__.py
+clickable_ansible.egg-info/PKG-INFO
+clickable_ansible.egg-info/SOURCES.txt
+clickable_ansible.egg-info/dependency_links.txt
+clickable_ansible.egg-info/entry_points.txt
+clickable_ansible.egg-info/not-zip-safe
+clickable_ansible.egg-info/requires.txt
+clickable_ansible.egg-info/top_level.txt
+tests/__init__.py
+tests/test_click.py
