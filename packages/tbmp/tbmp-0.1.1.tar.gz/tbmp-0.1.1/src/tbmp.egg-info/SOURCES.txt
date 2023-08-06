@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/tbmp/__init__.py
+src/tbmp/__main__.py
+src/tbmp.egg-info/PKG-INFO
+src/tbmp.egg-info/SOURCES.txt
+src/tbmp.egg-info/dependency_links.txt
+src/tbmp.egg-info/top_level.txt
