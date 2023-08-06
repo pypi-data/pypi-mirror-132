@@ -1,0 +1,8 @@
+setup.py
+arimionim_math/__init__.py
+arimionim_math/arimionim_math.py
+arimionim_math.egg-info/PKG-INFO
+arimionim_math.egg-info/SOURCES.txt
+arimionim_math.egg-info/dependency_links.txt
+arimionim_math.egg-info/requires.txt
+arimionim_math.egg-info/top_level.txt
