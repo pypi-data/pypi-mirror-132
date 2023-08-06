@@ -1,0 +1,10 @@
+flame_time/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flame_time/datagen.py,sha256=VTcSwrnFzIk5LqRxs1Xb5jdfvy1kggI8ZMrJG2oho3o,1537
+flame_time/dynamic_series.py,sha256=YNeYq97J3Qyvl1e9oGJf35dYi2FtwXyfHhBTRb8sCE8,1781
+flame_time/model.py,sha256=FD4BoBD758kq1Tki6ZN3OjevhVpGvK0G4VcMeHgilIU,1121
+flame_time/trainer.py,sha256=RxwRTOYySX9RBZtMPSplXzouw63KeaLmk80H19o7Q5U,748
+flame_timec-1.0.0.dist-info/LICENSE.txt,sha256=JGBdjy0xdMsaKoMZu46JwHzLnG4nLm5NhNgctGpd2aY,1088
+flame_timec-1.0.0.dist-info/METADATA,sha256=HD6QE3pNZ-eqEEumiU5fRF8IiCo2Htw3_71PuujzVGA,595
+flame_timec-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+flame_timec-1.0.0.dist-info/top_level.txt,sha256=jVkWHk-dHk_O3eLCE-5gIXMmb6LQ97cc_aXP6pULN_M,11
+flame_timec-1.0.0.dist-info/RECORD,,
