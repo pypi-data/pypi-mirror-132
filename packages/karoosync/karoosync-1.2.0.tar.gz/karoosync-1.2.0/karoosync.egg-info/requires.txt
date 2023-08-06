@@ -1,0 +1,4 @@
+PyJWT
+bs4
+lxml
+requests>=2.26
