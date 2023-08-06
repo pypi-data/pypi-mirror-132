@@ -1,0 +1,10 @@
+
+[full]
+tqdm
+rich
+omegaconf
+numpytorch
+matplotlib
+pandas
+opencv-python
+torch
