@@ -1,0 +1,14 @@
+ycbvideo/VERSION,sha256=H5MN0fEzwfl6lP46y42zQ3LPTAH_2ys_9Mpy-UlBIek,6
+ycbvideo/__init__.py,sha256=OStiUY0Fbd73bLkYCti-xwnKBMSU_DaxmSb0R4z4iyU,159
+ycbvideo/__main__.py,sha256=gDF0Z24SVt-scOqkZ_PTKSf_T_q7JAwhiSuPwVcplR0,707
+ycbvideo/datatypes.py,sha256=9T-W-lSC111rVTYdfPN4RzQxMYRsZ8Z_-k5OMBrB10g,4060
+ycbvideo/frame_info.txt,sha256=MWboYggJWjQIh5ZxZXmIJGfRbcHU2ecH9cO4EO7F698,993
+ycbvideo/frameselection.py,sha256=YFQOpX-HwitseEqeZehNbd2YvqWi3aqlN_urYomES6k,3123
+ycbvideo/info.py,sha256=MHHrGbnEHOxrLRPVhLbB6jxPXApFXO9Kh5P2SLSLr_M,3865
+ycbvideo/loader.py,sha256=YGUzxnPa5j9b2gH7UmsRIMgNG3iiG1JFt9fd4m3dhJs,9863
+ycbvideo/utils.py,sha256=aOmB6KKCH8lSXIPK-BdQboVQ4w-o-qX2jmxGLibpWXk,316
+ycbvideo-0.2.0.dist-info/LICENSE,sha256=-JwYt3PmNSOquzFyBt2AkOkVQ6UHahkWlfGiJh_PBRk,1071
+ycbvideo-0.2.0.dist-info/METADATA,sha256=CZvKMLq5--ioT3q0aqGUIf3QOzjQuGuHSgQPM7sN1aA,4699
+ycbvideo-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ycbvideo-0.2.0.dist-info/top_level.txt,sha256=zhJ2grtjPEC2oS_tEt0XDrRqRzlNM5pPQmn-ZGapz4A,9
+ycbvideo-0.2.0.dist-info/RECORD,,
