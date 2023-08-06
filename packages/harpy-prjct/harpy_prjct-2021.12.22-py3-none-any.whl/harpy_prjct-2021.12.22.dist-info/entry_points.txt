@@ -1,0 +1,3 @@
+[console_scripts]
+harpy = harpy.__main__:setup_py_main
+
