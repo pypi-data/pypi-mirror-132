@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: aws-mfa-profiles
+Version: 1.1.0
+Summary: A package to create credential for AWS using MFA and with the support of multiple profiles
+Home-page: https://github.com/lucapisciotta/aws-mfa-profiles
+Author: Luca Pisciotta
+Author-email: luca.pisciotta+pypi@live.it
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Development Status :: 5 - Production/Stable
+Description-Content-Type: text/markdown
+
+# aws-mfa-profiles
+A package to create credential for AWS using MFA and with the support of multiple profiles
+
