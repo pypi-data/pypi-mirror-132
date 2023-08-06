@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+colorpalette/__init__.py
+sphong_colorpalette.egg-info/PKG-INFO
+sphong_colorpalette.egg-info/SOURCES.txt
+sphong_colorpalette.egg-info/dependency_links.txt
+sphong_colorpalette.egg-info/requires.txt
+sphong_colorpalette.egg-info/top_level.txt
