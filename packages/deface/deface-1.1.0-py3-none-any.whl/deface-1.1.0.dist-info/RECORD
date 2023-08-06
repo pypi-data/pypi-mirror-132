@@ -1,0 +1,11 @@
+deface/__init__.py,sha256=JOl41NviMN-qDV0Z8ZPmhNIxvgyauGGJHdB4A-8MhqM,93
+deface/_version.py,sha256=cLSiQphQLeDDVlN0ZHONKaLssxMLd8wwJHOWfzFlaw8,497
+deface/centerface.onnx,sha256=d-OUtREIOBtMT3tLrxxkyp9KunPl6AOyY2QZV4kTtf4,7532772
+deface/centerface.py,sha256=iUTnvf_gyREYtx4g1gNBQeHkoJ69M_2O0nLKpXmJsK4,6818
+deface/deface.py,sha256=fxziSmSimsECujw1T6Rc8xu27dnz0t9L0U7jyce_j_Y,13650
+deface-1.1.0.dist-info/LICENSE,sha256=lv1aYMNiwJT7r-aNNYu1KCfDBBfyOiUuhmULciLAu8E,1073
+deface-1.1.0.dist-info/METADATA,sha256=kJwC5FoRcyI6bP1Ykg_05gbDPr5k9LXzoZzF4_XTW9U,12848
+deface-1.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+deface-1.1.0.dist-info/entry_points.txt,sha256=L51g_ebcpj0mburT-BeNPDr3ySgixZEAK9WsXQ-k1a0,47
+deface-1.1.0.dist-info/top_level.txt,sha256=DynFOyND336_KIoK89VUaWXvmUTf6NXkyZhLG2F-2ak,7
+deface-1.1.0.dist-info/RECORD,,
