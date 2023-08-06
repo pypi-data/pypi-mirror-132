@@ -1,0 +1,3 @@
+[console_scripts]
+va = vcli.vcli_main:va_command
+

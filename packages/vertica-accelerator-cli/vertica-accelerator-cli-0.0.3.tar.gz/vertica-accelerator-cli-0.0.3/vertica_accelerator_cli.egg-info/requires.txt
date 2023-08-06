@@ -1,0 +1,8 @@
+setuptools_rust==0.12.1
+pkce==1.0.3
+requests==2.24.0
+environs==9.3.4
+argcomplete==1.12.3
+python-dateutil==2.8.2
+six==1.16.0
+pytest==6.2.5
