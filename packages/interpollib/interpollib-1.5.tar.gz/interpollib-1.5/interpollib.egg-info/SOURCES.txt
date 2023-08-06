@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+interpollib.egg-info/PKG-INFO
+interpollib.egg-info/SOURCES.txt
+interpollib.egg-info/dependency_links.txt
+interpollib.egg-info/not-zip-safe
+interpollib.egg-info/top_level.txt
