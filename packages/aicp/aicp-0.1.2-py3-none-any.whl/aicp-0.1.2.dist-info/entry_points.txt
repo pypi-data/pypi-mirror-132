@@ -1,0 +1,3 @@
+[console_scripts]
+aicp=aicp.main:app
+
