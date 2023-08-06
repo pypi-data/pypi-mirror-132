@@ -1,0 +1,38 @@
+Metadata-Version: 1.1
+Name: digibyte_scrypt
+Version: 1.0.0
+Summary: Bindings for scrypt proof of work used by DigiByte
+Home-page: https://pypi.org/project/digibyte_scrypt
+Author: YoshiJaeger
+Author-email: pypi@jaeger.berlin
+License: GPLv3
+Description: DigiByte Scrypt (Python Bindings)
+        =================================
+        
+        Install
+        -------
+        
+        .. code:: bash
+        
+           pip3 install digibyte_scrypt
+        
+        Usage
+        -----
+        
+        .. code:: python
+        
+           import digibyte_scrypt
+        
+           digibyte_scrypt.calcPoW(...)
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.10
