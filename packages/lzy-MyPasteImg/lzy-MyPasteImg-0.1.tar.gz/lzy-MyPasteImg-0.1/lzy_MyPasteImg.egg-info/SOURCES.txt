@@ -1,0 +1,6 @@
+MyPasteImg.py
+setup.py
+lzy_MyPasteImg.egg-info/PKG-INFO
+lzy_MyPasteImg.egg-info/SOURCES.txt
+lzy_MyPasteImg.egg-info/dependency_links.txt
+lzy_MyPasteImg.egg-info/top_level.txt
