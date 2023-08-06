@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ChainlinkClientUpgradeable",
+  "sourceName": "contracts/dependencies/ChainlinkClientUpgradeable.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        }
+      ],
+      "name": "ChainlinkCancelled",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        }
+      ],
+      "name": "ChainlinkFulfilled",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "bytes32",
+          "name": "id",
+          "type": "bytes32"
+        }
+      ],
+      "name": "ChainlinkRequested",
+      "type": "event"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220fe7760a488dc537e89650f888920f2f63c6299f51695207d1f9d2471bb39f92664736f6c63430008060033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220fe7760a488dc537e89650f888920f2f63c6299f51695207d1f9d2471bb39f92664736f6c63430008060033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
