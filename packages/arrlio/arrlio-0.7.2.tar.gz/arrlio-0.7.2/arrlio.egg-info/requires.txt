@@ -1,0 +1,5 @@
+aiormq>=5.2.0
+cryptography
+pydantic>=1.8.2
+yarl
+siderpy[hiredis]
