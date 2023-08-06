@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/angelo/VERSION
+src/angelo/__init__.py
+src/angelo.egg-info/PKG-INFO
+src/angelo.egg-info/SOURCES.txt
+src/angelo.egg-info/dependency_links.txt
+src/angelo.egg-info/top_level.txt
