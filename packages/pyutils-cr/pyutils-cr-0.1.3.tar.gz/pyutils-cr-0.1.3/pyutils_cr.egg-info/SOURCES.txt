@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+pyutils_cr.egg-info/PKG-INFO
+pyutils_cr.egg-info/SOURCES.txt
+pyutils_cr.egg-info/dependency_links.txt
+pyutils_cr.egg-info/top_level.txt
+pyutilscr/__init__.py
+pyutilscr/check.py
+pyutilscr/log.py
+pyutilscr/pinfo.py
+pyutilscr/source.py
