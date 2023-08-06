@@ -1,0 +1,10 @@
+qoi/__init__.py,sha256=xWQiK8ljnbq7-VBuok2QrW0Wono7WzOx6eBqEL1EyTY,102
+qoi/_version.py,sha256=i_8WJmpfvLpsjKXabWI0e47fVoWC1Es8pVboBDn2ORg,21
+qoi/benchmark.py,sha256=LawfZtnMuo1FHzRsnIOlZRC2h2QqGKAApVDpL3plKHY,6070
+qoi/qoi.cp38-win32.pyd,sha256=6fbATNjrtxYlzWpOKhYWzhQIy3AAG44wxFKPSwtWZEI,49664
+qoi/qoi.pxd,sha256=osv9Rdg5H8XaW76uAkJmgiXC5h-JPBxf7AQjx_VsnvI,541
+qoi-0.0.9.dist-info/LICENSE,sha256=vTWRUtcFF-rlfgNNZc6k7jPa2n558nB-4rEc6UtsUQ0,1087
+qoi-0.0.9.dist-info/METADATA,sha256=dlVY-PPkqNu1G9McWoR1YYH8saDQ9A1aPeMKXFd-yo4,7574
+qoi-0.0.9.dist-info/WHEEL,sha256=sanSYrmzbAT-r2kLE2awKIGLX9GqwV3YKvxv8-Pld6Y,96
+qoi-0.0.9.dist-info/top_level.txt,sha256=LWoYKSrABOwLHx5X8OQc2EXjI9a6J_2UM4srvK4KcI8,4
+qoi-0.0.9.dist-info/RECORD,,
