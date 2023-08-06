@@ -1,0 +1,3 @@
+[console_scripts]
+etoolkit = etoolkit.__main__:main
+
