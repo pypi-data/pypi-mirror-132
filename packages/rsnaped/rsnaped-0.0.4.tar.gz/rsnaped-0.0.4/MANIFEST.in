@@ -1,0 +1,7 @@
+include README
+include LICENSE
+recursive-include rsnaped
+recursive-ignore tests
+recursive-ignore docs
+recursive-ignore notebooks
+recursive-ignore DataBases
