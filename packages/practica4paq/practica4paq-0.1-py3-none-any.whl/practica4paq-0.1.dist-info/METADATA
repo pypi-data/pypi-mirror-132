@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: practica4paq
+Version: 0.1
+Summary: practica numero cuatro fp5
+Home-page: UNKNOWN
+Author: Daniel Vasco
+Author-email: UNKNOWN
+License: GNU GLP3
+Keywords: numeros primos
+Platform: UNKNOWN
+
+practica4paq
+================
+muestra los numeros primos entre 1 y un numero dado.
+Este codigo es una practica sobre numeros primos
+
+
