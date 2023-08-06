@@ -1,0 +1,3 @@
+[console_scripts]
+starlaunch=starlaunch.starlaunch:main
+
