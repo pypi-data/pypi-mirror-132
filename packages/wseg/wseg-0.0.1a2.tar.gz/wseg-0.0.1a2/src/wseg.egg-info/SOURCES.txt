@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/wseg/__init__.py
+src/wseg/dict_based.py
+src/wseg.egg-info/PKG-INFO
+src/wseg.egg-info/SOURCES.txt
+src/wseg.egg-info/dependency_links.txt
+src/wseg.egg-info/requires.txt
+src/wseg.egg-info/top_level.txt
+src/wseg/__pycache__/__init__.cpython-36.pyc
+src/wseg/__pycache__/dict_based.cpython-36.pyc
+src/wseg/data/30wChinesesSeqDic_clean.txt
+src/wseg/libs/BIMM.cp36-win_amd64.pyd
