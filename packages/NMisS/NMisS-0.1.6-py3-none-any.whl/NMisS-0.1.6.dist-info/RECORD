@@ -1,0 +1,13 @@
+NMisS/SoLAE.py,sha256=xfrOahQJEjoqnG8XZc5zli9RexTQ7NQAsVB3K7Xlpvc,13260
+NMisS/__init__.py,sha256=u5gLt4mt-ER5A1zUpYf2IJBp0HkG1XLVKFMpSIc97j8,818
+NMisS/approximation.py,sha256=QJE8wkJsC8k7lB70pNA6lI8d2uu7eMKBOkQsxIGD5as,9550
+NMisS/equations.py,sha256=lSNvT4E6XnJiOLDkuZ87FL_9MrEMjFoBVAdbiYwdVxA,13341
+NMisS/integ_diff.py,sha256=02pu53Hbv3sb2hmIG00PV8wm1rKZkjH_zouKjez0-1Y,5528
+NMisS/matrix.py,sha256=s-rigExQ4mQHMr4VphoO9gvROztvxahpqjnK3dSu7Rw,13367
+NMisS/optimization.py,sha256=KvWUuYGThzlrpqk8nhTP9Rdms-9VkxIaCAeWwa09qAE,20585
+NMisS/spectral.py,sha256=vX5TbUkZk4Kl_TkXH_7e8WO5BqhARZryf9LKHFoAhEo,10660
+NMisS-0.1.6.dist-info/LICENCE,sha256=mZxspv_BPjmerZTnESMdd5GIiTVGIqaPrDdQ3wQ34xA,1160
+NMisS-0.1.6.dist-info/METADATA,sha256=ABaXNMBJ1cJf-Pu3vE5BpVTkB80AKz_5Yz_jmuQJebo,628
+NMisS-0.1.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+NMisS-0.1.6.dist-info/top_level.txt,sha256=oI_NBB85FC-ASknsGzAB2nV7KlqGV_Bzs0MJgotdKRc,6
+NMisS-0.1.6.dist-info/RECORD,,
