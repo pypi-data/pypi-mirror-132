@@ -1,0 +1,8 @@
+README.md
+setup.py
+intepop.egg-info/PKG-INFO
+intepop.egg-info/SOURCES.txt
+intepop.egg-info/dependency_links.txt
+intepop.egg-info/not-zip-safe
+intepop.egg-info/requires.txt
+intepop.egg-info/top_level.txt

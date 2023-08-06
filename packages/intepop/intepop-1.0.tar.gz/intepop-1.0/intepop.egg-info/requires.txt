@@ -1,0 +1,7 @@
+fraction
+numpy
+matplotlib
+scipy
+numexpr
+mpmath
+pylab
