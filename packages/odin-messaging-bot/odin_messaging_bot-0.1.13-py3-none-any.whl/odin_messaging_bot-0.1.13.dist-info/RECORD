@@ -1,0 +1,7 @@
+odin_messaging_bot/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+odin_messaging_bot/discord_bot.py,sha256=wMqnF-RTf5xrAKa5e3aKwJzhU6DDJDDWRY0x4C2Zm4c,3827
+odin_messaging_bot/jetstream_bot.py,sha256=GHiJQmtSFX6lVXZj4PtwrFP8KEroR2pWHSGAKDHa5wE,740
+odin_messaging_bot/streaming_bot.py,sha256=HkIPLgwc1YcbTF169CIa1uAAjl4-h2vew-Y1rcpbBzI,3940
+odin_messaging_bot-0.1.13.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+odin_messaging_bot-0.1.13.dist-info/METADATA,sha256=VbucD0r-JAhN-tMohT5SukqVwYW5DQl_5Wi-uf4J4Ho,712
+odin_messaging_bot-0.1.13.dist-info/RECORD,,
