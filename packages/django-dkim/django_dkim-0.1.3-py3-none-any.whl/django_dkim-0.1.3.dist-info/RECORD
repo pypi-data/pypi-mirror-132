@@ -1,0 +1,12 @@
+django_dkim/__init__.py,sha256=lLgaCsEK_t5G6CetNdSTtOrIMqoOTp4WoDavzZQ_Zso,90
+django_dkim/backends/__init__.py,sha256=iWuUR_QSHCAbr6zYJdskcsGvX9W_mPMsBFEuxykXV1U,48
+django_dkim/backends/console.py,sha256=jDcEH0ARP0E5vYgWxPT7pPSK49Jit4qJ0T_uLHEncUg,1108
+django_dkim/backends/smtp.py,sha256=wQSnDFl5iRSLDm0x7nnFDC6pliPF9S5yYr32j3CZl9g,1490
+django_dkim/tests/__init__.py,sha256=xqsJPT1QR2TH_5GYK8tiHp-Lb29chxGsr147MWoLAZw,21
+django_dkim/tests/settings.py,sha256=wMhOOel6SbwhZkqVQWlIIWm4W4aiLJITnsmDeN2Y7SU,1109
+django_dkim/tests/test_backends.py,sha256=jd6iGnHyHJQssBkpAUfG9tOjLz2ceqWvijtkseOHJ28,3355
+django_dkim-0.1.3.dist-info/LICENSE,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+django_dkim-0.1.3.dist-info/METADATA,sha256=fTjhLlsTPuJvX00VTmwrHb59PdbXMdhyT-T_X4TOUbA,4974
+django_dkim-0.1.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+django_dkim-0.1.3.dist-info/top_level.txt,sha256=dFsOwCo21MriYKdO5tyLSV7He9IrjFUDFI-3LH-ixk0,12
+django_dkim-0.1.3.dist-info/RECORD,,
