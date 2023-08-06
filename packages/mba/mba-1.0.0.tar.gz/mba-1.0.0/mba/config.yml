@@ -1,0 +1,35 @@
+# Package Overview
+package_name: mba
+
+# DB Tables 
+transaction_table: transaction
+aisle_table: aisle
+department_table: department
+product_table: product
+merged_table: merged
+association_table: processed_for_association
+
+# TO CHANGE LATER
+transaction_id_column_name: order_id
+product_id_column_name: product_id 
+product_name_column: product_name
+day_of_week: order_dow
+hour_of_day: order_hour_of_day
+user_id_column_name: user_id
+order_number_for_user: order_number
+department_name_column: department
+department_id_column: department_id
+aisle_name_column: aisle
+aisle_id_column: aisle_id
+
+
+# Model
+count: freq
+min_support: 0.01
+
+# Database Config
+db_username: hassanrady
+db_password: 00000
+db_host: localhost
+db_port: 3306
+db_schema: mba
