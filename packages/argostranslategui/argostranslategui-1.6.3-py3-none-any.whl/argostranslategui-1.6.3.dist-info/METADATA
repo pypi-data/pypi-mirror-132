@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: argostranslategui
+Version: 1.6.3
+Summary: Graphical user interface for Argos Translate
+Home-page: https://www.argosopentech.com
+Author: Argos Open Technologies, LLC
+Author-email: admin@argosopentech.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: PyQt5 (==5.15.4)
+Requires-Dist: argostranslate
+
+# Argos Translate GUI
+
+[Website](https://www.argosopentech.com) | [GitHub](https://github.com/argosopentech/argos-translate-gui) | [PyPI](https://pypi.org/project/argostranslategui/)
+
+Graphical user interface for [Argos Translate](https://github.com/argosopentech/argos-translate).
+
+![Screenshot](/img/Screenshot.png)
+![Screenshot2](/img/Screenshot2.png)
+
+## Install
+```
+pip3 install argostranslategui
+
+
+```
+
+
+
