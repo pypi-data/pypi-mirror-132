@@ -1,0 +1,10 @@
+havi/__init__.py,sha256=yjL9EOVuvbWK_rqQY8YpWCG6PO1fZ8Fhbbi0RuIgTHg,72
+havi/bayes/inference.py,sha256=CwwuPLS3XgdgrBYfpw2FroZG5gweX0Geu_jWasj4mFM,1413
+havi/havi.py,sha256=OeQzhamfl2Ziofe-chqlROcZRkri6XYHZW1A07PfwzE,4181
+havi/physics/constants.py,sha256=eWA_twhqw_YC4ETl3tA5vbJ5xsTP1X2oiaBvLcgIFrs,695
+havi/physics/model.py,sha256=jtBdKbnuYeLC0piBqH2aDVMJMmdJihF23wIdN7U9SWc,11251
+havi/version.py,sha256=eU1EKyz8WOMsVRowKRvxdJZ3wwC8Sv21uy4Zxxhd0eA,29
+havi-0.1.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+havi-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+havi-0.1.1.dist-info/METADATA,sha256=fxqrtX0PMmwp_Ai5EXnEpUxfOyK1t3i1RnRtgAYJqZ8,2668
+havi-0.1.1.dist-info/RECORD,,
