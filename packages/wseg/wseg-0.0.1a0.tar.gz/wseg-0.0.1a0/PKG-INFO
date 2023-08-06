@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: wseg
+Version: 0.0.1a0
+Summary: A python library of word segmentation in various fields
+Home-page: https://github.com/dhchenx/wseg
+Author: Donghua Chen
+Author-email: douglaschan@126.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/dhchenx/wseg/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# WSeg - Word Segmentation
+
+This is a Python library to perform various word segmentation methods.
+

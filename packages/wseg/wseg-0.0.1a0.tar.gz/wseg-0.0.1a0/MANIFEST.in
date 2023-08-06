@@ -1,0 +1,23 @@
+include pyproject.toml
+
+# Include the README
+include *.md
+
+# Include the license file
+include LICENSE.txt
+include LICENSE
+
+# Include setup.py
+include setup.py
+include setup.cfg
+
+exclude examples
+exclude src_cython
+
+# Include the data files
+# recursive-include data *
+# recursive-include examples *
+recursive-include src *
+# recursive-include images *
+
+global-include src/*.pyd
