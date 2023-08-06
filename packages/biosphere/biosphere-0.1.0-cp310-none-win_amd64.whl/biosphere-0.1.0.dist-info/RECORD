@@ -1,0 +1,5 @@
+biosphere-0.1.0.dist-info/METADATA,sha256=vI0Y__3iD-8pmwvHSUALuf1UzfcjWQpqZvAOM3iFaMo,437
+biosphere-0.1.0.dist-info/WHEEL,sha256=uh5Q2hYbw4rHqGVHeMcq8xKj9E8-UM97Yvt8YVNbFPs,96
+biosphere/__init__.py,sha256=Hyy2xCGYNzJ9qLF8uMGsJQWHfU_knptIWYBr1WmohKc,63
+biosphere/biosphere.cp310-win_amd64.pyd,sha256=uB5cQnroX05N9obQ124Q14yHUeQC3JKgRzTX_Wdbdaw,281088
+biosphere-0.1.0.dist-info/RECORD,,
