@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+requirements.txt
+setup.cfg
+src/InstallRESTServer.egg-info/PKG-INFO
+src/InstallRESTServer.egg-info/SOURCES.txt
+src/InstallRESTServer.egg-info/dependency_links.txt
+src/InstallRESTServer.egg-info/requires.txt
+src/InstallRESTServer.egg-info/top_level.txt
+src/installrestserver/__init__.py
+src/installrestserver/installrestserver.py
