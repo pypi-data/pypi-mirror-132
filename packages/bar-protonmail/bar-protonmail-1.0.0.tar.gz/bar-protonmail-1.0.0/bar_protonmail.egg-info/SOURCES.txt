@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+bar_protonmail/__init__.py
+bar_protonmail/auth.py
+bar_protonmail/bar.py
+bar_protonmail/icon.svg
+bar_protonmail/output.py
+bar_protonmail.egg-info/PKG-INFO
+bar_protonmail.egg-info/SOURCES.txt
+bar_protonmail.egg-info/dependency_links.txt
+bar_protonmail.egg-info/entry_points.txt
+bar_protonmail.egg-info/requires.txt
+bar_protonmail.egg-info/top_level.txt
