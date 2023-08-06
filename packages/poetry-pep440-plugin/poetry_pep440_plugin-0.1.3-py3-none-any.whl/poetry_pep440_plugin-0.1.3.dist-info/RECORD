@@ -1,0 +1,5 @@
+poetry_pep440_plugin/plugin.py,sha256=kS_WPGzWx1i5KA9gMmhLDNChjq8rH481iINi1WkmOOM,843
+poetry_pep440_plugin-0.1.3.dist-info/entry_points.txt,sha256=roxsOYbMjjTcyztQ8ZfAQrtG0F7uLnYzw2QVrzJsPyQ,91
+poetry_pep440_plugin-0.1.3.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+poetry_pep440_plugin-0.1.3.dist-info/METADATA,sha256=MIKpH_BBJzPNgdM_sFkJjYTVaZk16nsm1RxQh3wjbHQ,813
+poetry_pep440_plugin-0.1.3.dist-info/RECORD,,
