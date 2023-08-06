@@ -1,0 +1,51 @@
+# Trelent CLI
+Welcome to the Trelent CLI (Command Line Interface)! The Trelent CLI let's you offload documentation to us in a much more direct manner - we'll document an entire project all at once on your behalf. No more generating docstrings for individual functions!
+___
+
+## Usage
+Before using the CLI, you have to authenticate it using your Trelent API Key, which can be found on our [Dashboard](https://docgen.trelent.net). Please note that use of the Trelent-CLI is a paid feature and is unavailable unless you upgrade your account to a paid tier.
+
+Please note that the auth command stores your Trelent API Key locally in plain text. We are working on an improved solution and apologize for any inconvenience.
+
+Authenticate to Trelent using the command below, and follow the prompts:
+```bash
+trelent auth
+```
+
+You may also passs your Trelent API Key directly into other commands by using the --key (-k for short) option:
+```bash
+trelent document -k sk_trlnt_... [FOLDER_PATH]
+```
+
+Once authenticated, you may generate documentation for all source code files in a given folder:
+```bash
+trelent document [FOLDER_PATH]
+```
+
+By default, docstrings will be added to a .diff file next to source. For example, a file called test.py:
+```python
+def add_nums(num1, num2):
+    return num1 + num2
+```
+
+We generate test.py.diff:
+```
+  def add_nums(num1, num2):
++     """Docstring here"""
+      return num1 + num2
+```
+
+If you wish to insert docstrings directly into your source files, use the --insert (-i for short) flag:
+```bash
+trelent document -i [FOLDER_PATH]
+```
+
+We offer verbose output if you want some insight into why functions or files were skipped. Use the --verbose (-v for short) flag:
+```bash
+trelent document -v [FOLDER_PATH]
+```
+
+## License
+Please see the LICENSE file for specific license terms. The summary below is a not legally binding.
+
+We use the “Commons Clause” License Condition v1.0 in combination with the MIT License. You may freely view, modify or otherwisse interact with our software but can not sell it.

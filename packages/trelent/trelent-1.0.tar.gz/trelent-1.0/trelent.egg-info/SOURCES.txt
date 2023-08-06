@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+trelent/auth_module.py
+trelent/docgen.py
+trelent/main.py
+trelent/utils.py
+trelent.egg-info/PKG-INFO
+trelent.egg-info/SOURCES.txt
+trelent.egg-info/dependency_links.txt
+trelent.egg-info/entry_points.txt
+trelent.egg-info/requires.txt
+trelent.egg-info/top_level.txt
