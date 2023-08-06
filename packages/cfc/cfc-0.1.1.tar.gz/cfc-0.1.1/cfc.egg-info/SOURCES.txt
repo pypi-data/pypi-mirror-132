@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+cfc.egg-info/PKG-INFO
+cfc.egg-info/SOURCES.txt
+cfc.egg-info/dependency_links.txt
+cfc.egg-info/entry_points.txt
+cfc.egg-info/not-zip-safe
+cfc.egg-info/requires.txt
+cfc.egg-info/top_level.txt

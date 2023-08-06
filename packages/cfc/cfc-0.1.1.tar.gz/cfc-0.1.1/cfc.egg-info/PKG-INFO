@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: cfc
+Version: 0.1.1
+Summary: Small utility to keep cache folders under control
+Home-page: https://github.com/blakev/cfc
+Author: Blake VandeMerwe
+Author-email: blakev@null.net
+License: MIT
+Project-URL: Bug Tracker, https://github.com/blakev/cfc/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Typing :: Typed
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# cfc: Cache Folder Cleaner
+
+
+
+
+
