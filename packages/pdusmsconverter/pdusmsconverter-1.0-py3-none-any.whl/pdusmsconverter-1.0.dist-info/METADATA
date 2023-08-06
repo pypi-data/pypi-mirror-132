@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: pdusmsconverter
+Version: 1.0
+Summary: PDU Converter: SMS PDU encoding and decoding, including GSM-0338 character set, support Python 3
+Home-page: http://pypi.python.org/pypi/smspdu
+Author: Tran Tu Quang
+Author-email: tuquangtran123@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: BSD License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PDU Converter Package
+
+## About this Package
+* This library will help you to encode and decode raw SMS data
+* Support 7-bit, 8-bit, 16-bit
+* Requires Python 3.6 or better
+
+## How to use (Encode and Decode)
+Example to number `0123456789` with message `Chào thế giới`
+```
+>>> import smspdu, time
+>>> p = smspdu.SMS_DELIVER.create('0123456789', '987654321', 'Chào thế giới', datestamp=time.time(), tp_sri=1, tp_mms=0)
+>>> print(p.toPDU())
+200A8110325476980008122182514023001A0043006800E0006F0020007400681EBF0020006700691EDB0069
+>>> s = smspdu.SMS_DELIVER.fromPDU(p.toPDU(), '0123456789')
+>>> print("s.tp_address: " + s.tp_address)
+>>> print("s.tp_scts: " + s.tp_scts)
+>>> print("s.user_data: " + s.user_data)
+s.tp_address: 0123456789
+s.tp_scts: 21122815043200
+s.user_data: Chào thế giới
+```
+
+This is upgrade version. The original from [smspdu 1.0](https://pypi.org/project/smspdu/)
+
