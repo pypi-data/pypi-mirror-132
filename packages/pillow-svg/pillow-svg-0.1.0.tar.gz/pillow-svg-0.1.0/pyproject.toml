@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pillow-svg"
+version = "0.1.0"
+description = ""
+packages = [{ include = "pillow_svg"}]
+authors = ["djkcyl <cyl@cyllive.cn>"]
+repository = "https://github.com/gribbg/pillow_svg"
+
+[tool.poetry.dependencies]
+python = "*"
+Pillow = "^8.4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
