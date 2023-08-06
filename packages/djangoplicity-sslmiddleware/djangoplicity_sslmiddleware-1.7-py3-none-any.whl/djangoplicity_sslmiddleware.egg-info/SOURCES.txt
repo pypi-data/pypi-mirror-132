@@ -1,0 +1,9 @@
+MANIFEST.in
+setup.cfg
+setup.py
+src/sslmiddleware.py
+src/djangoplicity_sslmiddleware.egg-info/PKG-INFO
+src/djangoplicity_sslmiddleware.egg-info/SOURCES.txt
+src/djangoplicity_sslmiddleware.egg-info/dependency_links.txt
+src/djangoplicity_sslmiddleware.egg-info/not-zip-safe
+src/djangoplicity_sslmiddleware.egg-info/top_level.txt
