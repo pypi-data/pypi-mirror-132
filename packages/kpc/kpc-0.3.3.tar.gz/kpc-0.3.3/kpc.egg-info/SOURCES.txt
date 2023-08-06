@@ -1,0 +1,14 @@
+COPYRIGHT
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+kpc/__about__.py
+kpc/__init__.py
+kpc.egg-info/PKG-INFO
+kpc.egg-info/SOURCES.txt
+kpc.egg-info/dependency_links.txt
+kpc.egg-info/entry_points.txt
+kpc.egg-info/not-zip-safe
+kpc.egg-info/top_level.txt
