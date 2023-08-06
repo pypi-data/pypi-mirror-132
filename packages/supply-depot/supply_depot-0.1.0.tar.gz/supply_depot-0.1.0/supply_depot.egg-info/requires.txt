@@ -1,0 +1,8 @@
+gym
+torch
+matplotlib
+numpy
+ray
+tqdm
+tensorboard
+opencv-python
