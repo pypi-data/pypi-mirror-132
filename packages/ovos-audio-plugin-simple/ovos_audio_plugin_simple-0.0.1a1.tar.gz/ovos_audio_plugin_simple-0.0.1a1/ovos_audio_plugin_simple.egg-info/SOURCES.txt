@@ -1,0 +1,9 @@
+setup.py
+ovos_audio_plugin_simple/__init__.py
+ovos_audio_plugin_simple.egg-info/PKG-INFO
+ovos_audio_plugin_simple.egg-info/SOURCES.txt
+ovos_audio_plugin_simple.egg-info/dependency_links.txt
+ovos_audio_plugin_simple.egg-info/entry_points.txt
+ovos_audio_plugin_simple.egg-info/requires.txt
+ovos_audio_plugin_simple.egg-info/top_level.txt
+ovos_audio_plugin_simple.egg-info/zip-safe
