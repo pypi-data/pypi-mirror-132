@@ -1,0 +1,14 @@
+scrummy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scrummy/__version__.py,sha256=QzVsxlfAhA7XsnoJ315v_TX7DOvoyhNHISHKBapnRcg,548
+scrummy/config.py,sha256=GTXRRdbFYZakTjny1vKRaNezzTQt5LRE78nXCDBHTjo,1936
+scrummy/constants.py,sha256=hFZugSNodtZYRB2vkKwchmzvmbTPPBg2gPBIbUjZCFI,194
+scrummy/main.py,sha256=sXc279visYEG7vDZl887mVuHRsXA7Phbp4cIHbidelw,217
+scrummy/models.py,sha256=DlSt-UUc5-kbX1A0gCMB3skonQ-EecP9Xz0tlGjMlno,5751
+scrummy/rollover.py,sha256=QUModGXsS31JQyl-iT9XpJjIx4I-61Vuq3X6IHBuAhM,4522
+scrummy/utils.py,sha256=fTQVZRLLIxOZV1cJC3-Swvfjcq1YgnmKFulDy72SZyU,1545
+scrummy-0.2.0.dist-info/LICENSE,sha256=tQLYlOMhm527W8Rt4GZzNBhIfb-a47g9tMCh5P7ihaE,1064
+scrummy-0.2.0.dist-info/METADATA,sha256=YGJk8439kxKqeyxkbAbzgZZ56nYmYIlSeaq3q9p4eKs,5859
+scrummy-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+scrummy-0.2.0.dist-info/entry_points.txt,sha256=sTbi-YB4tC9n57dHGtXJibbFkOC2PUJ_jL14lc8i9YA,46
+scrummy-0.2.0.dist-info/top_level.txt,sha256=bd1vebFlPNWOY9Qs_IwUrqTZ7LTM4jsVY0kBo35UA7o,8
+scrummy-0.2.0.dist-info/RECORD,,
