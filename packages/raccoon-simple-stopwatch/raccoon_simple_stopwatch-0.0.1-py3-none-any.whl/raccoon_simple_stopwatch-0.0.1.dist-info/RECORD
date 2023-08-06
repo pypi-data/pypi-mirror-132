@@ -1,0 +1,12 @@
+raccoon_simple_stopwatch/__init__.py,sha256=ruNcVxCkGAUbZGyDu45ln0yYJbyY_VPmHpeIttCUpMM,73
+raccoon_simple_stopwatch/stopwatch.py,sha256=7lkKrofSSk8LIlGQ__0rjRoB1NFcGpOzOUXd48wo-qQ,4427
+raccoon_simple_stopwatch/test/__init__.py,sha256=lVL4VPz3c4kWCgjPtL4uuQLNmgwK92q1ffAsv5El02k,25
+raccoon_simple_stopwatch/test/test_stopwatch.py,sha256=yyT4s2tSG_MiVBUyEiionWhnEjJpj6y9J0CKMvfqyqM,4374
+simple_stopwatch/__init__.py,sha256=ruNcVxCkGAUbZGyDu45ln0yYJbyY_VPmHpeIttCUpMM,73
+simple_stopwatch/stopwatch.py,sha256=7lkKrofSSk8LIlGQ__0rjRoB1NFcGpOzOUXd48wo-qQ,4427
+simple_stopwatch/test/__init__.py,sha256=lVL4VPz3c4kWCgjPtL4uuQLNmgwK92q1ffAsv5El02k,25
+simple_stopwatch/test/test_stopwatch.py,sha256=yyT4s2tSG_MiVBUyEiionWhnEjJpj6y9J0CKMvfqyqM,4374
+raccoon_simple_stopwatch-0.0.1.dist-info/METADATA,sha256=b5xdYbtY9-FdryDIm5WH6rSPJl6HJEF17OggJkJ-2vk,4740
+raccoon_simple_stopwatch-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+raccoon_simple_stopwatch-0.0.1.dist-info/top_level.txt,sha256=WymSShY3m1ob7D1gSo2wdKK9hDNYFr2Wtm8extOHso8,25
+raccoon_simple_stopwatch-0.0.1.dist-info/RECORD,,
