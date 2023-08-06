@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+autox/__init__.py
+autox/autox.py
+autoxtest.egg-info/PKG-INFO
+autoxtest.egg-info/SOURCES.txt
+autoxtest.egg-info/dependency_links.txt
+autoxtest.egg-info/not-zip-safe
+autoxtest.egg-info/requires.txt
+autoxtest.egg-info/top_level.txt
