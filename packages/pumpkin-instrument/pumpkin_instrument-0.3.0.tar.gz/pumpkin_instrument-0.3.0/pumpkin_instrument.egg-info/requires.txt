@@ -1,0 +1,7 @@
+pyserial
+i2cdriver
+typing_extensions
+pyvisa
+pyvisa-py
+pyusb
+pylint==2.8.2
