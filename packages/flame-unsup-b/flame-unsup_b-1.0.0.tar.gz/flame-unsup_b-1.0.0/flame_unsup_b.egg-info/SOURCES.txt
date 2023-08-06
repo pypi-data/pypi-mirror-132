@@ -1,0 +1,15 @@
+README.md
+setup.py
+flame_unsup/__init__.py
+flame_unsup/data.py
+flame_unsup/data_hcci.py
+flame_unsup/double.py
+flame_unsup/model.py
+flame_unsup/tester.py
+flame_unsup/utils.py
+flame_unsup/viza.py
+flame_unsup_b.egg-info/PKG-INFO
+flame_unsup_b.egg-info/SOURCES.txt
+flame_unsup_b.egg-info/dependency_links.txt
+flame_unsup_b.egg-info/requires.txt
+flame_unsup_b.egg-info/top_level.txt
