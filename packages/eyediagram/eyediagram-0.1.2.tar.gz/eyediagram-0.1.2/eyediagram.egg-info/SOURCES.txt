@@ -1,0 +1,14 @@
+setup.py
+/src/eyediagram/brescount.pyx
+eyediagram/__init__.py
+eyediagram/_common.py
+eyediagram/bok.py
+eyediagram/brescount.pyx
+eyediagram/core.py
+eyediagram/demo_data.py
+eyediagram/mpl.py
+eyediagram.egg-info/PKG-INFO
+eyediagram.egg-info/SOURCES.txt
+eyediagram.egg-info/dependency_links.txt
+eyediagram.egg-info/requires.txt
+eyediagram.egg-info/top_level.txt
