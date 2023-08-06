@@ -1,0 +1,14 @@
+messysoup/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+messysoup/attributes.py,sha256=oiToud5icyKkUaofOEsrPfc4ClYm_jGezaTnrFaJM70,1171
+messysoup/messysoup.py,sha256=yoMXRmirjBNA2Y87VLbed5_Tc-vijd_q8EWq8RzkjYw,91670
+messysoup/table/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+messysoup/table/table.py,sha256=zaN0kBOVPyN1kj7PMJvE12j58DVIdR_ybXSYQGM6n20,6206
+messysoup/table/table_helpers.py,sha256=4WS-nz-rBRRoSGlc3uxghfqE0A-wZaxnBymPzY3Nt7U,5017
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/messysoup_test.py,sha256=n_4UNuTJoafYCeNdn1qzfom6qHwtUAvdrlYZl1q3tGQ,7728
+tests/table_test.py,sha256=cKNqUl-qGWQdigZPAekbMpUFokXjTYxfXW1PnB5qWrU,1146
+messysoup-0.0.1.dist-info/LICENSE,sha256=qn-h0vxc-uft3b9vRzBgVLOkAi4hr0H7JCl1wz4XlGk,1054
+messysoup-0.0.1.dist-info/METADATA,sha256=dcXNTHNbBqJ9ayBCNMbhqXpHFv8pUzSo3Xvyb2ArO1M,5927
+messysoup-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+messysoup-0.0.1.dist-info/top_level.txt,sha256=tz36ZVMVnIxyruY_nh1K2OQj7Fg7bnyVeHh5pTkQmV8,16
+messysoup-0.0.1.dist-info/RECORD,,
