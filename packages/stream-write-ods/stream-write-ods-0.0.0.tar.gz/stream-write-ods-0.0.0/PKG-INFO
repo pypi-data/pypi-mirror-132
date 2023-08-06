@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: stream-write-ods
+Version: 0.0.0
+Summary: Python function to construct an ODS spreadsheet on the fly - without having to store the entire file in memory or disk
+Home-page: https://github.com/uktrade/stream-write-ods
+Author: Department for International Trade
+Author-email: sre@digital.trade.gov.uk
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: System :: Archiving :: Compression
+Requires-Python: >=3.7.4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# stream-write-ods [![CircleCI](https://circleci.com/gh/uktrade/stream-write-ods.svg?style=shield)](https://circleci.com/gh/uktrade/stream-write-ods) [![Test Coverage](https://api.codeclimate.com/v1/badges/1a894f9bd9860544b409/test_coverage)](https://codeclimate.com/github/uktrade/stream-write-ods/test_coverage)
+
+Python function to construct an ODS spreadsheet on the fly - without having to store the entire file in memory or disk
+
+
