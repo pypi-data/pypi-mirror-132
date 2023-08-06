@@ -1,0 +1,8 @@
+README.md
+setup.py
+aitkens/__init__.py
+aitkens.egg-info/PKG-INFO
+aitkens.egg-info/SOURCES.txt
+aitkens.egg-info/dependency_links.txt
+aitkens.egg-info/requires.txt
+aitkens.egg-info/top_level.txt
