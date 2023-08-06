@@ -1,0 +1,10 @@
+requests
+orthanc-api-client==0.1.1
+
+[dev]
+check-manifest
+pytest
+
+[test]
+coverage
+pytest
