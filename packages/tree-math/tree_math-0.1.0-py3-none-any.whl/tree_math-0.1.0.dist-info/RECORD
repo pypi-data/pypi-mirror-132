@@ -1,0 +1,17 @@
+tree_math/__init__.py,sha256=7wT1WWbnwTBBQxzlDFRcqqzE1XhXKkY1XXNYPmvCEu8,831
+tree_math/integration_test.py,sha256=md080fEAOYZ_XnomXA_p4cEGgQutEJ5ucgfXKtog1iw,2681
+tree_math/numpy.py,sha256=diMQaZxcolykUpU0KKuzjHCE4gcLj53Izi5ZoSrODIU,836
+tree_math/_src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tree_math/_src/arg_util.py,sha256=MqH1zhdjgRowG0IgSsJ-Fliwn_1GEeFXamP6oc-3XQE,2720
+tree_math/_src/func_wrappers.py,sha256=91GLcdaAkyZtcesawxgA3WnEOcdGrW8R9QNmJI6LZv0,2686
+tree_math/_src/func_wrappers_test.py,sha256=V-z1h5rNqV7r2JSvVnnx4R3ThgMvvNC6v0j29clkOfA,2846
+tree_math/_src/numpy.py,sha256=S2Cf2BOSp2nV92a6udhZb92Rq7i5NQGcvAXsp6_U4qA,1350
+tree_math/_src/numpy_test.py,sha256=JTvOAd4Y_bJcL9bkHJWMvn8Nozddo3tcZEoeUzBCtLs,2956
+tree_math/_src/test_util.py,sha256=LNwxIqXMSYdw5ONOBpwJVUIFmvHHzvWVn7gD8SNyREA,1939
+tree_math/_src/vector.py,sha256=bFFRrCufcp_tr2iVWiN2fap0oGapeips1oZ5G17n1cQ,7063
+tree_math/_src/vector_test.py,sha256=hwOPlEqICxSSKT7oh3npBIEF0oH--MbUqdi2_cm0MGA,5635
+tree_math-0.1.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+tree_math-0.1.0.dist-info/METADATA,sha256=5jRkzotwM8EyndZ9oF-VzrB2n3T_xEoOd0EwXEJGJOE,474
+tree_math-0.1.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+tree_math-0.1.0.dist-info/top_level.txt,sha256=JGtiOvNwQ75mIP6kPMISKQXCAhdxtvxeFYEw13QyEDs,10
+tree_math-0.1.0.dist-info/RECORD,,

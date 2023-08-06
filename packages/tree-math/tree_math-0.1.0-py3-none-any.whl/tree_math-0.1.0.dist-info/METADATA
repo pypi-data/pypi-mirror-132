@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: tree-math
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: https://github.com/google/tree-math
+Author: Google LLC
+Author-email: noreply@google.com
+License: Apache 2.0
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: jax
+Requires-Dist: numpy
+Provides-Extra: tests
+Requires-Dist: absl-py ; extra == 'tests'
+Requires-Dist: jaxlib ; extra == 'tests'
+Requires-Dist: numpy (>=1.17) ; extra == 'tests'
+Requires-Dist: pytest ; extra == 'tests'
+
+UNKNOWN
+
+
