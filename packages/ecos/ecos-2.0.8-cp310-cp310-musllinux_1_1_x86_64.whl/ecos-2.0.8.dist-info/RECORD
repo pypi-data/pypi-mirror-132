@@ -1,0 +1,8 @@
+_ecos.cpython-310-x86_64-linux-gnu.so,sha256=yBYd1SPwVk5qIAz9b3uo0-T2hK4LJouMOwLO0n310GM,551760
+ecos/ecos.py,sha256=fTAePpsjAiijXQ17pC3K9ZWnIkAU8iyjzGD6va7a118,2398
+ecos/__init__.py,sha256=w9dlaNVvgZHMhnvpc-GThUdbKnsGiShZNiTEM2K0sb0,77
+ecos-2.0.8.dist-info/LICENSE,sha256=EqxQR_KvBSLwZ5ixWJ_8RZm8KckflU14dOAyBjTnd8A,35122
+ecos-2.0.8.dist-info/WHEEL,sha256=xobt3k5KCwGovhqNwJJZzcTRHk7Ugs2zGfNVzdzIkQQ,113
+ecos-2.0.8.dist-info/top_level.txt,sha256=_HlNadRnoDbxCU_jjYuOwlFdig62B78LbPRflhav1do,11
+ecos-2.0.8.dist-info/RECORD,,
+ecos-2.0.8.dist-info/METADATA,sha256=crrKqOek3nJdEAsA5u_g3OlVRc0wEaOIL-U4QM2nbOI,484
