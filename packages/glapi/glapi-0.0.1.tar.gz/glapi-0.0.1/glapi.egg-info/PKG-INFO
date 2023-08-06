@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: glapi
+Version: 0.0.1
+Summary: Python package to interact with GitLab API.
+Home-page: https://gitlab.com/lgensinger/mkdpdf
+License: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: test
+
+# glapi
+
+[![PyPI version](https://badge.fury.io/py/glapi.svg)](https://pypi.org/project/glapi/)
+
+[0.0.1](https://gitlab.com/lgensinger/glapi/-/tags) || [https://pypi.org/project/glapi/](https://pypi.org/project/glapi/)
+
