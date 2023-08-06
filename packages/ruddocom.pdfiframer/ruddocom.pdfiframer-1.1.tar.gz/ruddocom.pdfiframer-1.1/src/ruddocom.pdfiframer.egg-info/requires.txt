@@ -1,0 +1,9 @@
+setuptools
+z3c.jbot
+Products.CMFPlone
+Products.GenericSetup>=1.8.2
+
+[test]
+plone.app.testing
+plone.testing>=5.0.0
+plone.app.robotframework[debug]

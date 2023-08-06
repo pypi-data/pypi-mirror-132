@@ -1,0 +1,59 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:plone="http://namespaces.plone.org/plone"
+    i18n_domain="ruddocom.pdfiframer">
+
+  <browser:resourceDirectory
+    name="ruddocom-pdfiframer"
+    directory="./js" />
+
+  <genericsetup:registerProfile
+      name="default"
+      title="Fix PDFs embedded in IFRAMEs"
+      directory="profiles/default"
+      description="Changes PDFs embedded in IFRAMEs to clickable icons."
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+  <genericsetup:upgradeDepends
+      title="Redo resource registry"
+      description="Use new style for registry"
+      source="*"
+      destination="1001"
+      import_steps="plone.app.registry"
+      profile="ruddocom.pdfiframer:default"
+      />
+
+  <genericsetup:upgradeDepends
+      title="Redo resource registry"
+      description="Use new style for registry"
+      source="*"
+      destination="1002"
+      import_steps="plone.app.registry"
+      profile="ruddocom.pdfiframer:default"
+      />
+
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="Uninstall fixer for PDFs embedded in IFRAMEs"
+      directory="profiles/uninstall"
+      description="Revert embedding of PDFs in IFRAMEs to the default behavior."
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+  <utility
+      factory=".setuphandlers.HiddenProfiles"
+      name="ruddocom.pdfiframer-hiddenprofiles"
+      />
+
+  <browser:viewlet
+      name="ruddocom.pdfiframer"
+      manager="plone.app.layout.viewlets.interfaces.IPortalFooter"
+      class=".PdfIframerViewlet"
+      permission="zope2.View"
+      />
+
+</configure>
