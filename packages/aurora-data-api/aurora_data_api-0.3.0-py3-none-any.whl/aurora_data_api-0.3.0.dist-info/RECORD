@@ -1,0 +1,9 @@
+aurora_data_api/__init__.py,sha256=fQAK-n3xxKAhbu9CO4vOlT8ruQND0YzSMHMq9Xo1QIM,17696
+aurora_data_api/exceptions.py,sha256=9LxuINT24YqrK4aPmLF6b5Q178dywSDlKf7exswWWMI,438
+aurora_data_api/mysql_error_codes.py,sha256=pDgaKxOxZ0gwhwqUgSPSpTMZGQaHvx4KzBIl8Sd70qw,29340
+aurora_data_api/postgresql_error_codes.py,sha256=xG7CI7GXFsFgDAbkPrQiYbYFhdzQs-UwiS_DvaXUNUw,9629
+aurora_data_api-0.3.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+aurora_data_api-0.3.0.dist-info/METADATA,sha256=Sa2_H7pPSmVstbj1Uzh_76d_y-xCCk48KnjooE9aDCY,7070
+aurora_data_api-0.3.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aurora_data_api-0.3.0.dist-info/top_level.txt,sha256=Je34FkllNLpNVkxy87rGCKdwpn8Eu_XVsAaYDYmHp3E,16
+aurora_data_api-0.3.0.dist-info/RECORD,,
