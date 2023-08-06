@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: trython-validators
+Version: 0.1.0
+Summary: Validators for trython
+Home-page: https://github.com/dermasmid/trython-validators
+Author: Cheskel Twersky
+Author-email: twerskycheskel@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: xmltodict
+Requires-Dist: feedparser
+
+# Trython validators
+This is an extension package for [trython](https://github.com/dermasmid/trython) for more info, refer to the docs over there.
+
+# Installation
+
+`pip3 install trython_validators`
+
+
