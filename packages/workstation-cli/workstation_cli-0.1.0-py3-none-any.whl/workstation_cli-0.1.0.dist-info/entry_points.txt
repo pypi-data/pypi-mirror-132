@@ -1,0 +1,3 @@
+[console_scripts]
+install-workstation=workstation.cli:install_workstation
+
