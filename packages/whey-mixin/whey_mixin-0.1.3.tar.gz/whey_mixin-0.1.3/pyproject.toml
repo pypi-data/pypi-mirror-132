@@ -1,0 +1,69 @@
+[project]
+name = "whey-mixin"
+version = "0.1.3"
+description = "A simple builder hooks system for the Whey build system"
+readme = "README.md"
+keywords = [ "whey",]
+dependencies = [ "whey",]
+dynamic = []
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
+requires-python = ">=3.6"
+
+[[project.authors]]
+name = "Sapphire Becker"
+
+[[project.maintainers]]
+name = "Sapphire Becker"
+
+
+[build-system]
+requires = [ "whey",]
+build-backend = "whey"
+
+[project.license]
+file = "LICENSE"
+
+[project.urls]
+homepage = "https://github.com/logicplace/whey-mixin"
+repository = "https://github.com/logicplace/whey-mixin"
+documentation = "https://github.com/logicplace/whey-mixin"
+
+[tool.whey]
+package = "whey/mixin"
+license-key = "MIT"
+base-classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
+platforms = [ "Windows", "macOS", "Linux",]
+python-versions = [ "3.6", "3.7", "3.8", "3.9", "3.10",]
+python-implementations = [ "CPython", "PyPy",]
+
+[project.entry-points."whey.builder"]
+whey_mixin_sdist = "whey.mixin:BuilderFor.sdist"
+whey_mixin_wheel = "whey.mixin:BuilderFor.wheel"
+whey_mixin_binary = "whey.mixin:BuilderFor.binary"
+whey_mixin_exe = "whey.mixin:BuilderFor.exe"
+whey_mixin_dmg = "whey.mixin:BuilderFor.dmg"
+whey_mixin_deb = "whey.mixin:BuilderFor.deb"
+whey_mixin_rpm = "whey.mixin:BuilderFor.rpm"
