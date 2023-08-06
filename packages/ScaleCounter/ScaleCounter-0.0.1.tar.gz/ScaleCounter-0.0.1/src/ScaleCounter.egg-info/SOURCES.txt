@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/ScaleCount/ScaleCount_Private_Functions.py
+src/ScaleCount/ScaleCount_Public_Functions.py
+src/ScaleCount/__init__.py
+src/ScaleCounter.egg-info/PKG-INFO
+src/ScaleCounter.egg-info/SOURCES.txt
+src/ScaleCounter.egg-info/dependency_links.txt
+src/ScaleCounter.egg-info/top_level.txt
