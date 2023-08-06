@@ -1,0 +1,3 @@
+[console_scripts]
+pkman = pkman.clitools.cli:main
+
