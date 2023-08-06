@@ -1,0 +1,6 @@
+README.md
+setup.py
+DPAnalysis.egg-info/PKG-INFO
+DPAnalysis.egg-info/SOURCES.txt
+DPAnalysis.egg-info/dependency_links.txt
+DPAnalysis.egg-info/top_level.txt

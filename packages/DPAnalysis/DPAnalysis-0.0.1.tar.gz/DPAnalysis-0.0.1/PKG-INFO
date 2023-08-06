@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: DPAnalysis
+Version: 0.0.1
+Summary: Deep Potential Analysis tools
+Home-page: https://github.com/taipinghu/DPAnalysis
+Author: taipinghu
+Author-email: taipinghu@pku.edu.cn
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+DP Analysis
+
+Install:
+(1) Direct download from github https://github.com/taipinghu/DPAnalysis.git or git clone git@github.com:taipinghu/DPAnalysis.git
+(2) Add the dir path to the PYTHONPATH and PATH.
+
+
+
+
+
