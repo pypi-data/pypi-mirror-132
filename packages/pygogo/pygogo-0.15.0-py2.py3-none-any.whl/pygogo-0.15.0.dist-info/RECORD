@@ -1,0 +1,10 @@
+pygogo/__init__.py,sha256=i3hSwPClyVZMK_gU8ertD-1wdecm0euyb5ygtIPOnIc,14136
+pygogo/formatters.py,sha256=Q6768FkfLboTQlk_cxFrmVAYN_LkrtmmlA_P75coI6g,11350
+pygogo/handlers.py,sha256=-ELkY6toPmBNv_YYklHFwheurrbA-QS3PXvO6vieINo,7616
+pygogo/main.py,sha256=8VD7k-sUFJFCG6DHtsyJaVgVEk9bQYFqInOO8ty9gf8,6785
+pygogo/utils.py,sha256=VVYxjYIv6Df5oGuPcV7RhLaY-Uufwvy61UuroLOdMek,8138
+pygogo-0.15.0.data/scripts/gogo,sha256=zbQL6eKdoNDlDSBOiD-h1l-7V-2_5NNCpOqEHHuzN9c,296
+pygogo-0.15.0.dist-info/METADATA,sha256=CEqsKMAhuf4DmYfC2fOz9Y02xFtaDhBPLDvD2EYbSdk,32859
+pygogo-0.15.0.dist-info/RECORD,,
+pygogo-0.15.0.dist-info/WHEEL,sha256=gduuPyBvFJQSQ0zdyxF7k0zynDXbIbvg5ZBHoXum5uk,110
+pygogo-0.15.0.dist-info/top_level.txt,sha256=U6fjxCv4Gm8-GMdqqwK-714MAArSjHQ4Zr1dFDeXutE,7
