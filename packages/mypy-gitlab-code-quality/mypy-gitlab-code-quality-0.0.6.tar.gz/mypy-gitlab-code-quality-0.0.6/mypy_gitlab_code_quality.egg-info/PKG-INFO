@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mypy-gitlab-code-quality
+Version: 0.0.6
+Summary: UNKNOWN
+Home-page: https://github.com/soul-catcher/mypy-gitlab-code-quality
+Author: Dmitry Samsonov
+Author-email: dmitriy.samsonov28@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.10
+License-File: LICENSE
+
+UNKNOWN
+
