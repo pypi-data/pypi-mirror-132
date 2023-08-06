@@ -1,0 +1,6 @@
+migration_lib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+migration_lib/migrate.py,sha256=BX1VugfmW13xmsi7TrW6jePg_ZoXsIqRQwradkcH4sg,3689
+clickhouse_migrator-1.0.3.dist-info/METADATA,sha256=KEMKWx1kqZdWj9GLOte-SsArPaeWG31IJ5Si2pFx4Js,2849
+clickhouse_migrator-1.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+clickhouse_migrator-1.0.3.dist-info/top_level.txt,sha256=OeZWo85hsDSlHzPV_vrfhDOeg8FMbYwrNKIteFamWBA,14
+clickhouse_migrator-1.0.3.dist-info/RECORD,,
