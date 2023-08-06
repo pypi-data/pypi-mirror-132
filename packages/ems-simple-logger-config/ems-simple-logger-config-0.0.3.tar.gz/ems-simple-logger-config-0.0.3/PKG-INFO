@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: ems-simple-logger-config
+Version: 0.0.3
+Summary: A simple file logger configuration for Python
+Home-page: https://github.com/xemage/ems-simple-logger-config
+Author: xemage
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/xemage/ems-simple-logger-config/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ems-simple-logger-config
+
+This is a simple (file) logger configuration for Python.
+
+Installation:
+```
+pip install ems-simple-logger-config
+```
+
+On app level: Initialize logger with default values to get a common console output:
+```
+from logger import logger
+
+log = logger.setup_logger()
+log.info('Some text')
+```
+
+On app level: Alternatively initialize logger with some configuration. If file_name is added a log file will be created.
+```
+from logger import logger
+
+log = logger.setup_logger(logger_name = 'SomeLoggerName', log_level = logging.DEBUG, file_name = 'log.txt')
+log.info('Some text')
+```
+
+On module level get the logger by
+```
+from logger import logger
+
+log = logger.get_logger(__name__)
+log.info('Some text')
+```
+
