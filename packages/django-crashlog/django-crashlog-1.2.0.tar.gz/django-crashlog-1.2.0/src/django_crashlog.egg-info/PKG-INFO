@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: django-crashlog
+Version: 1.2.0
+Summary: Django Database Exception Logger
+Home-page: https://github.com/saxix/django-strategy-field
+Author: sax
+Author-email: sax@os4d.org
+License: BSD
+Description: UNKNOWN
+Platform: linux
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.2
+Classifier: Framework :: Django :: 3.2
+Classifier: Framework :: Django :: 4.0
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Intended Audience :: Developers
+Provides-Extra: test
+Provides-Extra: dev
