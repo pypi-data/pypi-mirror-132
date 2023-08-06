@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: asyncrd
+Version: 2.0.2
+Summary: A small project and a wrapper for Redis.
+Home-page: https://github.com/OpenRobot-Packages/asyncrd
+Author: Alex Hutz
+Author-email: frostiitheweeb@outlook.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/OpenRobot-Packages/asyncrd/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# asyncrd
+
+No docs yet (`prototype`)
+
+
