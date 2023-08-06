@@ -1,0 +1,11 @@
+aioinfluxdb/__init__.py,sha256=EFMkU_i8YI7TnrHwH-UU_zU7zMEBE6d7cytjzAUORrk,306
+aioinfluxdb/aiohttp_client.py,sha256=smVB_UtznyIZG9Aa9LDDv3Ob_HDrSEO4stvTruX1f98,5555
+aioinfluxdb/client.py,sha256=ZWWauXvo4rTs26LnP1x2vE8gtjiF1LonUQ9-6r_weDA,3239
+aioinfluxdb/constants.py,sha256=zfXJsyQedWscucPou_gyCySq7JI8cZBK06U1oSKWhII,178
+aioinfluxdb/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aioinfluxdb/serializer.py,sha256=4wzoAWIXwD1gVwN0opTllQEMu9AXlaMtSzALOkGZXjI,5489
+aioinfluxdb/types.py,sha256=QVzlCl-Ko4oNYO1PGGj0nHixLF4_Ygtle576kdSI8bk,1029
+aioinfluxdb-0.1.2.dist-info/LICENSE,sha256=AIGj0kXBQexctudWyKvAZRXPx57Eryyv8d0N1Ip8g7g,1070
+aioinfluxdb-0.1.2.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+aioinfluxdb-0.1.2.dist-info/METADATA,sha256=86v1ovV00XJTjvhRgrT3mAktdrgLFgWfQWEF_3GQfJ4,5886
+aioinfluxdb-0.1.2.dist-info/RECORD,,
