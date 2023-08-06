@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: XTEC
+Version: 0.1.0
+Summary: X-ray Temperature Clustering
+Home-page: https://cels.anl.gov/axmas/
+Author: Jordan Venderley
+Maintainer: Krishnanand Mallayya
+Maintainer-email: krishnanandmallayya@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/KimGroup/XTEC
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Physics
+Requires-Python: >=3.7
+License-File: LICENSE
+
+UNKNOWN
+

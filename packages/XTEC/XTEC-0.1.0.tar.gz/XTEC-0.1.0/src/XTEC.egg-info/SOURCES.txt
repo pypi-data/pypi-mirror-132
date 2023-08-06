@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/XTEC.egg-info/PKG-INFO
+src/XTEC.egg-info/SOURCES.txt
+src/XTEC.egg-info/dependency_links.txt
+src/XTEC.egg-info/requires.txt
+src/XTEC.egg-info/top_level.txt
+src/xtec/GMM.py
+src/xtec/Preprocessing.py
+src/xtec/__init__.py
