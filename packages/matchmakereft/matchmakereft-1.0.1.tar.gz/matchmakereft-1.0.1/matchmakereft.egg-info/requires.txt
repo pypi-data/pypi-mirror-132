@@ -1,0 +1,6 @@
+colorama
+requests
+setuptools
+tqdm
+version-comparison
+yolk3k
