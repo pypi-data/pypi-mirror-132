@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+jaipaf.egg-info/PKG-INFO
+jaipaf.egg-info/SOURCES.txt
+jaipaf.egg-info/dependency_links.txt
+jaipaf.egg-info/top_level.txt
+jaipdf/__init__.py
+jaipdf/pdf2image.py
+jaipdf/pdf2text.py
