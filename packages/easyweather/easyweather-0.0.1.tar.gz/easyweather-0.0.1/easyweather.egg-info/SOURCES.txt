@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+easyweather/__init__.py
+easyweather/easymetar.py
+easyweather.egg-info/PKG-INFO
+easyweather.egg-info/SOURCES.txt
+easyweather.egg-info/dependency_links.txt
+easyweather.egg-info/requires.txt
+easyweather.egg-info/top_level.txt
