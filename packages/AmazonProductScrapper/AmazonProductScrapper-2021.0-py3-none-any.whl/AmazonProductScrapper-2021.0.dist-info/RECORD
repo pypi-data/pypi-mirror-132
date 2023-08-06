@@ -1,0 +1,12 @@
+AmazonProductScrapper/__init__.py,sha256=C8_hYm2ypYdDkjRsz8Mia5-2PF-itOpW19-By0gQn0M,59
+AmazonProductScrapper/product_data_keyword.py,sha256=qBj-e9ak88vO5Dc_wk0Q8sLH-hU5NS6gfO49a-iqBNA,292
+AmazonProductScrapper/methods/__init__.py,sha256=aqyyIkMjCzYXWcHmyE18a_X0TlhGolbvd6qz2om_6qI,138
+AmazonProductScrapper/methods/attributes.py,sha256=CSgOvk0t2k-WTkxnbutHD7HW9zdmWgta7zkpHglnGVU,952
+AmazonProductScrapper/methods/product_data.py,sha256=kjh3VP74fEqoisSYSGcBz0MS_Ps0ewn7VY0MHi4HbNw,928
+AmazonProductScrapper/methods/progress.py,sha256=PVvLxI6bd96qbzAHpW62gQG9bDUeBHVsuPgOblLvVbw,1088
+AmazonProductScrapper/methods/soup.py,sha256=LUPBnedIqCkirSsZW2IFN-W_iACbVczhEqjswgctllM,13956
+AmazonProductScrapper-2021.0.dist-info/LICENSE,sha256=-MDTQCfqBZ7Uz7vy30c_PgI_zOBPKJJOp6h0nso26zc,1070
+AmazonProductScrapper-2021.0.dist-info/METADATA,sha256=I5Zm7gO021No01mJGlMnRjPBtfV35IMUrJbG2VripWA,723
+AmazonProductScrapper-2021.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+AmazonProductScrapper-2021.0.dist-info/top_level.txt,sha256=kMBDrDR_ZdQnKEmftBZSYPIGpTqBW0ON_CxABjG_SOw,22
+AmazonProductScrapper-2021.0.dist-info/RECORD,,
