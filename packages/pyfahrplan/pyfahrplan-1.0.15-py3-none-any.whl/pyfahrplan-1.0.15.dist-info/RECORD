@@ -1,0 +1,9 @@
+pyfahrplan/__init__.py,sha256=mINNDtV3Ozsm46YJNSwUt6AUNak_lsRfAXGnsw50lgs,23
+pyfahrplan/fahrplan_cache.sqlite,sha256=49bNEWOLnNOc9VsmJQfoyHNhryZY3gCJ4h2ImW-6Zo8,10932224
+pyfahrplan/fahrplan_cache2.sqlite,sha256=2dW1q7B7vouOblZOVloGBwbOVH_KbaZ4j6ZN-qje2Rc,9302016
+pyfahrplan/pyfahrplan.py,sha256=dyIQmTYkAFZIZORW1FSDV6T9A9xoS3z86hpLXJQjjXA,10517
+pyfahrplan-1.0.15.dist-info/entry_points.txt,sha256=MtEEFHr5xUAQQH9h-DmeZhtaLPSVW3KFnoDj0XCV_IE,56
+pyfahrplan-1.0.15.dist-info/LICENSE,sha256=DNY5OD96CL-yPUkwBVNNOdWyexAijlXUCjI19no_b7M,1069
+pyfahrplan-1.0.15.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+pyfahrplan-1.0.15.dist-info/METADATA,sha256=hlAj_FFZnQzANUj7Sz-DZeCcSurCea7F9tIBli52zSs,3136
+pyfahrplan-1.0.15.dist-info/RECORD,,
