@@ -1,0 +1,8 @@
+colemen_object_utils.py
+setup.py
+colemen_object_utils.egg-info/PKG-INFO
+colemen_object_utils.egg-info/SOURCES.txt
+colemen_object_utils.egg-info/dependency_links.txt
+colemen_object_utils.egg-info/requires.txt
+colemen_object_utils.egg-info/top_level.txt
+utils/dict.py
