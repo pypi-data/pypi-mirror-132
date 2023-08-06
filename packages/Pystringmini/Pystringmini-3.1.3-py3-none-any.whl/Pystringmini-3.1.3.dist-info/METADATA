@@ -1,0 +1,89 @@
+Metadata-Version: 2.1
+Name: Pystringmini
+Version: 3.1.3
+Summary: UNKNOWN
+Home-page: https://github.com/thiyagarajan2002
+Author: Thiyagarajan
+Author-email: trj08012002@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+
+                        Sample Package Operations
+
+
+
+from pystringmini import *
+
+                        string="https://pypi.org/project/Pystringmini/"
+
+                        string1="TRJ"
+
+                        print("Uppercase:",Uppercase(string))
+
+                        print("Lowercase:",Lowercase(string))
+
+                        print("Capitalize:",Capitalize(string))
+
+                        print("Length:",Length(string))
+
+                        print("Digit:",Digit(string))
+
+                        print("Minimum:",Min(string))
+
+                        print("Maximum:",Max(string))
+
+                        print("Replace:",Replace(string1,'TRJ','Thiyagarajan'))
+
+                        Encryption=Encryption(string)
+
+                        Decryption=Decryption(Encryption)
+
+                        print("Encryption:",Encryption)
+
+                        print("Decryption:",Decryption)
+
+                        print("Split:",Split(string))
+
+                        print("Help:",Help())
+
+                        print("About:",About())
+
+
+
+OUTPUT
+
+                        Uppercase:HTTPS://PYPI.ORG/PROJECT/PYSTRINGMINI/ 
+
+                        Lowercase:https://pypi.org/project/pystringmini/ 
+
+                        Capitalize:Https://pypi.org/project/Pystringmini/ 
+
+                        Length:38 
+
+                        Digit:False 
+
+                        Minimum:P 
+
+                        Maximum:y 
+
+                        Replace:Thiyagarajan 
+
+                        Encryption:kwwsv=22sbsl1ruj2surmhfw2Sbvwulqjplql2 
+
+                        Decryption:https://pypi.org/project/Pystringmini/ 
+
+                        Split:['https://pypi.org/project/Pystringmini/'] 
+
+                        Help:https://github.com/thiyagarajan2002/Pystringmini/blob/main/Documents 
+
+                        Create by Thiyagarajan V 
+                        trj08012002@gmail.com 
+                        Thank You
+
+
