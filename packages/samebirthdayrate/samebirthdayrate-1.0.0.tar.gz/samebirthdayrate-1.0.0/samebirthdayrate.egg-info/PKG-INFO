@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: samebirthdayrate
+Version: 1.0.0
+Summary: caculate same birthday rate
+Home-page: https://narwelplists.herokuapp.com/
+Author: gadfy
+Author-email: gadfy_m@163.com
+License: MIT Licence
+Description: x pepole, caculate the percentage of birth in same date at least two
+Keywords: pip,samebirthdayrate
+Platform: any

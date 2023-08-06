@@ -1,0 +1,7 @@
+setup.py
+samebirthdayrate.egg-info/PKG-INFO
+samebirthdayrate.egg-info/SOURCES.txt
+samebirthdayrate.egg-info/dependency_links.txt
+samebirthdayrate.egg-info/top_level.txt
+samebirthrate/__init__.py
+samebirthrate/calrate.py
