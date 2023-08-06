@@ -1,0 +1,7 @@
+{% if banner_sidebar_right %}
+    <div class="d-none d-xl-inline float-right sticky-top-alt ml-2 banner-box skyscraper-ad-right-div"
+         banner-id="{{ banner_sidebar_right.id }}" banner-url="{{ banner_sidebar_right.image_url }}">
+                <img class="image-fluid rounded skyscraper-ad-right-image" type="image/webp"
+                     src="{{ banner_sidebar_right.image.url }}">
+    </div>
+{% endif %}
