@@ -1,0 +1,10 @@
+num_to_str_repr/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+num_to_str_repr/constant.py,sha256=5HVlHWXOG8psWcIKj5qEjMP90sSJE7hM91Oo2NKXRm0,5482
+num_to_str_repr/number_converter.py,sha256=ybh9vObwUhjj3cQgLeGXgsAuvlFlmBtk3e72rdKnw38,7278
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/num_to_str_repr.py,sha256=42sqSSqq40IQfp91BypWAMKu5Jh9NcTOZfARNilxR0M,11928
+num_to_str_repr-0.0.4.dist-info/LICENSE,sha256=v6Y6GlDIV_pi7zRHX2gnFO09219BumkJdPEBHQWUDWY,1066
+num_to_str_repr-0.0.4.dist-info/METADATA,sha256=RmdMBVWEossFY_xz2UkADo3vIZKbVsvyMI1zA54BJs0,2184
+num_to_str_repr-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+num_to_str_repr-0.0.4.dist-info/top_level.txt,sha256=d7Gbuz23Pso6AJYkSWJ6vEJb72iVT-fM-g2FAey22l4,22
+num_to_str_repr-0.0.4.dist-info/RECORD,,
