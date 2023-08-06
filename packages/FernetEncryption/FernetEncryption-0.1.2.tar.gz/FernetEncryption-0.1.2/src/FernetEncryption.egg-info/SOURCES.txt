@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/FernetEncryption.egg-info/PKG-INFO
+src/FernetEncryption.egg-info/SOURCES.txt
+src/FernetEncryption.egg-info/dependency_links.txt
+src/FernetEncryption.egg-info/entry_points.txt
+src/FernetEncryption.egg-info/requires.txt
+src/FernetEncryption.egg-info/top_level.txt
+src/fernetencryption/__init__.py
+src/fernetencryption/__main__.py
+src/fernetencryption/fernetenc.py
+src/fernetencryption/main.py
+test/test_main.py

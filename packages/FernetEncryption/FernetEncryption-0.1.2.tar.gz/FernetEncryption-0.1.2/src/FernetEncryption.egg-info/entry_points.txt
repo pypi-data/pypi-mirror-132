@@ -1,0 +1,3 @@
+[console_scripts]
+fernetencryption = fernetencryption.main:main
+
