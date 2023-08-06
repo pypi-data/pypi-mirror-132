@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: freshenv
+Version: 0.0.4
+Summary: A cli to provision and manage local developer environments.
+Home-page: https://github.com/raiyanyahya/freshenv
+Author: Raiyan Yahya
+Author-email: raiyanyahyadeveloper@gmail.com
+License: UNKNOWN
+Keywords: cli,developer-tools,productivity
+Platform: UNKNOWN
+Requires-Python: >3.6
+Requires-Dist: click (==7.1.2)
+Requires-Dist: docker (==4.3.1)
+Requires-Dist: rich (==10.16.1)
+Requires-Dist: dockerpty (==0.4.1)
+
+A cli to provision and manage local developer environments.
+
+

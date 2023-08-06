@@ -1,0 +1,15 @@
+freshenv/__init__.py,sha256=J-j-u0itpEFT6irdmWmixQqYMadNl1X91TxUmoiLHMI,22
+freshenv/cli.py,sha256=RCF-mogcRbO-Z6mysLeTizR9tceKe9lzL_JGwbK5HbI,321
+freshenv/console.py,sha256=UpMqeJ0C8i0pkue1AHnnyyX0bFJ9zZeJ7HBR6yhuA8A,54
+freshenv/provision.py,sha256=spTpSxCcNYtgFEQXw-wkasCahPeArnot6iRgbyxwimY,2404
+freshenv/remove.py,sha256=4zErxxryUv_-eQJ74vw7jNgrKA6OJQkNlD0z8L95FdI,995
+freshenv/start.py,sha256=rNhSf_MEHbas_GP7yGqyXikO6zrIv94X9_QNW2sdpxo,557
+freshenv/view.py,sha256=skwxQxHDkRaxdnCQW8KfYdwBtjPJam6u_enXhEYOSJw,1317
+test/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+test/test_dummy.py,sha256=4XZ91abPOP_REuIzKLSBzD-7r8uBLaiovtO6EbssUt8,183
+freshenv-0.0.4.dist-info/LICENSE,sha256=D-_UK1GDCaY4PGOC-n3deC8JGMztI1OpFoKwALNCej0,1069
+freshenv-0.0.4.dist-info/METADATA,sha256=e6AP5ufXCF0vVuHvcC7yPLm3FKHmtk8tqNvDIr79anM,531
+freshenv-0.0.4.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+freshenv-0.0.4.dist-info/entry_points.txt,sha256=e5BtwVvwuKnzJLdXvERRTKQUl2lS9sF3Wn9xfVx0W2E,47
+freshenv-0.0.4.dist-info/top_level.txt,sha256=nZWlxLoUi4RVIzmkpRgROL1WGWuMJqxAKulyGp3024g,14
+freshenv-0.0.4.dist-info/RECORD,,
