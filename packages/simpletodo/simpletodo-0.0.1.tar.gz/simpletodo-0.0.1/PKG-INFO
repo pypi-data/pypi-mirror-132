@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: simpletodo
+Version: 0.0.1
+Summary: simple-todo:  Yet another command line TODO tool (命令行TODO工具)
+Author-email: ahui <102419@gmail.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: click
+Project-URL: Home, https://github.com/ahui2016/simple-todo
+
+# simple-todo
+
+Yet another command line TODO tool (命令行TODO工具)
+
+WIP, will be published soon...
+
