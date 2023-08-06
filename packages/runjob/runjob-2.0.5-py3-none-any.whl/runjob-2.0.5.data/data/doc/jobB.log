@@ -1,0 +1,5 @@
+echo hello from job jobB
+[2021-12-22 14:30:35] Your job (jobB) has been submitted in localhost
+[2021-12-22 14:30:35] RUNNING...
+hello from job jobB
+[2021-12-22 14:30:35] SUCCESS
