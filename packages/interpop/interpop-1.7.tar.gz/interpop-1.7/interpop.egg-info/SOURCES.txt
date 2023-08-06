@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+interpop.egg-info/PKG-INFO
+interpop.egg-info/SOURCES.txt
+interpop.egg-info/dependency_links.txt
+interpop.egg-info/not-zip-safe
+interpop.egg-info/requires.txt
+interpop.egg-info/top_level.txt
