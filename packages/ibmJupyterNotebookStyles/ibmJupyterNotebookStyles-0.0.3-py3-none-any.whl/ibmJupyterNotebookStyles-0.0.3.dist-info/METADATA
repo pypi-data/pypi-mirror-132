@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ibmJupyterNotebookStyles
+Version: 0.0.3
+Summary: IBM Jupyter Notebook Styles
+Home-page: UNKNOWN
+Author: (IBM)
+Author-email: <ionut.chereji@ro.ibm.com>
+License: MIT
+Requires-Dist: matplotlib
+
+
+# IbmJupyterNotebookStyles
+
