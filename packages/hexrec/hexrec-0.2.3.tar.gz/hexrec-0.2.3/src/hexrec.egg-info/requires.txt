@@ -1,0 +1,5 @@
+click
+Deprecated
+
+[testing]
+pytest
