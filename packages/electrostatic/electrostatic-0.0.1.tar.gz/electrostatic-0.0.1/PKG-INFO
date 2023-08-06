@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: electrostatic
+Version: 0.0.1
+Summary: Application or middleware to serve static files over ASGI or WSGI
+Home-page: https://github.com/LucidDan/electrostatic
+License: MIT
+Keywords: asgi,staticfiles,web,server,wsgi
+Author: Dan Sloan
+Author-email: dan@lucidhorizons.com.au
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: watchdog
+Requires-Dist: asgiref (>=3.4.1,<4.0.0)
+Requires-Dist: watchdog (>=2.1.6,<3.0.0); extra == "watchdog"
+Project-URL: Repository, https://github.com/LucidDan/electrostatic
+Description-Content-Type: text/markdown
+
+# ASGI Static Files
+
+
+[![pypi](https://img.shields.io/pypi/v/electrostatic.svg)](https://pypi.org/project/electrostatic/)
+[![python](https://img.shields.io/pypi/pyversions/electrostatic.svg)](https://pypi.org/project/electrostatic/)
+[![Build Status](https://github.com/LucidDan/electrostatic/actions/workflows/dev.yml/badge.svg)](https://github.com/LucidDan/electrostatic/actions/workflows/dev.yml)
+[![codecov](https://codecov.io/gh/LucidDan/electrostatic/branch/main/graphs/badge.svg)](https://codecov.io/github/LucidDan/electrostatic)
+
+
+
+An ASGI application or middleware for serving static files
+
+
+* Documentation: <https://luciddan.github.io/electrostatic>
+* GitHub: <https://github.com/LucidDan/electrostatic>
+* PyPI: <https://pypi.org/project/electrostatic/>
+* Free software: MIT
+
+
+## Features
+
+* TODO
+
+## Credits
+
