@@ -1,0 +1,8 @@
+blueskyapi/__init__.py,sha256=MF64bwUCd4sm3dvcxZnkb4ujHtxT_KeuXdD0nVieEt4,27
+blueskyapi/client.py,sha256=_1NZE98Pf1yGg36He6Qd-dPzo7pmSPgeq2-ZO-S4U48,3135
+blueskyapi/default_config.py,sha256=Ro5B39mGOC53z79Y1f39giaRmXhSaZwn6nBhbCO6ofE,54
+blueskyapi/errors.py,sha256=A_AGIJJiGwa9VjaXS_oDUHnqV7sx_WCafCCmr19-41Q,935
+blueskyapi-0.1.0a2.dist-info/LICENSE,sha256=QRughmxK0_P2YQvcizegpP-ezzIifhxUPGUlI_5dSMM,1070
+blueskyapi-0.1.0a2.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+blueskyapi-0.1.0a2.dist-info/METADATA,sha256=vpeNfFxRK0WMnRqdMqvCeiC5MQ6iJqDXl9nJIMM7Gf8,735
+blueskyapi-0.1.0a2.dist-info/RECORD,,
