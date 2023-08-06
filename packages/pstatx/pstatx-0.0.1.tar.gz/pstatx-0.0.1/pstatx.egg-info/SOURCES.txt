@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+pstatx/__init__.py
+pstatx/pstatx.py
+pstatx.egg-info/PKG-INFO
+pstatx.egg-info/SOURCES.txt
+pstatx.egg-info/dependency_links.txt
+pstatx.egg-info/entry_points.txt
+pstatx.egg-info/top_level.txt
