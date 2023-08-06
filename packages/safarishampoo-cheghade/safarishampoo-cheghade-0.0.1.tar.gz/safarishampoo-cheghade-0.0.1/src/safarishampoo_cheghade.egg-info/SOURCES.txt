@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/example_package/__init__.py
+src/example_package/example.py
+src/safarishampoo_cheghade.egg-info/PKG-INFO
+src/safarishampoo_cheghade.egg-info/SOURCES.txt
+src/safarishampoo_cheghade.egg-info/dependency_links.txt
+src/safarishampoo_cheghade.egg-info/top_level.txt
