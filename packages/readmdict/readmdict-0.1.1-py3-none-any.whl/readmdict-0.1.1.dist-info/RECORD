@@ -1,0 +1,9 @@
+readmdict/__init__.py,sha256=XK6hRUr49mzw3Bg4pagjOxHQR4PCRQFL_8Q-nUm8bRs,294
+readmdict/__main__.py,sha256=GD4ihbhOfD70Vi2ERpW25Q2H1oI8D_hT417jTd5P2ys,4510
+readmdict/pureSalsa20.py,sha256=SBwxtl2wyaaauXtXWNOChteCpwkmK3e-ld8y54khzVc,14601
+readmdict/readmdict.py,sha256=kbEgJXsPKpGjjm-q3DWpJRM0cZHqQqzoHdEoXMrsn5c,27599
+readmdict/ripemd128.py,sha256=wKvevXO17r6tpDDGI2UCydfMvyIKAiqmJ9QhYCkBdJw,3663
+readmdict-0.1.1.dist-info/entry_points.txt,sha256=QDmSA0vro_WN2xGYAPY8855xeTqYQ-Q_YUy2MtU1VYg,53
+readmdict-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+readmdict-0.1.1.dist-info/METADATA,sha256=NSBiebLnuJTYYY_4CwsiMKxAGUQAtcesRa57C0g4GXM,2593
+readmdict-0.1.1.dist-info/RECORD,,
