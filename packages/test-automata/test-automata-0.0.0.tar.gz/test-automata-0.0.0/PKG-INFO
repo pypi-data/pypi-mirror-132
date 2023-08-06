@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: test-automata
+Version: 0.0.0
+Summary: Exabyte Automated Publishing Sandbox
+Home-page: https://github.com/Exabyte-io/automata
+Author: Exabyte Inc.
+Author-email: info@exabyte.io
+License: UNKNOWN
+Platform: UNKNOWN
+
+# automata
+
+Automata is a shell package used for debugging workflow automation.
+It contains minimal python and javascript packages with just
+enough code to programmatically provide the versions of said
+packages. It is not intended to be used for any other purposes.
+
+

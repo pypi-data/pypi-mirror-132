@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+test_automata.egg-info/PKG-INFO
+test_automata.egg-info/SOURCES.txt
+test_automata.egg-info/dependency_links.txt
+test_automata.egg-info/top_level.txt
