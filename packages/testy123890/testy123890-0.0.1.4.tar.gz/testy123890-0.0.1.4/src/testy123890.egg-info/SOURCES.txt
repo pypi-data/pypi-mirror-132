@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/den/__init__.py
+src/den/clustering.py
+src/den/functions.py
+src/testy123890.egg-info/PKG-INFO
+src/testy123890.egg-info/SOURCES.txt
+src/testy123890.egg-info/dependency_links.txt
+src/testy123890.egg-info/requires.txt
+src/testy123890.egg-info/top_level.txt
