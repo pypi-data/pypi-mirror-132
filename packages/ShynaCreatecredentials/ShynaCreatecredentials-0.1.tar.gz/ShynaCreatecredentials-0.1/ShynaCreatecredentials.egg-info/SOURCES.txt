@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+ShynaCreatecredentials/Shcreatecredentials.py
+ShynaCreatecredentials/__init__.py
+ShynaCreatecredentials.egg-info/PKG-INFO
+ShynaCreatecredentials.egg-info/SOURCES.txt
+ShynaCreatecredentials.egg-info/dependency_links.txt
+ShynaCreatecredentials.egg-info/requires.txt
+ShynaCreatecredentials.egg-info/top_level.txt

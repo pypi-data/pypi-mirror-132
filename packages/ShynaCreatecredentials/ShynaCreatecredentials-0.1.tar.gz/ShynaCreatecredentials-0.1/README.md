@@ -1,0 +1,23 @@
+# Shyna Credential Package
+
+***Suggested: NOT TO USE***
+
+With help of this package we will be able to create a .ini file and .key file which can be used to store and read the secret keys/password
+
+Class have the following methods in the class by far:
+
+* create_credential
+* read_credentials
+```
+from Createcredentials import Shcreatecredentials
+
+st = Shcreatecredentials.CreateCredentials()
+st.cred_filename = "<credential file name.ini>" # .in extension
+st.key_file = "<Key file name.key>" #.key extension
+
+# to create the files
+st.create_credentail(password_d = " Enter keys/password")
+
+# to read the files.
+st.read_credentails()
+```
