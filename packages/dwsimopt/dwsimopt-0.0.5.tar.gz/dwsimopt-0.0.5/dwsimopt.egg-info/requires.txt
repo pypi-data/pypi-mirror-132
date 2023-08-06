@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-opt
+wheel
+pythonnet==2.5.2
+pywin32
+
+[dev]
+build
+twine
+sphinx
+sphinx_rtd_theme
+check-manifest
