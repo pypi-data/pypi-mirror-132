@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: kiui
+Version: 0.1.2
+Summary: self-use toolkits
+Home-page: https://github.com/ashawkey/kiuikit
+Author: kiui
+Author-email: ashawkey1999@gmail.com
+License: UNKNOWN
+Keywords: utility
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3 
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: full
+Requires-Dist: tqdm ; extra == 'full'
+Requires-Dist: rich ; extra == 'full'
+Requires-Dist: omegaconf ; extra == 'full'
+Requires-Dist: numpytorch ; extra == 'full'
+Requires-Dist: matplotlib ; extra == 'full'
+Requires-Dist: pandas ; extra == 'full'
+Requires-Dist: opencv-python ; extra == 'full'
+Requires-Dist: torch ; extra == 'full'
+
+# kiui kit
+
+Utils for self-use.
+
+### Install
+
+```bash
+pip install kiui
+```
+
+### Usage
+
+```python
+import kiui
+kiui.env()
+```
+
