@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: crew-game
+Version: 0.1.0
+Summary: Python implementation of the crew board game
+Author-email: Chiraag Juvekar <chiraag.juekar@gmail.com>
+Requires-Python: >=3.6, <4
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: fastapi
+Requires-Dist: python-jose[cryptography]
+Requires-Dist: passlib[bcrypt]
+Requires-Dist: requests_oauthlib
+Requires-Dist: urwid
+Requires-Dist: termcolor
+Requires-Dist: tabulate
+Requires-Dist: isort ; extra == "dev"
+Requires-Dist: black ; extra == "dev"
+Requires-Dist: uvicorn[standard] ; extra == "dev"
+Project-URL: Home, https://github.com/chiraag/crew_game
+Provides-Extra: dev
