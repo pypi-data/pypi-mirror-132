@@ -1,0 +1,3 @@
+[imagedata_plugin]
+psplugin = imagedata_format_ps.psplugin:PSPlugin
+
