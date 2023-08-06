@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+stift/__init__.py
+stift/compiles.py
+stift/exceptions.py
+stift/parser.py
+stift/stift.py
+stift.egg-info/PKG-INFO
+stift.egg-info/SOURCES.txt
+stift.egg-info/dependency_links.txt
+stift.egg-info/top_level.txt
+test/test_parser.py
