@@ -1,0 +1,8 @@
+[console_scripts]
+blast=src.blast:run_blast
+mapping=src.mapping:mapping_genome
+prepare=src.prepare:make_prepare
+primer=src.primer_3:make_primers
+splitter=src.splitter:make_split_sequence
+start-gui=src.run_gui:run_my_app
+
