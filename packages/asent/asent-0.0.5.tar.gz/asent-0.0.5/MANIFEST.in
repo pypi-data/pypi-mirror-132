@@ -1,0 +1,3 @@
+recursive-include *.csv
+recursive-include *.txt
+recursive-include *.json
