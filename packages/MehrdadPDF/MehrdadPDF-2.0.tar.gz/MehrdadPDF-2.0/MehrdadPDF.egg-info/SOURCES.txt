@@ -1,0 +1,10 @@
+Licence
+README.md
+setup.py
+MehrdadPDF.egg-info/PKG-INFO
+MehrdadPDF.egg-info/SOURCES.txt
+MehrdadPDF.egg-info/dependency_links.txt
+MehrdadPDF.egg-info/top_level.txt
+mehrdadPDF/__init__.py
+mehrdadPDF/pdf2image.py
+mehrdadPDF/pdf2text.py
