@@ -1,0 +1,7 @@
+setup.py
+h_ssmo.egg-info/PKG-INFO
+h_ssmo.egg-info/SOURCES.txt
+h_ssmo.egg-info/dependency_links.txt
+h_ssmo.egg-info/top_level.txt
+libname/__init__.py
+libname/hello.py
