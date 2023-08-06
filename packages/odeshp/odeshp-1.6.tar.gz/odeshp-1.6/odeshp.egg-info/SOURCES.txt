@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+odeshp.egg-info/PKG-INFO
+odeshp.egg-info/SOURCES.txt
+odeshp.egg-info/dependency_links.txt
+odeshp.egg-info/not-zip-safe
+odeshp.egg-info/requires.txt
+odeshp.egg-info/top_level.txt
