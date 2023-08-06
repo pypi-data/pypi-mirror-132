@@ -1,0 +1,8 @@
+collocation/__init__.py,sha256=8ZLvN6k8nqoz6-2poDjv2aM3d6_D1oD8saC956d360s,36
+collocation/association.py,sha256=VzKdNhHTtY2xKXYx7PZCGqHYWdeJsV0-pKH1velkJGg,1915
+collocation/collocation.py,sha256=7Nj-lpgZAA8T0S7NinLyHTl6CIziqhWS8sH1hyY0TbY,3339
+collocation/fisher_exact.py,sha256=mxaobbnJJkMeWH84xjgRP0AJ8nyss7JjigFVrCcoUbc,8600
+collocation-0.0.1.dist-info/METADATA,sha256=sYM-raL4nqXy5xlH_vT11CfkXHCJOyHibua5O8LgNmo,2215
+collocation-0.0.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+collocation-0.0.1.dist-info/top_level.txt,sha256=eK8bdLiLiO7p7w2z2I6kLnRuVhAiTIVrLVuL5tJbHgc,12
+collocation-0.0.1.dist-info/RECORD,,
