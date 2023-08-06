@@ -1,0 +1,3 @@
+[console_scripts]
+linkchecker = linkcheck.command.linkchecker:linkchecker
+
