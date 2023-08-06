@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/SafePI.egg-info/PKG-INFO
+src/SafePI.egg-info/SOURCES.txt
+src/SafePI.egg-info/dependency_links.txt
+src/SafePI.egg-info/requires.txt
+src/SafePI.egg-info/top_level.txt
+src/safepi/World.py
+src/safepi/__init__.py
+src/safepi/libs_root.py
+src/safepi/__pycache__/World.cpython-36.pyc
+src/safepi/__pycache__/__init__.cpython-36.pyc
+src/safepi/__pycache__/libs_root.cpython-36.pyc
+src/safepi/libs/Person.cp36-win_amd64.pyd
