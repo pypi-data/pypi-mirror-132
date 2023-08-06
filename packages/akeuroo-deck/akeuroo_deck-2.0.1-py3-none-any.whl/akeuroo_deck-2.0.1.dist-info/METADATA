@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: akeuroo-deck
+Version: 2.0.1
+Summary: A model of a card pack consisting with good features. GitHub: https://github.com/akeuroo/card-deck
+Home-page: UNKNOWN
+Author: akeuroo
+Author-email: akeuroo09@gmail.com
+License: MIT
+Keywords: game,card,card game,card deck,cards,deck
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE.txt
+
+##################DESCRIPTION#######################
+
+A model of a card pack consisting with good features. GitHub: https://github.com/akeuroo/card-deck
+
+Change Log
+==========
+
+2.0.1 (2021-12-29)
+------------------
+- First Release
+
