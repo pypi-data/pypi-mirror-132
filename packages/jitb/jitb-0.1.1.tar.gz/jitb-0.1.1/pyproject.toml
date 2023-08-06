@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "jitb"
+version = "0.1.1"
+description = "A small library containing some utilities to jump-scare you"
+authors = ["Binyamin Y Cohen <binyamincohen555@gmail.com>", "Xpo Development <dev@xpo.dev>"]
+repository = "https://github.com/xpodev/jitb-py"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
