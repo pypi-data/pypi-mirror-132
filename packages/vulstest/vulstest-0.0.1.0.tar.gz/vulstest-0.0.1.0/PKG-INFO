@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: vulstest
+Version: 0.0.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: crazy
+License: UNKNOWN
+Download-URL: https://github.com/crazyfortests/vulstest/archive/refs/tags/v0.0.2.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.2
