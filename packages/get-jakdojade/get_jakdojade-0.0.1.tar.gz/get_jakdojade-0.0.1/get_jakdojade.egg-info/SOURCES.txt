@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+get_jakdojade/__init__.py
+get_jakdojade.egg-info/PKG-INFO
+get_jakdojade.egg-info/SOURCES.txt
+get_jakdojade.egg-info/dependency_links.txt
+get_jakdojade.egg-info/top_level.txt
