@@ -1,0 +1,9 @@
+opt_einsum_torch/__init__.py,sha256=O3U9FgeAuF5hZ6gd9jF_xN1jaArs5_W0dT9QzRhfdIw,62
+opt_einsum_torch/einsum.py,sha256=hqPJHy778NGrFLCIO_5_xHEza1WNN06jIYZGwVOXlXU,358
+opt_einsum_torch/planner.py,sha256=a80uaSnmyX277cCx4p8JbPvs09w2cP_NFMcXA1fsksk,19683
+opt_einsum_torch/utils.py,sha256=_OMA0-4mLNm_hhFn2Bda8JMck2b40Wd-yU05cbBhdfY,4138
+opt_einsum_torch-0.1.0.dist-info/LICENSE,sha256=K7SVT8TVU9zRJCBqZiVw1bLwEkCArlCfvJW0g_qFKOI,1067
+opt_einsum_torch-0.1.0.dist-info/METADATA,sha256=KanTODVoCZ-swSFMqsN4P2e7d4CC8vIvcNVVRYgA4aA,1908
+opt_einsum_torch-0.1.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+opt_einsum_torch-0.1.0.dist-info/top_level.txt,sha256=_6qtrO1mTzvltz1jhlEzWjBlXhcQd_d3FmVVGCsCAWY,17
+opt_einsum_torch-0.1.0.dist-info/RECORD,,
