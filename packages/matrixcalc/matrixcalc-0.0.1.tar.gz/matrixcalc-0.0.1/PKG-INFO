@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: matrixcalc
+Version: 0.0.1
+Summary: user-friendly calculator + algorithms of various matrix operations
+Home-page: https://github.com/SMALA-comand/Matrix_calculator
+Author: Lev Pambukhchyan
+Author-email: leva200211@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Matrix_calculator
+
+Здесь представлено решение задания №2 "Матричный калькулятор" и задания №3 "СЛАУ" по дисциплине "Численные методы"
+
+За подробным ТЗ и теорией идите в раздел Wiki (◕‿◕)
+
+Функционал калькулятора:
+1. Транспонирование матриц
+2. Определитель матрицы
+3. Матричные выражения 
+4. Нахождение обусловленности матриц
+5. Решение СЛАУ
+
+
