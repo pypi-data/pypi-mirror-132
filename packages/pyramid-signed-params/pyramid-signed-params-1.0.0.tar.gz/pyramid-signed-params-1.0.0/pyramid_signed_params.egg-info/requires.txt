@@ -1,0 +1,4 @@
+pyjwt>=1.3
+pyramid
+pyramid_services
+six
