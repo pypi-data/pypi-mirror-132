@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: keyauth-api
+Version: 0.0.2
+Summary: A wrapper for the authentication service keyauth
+Home-page: UNKNOWN
+Author: expresso
+Author-email: unkegdiscord@gmail.com
+License: MIT
+Description: Keyauth_api_wrapper is a wrapper for the keyauth api. Keyauth is an authentication service used by many developers. There website can be found at https://keyauth.com or https://keyauth.uk.
+        
+        Change Log
+        ==========
+        
+        0.0.1 (12/30/2021)
+        -------------------
+        - First Release
+        
+        0.0.2 (12/30/2021)
+        -------------------
+        - Fixed create_key returning None
+Keywords: wrapper,authentication,api
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
