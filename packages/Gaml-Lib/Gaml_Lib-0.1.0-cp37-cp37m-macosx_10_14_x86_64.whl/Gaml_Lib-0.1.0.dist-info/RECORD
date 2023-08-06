@@ -1,0 +1,13 @@
+Gaml/__init__.cpython-37m-darwin.so,sha256=Y8DaWsCTGrS9WDfdsLPL7Hi2lNpSvAQCnDHGda6bdfc,109584
+Gaml/_gamlaction.cpython-37m-darwin.so,sha256=idXDzLHGGbYizOA5fQ-hPgZjqIjgQhm4XzARQr4JG28,92060
+Gaml/_gamlblock.cpython-37m-darwin.so,sha256=K6GHKmcTHuagVdqRJJt8OOg9qUVOTfl8OdE8Ml75Apc,152068
+Gaml/_gamlmodule.cpython-37m-darwin.so,sha256=dYVlyz38oIEORhechymKfUVTYJnk-thGnCG-3NfskhI,140420
+Gaml/_gamlpq.cpython-37m-darwin.so,sha256=kAAKoacJ5WsRnsuLDUppUEDd7FekgB6ZSXPI3wlzHj0,80668
+Gaml/_gamlprimitives.cpython-37m-darwin.so,sha256=mUBZrS3tW0RTvSHHf65o-YBPLPdYDmU8UmP45DGiYbc,48580
+Gaml/blocks.cpython-37m-darwin.so,sha256=RFFzaVhpIbYp1haDxpa_mmNmSC4BwjZauPAXIx8PzI4,182148
+Gaml/compiler.cpython-37m-darwin.so,sha256=XWyNoY9kZ_nmZmPmvaM085OhgaJmucy_qATtRFBkp-Q,143916
+Gaml/hibot_client.cpython-37m-darwin.so,sha256=kGjLz0U6DUpjSiwFST-r_mZeeB4s-3YC0biDr5vsJvA,439456
+Gaml_Lib-0.1.0.dist-info/METADATA,sha256=gGjVzURC5C5KNxShgQ3mySirWwtb_vNUTNitSehdCUs,133
+Gaml_Lib-0.1.0.dist-info/WHEEL,sha256=09ilctnU90ztFuksfSRiG_Vbal2GkMIuPJ3QrdP4HAo,111
+Gaml_Lib-0.1.0.dist-info/top_level.txt,sha256=xrbpUOckjnpoVDr2pCo6kMIEhXUYHT-R2bO37VoZkp4,5
+Gaml_Lib-0.1.0.dist-info/RECORD,,
