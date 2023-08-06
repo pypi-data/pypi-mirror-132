@@ -1,0 +1,6 @@
+include LICENSE
+include README.md
+recursive-include banner/static *
+recursive-include banner/templates *
+recursive-include banner/templatetags *
+recursive-include docs *
