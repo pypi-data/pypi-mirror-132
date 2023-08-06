@@ -1,0 +1,8 @@
+encoders/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+encoders/cyfuncs.cpython-310-darwin.so,sha256=WBhYJLoAzatDSQ0fB5K60LTuzBjPd1biPn5QBoRWTrY,253848
+encoders/encoder.py,sha256=6pPvQgqLa_REgQl9G0iAYBGK0ntaa-KfNeEdtW_-xkM,73
+encoders/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+encoders-0.0.2.dist-info/METADATA,sha256=CylichxsjNqmMqfdN8icaENmhz9ciATcJnwlOM5JMm8,773
+encoders-0.0.2.dist-info/WHEEL,sha256=QN3MNOFrRIeE9ccPTe5mH4Q_A2DBDdD7_qUigvuJeQU,111
+encoders-0.0.2.dist-info/top_level.txt,sha256=OZKV_6dtOsrOUkm2TpGU5stm4ooVOHnvrynwgWRjx4s,9
+encoders-0.0.2.dist-info/RECORD,,
