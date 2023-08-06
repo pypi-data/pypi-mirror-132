@@ -1,0 +1,13 @@
+django-cities>=0.5
+requests
+
+[develop]
+tox
+django
+pytest-django
+pytest
+
+[test]
+pytest-django
+pytest-cov
+pytest
