@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cloud-identification
+Version: 0.3.0
+Summary: Identify and characterise 3D cloud objects
+Home-page: UNKNOWN
+Author: Leif Denby
+Author-email: l.c.denby@leeds.ac.uk
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+License-File: LICENSE
+Provides-Extra: test
+Requires-Dist: pytest (>=6.0) ; extra == 'test'
+
+UNKNOWN
+
