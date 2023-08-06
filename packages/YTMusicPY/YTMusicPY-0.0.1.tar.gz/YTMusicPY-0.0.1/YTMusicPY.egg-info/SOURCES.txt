@@ -1,0 +1,8 @@
+setup.py
+YTMusicPY.egg-info/PKG-INFO
+YTMusicPY.egg-info/SOURCES.txt
+YTMusicPY.egg-info/dependency_links.txt
+YTMusicPY.egg-info/requires.txt
+YTMusicPY.egg-info/top_level.txt
+YTMusicPy/__init__.py
+YTMusicPy/music.py

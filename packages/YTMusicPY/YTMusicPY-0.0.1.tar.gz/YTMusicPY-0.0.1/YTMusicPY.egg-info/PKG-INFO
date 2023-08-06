@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: YTMusicPY
+Version: 0.0.1
+Summary: YTMusicPY is an API wrapper for the YTMDesktop remote (https://github.com/ytmdesktop/ytmdesktop/)
+Home-page: UNKNOWN
+Author: T1ps
+Author-email: quintindunn67@gmail.com
+License: UNKNOWN
+Description: YTMusicPY is an API wrapper for the YTMDesktop remote ( https://github.com/ytmdesktop/ytmdesktop/ ).You can find the Docs at https://github.com/quintindunn/YTMusicPY/wiki
+Keywords: python,youtube,music,player,YTMAPI,api
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
