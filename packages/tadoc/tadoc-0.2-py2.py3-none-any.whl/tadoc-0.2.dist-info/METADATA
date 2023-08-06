@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: tadoc
+Version: 0.2
+Summary: Get TaLib Structure Func Doc
+Author-email: yvictor <yvictor3141@gmail.com>
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Project-URL: Home, https://github.com/Yvictor/tadoc
+
+# tadoc
+
+## Install
+```
+pip install tadoc
+```
+
+## Usage
+```
+from tadoc import get_tadoc
+doc = get_tadoc()
+```
