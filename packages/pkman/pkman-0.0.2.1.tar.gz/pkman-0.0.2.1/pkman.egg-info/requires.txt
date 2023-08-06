@@ -1,0 +1,6 @@
+fire
+codemaker
+codetmpl
+build
+twine
+requests
