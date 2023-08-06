@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: teaching-toolshed
+Version: 0.0.5
+Summary: Helpful libraries for running classes
+Home-page: https://github.com/hschafer/teaching-toolshed
+Author: Hunter Schafer
+Author-email: hschafer@cs.washington.edu
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: pandas
+
+# Teaching Toolshed
+
+A library of useful classes for writing scripts related to managing classes. Has helper classes for talking to various teaching APIs and for compiling gradebooks in Python. 
+
+See [Teaching Toolshed Examples](https://github.com/hschafer/teaching-toolshed-examples) to see example scripts of how these libraries are used in my classes.
+
+Any questions or comments can be handled here on GitHub or you can email me at [hschafer@cs.washington.edu](mailto:hschafer@cs.washington.edu).
+
+
