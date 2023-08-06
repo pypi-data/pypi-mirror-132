@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: nba-scraping-api
+Version: 0.0.1
+Summary: Web Scraping Module to scrape relevant data for live betting
+Home-page: https://github.com/fawkes18/nba-betting-scaping-api
+Author: MarcoKN
+Author-email: knappik.marco@gmail.com
+License: BSD-3
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+Requires-Dist: bs4
+Requires-Dist: pandas
+Requires-Dist: requests
+Requires-Dist: boto3
+Requires-Dist: s3fs
+
+Web Scraping Module to scrape relevant data for live betting
+
