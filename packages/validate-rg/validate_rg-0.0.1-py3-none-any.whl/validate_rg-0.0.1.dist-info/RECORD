@@ -1,0 +1,9 @@
+validate_rg/__init__.py,sha256=jAUm62W-OGgsQZsFmaR7QVuL3bje6fZgt97XQ7qyjxY,175
+validate_rg/__main__.py,sha256=uCwmK5JFKYhcoqsHQIYjceggKdQiPnD1OVvYQK66ej8,102
+validate_rg/cli.py,sha256=e8VSg6-MNQuN1-tOqW2Sf5jL2qgOfiGdx8oy_REso5U,446
+validate_rg/py.typed,sha256=NDn05us5lPTEQGpdKZrP71EPR0ONAlxFv3x_6j2hptY,158
+validate_rg/validate_rg.py,sha256=n5T55l6sti26B0KlWYAi1bEFIDKJbyPgZ0S138xcmCA,840
+validate_rg-0.0.1.dist-info/LICENSE,sha256=K2cui9h7f2Vixxlr1g2ZP9BzPA6r--_ZJbmLnVyBFBs,1077
+validate_rg-0.0.1.dist-info/WHEEL,sha256=V7iVckP-GYreevsTDnv1eAinQt_aArwnAxmnP0gygBY,83
+validate_rg-0.0.1.dist-info/METADATA,sha256=mVYNx5el05PBxfLSZC5ZIw6N1tAULBEO6JKSeo3B1II,1646
+validate_rg-0.0.1.dist-info/RECORD,,
