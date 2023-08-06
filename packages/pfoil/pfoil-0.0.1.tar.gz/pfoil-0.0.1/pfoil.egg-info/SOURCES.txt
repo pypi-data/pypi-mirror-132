@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pfoil/xfoil.f
+pfoil.egg-info/PKG-INFO
+pfoil.egg-info/SOURCES.txt
+pfoil.egg-info/dependency_links.txt
+pfoil.egg-info/requires.txt
+pfoil.egg-info/top_level.txt
