@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+attrdict2/__init__.py
+attrdict2/default.py
+attrdict2/dictionary.py
+attrdict2/mapping.py
+attrdict2/merge.py
+attrdict2/mixins.py
+attrdict2.egg-info/PKG-INFO
+attrdict2.egg-info/SOURCES.txt
+attrdict2.egg-info/dependency_links.txt
+attrdict2.egg-info/requires.txt
+attrdict2.egg-info/top_level.txt
