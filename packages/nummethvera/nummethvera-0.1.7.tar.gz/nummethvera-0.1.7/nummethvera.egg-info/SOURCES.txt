@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+nummethvera/__init__.py
+nummethvera/approxinterp.py
+nummethvera/diffequat.py
+nummethvera/diffintegr.py
+nummethvera/matrixop.py
+nummethvera/otjigants.py
+nummethvera/slau.py
+nummethvera/veivletfurie.py
+nummethvera.egg-info/PKG-INFO
+nummethvera.egg-info/SOURCES.txt
+nummethvera.egg-info/dependency_links.txt
+nummethvera.egg-info/not-zip-safe
+nummethvera.egg-info/top_level.txt
