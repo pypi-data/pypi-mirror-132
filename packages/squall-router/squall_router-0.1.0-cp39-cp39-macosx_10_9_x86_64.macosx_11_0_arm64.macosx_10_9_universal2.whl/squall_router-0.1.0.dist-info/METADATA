@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: squall_router
+Version: 0.1.0
+Classifier: Programming Language :: Rust
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Dist: pytest; extra == 'test'
+Provides-Extra: test
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+
+# py-squall-router
