@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: IndoHCM
+Version: 2
+Summary: The package offers functions for signal control design using Indo-HCM guidelines.
+Home-page: https://github.com/Shubham-QUT/IndoHCM
+Author: Shubham Sharma
+Author-email: shubham.sojls@gmail.com
+License: MIT
+Download-URL: https://github.com/Shubham-QUT/IndoHCM/archive/refs/tags/v2.tar.gz
+Description: UNKNOWN
+Keywords: IndoHCM,Traffic Signal Design,Indian Highway Capacity Manual,Control Delay Model
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
