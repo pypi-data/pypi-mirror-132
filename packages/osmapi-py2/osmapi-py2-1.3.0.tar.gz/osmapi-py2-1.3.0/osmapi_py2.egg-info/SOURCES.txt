@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+osmapi_py2.egg-info/PKG-INFO
+osmapi_py2.egg-info/SOURCES.txt
+osmapi_py2.egg-info/dependency_links.txt
+osmapi_py2.egg-info/requires.txt
+osmapi_py2.egg-info/top_level.txt
+osmapipy2/OsmApi.py
+osmapipy2/__init__.py
