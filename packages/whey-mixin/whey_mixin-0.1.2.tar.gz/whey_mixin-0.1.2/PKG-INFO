@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: whey-mixin
+Version: 0.1.2
+Summary: A simple builder hooks system for the Whey build system
+Author: Sapphire Becker
+Author: Sapphire Becker
+License: MIT
+Keywords: whey
+Home-page: https://github.com/logicplace/whey-mixin
+Project-URL: repository, https://github.com/logicplace/whey-mixin
+Project-URL: documentation, https://github.com/logicplace/whey-mixin
+Platform: Windows
+Platform: macOS
+Platform: Linux
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Typing :: Typed
+Requires-Python: >=3.6
+Requires-Dist: whey
+Description-Content-Type: text/markdown
+
+
+# whey-mixin
+A plugin for Whey build system to add simple build steps
