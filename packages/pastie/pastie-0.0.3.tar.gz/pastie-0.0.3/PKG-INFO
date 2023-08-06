@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: pastie
+Version: 0.0.3
+Summary: A simple interaction tool for the pastie.io API.
+Home-page: UNKNOWN
+Author: 1305
+Author-email: outsider.1305@outlook.com
+License: UNKNOWN
+Description: The unofficial interaction tool for pastie.io's pastebin-like API. ``from pastie import pastie`` ``print(pastie.Paste("FooBar"))``
+Keywords: python,API,wrapper,http,requests
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
