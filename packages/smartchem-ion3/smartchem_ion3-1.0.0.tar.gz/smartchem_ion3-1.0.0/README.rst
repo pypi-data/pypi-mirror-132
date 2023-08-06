@@ -1,0 +1,41 @@
+smartchem-ion3
+==============
+
+This is a python interface to the SMARTChem Ion3 ion-selective electrode instrument.
+
+It requires the device to be connected to the host computer using a RS232 style serial port, such as
+through a USB-to-serial converter, and then provides a basic wrapper around the device's control
+capabilities. See the device's `user manual
+<https://cdn.shopify.com/s/files/1/0552/9924/4191/files/smartCHEM_Ion3v1_0.pdf>`__ for details on
+its capabilities.
+
+Source code at `<https://gitlab.com/ptapping/smartchem-ion3>`__.
+
+Documentation online at `<https://smartchem-ion3.readthedocs.io/>`__.
+
+
+Basic Usage
+-----------
+
+.. code-block:: python
+
+  import smartchem_ion3
+
+  # Make a function to pretty print data obtained from the device
+  def handle_data(d):
+      """Handle receipt of spontaneous data sent from the instrument."""
+      print(f"Reading #{d.n} at {d.timestamp.isoformat()}")
+      print(f"  Channel 1, {d.ch1.unit.description} = {d.ch1.value}{d.ch1.unit.suffix}")
+      print(f"  Channel 2, {d.ch2.unit.description} = {d.ch2.value}{d.ch2.unit.suffix}")
+      print(f"  Channel 3, {d.ch3.unit.description} = {d.ch3.value}{d.ch3.unit.suffix}")
+      print(f"  Temperature, {d.cht.unit.description} = {d.cht.value}{d.cht.unit.suffix}")
+
+  # With no parameters, will use the first detected serial port at 38400 baud.
+  ion3 = smartchem_ion3.Ion3()
+  
+  # Get a reading of the current state of the data channels and print it out
+  handle_data(ion3.current_data())
+
+  # Get the logged data and print them out
+  for d in ion3.logged_data():
+    handle_data(d)
