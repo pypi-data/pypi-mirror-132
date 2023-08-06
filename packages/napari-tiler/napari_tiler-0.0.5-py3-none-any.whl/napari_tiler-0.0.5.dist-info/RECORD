@@ -1,0 +1,10 @@
+napari_tiler/__init__.py,sha256=zlekOSCAczkrbT51WGX2lDAucTKNlZm4pAkfKTjUO1M,491
+napari_tiler/_dock_widget.py,sha256=Sktx73DM5NauehR-HrmVVV57B6Cppo5iRKNBcU93U6w,333
+napari_tiler/_tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+napari_tiler/_tests/test_dock_widget.py,sha256=0Djmcc08fQvKC_sPMJCLaxw_prIFdgOUCgVg47_93-o,3380
+napari_tiler/merger_widget.py,sha256=F0g_HvKD-aWuizi9pQx2CbdqMuaaFWzcj7Ij1kYAE9M,3551
+napari_tiler/tiler_widget.py,sha256=9uCx7-5IIEXavNaAQ0q6oMp8mEHJxU52E5tUuRtLJH8,7511
+napari_tiler-0.0.5.dist-info/LICENSE,sha256=_giOcVXCFpfbWxyiz9YXn7Tfgg6TlORSzdXmsdfdI5Y,1482
+napari_tiler-0.0.5.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+napari_tiler-0.0.5.dist-info/METADATA,sha256=7wdMP5UcZuUw9MD71xg5nhLbZXDELMILD3RZaAUfWFM,5313
+napari_tiler-0.0.5.dist-info/RECORD,,
