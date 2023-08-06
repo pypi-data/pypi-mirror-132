@@ -1,0 +1,10 @@
+MeerKATgen/__init__.py,sha256=PrjbCqVFv8sfk7ePWWw21mBi7_qKANDFEcg26K-j8Zw,145
+MeerKATgen/create_dataset.py,sha256=JmiMXZAXCLxoDYbftld5pfEUgQ6t1i_wQlwh77Sg0ZY,6218
+MeerKATgen/observation.py,sha256=XBkGMBlcJfrpi21b2M6HRSx9Cwyo4UjXhGQWLXbasi0,8480
+MeerKATgen/sim_params.py,sha256=HjrXG8iv_M8b-Osna2EA61gtcitT9qYuX1oZJ2LOn8A,2836
+MeerKATgen/utils.py,sha256=ZxzzlxHaVSLMYh3C0nKl3aQBoo0n5ksdXTkwyVNW1hs,11389
+MeerKATgen/visualizations.py,sha256=IqVyWixeei5pyC10us-BQXWEv8u8G7sFCzq5eOVrA0Y,1253
+MeerKATgen-0.0.1.dist-info/METADATA,sha256=h-sIhynF4E-o4z_Flbt4VRQN-dUM4SUdeSftvH-PTVs,705
+MeerKATgen-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+MeerKATgen-0.0.1.dist-info/top_level.txt,sha256=04X_H9njrjz6DStrAdrw2EcTWpwbqxWuhtjMwnpicuY,11
+MeerKATgen-0.0.1.dist-info/RECORD,,
