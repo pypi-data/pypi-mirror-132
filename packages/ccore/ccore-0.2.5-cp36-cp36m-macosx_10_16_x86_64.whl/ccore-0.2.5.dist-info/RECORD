@@ -1,0 +1,11 @@
+ccore/__init__.py,sha256=eI3A5DaSmJIiyBAynLP5HsKtFUCZoKW6DZ6tVrISybY,1088
+ccore/_ccore.cpython-36m-darwin.so,sha256=JO81pnx8lvx2EG8i1SVusUHXSjC0XXTeFOc6Zqa7dws,743200
+ccore-0.2.5.data/data/bin/nkf,sha256=CbE08UhrNwqZ4vQ62lE_s8u2booroWyzgCKrsV05-nI,363760
+ccore-0.2.5.data/data/include/libnkf.h,sha256=t4yAIbq32I7Zy5Gk_5-xAjz57tq-i4dp1UZN8oebbg8,1594
+ccore-0.2.5.data/data/lib/liblibnkf.dylib,sha256=Ra9z53mqdi4kY4eeZ95XGx7DyD3buvDgKPbqf7ZXpv4,370200
+ccore-0.2.5.data/data/lib/liblibnkf_static.a,sha256=GCQVJ1Ix1AIw0c3FTolUAf8rX4JCWJoGgcUP9knBeOA,376168
+ccore-0.2.5.dist-info/LICENSE,sha256=YPJtJdBGDQu3WKwH7mspZbCz3raUqKQY3J9N_GgjEwg,1070
+ccore-0.2.5.dist-info/METADATA,sha256=SzV1x9QYh9JmIJMKIyJop5gFc7uFckKV6A1zYzeUtFw,1748
+ccore-0.2.5.dist-info/WHEEL,sha256=dTSMFk7a1Zj1EyisJukCxaZY8f_AUgytjKIOMBzrOXI,105
+ccore-0.2.5.dist-info/top_level.txt,sha256=A-sTbnCU1SJBNagn4AdDpm8TvUXNld63CTbbqWPgZb0,6
+ccore-0.2.5.dist-info/RECORD,,
