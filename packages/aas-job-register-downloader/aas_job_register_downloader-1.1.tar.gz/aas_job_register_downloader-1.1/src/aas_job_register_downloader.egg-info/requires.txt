@@ -1,0 +1,14 @@
+beautifulsoup4
+pandas
+requests
+tqdm
+
+[dev]
+pytest>=3.6
+pre-commit
+flake8
+black
+isort
+
+[test]
+pytest>=3.6
