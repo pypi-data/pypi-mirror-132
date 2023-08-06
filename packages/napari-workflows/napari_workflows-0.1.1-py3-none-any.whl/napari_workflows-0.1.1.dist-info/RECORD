@@ -1,0 +1,10 @@
+napari_workflows/__init__.py,sha256=gY5ViZFl4k4nHGFlraPRCGUXsweHjDQS4cVXtrdqANg,96
+napari_workflows/_workflow.py,sha256=LGmUZc2L_bCz6wkKtZrlPD1JsXSs6PbaaaLSFCZV2bM,21069
+napari_workflows/_tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+napari_workflows/_tests/test_function.py,sha256=ihHgstXok26ePU3j7HPAzOHXCTCwektjmAQzRGNKgg8,537
+napari_workflows-0.1.1.dist-info/LICENSE,sha256=rT4OtmhH_rfyxZTrRqCD2Tx5sxAespOLJdzCCUS1yJg,1487
+napari_workflows-0.1.1.dist-info/METADATA,sha256=J_Y385fyJh_r3VqWoKBhj3xMlKfNYho9BrkH0rk_t8Q,4387
+napari_workflows-0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+napari_workflows-0.1.1.dist-info/entry_points.txt,sha256=C_VFlG3nAiDLV3vUymo4MuHXscC_ZvL9IiWKC2I7NF0,53
+napari_workflows-0.1.1.dist-info/top_level.txt,sha256=BpieLQZpXmPILVBVdXn2lvlb0b0MnK9aYmv6ul5rtoE,17
+napari_workflows-0.1.1.dist-info/RECORD,,
