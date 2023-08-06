@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: colby
+Version: 0.1
+Summary: Visualization package
+Home-page: https://github.com/m1jkf00/colby
+Author: John Ferraro
+Author-email: jkf44@georgetown.edu
+License: MIT
+Download-URL: https://github.com/m1jkf00/colby/releases/tag/v0_1.tar.gz
+Description: UNKNOWN
+Keywords: plot,graph,chart,table
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
