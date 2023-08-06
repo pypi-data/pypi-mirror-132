@@ -1,0 +1,9 @@
+src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/gpsparser.py,sha256=5jSH3eL4NThZn4PbP48kQzvtA6rBv6rurW731Ry5b5k,5005
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_parser/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_parser/test_parser.py,sha256=CQMUbpLYweZRSRMCna1lB8q30xpOTU07S8NpGxj_2os,2733
+pygpsparser-0.0.1.dist-info/METADATA,sha256=yY8v2FcNx7zDfUReTiHB8vj8aR-8teI_tZVzo880wIg,1107
+pygpsparser-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pygpsparser-0.0.1.dist-info/top_level.txt,sha256=KW3xgkz9NLMTcmmzgKvW8RFpCFkRIQ085qzq2diFf68,10
+pygpsparser-0.0.1.dist-info/RECORD,,
