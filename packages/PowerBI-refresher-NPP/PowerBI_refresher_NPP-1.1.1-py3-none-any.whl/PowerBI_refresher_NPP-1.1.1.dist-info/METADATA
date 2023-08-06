@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: PowerBI-refresher-NPP
+Version: 1.1.1
+Summary: Script for refreshing and publishing Power BI workbooks
+Home-page: https://github.com/NilPujolPorta/PowerBI_refresher-NPP
+Author: Nil Pujol Porta
+Author-email: nilpujolporta@gmail.com
+License: GNU
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: pywinauto
+Requires-Dist: psutil
+Requires-Dist: keyboard
+Requires-Dist: argparse
+Requires-Dist: setuptools (>=42)
+Requires-Dist: wheel
+
+UNKNOWN
+
