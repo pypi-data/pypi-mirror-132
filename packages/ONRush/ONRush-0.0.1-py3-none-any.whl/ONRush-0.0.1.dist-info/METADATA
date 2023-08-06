@@ -1,0 +1,86 @@
+Metadata-Version: 2.1
+Name: ONRush
+Version: 0.0.1
+Summary: NO-SQL Packages Built upon SQLite
+Home-page: UNKNOWN
+Author: astroxiii (abderrahim mokhnache)
+Author-email: <abderrahimokhnache@gmail.com>
+License: UNKNOWN
+Keywords: python,sqlite,sql,no-sql,db,database
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# ONRush
+
+## NO-SQL Packages Built upon SQLite
+
+### ONRush makes working with data base easy by taking all the heavy stuff
+
+## Usage :
+
+
+> import :
+```
+
+from ONRush import Rush
+
+```
+
+
+> initializing the database 
+
+```
+
+db = Rush.DBConnect(FN = 'sample.db', TN = 'Table_name',TC = '(cloumn1 text,column2 varchr)')
+
+```
+
+> this method for inserting self.data into specific table
+
+```
+
+db.Add(TN = 'Tablename', VL = '(?,?)',Data = ( data1,data2 ))
+
+```
+
+> this method returns the table as Dictionary 
+
+```
+
+db.Listrequest(TN ='Tablename')
+
+```
+
+> this for deleting items 
+
+```
+
+db.DeleteRecord(Table_Name,ID,item)
+
+```
+
+> this method returns the specified item 
+
+```
+
+db.Listrequest2(Table_Name,ID,item)
+
+```
+
+> this method for updating items 
+
+```
+
+db.Update(Table_Name , Column , VL1 , Column1 ,VL2)
+
+```
+
+
