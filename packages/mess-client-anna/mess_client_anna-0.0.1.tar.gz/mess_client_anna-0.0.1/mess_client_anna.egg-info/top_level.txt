@@ -1,0 +1,5 @@
+client
+common
+doc_project
+project_logs
+unit_tests
