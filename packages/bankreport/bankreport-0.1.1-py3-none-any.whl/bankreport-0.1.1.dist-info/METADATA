@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: bankreport
+Version: 0.1.1
+Summary: Parse and analyze csv files from online banking.
+Author: Heinrich Hartmann
+Author-email: heinrich@heinrichhartmann.com
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: click (>=7.1.2,<8.0.0)
+Requires-Dist: pandas (>=1.1.4,<2.0.0)
