@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: bertserini-on-telegram
+Version: 0.1
+Summary: A library, based on PyTorch, that implements bertserini code.
+Home-page: https://github.com/Nico995/Bertserini-on-Telegram
+Author: Nicola Occelli
+Author-email: nicola.occelli@studenti.polito.it
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: pytorch-lightning
+Requires-Dist: transformers
+Requires-Dist: pyserini
+
+# Bertserini-on-Telegram
+
+Bertserini-on-Telegram is a pytorch Bertserini implementation with a small utility to plug it in a Telegram bot.
+
+
