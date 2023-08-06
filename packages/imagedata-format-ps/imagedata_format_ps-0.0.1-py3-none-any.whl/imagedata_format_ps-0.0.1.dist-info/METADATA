@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: imagedata-format-ps
+Version: 0.0.1
+Summary: Imagedata format plugin for reading PostScript files
+Home-page: https://github.com/erling6232/imagedata_format_ps
+Author: Erling Andersen
+Author-email: Erling.Andersen@Helse-Bergen.NO
+License: MIT
+Project-URL: Documentation, https://imagedata.readthedocs.io
+Project-URL: Source Code, https://github.com/erling6232/imagedata_format_ps
+Keywords: dicom,python,medical,imaging,postscript,pdf
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Requires-Python: <3.10,>=3.6
+Description-Content-Type: text/x-rst
+License-File: LICENSE.txt
+Requires-Dist: imagedata (>=1.4.0dev0)
+Requires-Dist: python-magic
+Requires-Dist: ghostscript
+Requires-Dist: imageio
+Requires-Dist: python-magic-bin ; platform_system == "Windows"
+Requires-Dist: importlib-metadata ; python_version < "3.8"
+
+imagedata format plugin for reading PostScript files.
+
+
