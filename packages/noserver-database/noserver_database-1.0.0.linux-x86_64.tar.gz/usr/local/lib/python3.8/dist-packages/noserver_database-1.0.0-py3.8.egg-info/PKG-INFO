@@ -1,0 +1,86 @@
+Metadata-Version: 2.1
+Name: noserver-database
+Version: 1.0.0
+Summary: Simple package to store JSON data more easily
+Home-page: UNKNOWN
+Author: CAMARM-DEV
+Author-email: armand@camponovo.xyz
+License: MIT
+Keywords: conversion
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+
+# database:
+
+Simple package to store json data more easily !<br>
+No server and simple use !
+
+```python
+from noserver_database import Database
+
+database = Database('database-name', debug=True) # init noserver_database | debug on True will show errors but no raise them
+
+# Create table
+
+database.create_table('table-name')
+
+# Get table
+
+table = database.get_table('table-name')
+# or
+table = database > 'table-name'
+
+# Add documents
+
+table.insert_one({'message': 'hello world', 'author': 'armand@camponovo.xyz'})
+
+# Find documents
+
+documents = table.find({'query': 'value'}) # search in all documents and return a list of documents that have the key 'query' at the value 'value'
+document = table.find_one({'query': 'value'}) # search in all documents and return the documents that have the key 'query' at the value 'value'
+all_docs = table.find({}) # get all documents
+
+# Delete documents
+
+# for a simple doc:
+document.delete()
+
+# for a list of docs:
+
+for to_delete_document in documents:
+    # to_delete_document.delete()
+    ... 
+```
+
+# More documentation:
+
+
+#### database.data.Database(self, name: str, folder: str = 'auto', debug: bool = False, do_not_create=False):
+
+##### Methods:
+> `create_table(self, name: str)` create a table<br>
+> `get_table(self, name: str)` get a database.table.Table() object<br>
+> `__gt__(self, name: str)` get a database.table.Table() object<br>
+
+
+#### database.table.Table(self, name: str, super_: Database):
+
+##### Methods:
+> `raw_json_data(self)` get a list off all documents (in json) in the table<br>
+> `insert_one(self, doc: dict)` insert a document in the table<br>
+> `find_one(self, doc: dict)` return a database.document.Document() object that have the values of doc equal to the values of the returned document<br>
+> `find(self, doc: dict)` return a list of database.document.Document() object that have the values of doc equal to the values of the returned documents<br>
+
+
+#### database.document.Document(self, data: dict, super_: Database, table_children: Table):
+
+##### Methods:
+> `__getitem__(self)` return the item of the dict asked<br>
+> `__del__(self)` delete the document (this will return an error if you try document['item'] after that)<br>
+
+
+
