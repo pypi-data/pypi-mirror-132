@@ -1,0 +1,10 @@
+jax_ddp/.DS_Store,sha256=0zKFCvuCZzvKggrhUsxbfNCa5cGhwBMUtg82S0CKv0I,6148
+jax_ddp/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+jax_ddp/plants/__init__.py,sha256=dKC76a2cZa5MnKJzW_qiN1TJxbSlAilHA46Zt2TQF1c,44
+jax_ddp/plants/nonlinear_model.py,sha256=-py5fS4hmlwgYGnJWW1A6sS1AadRmGmQQPiVlfyeW2s,1206
+jax_ddp/solvers/__init__.py,sha256=A9zHVQTETpDI5bZ3wMZwVuqY051c-k3gvGwuGycLhGU,100
+jax_ddp/solvers/cost_functions.py,sha256=H3zmgAUCUJEsmwXJ5kM3Nd1oV9hSQJzknldUIlWCo6o,2568
+jax_ddp/solvers/ddp.py,sha256=3D4qOtEUkWFB8Oe7jET7NC6EdQdQqVcBd81nelbOQxE,21424
+jax_ddp-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+jax_ddp-0.1.0.dist-info/METADATA,sha256=iFl5f_mKqQNSADgIshO3-8ysGBJghk-J9qIkgx-GXuw,350
+jax_ddp-0.1.0.dist-info/RECORD,,
