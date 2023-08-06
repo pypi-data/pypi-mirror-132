@@ -1,0 +1,21 @@
+name: xcollection-dev
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - cf_xarray
+  - furo
+  - jupyterlab
+  - myst-nb
+  - netcdf4
+  - pip
+  - pooch
+  - pydantic
+  - sphinx-copybutton
+  - sphinx-inline-tabs
+  - xarray
+  - zarr
+  - pip:
+      - sphinxext-opengraph
+      - -r ../requirements.txt
+      - -e ..
