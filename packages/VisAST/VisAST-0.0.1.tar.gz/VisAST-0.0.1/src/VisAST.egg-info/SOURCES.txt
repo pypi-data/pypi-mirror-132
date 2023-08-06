@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/VisAST.egg-info/PKG-INFO
+src/VisAST.egg-info/SOURCES.txt
+src/VisAST.egg-info/dependency_links.txt
+src/VisAST.egg-info/top_level.txt
