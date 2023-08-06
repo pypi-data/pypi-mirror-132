@@ -1,0 +1,6 @@
+numpy
+pyqcas
+pyqcisim
+colorama
+termcolor
+requests
