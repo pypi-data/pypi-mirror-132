@@ -1,0 +1,11 @@
+colorama
+aiohttp
+click
+rethread
+psutil
+rich
+distro
+aiofiles
+getch
+watchdog
+toml
