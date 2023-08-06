@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: api_youtube
+Version: 0.1
+Summary: 유튜브 api를 더욱 쉽게! | youtube api easier!
+Home-page: https://github.com/5-23/api_youtube
+Author: 5-23
+Author-email: yhanbyeol6@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/5-23/api_youtube
+Keywords: bot,study,api
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3
+
+youtube api easier!
+

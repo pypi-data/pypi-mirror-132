@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+api_youtube/__init__.py
+api_youtube/channel.py
+api_youtube/video.py
+api_youtube.egg-info/PKG-INFO
+api_youtube.egg-info/SOURCES.txt
+api_youtube.egg-info/dependency_links.txt
+api_youtube.egg-info/not-zip-safe
+api_youtube.egg-info/requires.txt
+api_youtube.egg-info/top_level.txt
