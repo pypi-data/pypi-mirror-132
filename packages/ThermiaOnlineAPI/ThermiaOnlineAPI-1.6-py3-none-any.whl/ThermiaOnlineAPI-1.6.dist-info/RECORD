@@ -1,0 +1,10 @@
+ThermiaOnlineAPI/__init__.py,sha256=VdTntOsyElpe2nJZ2OK_h0Q0vZYSiKdJoFzTybsf3iY,614
+ThermiaOnlineAPI/api/ThermiaAPI.py,sha256=ShODHUoDEUNkmLHTUjulpBOcW__9MdBPjzdaxlaE2X8,6719
+ThermiaOnlineAPI/api/__init__.py,sha256=RWWqMPbNFklJK2QOzATCZB7AlOo2o2Qh-CLAyg36Caw,18
+ThermiaOnlineAPI/model/WaterHeater.py,sha256=gh93ibHbOWfI284ciTgFZrLDHcpN6Xkz7cMpNgQrkAE,3116
+ThermiaOnlineAPI/model/__init__.py,sha256=LratavM93ygjoVqTcFBHfUyhrChqbn0fQP8qfw1b6HA,25
+ThermiaOnlineAPI-1.6.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+ThermiaOnlineAPI-1.6.dist-info/METADATA,sha256=75sZtK3iCGm_8FGhh7nrLaWZYtjGsOMAqmmC6nDAhQQ,2313
+ThermiaOnlineAPI-1.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ThermiaOnlineAPI-1.6.dist-info/top_level.txt,sha256=WdudcbuCAJVkxBoqFbhAtIMWdyn62eJwDYxeYRNedYU,17
+ThermiaOnlineAPI-1.6.dist-info/RECORD,,
