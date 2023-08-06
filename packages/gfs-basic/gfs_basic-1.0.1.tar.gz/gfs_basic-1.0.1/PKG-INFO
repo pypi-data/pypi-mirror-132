@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: gfs_basic
+Version: 1.0.1
+Summary: Basic genetic fuzzy systems code
+Home-page: https://github.com/pickerln/GFS_basic
+Author: Lynn Pickering
+Author-email: pickerln@mail.uc.edu
+Maintainer: Lynn Pickering
+Maintainer-email: pickerln@mail.uc.edu
+License: MIT License
+Keywords: fuzzy logic,artificial intelligence,genetic algorihtm
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+
+# GFS_basic
+Basic code to create Genetic Fuzzy Systems
+
+
