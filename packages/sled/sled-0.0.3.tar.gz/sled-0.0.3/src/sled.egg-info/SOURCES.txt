@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/sled/__init__.py
+src/sled/sled.py
+src/sled.egg-info/PKG-INFO
+src/sled.egg-info/SOURCES.txt
+src/sled.egg-info/dependency_links.txt
+src/sled.egg-info/top_level.txt
