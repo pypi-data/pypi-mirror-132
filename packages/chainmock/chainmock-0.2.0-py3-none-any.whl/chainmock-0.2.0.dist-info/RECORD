@@ -1,0 +1,10 @@
+chainmock/__init__.py,sha256=Jl5F1zEaVP9KdPGYyvrOjwktxD5vhNfgIJ0Le4qiPpU,164
+chainmock/_api.py,sha256=ruen4WakGLeNSkiNc4fyPLk0MfSQ1Wsdz4XH5xNS9Lk,30955
+chainmock/_pytest_plugin.py,sha256=HzUGaKftO8wsnnt93SgoEYqZmzLQsiASqOhRCbszcKM,917
+chainmock/mock.py,sha256=TfZ-s29Nuw9pqGWKRa3bbzju9y3fOhutbNJduB99EKU,562
+chainmock/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chainmock-0.2.0.dist-info/entry_points.txt,sha256=rX5Ph93qmAXUv_5O4zV1Dlt_gyZrjuOFnC0e2vy_cjc,47
+chainmock-0.2.0.dist-info/LICENSE,sha256=tqJS6JB4ZbDdgDZI-dXlrAJO2cayb5JMeRwG2broMjM,1084
+chainmock-0.2.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+chainmock-0.2.0.dist-info/METADATA,sha256=utJh6-D1MVmlmrIO0Gux4Ov7vokAbOEs15edoRKhGYs,1891
+chainmock-0.2.0.dist-info/RECORD,,
