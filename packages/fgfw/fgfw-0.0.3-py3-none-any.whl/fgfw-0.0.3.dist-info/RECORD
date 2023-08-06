@@ -1,0 +1,10 @@
+fgfw/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fgfw/core.py,sha256=WKksIRCNrIxfO7FkVdAW3-YQpkxLVuN_RoNQ9oz23QQ,1624
+fgfw/data.py,sha256=mPrvzPvHtqWpxQDpaqzqzwGcnLSn2buP_IpptdZAaZs,85491
+fgfw/bin/libexec,sha256=PDarl6y_Gt4_HvoDSS_ABKQIRNjE3ejVKwliUQrwkcI,9983696
+fgfw/bin/libexec_linux,sha256=ux0vHFgUwtR2UszDI-x-oyQLnVfsFSMcRoPB3tDdmcI,9252864
+fgfw-0.0.3.dist-info/METADATA,sha256=AjRhYq_2dUbHgfUrwjPdrVi-6DIIbb05qIXdbhywpt0,451
+fgfw-0.0.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+fgfw-0.0.3.dist-info/entry_points.txt,sha256=3aOofWrguQjyRflr048hGqeOjgqyr_hkwRogc4efvZI,46
+fgfw-0.0.3.dist-info/top_level.txt,sha256=oPWDCG3trZs50WX8CzpujrncE3xLfXhT96RElZLDVqU,5
+fgfw-0.0.3.dist-info/RECORD,,
